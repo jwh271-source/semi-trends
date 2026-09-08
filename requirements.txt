@@ -1,0 +1,5 @@
+feedparser>=6.0
+requests>=2.28
+pip_system_certs>=5.0
+deep-translator>=1.11
+python-dotenv>=1.0
