@@ -676,7 +676,7 @@ def _date_str_kst(iso: str | None) -> str:
 def main():
     result = collect()
     # New 배지: 업데이트한 날짜(fetched_at, KST)와 동일한 날짜의 기사에만 표시.
-    # 매일 7시 업데이트 시 "오늘 새로 수집된 기사"를 즉시 식별.
+    # 매일 6시 업데이트 시 "오늘 새로 수집된 기사"를 즉시 식별.
     fetch_date = datetime.now(KST).strftime("%Y-%m-%d")
     new_count = 0
     for a in result["articles"]:
