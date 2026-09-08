@@ -1,0 +1,124 @@
+{
+  "_comment": "큐레이션된 출처 목록. 한국어 출처는 그대로 사용, 영문 출처는 자동 번역. topic 필드는 분류 보조 힌트. 실제 분류는 기사 제목+요약의 키워드로 이루어짐. 한국 출처 중 광범위 피드는 require_keyword=true로 반도체/환경 관련 키워드가 있는 기사만 수집.",
+  "sources": [
+    {
+      "name": "전자신문 (전체)",
+      "url": "http://rss.etnews.com/Section901.xml",
+      "topic": "manufacturing",
+      "lang": "ko",
+      "require_keyword": true
+    },
+    {
+      "name": "전자신문 IT",
+      "url": "http://rss.etnews.com/02.xml",
+      "topic": "manufacturing",
+      "lang": "ko",
+      "require_keyword": true
+    },
+    {
+      "name": "전자신문 산업/신사업",
+      "url": "http://rss.etnews.com/17.xml",
+      "topic": "manufacturing",
+      "lang": "ko",
+      "require_keyword": true
+    },
+    {
+      "name": "IEEE Spectrum · Semiconductors",
+      "url": "https://spectrum.ieee.org/feeds/semiconductors.rss",
+      "topic": "manufacturing",
+      "lang": "en",
+      "require_keyword": false
+    },
+    {
+      "name": "IEEE Spectrum · Green Tech",
+      "url": "https://spectrum.ieee.org/feeds/green-tech.rss",
+      "topic": "environment",
+      "lang": "en",
+      "require_keyword": false
+    },
+    {
+      "name": "EE Times",
+      "url": "https://www.eetimes.com/feed/",
+      "topic": "manufacturing",
+      "lang": "en",
+      "require_keyword": false
+    },
+    {
+      "name": "Semiconductor Digest",
+      "url": "https://www.semiconductor-digest.com/feed/",
+      "topic": "manufacturing",
+      "lang": "en",
+      "require_keyword": false
+    },
+    {
+      "name": "SemiEngineering",
+      "url": "https://semiengineering.com/feed/",
+      "topic": "manufacturing",
+      "lang": "en",
+      "require_keyword": false
+    },
+    {
+      "name": "EDN",
+      "url": "https://www.edn.com/feed/",
+      "topic": "manufacturing",
+      "lang": "en",
+      "require_keyword": false
+    },
+    {
+      "name": "Air Quality News",
+      "url": "https://www.airqualitynews.com/feed/",
+      "topic": "pou_scrubber",
+      "lang": "en",
+      "require_keyword": true
+    },
+    {
+      "name": "edie (환경 비즈니스)",
+      "url": "https://www.edie.net/feed",
+      "topic": "regulation",
+      "lang": "en",
+      "require_keyword": true
+    },
+    {
+      "name": "Triple Pundit (ESG/지속가능성)",
+      "url": "https://www.triplepundit.com/feed",
+      "topic": "environment",
+      "lang": "en",
+      "require_keyword": true
+    },
+    {
+      "name": "동아일보 (사회/사고)",
+      "url": "https://rss.donga.com/national.xml",
+      "topic": "safety",
+      "lang": "ko",
+      "require_keyword": true
+    },
+    {
+      "name": "EPA Newsroom (US)",
+      "url": "https://www.epa.gov/newsroom/xml/rss.xml",
+      "topic": "regulation",
+      "lang": "en",
+      "require_keyword": true
+    },
+    {
+      "name": "EEA Newsroom (European Environment Agency)",
+      "url": "https://www.eea.europa.eu/newsroom/syndication",
+      "topic": "regulation",
+      "lang": "en",
+      "require_keyword": true
+    },
+    {
+      "name": "WaterWorld",
+      "url": "https://www.waterworld.com/feed",
+      "topic": "regulation",
+      "lang": "en",
+      "require_keyword": true
+    },
+    {
+      "name": "Water Technology",
+      "url": "https://www.water-technology.net/feed/",
+      "topic": "regulation",
+      "lang": "en",
+      "require_keyword": true
+    }
+  ]
+}
