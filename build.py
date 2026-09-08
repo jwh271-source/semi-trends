@@ -536,7 +536,7 @@ def build_page():
 <div class="wrap">
   <section class="hero">
     <h1>반도체 업계의 <span class="accent">반도체·환경·안전·규제</span> 동향을 한곳에서.</h1>
-    <p>공신력 있는 출처의 최신 기사를 매일 아침 7시에 자동 수집·분류합니다. 영문 기사는 한국어로 자동 번역됩니다. 법령 변경은 대상 법령의 개정 사항을 공공데이터포털 API로 직접 추적합니다. 각 카드의 "원문 보기"를 누르면 출처 기사로 이동합니다.</p>
+    <p>공신력 있는 출처의 최신 기사를 매일 오전 6시에 자동 수집·분류합니다. 영문 기사는 한국어로 자동 번역됩니다. 법령 변경은 대상 법령의 개정 사항을 공공데이터포털 API로 직접 추적합니다. 각 카드의 "원문 보기"를 누르면 출처 기사로 이동합니다.</p>
     <div class="stat-row">
       <div class="stat"><div class="n">{total}</div><div class="l">수집 기사</div></div>
       <div class="stat"><div class="n">{feed_ok}</div><div class="l">응답 출처</div></div>
