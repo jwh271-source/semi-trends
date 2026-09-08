@@ -2,9 +2,10 @@ name: Build & Deploy
 
 on:
   schedule:
-    # 한국시간(KST) 매일 아침 7시 = UTC 전날 22시.
+    # 한국시간(KST) 매일 아침 6시 = UTC 전날 21시.
+    # 7시에는 업데이트 완료된 사이트를 확인할 수 있도록 1시간 여유.
     # GitHub Actions cron은 약간 지연될 수 있음 (보통 5~20분).
-    - cron: "0 22 * * *"
+    - cron: "0 21 * * *"
   # 수동 실행도 가능 (처음 세팅/테스트 시 유용)
   workflow_dispatch:
 
@@ -45,12 +46,12 @@ jobs:
           fi
 
       - name: 업데이트 실행 (fetcher + legislation + build)
-        # TRANSLATE=0: 번역 끄고 먼저 빠르게 배포 테스트.
-        #   번역이 병목이면 이걸로 3분 내 끝남. 확인 후 "1"로 켜기.
+        # 번역 켜짐(TRANSLATE=1). Google → MyMemory 순서로 시도.
+        # 모든 번역 경로 7초 타임아웃 → 막혀도 빠르게 원문으로 폴백.
         env:
-          TRANSLATE: "0"
+          TRANSLATE: "1"
         run: python update.py
-        
+
       - name: 빌드 결과 커밋 (site/)
         # update.py가 만든 site/index.html (및 json) 을 레포에 반영.
         run: |
