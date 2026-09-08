@@ -1,0 +1,77 @@
+name: Build & Deploy
+
+on:
+  schedule:
+    # 한국시간(KST) 매일 아침 7시 = UTC 전날 22시.
+    # GitHub Actions cron은 약간 지연될 수 있음 (보통 5~20분).
+    - cron: "0 22 * * *"
+  # 수동 실행도 가능 (처음 세팅/테스트 시 유용)
+  workflow_dispatch:
+
+permissions:
+  contents: write   # 빌드 결과(site/index.html)를 레포에 커밋하기 위해 필요
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 패키지 설치
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 환경변수 주입 (법령 API 키)
+        # DATA_API_KEY는 GitHub Secret 에 등록한 값 사용.
+        # .env 파일은 커밋되지 않으므로 여기서 임시로 생성.
+        run: |
+          if [ -n "${{ secrets.DATA_API_KEY }}" ]; then
+            echo "DATA_API_KEY=${{ secrets.DATA_API_KEY }}" > .env
+          else
+            echo "[warn] DATA_API_KEY 시크릿 없음 — legislation.py는 스킵됨."
+          fi
+
+      - name: 업데이트 실행 (fetcher + legislation + build)
+        run: python update.py
+
+      - name: 빌드 결과 커밋 (site/)
+        # update.py가 만든 site/index.html (및 json) 을 레포에 반영.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/
+          if git diff --cached --quiet; then
+            echo "변경사항 없음 — 커밋 생략"
+          else
+            git commit -m "chore: daily update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: Pages 아티팩트 업로드
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: GitHub Pages 배포
+        id: deployment
+        uses: actions/deploy-pages@v4
