@@ -7,6 +7,7 @@ update.py — fetcher + legislation + build 한 번에 실행. 매일 7시 스�
 from __future__ import annotations
 
 import sys
+import os
 import subprocess
 from pathlib import Path
 
@@ -15,12 +16,19 @@ PYTHON = sys.executable or "python"
 
 
 def run(script: str):
-    print(f"\n=== {script} 시작 ===")
-    r = subprocess.run([PYTHON, str(ROOT / script)], cwd=str(ROOT))
+    print(f"\n=== {script} 시작 ===", flush=True)
+    # -u: 자식 파이썬의 stdout 버퍼링 해제 (Actions 로그 실시간 출력)
+    env = dict(os.environ)
+    env["PYTHONUNBUFFERED"] = "1"
+    r = subprocess.run(
+        [PYTHON, "-u", str(ROOT / script)],
+        cwd=str(ROOT),
+        env=env,
+    )
     if r.returncode != 0:
-        print(f"[update] {script} 실패 (exit {r.returncode})")
+        print(f"[update] {script} 실패 (exit {r.returncode})", flush=True)
         sys.exit(r.returncode)
-    print(f"=== {script} 완료 ===")
+    print(f"=== {script} 완료 ===", flush=True)
 
 
 def main():
