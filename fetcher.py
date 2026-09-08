@@ -23,6 +23,7 @@ fetcher.py — RSS 피드 수집 + 키워드 기반 주제 분류 + 영문 기�
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 import time
@@ -53,6 +54,12 @@ KST = timezone(timedelta(hours=9))
 TIMEOUT = 15
 USER_AGENT = "semi-trends-bot/1.0 (+local research aggregator)"
 
+# 번역 활성화 스위치 (CI 등에서 비활성화 가능). 기본 켜짐.
+# "0" 또는 "false" 환경변수면 번역 안 함 (원문 유지).
+TRANSLATE_ENABLED = os.environ.get("TRANSLATE", "1") not in ("0", "false", "False")
+# 번역 전용 타임아웃 (초). 짧게 두어 막히면 빠르게 원문으로 폴백.
+TRANSLATE_TIMEOUT = int(os.environ.get("TRANSLATE_TIMEOUT", "6"))
+
 # --- 번역 ---
 # Google 직접 엔드포인트(translate.googleapis.com) 우선, MyMemory 백업.
 # deep-translator의 기본 Google 엔드포인트는 이 환경에서 막혀 TranslationNotFound 발생.
@@ -76,7 +83,7 @@ def translate_google_direct(text: str) -> str | None:
     try:
         url = "https://translate.googleapis.com/translate_a/single"
         params = {"client": "gtx", "sl": "en", "tl": "ko", "dt": "t", "q": text}
-        r = requests.get(url, params=params, timeout=TIMEOUT)
+        r = requests.get(url, params=params, timeout=TRANSLATE_TIMEOUT)
         if r.status_code != 200:
             return None
         data = r.json()
@@ -101,6 +108,9 @@ def translate_mymemory(text: str) -> str | None:
 def translate_to_ko(text: str, max_len: int = 4800) -> str:
     """영문 텍스트를 한국어로 번역. 실패 시 원문 반환."""
     if not text or not text.strip():
+        return text
+    # 번역 비활성화 시 원문 그대로 반환 (CI/속도 튜닝용)
+    if not TRANSLATE_ENABLED:
         return text
     src = text[:max_len]
     out = translate_google_direct(src)
