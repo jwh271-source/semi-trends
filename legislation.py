@@ -229,18 +229,21 @@ def track() -> dict:
             "laws": [],
         }
     print(f"[legislation] 대상 법령 {len(TARGET_LAWS)}종 추적 시작")
-    # 이전 실행 결과 로드 (개정 변경 감지용)
-    prev_proms = load_previous_promdates()
+    # NEW 배지 기준: 오늘 날짜(KST)에 공포 또는 시행된 법령만 표시.
+    # (이전 실행 결과와 비교하는 방식은 CI 환경에서 legislation.json이
+    #  매번 새로 만들어지므로 항상 NEW가 되는 버그가 있음. 오늘 날짜 기준이
+    #  fetcher.py의 기사 NEW 배지와도 일관됨.)
+    today_kst = datetime.now(KST).strftime("%Y%m%d")
     laws = []
     new_count = 0
     for name in TARGET_LAWS:
         print(f"  - {name}")
         info = fetch_law(api_key, name)
         if info:
-            # 이전 공포일자와 비교해 개정 발생 감지
-            prev_prom = prev_proms.get(name, "")
-            cur_prom = info.get("promulgate_date", "")
-            is_new = (cur_prom != prev_prom and cur_prom != "")
+            # 오늘 공포 또는 오늘 시행된 법령만 NEW
+            prom = info.get("promulgate_date", "")
+            eff = info.get("effect_date", "")
+            is_new = (prom == today_kst) or (eff == today_kst)
             info["is_new"] = is_new
             if is_new:
                 new_count += 1
@@ -256,21 +259,6 @@ def track() -> dict:
         "new_count": new_count,
         "laws": laws,
     }
-
-
-def load_previous_promdates() -> dict:
-    """이전 legislation.json에서 법령별 공포일자 로드 (개정 감지용)."""
-    if not OUT_FILE.exists():
-        return {}
-    try:
-        prev = json.loads(OUT_FILE.read_text(encoding="utf-8"))
-        return {
-            law.get("target_name", ""): law.get("promulgate_date", "")
-            for law in prev.get("laws", [])
-            if law.get("status") == "조회 완료"
-        }
-    except Exception:
-        return {}
 
 
 def main():
