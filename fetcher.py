@@ -54,30 +54,40 @@ KST = timezone(timedelta(hours=9))
 TIMEOUT = 15
 USER_AGENT = "semi-trends-bot/1.0 (+local research aggregator)"
 
-# 번역 활성화 스위치 (CI 등에서 비활성화 가능). 기본 켜짐.
-# "0" 또는 "false" 환경변수면 번역 안 함 (원문 유지).
+# =========================================================================
+# 번역 설정
+# =========================================================================
+# 번역 켜기/끄기: 환경변수 TRANSLATE (기본 "1" = 켜짐).
+#   "0" 이면 번역 안 하고 영문 원문 그대로 표시 (빠른 배포용).
+# 타임아웃: 환경변수 TRANSLATE_TIMEOUT (기본 7초).
+#   → GitHub Actions 서버에서 Google 비공개 엔드포인트가 차단되어 응답이
+#      안 올 때 15초씩 대기하며 43분 멈춤이 발생했음. 7초면 충분하고
+#      막히면 빠르게 다음 엔진으로 넘어감.
 TRANSLATE_ENABLED = os.environ.get("TRANSLATE", "1") not in ("0", "false", "False")
-# 번역 전용 타임아웃 (초). 짧게 두어 막히면 빠르게 원문으로 폴백.
-TRANSLATE_TIMEOUT = int(os.environ.get("TRANSLATE_TIMEOUT", "6"))
+TRANSLATE_TIMEOUT = int(os.environ.get("TRANSLATE_TIMEOUT", "7"))
 
-# --- 번역 ---
-# Google 직접 엔드포인트(translate.googleapis.com) 우선, MyMemory 백업.
-# deep-translator의 기본 Google 엔드포인트는 이 환경에서 막혀 TranslationNotFound 발생.
-_mymemory = None
-def get_mymemory():
-    global _mymemory
-    if _mymemory is not None:
-        return _mymemory
+# --- 번역 엔진들 (우선순위: Google → MyMemory) ---
+# 모든 엔진에 TRANSLATE_TIMEOUT 초 타임아웃 → 어느 하나 막혀도 멈추지 않음.
+# 전부 실패하면 호출자가 원문 유지.
+_MYMEMORY = None  # deep-translator 인스턴스 캐시 (지연 초기화)
+
+
+def _get_mymemory():
+    """MyMemory 번역기 인스턴스. 실패 시 False."""
+    global _MYMEMORY
+    if _MYMEMORY is not None:
+        return _MYMEMORY
     try:
         from deep_translator import MyMemoryTranslator
-        _mymemory = MyMemoryTranslator(source='en-GB', target='ko-KR')
+        _MYMEMORY = MyMemoryTranslator(source='en-GB', target='ko-KR')
     except Exception:
-        _mymemory = False
-    return _mymemory
+        _MYMEMORY = False
+    return _MYMEMORY
 
 
-def translate_google_direct(text: str) -> str | None:
-    """Google 비공개 엔드포인트로 번역. 실패 시 None."""
+def _translate_google(text: str) -> str | None:
+    """Google 비공개 엔드포인트 번역. 실패 시 None.
+    정식 API가 아님 — 데이터센터 IP(GitHub Actions 등)는 차단될 수 있음."""
     if requests is None:
         return None
     try:
@@ -86,17 +96,16 @@ def translate_google_direct(text: str) -> str | None:
         r = requests.get(url, params=params, timeout=TRANSLATE_TIMEOUT)
         if r.status_code != 200:
             return None
-        data = r.json()
-        # data[0] 는 번역된 세그먼트 배열 [[text, orig, ...], ...]
-        parts = [seg[0] for seg in data[0] if seg and seg[0]]
+        # data[0] = 번역 세그먼트 배열 [[번역문, 원문, ...], ...]
+        parts = [seg[0] for seg in r.json()[0] if seg and seg[0]]
         return "".join(parts).strip() or None
     except Exception:
         return None
 
 
-def translate_mymemory(text: str) -> str | None:
-    """MyMemory 번역. 실패 시 None. (일일 한도 약 5000어)."""
-    tr = get_mymemory()
+def _translate_mymemory(text: str) -> str | None:
+    """MyMemory 번역 (deep-translator). 일 약 5000어 제한. 실패 시 None."""
+    tr = _get_mymemory()
     if not tr:
         return None
     try:
@@ -105,22 +114,36 @@ def translate_mymemory(text: str) -> str | None:
         return None
 
 
-def translate_to_ko(text: str, max_len: int = 4800) -> str:
-    """영문 텍스트를 한국어로 번역. 실패 시 원문 반환."""
-    if not text or not text.strip():
-        return text
-    # 번역 비활성화 시 원문 그대로 반환 (CI/속도 튜닝용)
+def _try_translate(text: str) -> str | None:
+    """번역 엔진들을 우선순위대로 시도. 성공 시 번역문, 전부 실패 시 None.
+    번역 비활성화 시 None 반환 → 호출자가 원문 유지."""
     if not TRANSLATE_ENABLED:
-        return text
-    src = text[:max_len]
-    out = translate_google_direct(src)
-    if out:
-        return out
-    out = translate_mymemory(src)
-    if out:
-        return out
-    # 둘 다 실패: 원문 유지 (경고 최소화)
-    return text
+        return None
+    for engine in (_translate_google, _translate_mymemory):
+        out = engine(text)
+        if out:
+            return out
+    return None
+
+
+def translate_title(title: str) -> str:
+    """기사 제목 번역 — 필수. 번역 실패해도 원문 반환(절대 빈값 안 됨).
+    제목은 짧아서 번역 성공률이 높고, 사용자가 기사를 식별하는 핵심이므로
+    끝까지 시도함. (한 엔진당 최대 7초×3엔진 = 21초, 제목은 보통 1~2초)"""
+    if not title:
+        return title
+    out = _try_translate(title[:2000])
+    return out if out else title
+
+
+def translate_summary(summary: str) -> str:
+    """기사 요약 번역 — 최대한 시도. 실패 시 원문 유지.
+    요약은 길어서 시간이 더 걸리지만, 7초 타임아웃×3엔진으로
+    한 기사당 최대 21초. 영문 기사 80건이면 최악의 경우 약 28분."""
+    if not summary:
+        return summary
+    out = _try_translate(summary[:1500])
+    return out if out else summary
 
 
 # --- 키워드 정의 (소문자 매칭) ---
@@ -563,15 +586,16 @@ def collect() -> dict:
 
             date = parse_date(entry)
 
-            # 번역 (영문 출처) — 분류 전에 번역하여 한국어 키워드로 분류 정확도 향상
+            # 번역 (영문 출처) — 분류 전에 번역하여 한국어 키워드로 분류 정확도 향상.
+            # 제목은 필수 번역(짧아서 성공률 높음), 요약도 시도.
             title_final = title
             summary_final = summary
             if lang == "en":
-                title_final = translate_to_ko(title, max_len=2000)
+                title_final = translate_title(title)
                 sum_trunc = summary[:1000] if summary else ""
                 if sum_trunc:
-                    summary_final = translate_to_ko(sum_trunc, max_len=1500)
-                time.sleep(0.2)
+                    summary_final = translate_summary(sum_trunc)
+                time.sleep(0.2)  # 번역 엔진 rate-limit 회피
 
             # 깨진 인코딩 복구 (한국 출처): title과 summary가 Latin-1 잘못
             # 디코딩으로 깨질 수 있다. summary가 정상이면 그 첫 문장으로 제목 복구,
