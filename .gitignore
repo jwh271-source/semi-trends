@@ -1,0 +1,29 @@
+# 환경 변수 / 인증키 (GitHub Secret 으로 관리)
+.env
+.env.local
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# 로컬 산출물 (빌드가 다시 생성함)
+site/articles.json
+site/legislation.json
+
+# OS / 편집기
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 디버그/임시
+_trace.py
+_v.py
+*.log
