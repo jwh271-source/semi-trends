@@ -45,8 +45,12 @@ jobs:
           fi
 
       - name: 업데이트 실행 (fetcher + legislation + build)
+        # TRANSLATE=0: 번역 끄고 먼저 빠르게 배포 테스트.
+        #   번역이 병목이면 이걸로 3분 내 끝남. 확인 후 "1"로 켜기.
+        env:
+          TRANSLATE: "0"
         run: python update.py
-
+        
       - name: 빌드 결과 커밋 (site/)
         # update.py가 만든 site/index.html (및 json) 을 레포에 반영.
         run: |
