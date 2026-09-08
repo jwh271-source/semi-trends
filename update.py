@@ -1,5 +1,5 @@
 """
-update.py — fetcher + legislation + build 한 번에 실행. 매일 7시 스케줄러가 호출.
+update.py — fetcher + legislation + build 한 번에 실행. 매일 6시 스케줄러가 호출.
 
 실행: python update.py
 """
