@@ -16,6 +16,7 @@ env/
 # 로컬 산출물 (빌드가 다시 생성함)
 site/articles.json
 site/legislation.json
+site/keyword_suggestions.json
 
 # OS / 편집기
 .DS_Store
