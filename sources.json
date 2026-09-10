@@ -30,8 +30,8 @@
       "require_keyword": false
     },
     {
-      "name": "IEEE Spectrum · Green Tech",
-      "url": "https://spectrum.ieee.org/feeds/green-tech.rss",
+      "name": "IEEE Spectrum · Energy",
+      "url": "https://spectrum.ieee.org/feeds/energy.rss",
       "topic": "environment",
       "lang": "en",
       "require_keyword": false
@@ -80,7 +80,7 @@
     },
     {
       "name": "Triple Pundit (ESG/지속가능성)",
-      "url": "https://www.triplepundit.com/feed",
+      "url": "https://www.triplepundit.com/feed/",
       "topic": "environment",
       "lang": "en",
       "require_keyword": true
@@ -93,23 +93,9 @@
       "require_keyword": true
     },
     {
-      "name": "EPA Newsroom (US)",
-      "url": "https://www.epa.gov/newsroom/xml/rss.xml",
-      "topic": "regulation",
-      "lang": "en",
-      "require_keyword": true
-    },
-    {
-      "name": "EEA Newsroom (European Environment Agency)",
-      "url": "https://www.eea.europa.eu/newsroom/syndication",
-      "topic": "regulation",
-      "lang": "en",
-      "require_keyword": true
-    },
-    {
-      "name": "WaterWorld",
-      "url": "https://www.waterworld.com/feed",
-      "topic": "regulation",
+      "name": "Environmental News Network",
+      "url": "https://www.environmentalnewsnetwork.com/feed/",
+      "topic": "environment",
       "lang": "en",
       "require_keyword": true
     },
