@@ -75,8 +75,7 @@ def build_sections(articles: list[dict], cats_meta: dict) -> str:
             new_badge = '<span class="badge-new">NEW</span>' if is_new else ''
             orig_html = f'<p class="card-orig">원문: {esc(orig)}</p>' if (lang == "en" and orig) else ''
             # 팝업용 전체 데이터 (JSON 안전하게 이스케이프)
-            import json as _j
-            popup_data = _j.dumps({
+            popup_data = json.dumps({
                 "title": a.get("title", ""),
                 "summary": a.get("summary", ""),
                 "source": a.get("source", ""),
