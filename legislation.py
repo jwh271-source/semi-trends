@@ -229,21 +229,27 @@ def track() -> dict:
             "laws": [],
         }
     print(f"[legislation] 대상 법령 {len(TARGET_LAWS)}종 추적 시작")
-    # NEW 배지 기준: 오늘 날짜(KST)에 공포 또는 시행된 법령만 표시.
-    # (이전 실행 결과와 비교하는 방식은 CI 환경에서 legislation.json이
-    #  매번 새로 만들어지므로 항상 NEW가 되는 버그가 있음. 오늘 날짜 기준이
-    #  fetcher.py의 기사 NEW 배지와도 일관됨.)
-    today_kst = datetime.now(KST).strftime("%Y%m%d")
+    # NEW 배지 기준: 최근 3일(KST) 이내에 공포 또는 시행된 법령.
+    # 오늘만 보면 주말/공휴일에 공포된 법령이 월요일 6시 실행엔 NEW로 안 잡혀
+    # 놓침. 3일 창으로 넓혀 금~월 공포분을 월요일에도 잡는다.
+    # (이전 실행 결과와 비교하는 방식은 CI 환경에서 legislation.json이 매번
+    #  새로 만들어지므로 항상 NEW가 되는 버그가 있음. 날짜 기준이 안전.)
+    today_kst = datetime.now(KST)
+    today_str = today_kst.strftime("%Y%m%d")
+    three_days_ago_str = (today_kst - timedelta(days=3)).strftime("%Y%m%d")
     laws = []
     new_count = 0
     for name in TARGET_LAWS:
         print(f"  - {name}")
         info = fetch_law(api_key, name)
         if info:
-            # 오늘 공포 또는 오늘 시행된 법령만 NEW
+            # 최근 3일 이내 공포 또는 시행된 법령만 NEW
             prom = info.get("promulgate_date", "")
             eff = info.get("effect_date", "")
-            is_new = (prom == today_kst) or (eff == today_kst)
+            is_new = (
+                (prom and three_days_ago_str <= prom <= today_str)
+                or (eff and three_days_ago_str <= eff <= today_str)
+            )
             info["is_new"] = is_new
             if is_new:
                 new_count += 1
