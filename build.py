@@ -109,7 +109,7 @@ def build_sections(articles: list[dict], cats_meta: dict) -> str:
             }.get(key, "현재 수집된 출처에 관련 기사가 없습니다.")
             body = f'<div class="col-empty">{empty_msg}</div>'
 
-        count_display = f"{len(items)}" if total_count <= 20 else f"{len(items)}/{total_count}"
+        count_display = f"{len(items)}"
         sections.append(f"""<section class="cat-section" data-cat="{key}">
   <header class="cat-head">
     <span class="cat-emoji">{emoji}</span>
@@ -205,13 +205,6 @@ header.site-head{
 .hero h1{font-size:28px;line-height:1.2;margin:0 0 8px;letter-spacing:-.01em;text-wrap:balance}
 .hero h1 .accent{color:var(--accent)}
 .hero p{margin:0;color:var(--text-dim);font-size:14.5px;max-width:62ch;text-wrap:pretty}
-.stat-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
-.stat{
-  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
-  padding:10px 14px;min-width:110px;
-}
-.stat .n{font-size:20px;font-weight:700;font-variant-numeric:tabular-nums}
-.stat .l{font-size:12px;color:var(--text-mute);margin-top:2px}
 
 .controls{position:sticky;top:62px;z-index:9;background:var(--bg);
   padding:14px 0 10px;border-bottom:1px solid var(--border)}
@@ -510,9 +503,6 @@ def build_page():
     counts = build_counts(articles)
     sections_html = build_sections(articles, cats_meta)
     nav_html = build_nav(cats_meta, counts)
-    total = len(articles)
-    feed_ok = data.get("feed_ok", 0)
-    feed_fail = data.get("feed_fail", 0)
 
     page = f"""<!doctype html>
 <html lang="ko">
@@ -535,12 +525,7 @@ def build_page():
 <div class="wrap">
   <section class="hero">
     <h1>반도체 업계의 <span class="accent">반도체·환경·안전·규제</span> 동향을 한곳에서.</h1>
-    <p>공신력 있는 출처의 최신 기사를 매일 오전 6시에 자동 수집·분류합니다. 영문 기사는 한국어로 자동 번역됩니다. 법령 변경은 대상 법령의 개정 사항을 공공데이터포털 API로 직접 추적합니다. 각 카드의 "원문 보기"를 누르면 출처 기사로 이동합니다.</p>
-    <div class="stat-row">
-      <div class="stat"><div class="n">{total}</div><div class="l">수집 기사</div></div>
-      <div class="stat"><div class="n">{feed_ok}</div><div class="l">응답 출처</div></div>
-      <div class="stat"><div class="n">{feed_fail}</div><div class="l">실패/건너뜀</div></div>
-    </div>
+    <p>공신력 있는 출처의 최신 기사를 매일 자동 수집·분류합니다. 영문 기사는 한국어로 자동 번역됩니다. 법령 변경은 대상 법령의 개정 사항을 공공데이터포털 API로 직접 추적합니다. 각 카드의 "원문 보기"를 누르면 출처 기사로 이동합니다.</p>
   </section>
   <div class="controls">
     <input class="search-box" id="search" type="search" placeholder="제목·요약·출처에서 검색…">
@@ -577,7 +562,7 @@ def build_page():
 </html>"""
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     OUT_FILE.write_text(page, encoding="utf-8")
-    print(f"[build] 생성 -> {OUT_FILE} (기사 {total}건)")
+    print(f"[build] 생성 -> {OUT_FILE} (기사 {len(articles)}건)")
 
 
 if __name__ == "__main__":
