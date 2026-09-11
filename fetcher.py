@@ -89,8 +89,8 @@ LLM_ENABLED = os.environ.get("LLM_ENABLED", "0") == "1"
 LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "http://common.llm.skhynix.com")
 LLM_TOKEN = os.environ.get("LLM_TOKEN", "").strip()
 LLM_MODEL = os.environ.get("LLM_MODEL", "GLM-5.2")  # 사내 허용 모델
-LLM_TIMEOUT = int(os.environ.get("LLM_TIMEOUT", "30"))  # LLM은 번역보다 느림
-LLM_MAX_TOKENS = int(os.environ.get("LLM_MAX_TOKENS", "2000"))
+LLM_TIMEOUT = int(os.environ.get("LLM_TIMEOUT", "20"))  # thinking 비활성화로 응답 ~5초, 여유 20초
+LLM_MAX_TOKENS = int(os.environ.get("LLM_MAX_TOKENS", "1000"))  # thinking 없이 text만 → 1000면 충분
 
 # --- 번역 엔진들 (우선순위: Google 다중 엔드포인트 → MyMemory) ---
 # 모든 엔진에 TRANSLATE_TIMEOUT 초 타임아웃 → 어느 하나 막혀도 멈추지 않음.
@@ -229,6 +229,10 @@ def _llm_call(user_prompt: str, system_prompt: str = "") -> str | None:
                 "model": LLM_MODEL,
                 "max_tokens": LLM_MAX_TOKENS,
                 "messages": messages,
+                # GLM-5.2는 기본 thinking(확장 사고) 모드. thinking 없이 바로 text 답을
+                # 내게 비활성화 — 기사당 15~60초 → 약 5초로 3~10배 속도 향상.
+                # thinking 켜면 max_tokens을 thinking이 전부 소비해 text가 안 나옴.
+                "thinking": {"type": "disabled"},
             },
             timeout=LLM_TIMEOUT,
         )
