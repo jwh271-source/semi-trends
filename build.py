@@ -20,6 +20,11 @@ OUT_FILE = ROOT / "site" / "index.html"
 
 KST = timezone(timedelta(hours=9))
 
+# 카테고리당 표시할 최대 카드 수 (최신순).
+# build_sections(카드 본문)와 build_counts(상단 탭 카운트)가 같은 기준을
+# 쓰도록 모듈 상수로 통일 — 탭 숫자와 실제 카드 수가 어긋나지 않게.
+MAX_PER_CAT = 20
+
 
 def fmt_date(iso: str | None) -> str:
     if not iso:
@@ -46,7 +51,6 @@ def esc(s: str) -> str:
 def build_sections(articles: list[dict], cats_meta: dict) -> str:
     """카테고리 섹션 생성. 각 섹션 내 카드는 가로 그리드.
     카테고리당 최신순 MAX_PER_CAT건만 표시 (기사 과다 방지)."""
-    MAX_PER_CAT = 20
     by_cat: dict[str, list[dict]] = {}
     for a in articles:
         c = a.get("category", "semiconductor")
@@ -139,11 +143,21 @@ def build_nav(cats_meta: dict, counts: dict) -> str:
     return "\n".join(buttons)
 
 
-def build_counts(articles: list[dict]) -> dict:
+def build_counts(articles: list[dict], max_per_cat: int = 20) -> dict:
+    """카테고리별 카드 수. build_sections와 동일하게 max_per_cat 상한 적용.
+
+    상단 카테고리 탭(fb-count)에 표시되는 숫자가 실제 표시되는 카드 수와
+    일치하도록, 전체 검색 결과 수가 아닌 제한 후 수를 반환한다.
+    (예: 반도체 126건 수집 → 탭엔 20, 섹션 헤더 cat-count도 20)
+    """
     counts: dict[str, int] = {}
     for a in articles:
         c = a.get("category", "other")
         counts[c] = counts.get(c, 0) + 1
+    # 상한 적용 (build_sections의 MAX_PER_CAT와 동일 기준)
+    if max_per_cat > 0:
+        for c in counts:
+            counts[c] = min(counts[c], max_per_cat)
     return counts
 
 
@@ -500,7 +514,7 @@ def build_page():
     leg_cards = load_legislation_cards()
     if leg_cards:
         articles = leg_cards + articles
-    counts = build_counts(articles)
+    counts = build_counts(articles, MAX_PER_CAT)
     sections_html = build_sections(articles, cats_meta)
     nav_html = build_nav(cats_meta, counts)
 
