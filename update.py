@@ -89,27 +89,42 @@ def git_commit_push_site() -> None:
         return r.returncode, (r.stdout + r.stderr).strip()
 
     print("[update] Pages 자동 배포(LLM 버전) — git commit+push ...")
-    # 안전 가드: 작업 디렉토리에 site/index.html 외의 수정사항(개발 중 변경)
-    # 이 있으면 pull --rebase 시 충돌/손실 위험이 있다. 그런 경우 push를
-    # 건너뛰고 안전하게 종료 → 개발자가 수동으로 커밋/푸시하게 둔다.
-    # 매일 7시 스케줄러 실행 시점엔 코드 수정사항이 없으므로 정상 동작한다.
-    code, out = g("status", "--porcelain")
-    if code != 0:
-        print(f"[update] git status 확인 실패: {out}")
-        return
-    dirty = [ln for ln in out.splitlines() if ln.strip()]
-    other_dirty = [ln for ln in dirty if "site/index.html" not in ln]
-    if other_dirty:
-        print(f"[update] 작업 디렉토리에 site/index.html 외 수정사항 {len(other_dirty)}건 — 자동 push 중단.")
-        print("  → 개발 중 변경이 있으면 수동 커밋/푸시하세요. Pages는 이전 버전 유지.")
-        return
-    # 원격 동기화 (clean tree → 안전).
-    code, out = g("pull", "--rebase", "origin", "main")
+
+    # site/index.html 내용을 메모리에 보관 (rebase/충돌 중 손실 방지용 백업).
+    site_content = SITE.read_bytes()
+
+    # 안전 가드(완화): site/index.html 외의 dirty 파일이 있어도, site/index.html
+    # "만" 안전하게 커밋하면 다른 변경사항에 영향을 주지 않는다. 따라서 push를
+    # 중단하지 않고 site/index.html만 취급한다. 과거엔 다른 파일 1건만 있어도
+    # push를 포기했는데, 이 때문에 매일 7시 LLM 덮어쓰기가 자주 실패했다.
+    # 매일 7시 자동 실행 시점엔 코드 수정사항이 없으므로 정상 동작하고,
+    # 개발 중 변경이 남은 날에도 LLM 버전은 확실히 Pages에 반영된다.
+
+    # 1) 원격 동기화. dirty 파일이 있으면 rebase 충돌 위험이 있으므로,
+    #    site/index.html의 변경분을 stash로 빼두고 pull 한 뒤 복구한다.
+    #    site/articles.json 등 .gitignore 파일은 stash에 잡히지 않아 안전.
+    code, out = g("stash", "push", "-m", "semi-trends-auto-push", "--", "site/index.html")
+    stashed = code == 0 and "No local changes" not in out and "Saved" in out
+    if code != 0 and "No local changes" not in out:
+        # stash 실패(이미 스테이지됐거나 꼬인 경우) → 메모리 백업으로 복구 후 진행.
+        print(f"[update] git stash 시도: {out}")
+        SITE.write_bytes(site_content)
+    code, out = g("pull", "--rebase", "--autostash", "origin", "main")
     if code != 0:
         print(f"[update] git pull --rebase 실패: {out}")
-        print("  → 원격 동기화 실패. Pages는 이전 버전 유지.")
-        return
-    # 스테이지 + 변경사항 체크.
+        print("  → 원격 동기화 실패. 메모리 백업으로 site/index.html 복구 후 계속.")
+        # 실패해도 포기하지 않는다: 로컬 site/index.html을 메모리 백업으로 복구.
+        SITE.write_bytes(site_content)
+    if stashed:
+        rc, ro = g("stash", "pop")
+        if rc != 0:
+            print(f"[update] git stash pop 실패(백업으로 복구): {ro}")
+            SITE.write_bytes(site_content)
+
+    # 2) site/index.html을 메모리 백업 기준으로 확정 (rebase가 건드렸을 수 있음).
+    SITE.write_bytes(site_content)
+
+    # 3) site/index.html만 스테이지 (다른 dirty 파일은 건드리지 않음).
     code, out = g("add", "site/index.html")
     if code != 0:
         print(f"[update] git add 실패: {out}")
@@ -126,9 +141,23 @@ def git_commit_push_site() -> None:
     if code != 0:
         print(f"[update] git commit 실패: {out}")
         return
+    # push는 rebase 된 위에 단일 커밋이므로 fast-forward. 거부되면
+    # (Actions가 먼저 push한 직후 등) pull --rebase 한 번 더 동기화 후 재시도.
     code, out = g("push", "origin", "HEAD:main")
     if code != 0:
-        print(f"[update] git push 실패: {out}")
+        print(f"[update] git push 1차 실패, 동기화 후 재시도: {out}")
+        rc2, ro2 = g("pull", "--rebase", "origin", "main")
+        if rc2 == 0:
+            # rebase 후 site/index.html이 보존되었는지 확인, 아니면 백업 복구.
+            if SITE.read_bytes() != site_content:
+                SITE.write_bytes(site_content)
+                g("add", "site/index.html")
+                g("commit", "-m", msg) if g("diff", "--cached", "--quiet")[0] != 0 else None
+            code, out = g("push", "origin", "HEAD:main")
+        else:
+            print(f"[update] 2차 동기화 실패: {ro2}")
+    if code != 0:
+        print(f"[update] git push 최종 실패: {out}")
         print("  → 인증/네트워크 확인. Pages는 이전 버전 유지.")
         return
     print(f"[update] Pages 푸시 완료: {msg}")
