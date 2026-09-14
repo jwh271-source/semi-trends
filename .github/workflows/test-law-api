@@ -1,0 +1,42 @@
+name: Test Law API Access
+# 목적: GitHub Actions(미국 IP 러너)에서 법령 API 접근성 진단.
+# legislation.py를 law.go.kr DRF API 기반으로 변경했을 때 Actions에서 동작하는지 검증.
+# 수동 실행(workflow_dispatch)만 — 정기 실행 없음.
+on:
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 러너 IP/지역 + 엔드포인트별 접근성
+        run: |
+          echo "=== 0) 러너 IP/지역 ==="
+          curl -s --max-time 10 https://ipinfo.io/json 2>&1 | head -15 || echo "IP 확인 실패"
+          echo ""
+          echo "=== 1) apis.data.go.kr (공공데이터포털 게이트웨이) — 기존, 타임아웃 예상 ==="
+          curl -s -o /dev/null -w "HTTP %{http_code} | connect %{time_connect}s | total %{time_total}s\n" --max-time 30 "https://apis.data.go.kr" || echo "apis.data.go.kr 접근 실패"
+          echo ""
+          echo "=== 2) www.law.go.kr (법제처) — 새 엔드포인트, 해외 접근 가능? ==="
+          curl -s -o /dev/null -w "HTTP %{http_code} | connect %{time_connect}s | total %{time_total}s\n" --max-time 30 "https://www.law.go.kr/" || echo "law.go.kr 메인 실패"
+          echo ""
+          echo "=== 3) law.go.kr DRF lawSearch (핵심 — 이게 되면 법령 카드 해결) ==="
+          echo "산업안전보건법 검색:"
+          curl -s -w "\n--- HTTP %{http_code} | connect %{time_connect}s | total %{time_total}s ---\n" --max-time 30 \
+            "https://www.law.go.kr/DRF/lawSearch.do?OC=sapphire_5&target=law&query=%EC%82%B0%EC%97%85%EC%95%88%EC%A0%84%EB%B3%B4%EA%B1%B4%EB%B2%95&numOfRows=3&pageNo=1" \
+            | head -c 800
+          echo ""
+      - name: 8개 대상 법령 모두 law.go.kr에서 수집
+        run: |
+          echo "=== 8개 대상 법령 수집 결과 ==="
+          for q in "산업안전보건법" "중대재해처벌등에관한법률" "위험물안전관리법" "화학물질관리법" \
+                   "화학물질의등록및평가등에관한법률" "대기환경보전법" "물환경보전법" "환경영향평가법"; do
+            enc=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$q")
+            resp=$(curl -s --max-time 30 "https://www.law.go.kr/DRF/lawSearch.do?OC=sapphire_5&target=law&query=${enc}&numOfRows=5&pageNo=1" 2>/dev/null)
+            cnt=$(echo "$resp" | grep -o '<현행연혁코드>현행</현행연혁코드>' | wc -l)
+            echo "  $q: 현행법령 ${cnt}건"
+          done
+      - name: law.go.kr DRF lawService (상세 조회 — 개정이유/조항)
+        run: |
+          echo "=== lawService.do 상세 (산업안전보건법 MST=283449) ==="
+          curl -s -o /dev/null -w "HTTP %{http_code} | connect %{time_connect}s | total %{time_total}s\n" --max-time 30 \
+            "https://www.law.go.kr/DRF/lawService.do?OC=sapphire_5&target=law&MST=283449&type=XML" || echo "lawService 실패"
