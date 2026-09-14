@@ -45,8 +45,16 @@ OUT_FILE = ROOT / "site" / "legislation.json"
 KST = timezone(timedelta(hours=9))
 TIMEOUT = 15
 
-# 공공데이터포털 법령공포정보 서비스 엔드포인트
-API_URL = "https://apis.data.go.kr/1170000/law/lawSearchList.do"
+# 법령 검색 엔드포인트.
+# 1순위: 법제처 law.go.kr DRF API — serviceKey(공공데이터포털 인증키) 불필요,
+#        OC(사용자 식별자)만으로 접근. 해외 IP(GitHub Actions 미국 러너)에서도
+#        접근 가능할 가능성이 높음(법제처 직접 서비스). apis.data.go.kr는
+#        공공데이터포털 게이트웨이로 해외 IP를 타임아웃시키는 문제가 있음.
+# 2순위(폴백): 공공데이터포털 apis.data.go.kr — DATA_API_KEY 필요.
+API_URL_LAWGO = "https://www.law.go.kr/DRF/lawSearch.do"
+API_URL_DATAGO = "https://apis.data.go.kr/1170000/law/lawSearchList.do"
+API_URL = API_URL_LAWGO  # 기본값(하위호환): law.go.kr 우선.
+OC_ID = "sapphire_5"     # law.go.kr DRF 사용자 식별자 (fetch_amendment_detail과 동일)
 
 # 대상 법령 (정확한 법령명)
 TARGET_LAWS = [
@@ -76,31 +84,50 @@ def get_api_key() -> str | None:
     return urllib.parse.unquote(key) if key else None
 
 
-def fetch_law(key: str, law_name: str) -> dict | None:
-    """법령 검색 API 호출 → 현행 법령의 공포/시행/개정 정보 추출."""
-    params = {
-        "serviceKey": key,
-        "target": "law",
-        "query": law_name,
-        "numOfRows": "5",
-        "pageNo": "1",
-    }
+def _http_get(url: str, params: dict, timeout: int = TIMEOUT) -> str | None:
+    """지정한 URL+params 로 GET. 응답 본문(text) 반환, 실패 시 None."""
     try:
         if requests is not None:
-            r = requests.get(API_URL, params=params, timeout=TIMEOUT)
+            r = requests.get(url, params=params, timeout=timeout)
+            if r.status_code != 200:
+                return None
+            return r.text
         else:
-            import urllib.parse
+            import urllib.parse, urllib.request
             qs = urllib.parse.urlencode(params)
-            req = urllib.request.Request(f"{API_URL}?{qs}")
-            with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
-                r_text = resp.read().decode("utf-8", errors="replace")
-            r = type("R", (), {"text": r_text, "status_code": 200})()
-        if r.status_code != 200:
-            print(f"  [skip] {law_name}: HTTP {r.status_code}", file=sys.stderr)
-            return None
-        text = r.text
-    except Exception as e:
-        print(f"  [skip] {law_name}: {type(e).__name__}: {e}", file=sys.stderr)
+            req = urllib.request.Request(f"{url}?{qs}")
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return resp.read().decode("utf-8", errors="replace")
+    except Exception:
+        return None
+
+
+def fetch_law(key: str, law_name: str) -> dict | None:
+    """법령 검색 API 호출 → 현행 법령의 공포/시행/개정 정보 추출.
+
+    두 엔드포인트를 순차 시도:
+    1) law.go.kr DRF (OC 인증, serviceKey 불필요) — 해외 IP에서도 접근 가능 가능성 높음.
+    2) apis.data.go.kr (serviceKey 인증, key 필요) — 한국 IP 폴백.
+    둘 다 동일한 XML 구조를 반환하므로 파싱 로직은 공통.
+    """
+    common = {"target": "law", "query": law_name, "numOfRows": "5", "pageNo": "1"}
+    candidates = [
+        ("law.go.kr", API_URL_LAWGO, {**common, "OC": OC_ID}),
+    ]
+    # 공공데이터포털 인증키가 있으면 폴백 후보로 추가.
+    if key:
+        candidates.append(("data.go.kr", API_URL_DATAGO, {**common, "serviceKey": key}))
+
+    text = None
+    used_source = None
+    for label, url, params in candidates:
+        text = _http_get(url, params)
+        if text and "resultCode>00" in text or (text and "success" in text and "<law id" in text):
+            used_source = label
+            break
+        text = None  # 실패 → 다음 후보
+    if text is None:
+        print(f"  [skip] {law_name}: 모든 엔드포인트 실패", file=sys.stderr)
         return None
 
     # XML 파싱 (정규식 — 라이브러리 의존성 최소화)
@@ -109,20 +136,16 @@ def fetch_law(key: str, law_name: str) -> dict | None:
     # <공포일자>20260219</공포일자><시행일자>20260801</시행일자>
     # <제개정구분명>일부개정</제개정구분명><소관부처명>...</소관부처명>
     # <법령상세링크>/DRF/lawService.do?...</법령상세링크>
-    if "resultCode>00" not in text and "success" not in text:
-        print(f"  [skip] {law_name}: API 에러", file=sys.stderr)
-        return None
-
     # "현행" 법령 찾기 (가장 최신)
     laws = re.findall(
         r"<law id=\"\d+\">(.*?)</law>", text, re.DOTALL
     )
     if not laws:
         return None
-    # "현행" 상태인 첫 번째 법령
-    for law_xml in laws:
+    # "현행" 상태인 첫 번째 법령 (정확한 법령명 일치 우선 — 시행령/시행규칙 제외)
+    def parse_law_xml(law_xml: str) -> dict | None:
         if "<현행연혁코드>현행</현행연혁코드>" not in law_xml:
-            continue
+            return None
         def field(tag):
             m = re.search(rf"<{tag}><!\[CDATA\[(.*?)\]\]></{tag}>", law_xml) \
                 or re.search(rf"<{tag}>(.*?)</{tag}>", law_xml)
@@ -136,9 +159,10 @@ def fetch_law(key: str, law_name: str) -> dict | None:
         link = link.replace("&amp;", "&") if link else ""
         full_link = f"https://www.law.go.kr{link}" if link else ""
         law_seq = field("법령일련번호")
+        law_name_ko = field("법령명한글")
         result = {
             "target_name": law_name,
-            "law_name": field("법령명한글"),
+            "law_name": law_name_ko,
             "law_id": field("법령ID"),
             "law_seq": law_seq,
             "promulgate_date": prom,
@@ -149,12 +173,24 @@ def fetch_law(key: str, law_name: str) -> dict | None:
             "ministry": field("소관부처명"),
             "detail_link": full_link,
             "status": "조회 완료",
+            "source": used_source,
         }
         # 개정 상세 정보 (이유 + 개정 조항) 추가 조회
         if law_seq:
             detail = fetch_amendment_detail(key, law_seq)
             result.update(detail)
         return result
+
+    # 1차: 정확한 법령명 일치 우선 (시행령/시행규칙 제외)
+    for law_xml in laws:
+        parsed = parse_law_xml(law_xml)
+        if parsed and parsed["law_name"] == law_name:
+            return parsed
+    # 2차: 정확 일치가 없으면 현행 첫 번째 법령
+    for law_xml in laws:
+        parsed = parse_law_xml(law_xml)
+        if parsed:
+            return parsed
     return None
 
 
