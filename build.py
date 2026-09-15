@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import html
 import json
+import os
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -24,6 +25,12 @@ KST = timezone(timedelta(hours=9))
 # build_sections(카드 본문)와 build_counts(상단 탭 카운트)가 같은 기준을
 # 쓰도록 모듈 상수로 통일 — 탭 숫자와 실제 카드 수가 어긋나지 않게.
 MAX_PER_CAT = 20
+
+# 카드/팝업에 표시되는 요약의 최대 글자 수.
+# 사내망에서 GitHub 업로드는 70KB(요청 ~95KB)까지만 허용되므로, 전체 요약을
+# 그대로 넣으면 index.html이 80KB+로 한계 초과. 120자면 가독성 유지하면서
+# 70KB 이내 달성. 환경변수로 덮어쓰기 가능 (로컬 LLM 빌드에선 제한 없음).
+SUMMARY_MAX_CHARS = int(os.environ.get("SUMMARY_MAX_CHARS", "120"))
 
 
 def fmt_date(iso: str | None) -> str:
@@ -69,34 +76,26 @@ def build_sections(articles: list[dict], cats_meta: dict) -> str:
         for a in items:
             title = esc(a.get("title", ""))
             link = esc(a.get("link", ""))
-            summary = esc(a.get("summary", ""))
             source = esc(a.get("source", ""))
             date = fmt_date(a.get("date"))
             lang = a.get("lang", "ko")
             orig = a.get("original_title", "")
             is_new = a.get("is_new", False)
+            # 카드 본문에는 제목/출처/날짜/배지만 표시 (요약은 팝업에서만).
+            # 이는 index.html 크기를 사내망 업로드 한계(70KB) 이내로 유지.
+            # 전체 요약은 별도 분할 JSON 파일(summaries-N.json)에 저장하고,
+            # 팝업 클릭 시 JS가 fetch로 불러온다.
             lang_badge = '<span class="badge-tr">번역</span>' if lang == "en" else ''
             new_badge = '<span class="badge-new">NEW</span>' if is_new else ''
-            orig_html = f'<p class="card-orig">원문: {esc(orig)}</p>' if (lang == "en" and orig) else ''
-            # 팝업용 전체 데이터 (JSON 안전하게 이스케이프)
-            popup_data = json.dumps({
-                "title": a.get("title", ""),
-                "summary": a.get("summary", ""),
-                "source": a.get("source", ""),
-                "date": date,
-                "link": a.get("link", ""),
-                "original_title": orig,
-                "lang": lang,
-            }, ensure_ascii=False)
-            popup_data_esc = html.escape(popup_data)
-            card = f"""<article class="card" data-popup="{popup_data_esc}">
+            # 카드 식별 키: 팝업이 요약 JSON에서 이 카드의 데이터를 찾는 키.
+            # link가 고유하므로 link를 키로 사용 (빈 경우 title+date 조합).
+            sum_key = a.get("link", "") or f"{a.get('title','')}_{a.get('date','')}"
+            card = f"""<article class="card" data-lang="{lang}" data-sum-key="{esc(sum_key)}">
   <div class="card-head">
     <span class="src">{source}</span>
     <span class="date">{date} {lang_badge} {new_badge}</span>
   </div>
   <h3 class="card-title">{title}</h3>
-  {f'<p class="card-sum">{summary}</p>' if summary else ''}
-  {orig_html}
   <a class="card-link" href="{link}" target="_blank" rel="noopener">원문 보기 →</a>
 </article>"""
             cards_html.append(card)
@@ -424,15 +423,65 @@ function closeModal(){
 }
 
 // 카드 클릭 → 모달 열기 (원문 링크 클릭은 제외)
+// 카드엔 제목/출처/날짜/링크만 있고, 전체 요약은 분할 JSON에서 fetch.
+// summaries-index.json: 카드 키(sumKey) → 요약 파일명 매핑.
+let summaryIndex = null;
+const summaryCache = {};  // 파일명 → 파싱된 객체 (중복 fetch 방지)
+function loadSummaryIndex(){
+  if(summaryIndex) return Promise.resolve(summaryIndex);
+  return fetch('summaries-index.json').then(r=>r.json()).then(d=>{
+    summaryIndex = d; return d;
+  }).catch(()=>{ summaryIndex = {}; return {}; });
+}
+function loadSummaryFile(fname){
+  if(summaryCache[fname]) return Promise.resolve(summaryCache[fname]);
+  return fetch(fname).then(r=>r.json()).then(d=>{
+    summaryCache[fname] = d; return d;
+  }).catch(()=>{ summaryCache[fname] = {}; return {}; });
+}
 document.addEventListener('click', (e)=>{
   // 원문 보기 링크 클릭은 모달 없이 링크로 이동
   if(e.target.closest('.card-link')) return;
   const card = e.target.closest('.card');
-  if(!card || !card.dataset.popup) return;
-  try{
-    const data = JSON.parse(card.dataset.popup);
-    openModal(data);
-  }catch(err){}
+  if(!card) return;
+  const sumKey = card.dataset.sumKey;
+  // 카드 DOM에서 기본 데이터 (제목/출처/날짜/링크) — 즉시 표시
+  const titleEl = card.querySelector('.card-title');
+  const srcEl = card.querySelector('.src');
+  const dateEl = card.querySelector('.date');
+  const linkEl = card.querySelector('.card-link');
+  const dateText = (dateEl && dateEl.textContent) ? dateEl.textContent.trim().split(/\s+/)[0] : '';
+  const baseData = {
+    title: titleEl ? titleEl.textContent : '',
+    summary: '',  // 전체 요약은 fetch 후 채움
+    source: srcEl ? srcEl.textContent : '',
+    date: dateText,
+    link: linkEl ? linkEl.getAttribute('href') : '',
+    original_title: '',
+    lang: card.dataset.lang || 'ko',
+  };
+  // 먼저 모달 열고(로딩 표시), 요약은 비동기로 채운다
+  openModal(baseData);
+  modalSummary.textContent = '요약 불러오는 중…';
+  if(!sumKey){ modalSummary.textContent = '(요약 없음)'; return; }
+  loadSummaryIndex().then(idx=>{
+    const fname = idx[sumKey];
+    if(!fname){ modalSummary.textContent = '(요약 없음)'; return; }
+    loadSummaryFile(fname).then(fileData=>{
+      const full = fileData[sumKey];
+      if(!full){ modalSummary.textContent = '(요약 없음)'; return; }
+      // 전체 데이터로 모달 갱신
+      openModal({
+        title: full.title || baseData.title,
+        summary: full.summary || '(요약 없음)',
+        source: full.source || baseData.source,
+        date: full.date || baseData.date,
+        link: full.link || baseData.link,
+        original_title: full.original_title || '',
+        lang: full.lang || baseData.lang,
+      });
+    });
+  });
 });
 // 모달 닫기: 오버레이 클릭, 닫기 버튼, ESC
 overlay.addEventListener('click', (e)=>{
@@ -500,6 +549,51 @@ def load_legislation_cards() -> list[dict]:
     return cards
 
 
+def write_summary_files(articles: list[dict], max_per_file: int = 50) -> int:
+    """팝업용 전체 요약을 분할 JSON 파일로 저장.
+
+    카드 본문엔 제목만 표시하므로, 전체 요약(제목/요약/출처/날짜/원문/언어)은
+    별도 파일에 두고 팝업 클릭 시 JS가 fetch로 불러온다.
+    사내망 GitHub 업로드 한계(70KB/파일)에 맞춰 max_per_file건씩 분할.
+    반환: 생성된 파일 수.
+    """
+    # 카드 식별 키(link 우선) → 팝업 데이터 매핑
+    summaries = {}
+    for a in articles:
+        key = a.get("link", "") or f"{a.get('title','')}_{a.get('date','')}"
+        summaries[key] = {
+            "title": a.get("title", ""),
+            "summary": a.get("summary", ""),
+            "source": a.get("source", ""),
+            "date": fmt_date(a.get("date")),
+            "link": a.get("link", ""),
+            "original_title": a.get("original_title", ""),
+            "lang": a.get("lang", "ko"),
+        }
+    items = list(summaries.items())
+    # 분할: max_per_file건씩, 인덱스 파일도 함께 생성.
+    n_files = (len(items) + max_per_file - 1) // max_per_file or 1
+    out_dir = IN_FILE.parent  # site/
+    out_dir.mkdir(parents=True, exist_ok=True)
+    index = {}
+    for i in range(n_files):
+        chunk = dict(items[i * max_per_file:(i + 1) * max_per_file])
+        fname = f"summaries-{i + 1}.json"
+        (out_dir / fname).write_text(
+            json.dumps(chunk, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        # 인덱스: 각 키가 어느 파일에 있는지 (JS가 한 번에 fetch하지 않고
+        # 필요한 파일만 로드하도록).
+        for k in chunk:
+            index[k] = f"summaries-{i + 1}.json"
+    (out_dir / "summaries-index.json").write_text(
+        json.dumps(index, ensure_ascii=False), encoding="utf-8",
+    )
+    print(f"[build] 요약 분할: {n_files}개 파일, 키 {len(index)}개 -> {out_dir}")
+    return n_files
+
+
 def build_page():
     if not IN_FILE.exists():
         print("[build] articles.json 없음. 먼저 python fetcher.py 실행하세요.")
@@ -517,6 +611,11 @@ def build_page():
     counts = build_counts(articles, MAX_PER_CAT)
     sections_html = build_sections(articles, cats_meta)
     nav_html = build_nav(cats_meta, counts)
+    # 요약 데이터를 분할 JSON 파일로 저장 (팝업용 전체 요약).
+    # 카드 본문엔 제목만 표시하므로, 전체 요약은 별도 파일에 두고
+    # 팝업 클릭 시 JS가 fetch로 불러온다. 각 파일이 70KB 이하가 되도록
+    # 분할 — 사내망 GitHub 업로드 한계(70KB) 대응.
+    write_summary_files(articles)
 
     page = f"""<!doctype html>
 <html lang="ko">
