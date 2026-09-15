@@ -32,6 +32,11 @@ MAX_PER_CAT = 20
 # 70KB 이내 달성. 환경변수로 덮어쓰기 가능 (로컬 LLM 빌드에선 제한 없음).
 SUMMARY_MAX_CHARS = int(os.environ.get("SUMMARY_MAX_CHARS", "120"))
 
+# 카드 본문에 표시되는 요약 미리보기의 최대 글자 수 (1~2문장).
+# 전체 요약은 팝업에서만 보이므로, 카드엔 짧은 미리보기만으로 충분.
+# 80자면 카드가 비어 보이지 않으면서도 70KB 업로드 한계 유지.
+PREVIEW_MAX_CHARS = int(os.environ.get("PREVIEW_MAX_CHARS", "80"))
+
 
 def fmt_date(iso: str | None) -> str:
     if not iso:
@@ -81,10 +86,15 @@ def build_sections(articles: list[dict], cats_meta: dict) -> str:
             lang = a.get("lang", "ko")
             orig = a.get("original_title", "")
             is_new = a.get("is_new", False)
-            # 카드 본문에는 제목/출처/날짜/배지만 표시 (요약은 팝업에서만).
-            # 이는 index.html 크기를 사내망 업로드 한계(70KB) 이내로 유지.
-            # 전체 요약은 별도 분할 JSON 파일(summaries-N.json)에 저장하고,
-            # 팝업 클릭 시 JS가 fetch로 불러온다.
+            # 카드 본문에는 짧은 미리보기(1~2문장)만 표시. 전체 요약은 팝업에서.
+            # 이는 index.html 크기를 사내망 업로드 한계(70KB) 이내로 유지하면서도
+            # 카드가 비어 보이지 않도록 함. 전체 요약은 별도 분할 JSON 파일
+            # (summaries-N.json)에 저장하고 팝업 클릭 시 JS가 fetch로 불러온다.
+            full_summary = a.get("summary", "")
+            preview = full_summary
+            if len(preview) > PREVIEW_MAX_CHARS:
+                preview = preview[:PREVIEW_MAX_CHARS].rstrip() + "…"
+            preview = esc(preview)
             lang_badge = '<span class="badge-tr">번역</span>' if lang == "en" else ''
             new_badge = '<span class="badge-new">NEW</span>' if is_new else ''
             # 카드 식별 키: 팝업이 요약 JSON에서 이 카드의 데이터를 찾는 키.
@@ -96,6 +106,7 @@ def build_sections(articles: list[dict], cats_meta: dict) -> str:
     <span class="date">{date} {lang_badge} {new_badge}</span>
   </div>
   <h3 class="card-title">{title}</h3>
+  {f'<p class="card-sum">{preview}</p>' if preview else ''}
   <a class="card-link" href="{link}" target="_blank" rel="noopener">원문 보기 →</a>
 </article>"""
             cards_html.append(card)
