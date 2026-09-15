@@ -45,15 +45,37 @@ jobs:
             echo "[warn] DATA_API_KEY 시크릿 없음 — legislation.py는 스킵됨."
           fi
 
-      - name: 업데이트 실행 (fetcher + legislation + build)
-        # 번역 켜짐(TRANSLATE=1). Google → MyMemory 순서로 시도.
-        # 모든 번역 경로 7초 타임아웃 → 막혀도 빠르게 원문으로 폴백.
+      - name: 오늘 LLM 버전 업로드 여부 확인
+        # 로컬 PC(7시)가 LLM 빌드 결과를 Contents API 로 올렸는지 확인.
+        # 오늘 날짜(UTC)의 "chore(local): daily LLM update" 커밋이 있으면
+        # LLM 버전이 이미 site/에 반영된 것 → 빌드 생략하고 그대로 배포.
+        # 없으면(로컬 PC 꺼짐) 아래 update.py 로 키워드 버전 빌드(보험).
+        id: llm_check
+        run: |
+          TODAY=$(date -u +'%Y-%m-%d')
+          # 오늘 날짜의 LLM 업로드 커밋 찾기 (commit message 에 날짜/시간 KST 포함).
+          # KST 는 UTC+9 이므로 오늘 UTC 15:00~내일 UTC 15:00 사이 커밋이 오늘 KST.
+          if git log --since="$(date -u -d '15 hours ago' +'%Y-%m-%dT%H:%M:%SZ')" \
+                   --until="$(date -u +'%Y-%m-%dT%H:%M:%SZ')" \
+                   --grep="daily LLM update" --oneline | head -1 | grep -q .; then
+            echo "has_llm=true" >> "$GITHUB_OUTPUT"
+            echo "[deploy] 오늘 LLM 버전 감지 — 키워드 빌드 생략, 기존 site/ 배포"
+          else
+            echo "has_llm=false" >> "$GITHUB_OUTPUT"
+            echo "[deploy] 오늘 LLM 버전 없음 — 키워드 빌드 실행(보험)"
+          fi
+
+      - name: 업데이트 실행 (LLM 없을 때만 — 키워드 보험 버전)
+        # LLM 버전이 이미 올라왔으면(로컬 7시) 이 단계를 건너뛰어 기존 site/ 유지.
+        # LLM 버전이 없으면(로컬 PC 꺼짐) 키워드 방식으로 빌드.
+        if: steps.llm_check.outputs.has_llm != 'true'
         env:
           TRANSLATE: "1"
         run: python update.py
 
       - name: 빌드 결과 커밋 (site/)
-        # update.py가 만든 site/index.html (및 json) 을 레포에 반영.
+        # 키워드 빌드 결과를 레포에 반영. LLM 버전이 이미 있으면
+        # update.py 가 실행되지 않았으므로 변경사항 없음 → 커밋 생략.
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
