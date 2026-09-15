@@ -193,11 +193,60 @@ def git_commit_push_site() -> None:
 
     if ok == len(upload_files):
         print(f"[update] 업로드 완료: {ok}개 파일")
-        print("  -> https://jwh271-source.github.io/semi-trends/ LLM 버전 반영 (수 분 내 갱신)")
     elif ok > 0:
         print(f"[update] 부분 업로드: {ok}/{len(upload_files)}개")
     else:
         print("[update] 업로드 실패 — 토큰/네트워크 확인. Pages는 이전 버전 유지.")
+        return
+
+    # LLM 버전 업로드 성공 후 Pages 배포 트리거.
+    # 본 설계 의도: 6시 cron 은 항상 키워드 빌드(보험)를 배포하므로, 로컬 7시 LLM
+    # 업로드 직후 deploy.yml 을 수동 트리거(workflow_dispatch)해야 LLM 버전이
+    # Pages 에 즉시 반영된다. deploy.yml 은 수동 트리거 + 최근 LLM 커밋 감지 시
+    # 빌드를 생략하고 올라온 site/ 를 그대로 배포(덮어쓰기).
+    trigger_pages_deploy(token, repo)
+
+
+def trigger_pages_deploy(token: str, repo: str) -> None:
+    """LLM 업로드 후 GitHub Actions(deploy.yml)를 수동 트리거해 Pages 즉시 갱신.
+    gh CLI 가 있으면 gh workflow run, 없으면 GitHub API POST /actions/workflows."""
+    workflow = os.environ.get("DEPLOY_WORKFLOW", "deploy.yml")
+    # 1) gh CLI 시도 (사내망에선 gh 인증 있음)
+    try:
+        r = subprocess.run(
+            ["gh", "workflow", "run", workflow, "-R", repo],
+            capture_output=True, text=True, encoding="utf-8", errors="replace",
+            timeout=30,
+        )
+        if r.returncode == 0:
+            print(f"[update] Pages 배포 트리거 완료 (gh workflow run {workflow})")
+            print("  -> 수 분 내 Pages 갱신: https://jwh271-source.github.io/semi-trends/")
+            return
+        print(f"[update] gh workflow run 실패: {(r.stderr or r.stdout).strip()[:80]}")
+    except Exception as e:
+        print(f"[update] gh CLI 없음/실패: {e}")
+    # 2) GitHub API 폴백 (workflow_dispatch 이벤트 발생)
+    try:
+        import urllib.request
+        import json as _json
+        # workflow ID 또는 파일명으로 트리거 (ref=main)
+        url = f"https://api.github.com/repos/{repo}/actions/workflows/{workflow}/dispatches"
+        req = urllib.request.Request(
+            url,
+            data=_json.dumps({"ref": "main"}).encode(),
+            method="POST",
+            headers={
+                "Authorization": f"token {token}",
+                "Accept": "application/vnd.github+json",
+                "Content-Type": "application/json",
+            },
+        )
+        urllib.request.urlopen(req, timeout=30)
+        print(f"[update] Pages 배포 트리거 완료 (API dispatch {workflow})")
+    except Exception as e:
+        code = getattr(e, "code", "?")
+        print(f"[update] Pages 배포 트리거 실패 (HTTP {code}) — 수동으로 Actions 실행 필요")
+        print("  -> GitHub Actions 탭에서 'Build & Deploy' 수동 실행(Run workflow)")
 
 
 
