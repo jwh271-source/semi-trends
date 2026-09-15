@@ -1,452 +1,128 @@
 {
-  "https://www.semiconductor-digest.com/taiyo-holdings-launches-next-generation-semiconductor-packaging-material-fpim-series/?utm_source=rss&utm_medium=rss&utm_campaign=taiyo-holdings-launches-next-generation-semiconductor-packaging-material-fpim-series": {
-    "title": "태요 홀딩스, 차세대 반도체 패키징 재료 'FPIM 시리즈' 출시",
-    "summary": "일본 도쿄에 본사를 둔 태요 홀딩스는 핀란드 헬싱키에서 열린 'IEEE ESTC 2026' 학술대회에서 차세대 반도체 패키징 재료인 'FPIM 시리즈'에 관한 논문을 발표했다. 이 학술대회는 전자 시스템 집적 기술과 관련된 국제 행사로, 해당 발표를 통해 신소재의 기술적 특성과 적용 가능성을 공유되었다. 이번 발표는 반도체 패키징 분야의 차세대 소재 기술 동향을 파악하는 데 중요한 자료로 평가된다.",
+  "https://www.semiconductor-digest.com/primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project/?utm_source=rss&utm_medium=rss&utm_campaign=primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project": {
+    "title": "FMS 2026의 Primemas: CXL 풀 스택 제품 및 Abaco 프로젝트의 Micron 협업",
+    "summary": "Primemas Inc.는 FMS(Future of Memory and Storage) 2026에서 최신 CXL 메모리 혁신을 선보였습니다. FMS 2026의 Post Primemas: Abaco 프로젝트의 CXL 풀 스택 제품 및 Micron 협업이 Semiconductor Digest에 처음으로 게재되었습니다.",
     "source": "Semiconductor Digest",
-    "date": "2026-09-11",
-    "link": "https://www.semiconductor-digest.com/taiyo-holdings-launches-next-generation-semiconductor-packaging-material-fpim-series/?utm_source=rss&utm_medium=rss&utm_campaign=taiyo-holdings-launches-next-generation-semiconductor-packaging-material-fpim-series",
-    "original_title": "Taiyo Holdings Launches Next-Generation Semiconductor Packaging Material “FPIM Series”",
+    "date": "2026-08-25",
+    "link": "https://www.semiconductor-digest.com/primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project/?utm_source=rss&utm_medium=rss&utm_campaign=primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project",
+    "original_title": "Primemas at FMS 2026: CXL Full-Stack Products and Micron Collaboration on the Abaco Project",
     "lang": "en"
   },
-  "https://www.eetimes.com/from-ai-assisted-eda-to-ai-mediated-engineering/": {
-    "title": "AI 지원 EDA에서 AI 중심 엔지니어링으로",
-    "summary": "DAC 2026 행사를 통해 반도체 설계 자동화(EDA) 분야에서 AI 에이전트와 엔진의 역할 변화가 조명되었습니다. 산업 내 신뢰 구축 방안이 논의되었으며, 관련 산업의 전망이 긍정적으로 평가되었습니다. AI가 단순 보조 도구를 넘어 엔지니어링을 중재하는 핵심 기술로 자리 잡는 추세를 보여줍니다.",
-    "source": "EE Times",
-    "date": "2026-09-11",
-    "link": "https://www.eetimes.com/from-ai-assisted-eda-to-ai-mediated-engineering/",
-    "original_title": "From AI-Assisted EDA to AI-Mediated Engineering",
-    "lang": "en"
-  },
-  "https://www.edie.net/un-climate-chief-urges-eu-to-throw-itself-behind-cop31/": {
-    "title": "유엔 기후 수석, EU에 COP31 적극적 지지 촉구",
-    "summary": "유엔 기후변화 협약(UNFCCC) 사무총장 사이먼 스틸은 유럽의회 위원회 연설에서 올해 열릴 기후 정상회의(COP31)의 성공적 개최를 위해 유럽연합(EU)이 적극적인 지지를 보내줄 것을 촉구했다. 그는 국가들이 다가오는 정상회의를 앞두고 기후 진전을 더욱 가속화해야 한다고 강조했다.",
-    "source": "edie (환경 비즈니스)",
-    "date": "2026-09-11",
-    "link": "https://www.edie.net/un-climate-chief-urges-eu-to-throw-itself-behind-cop31/",
-    "original_title": "UN climate chief urges EU to ‘throw itself behind’ COP31",
-    "lang": "en"
-  },
-  "https://www.edie.net/boardroom-briefing-building-the-business-case-on-packaging-reforms/": {
-    "title": "이사회 브리핑: 포장재 개혁에 관한 비즈니스 사례 구축",
-    "summary": "이 기사는 기업 최고 경영진을 대상으로 포장재 개혁과 같은 주요 지속가능성 이슈에 대한 심층 분석을 제공한다. 포장재 개혁을 실행하지 않을 경우 기업의 재무적 성과에 미칠 구체적인 영향을 다룬다. 경영진이 비즈니스 사례를 구축하는 데 필요한 권위 있는 정보를 제공하는 것을 목적으로 한다.",
-    "source": "edie (환경 비즈니스)",
-    "date": "2026-09-10",
-    "link": "https://www.edie.net/boardroom-briefing-building-the-business-case-on-packaging-reforms/",
-    "original_title": "Boardroom Briefing: Building the business case on packaging reforms",
-    "lang": "en"
-  },
-  "https://spectrum.ieee.org/ocean-thermal-energy-conversion": {
-    "title": "인도 도서, 해양의 열층에서 에너지를 채취하다",
-    "summary": "인도 본토 서쪽 약 400km 떨어진 락샤드위프 군도에서 해양의 표층과 심층 수온차를 이용해 전력을 생산하는 해양온도차발전(OTEC) 상용화 시설 건설이 진행 중이다. 1,000m 깊이의 해수를 활용해 65kW의 전력과 하루 10만 리터의 식수를 생산하는 이 소규모 프로젝트는 인도 국립해양기술연구소(NIOT)가 개발했다. 미국 에너지부 보고서에 따르면 OTEC 기술이 전력 수요를 충족할 만큼 잠재력이 크며, 해당 프로젝트는 원격 지역 및 도서 지역으로 확장 가능한 상용화 모델로 평가받고 있다.",
-    "source": "IEEE Spectrum · Energy",
-    "date": "2026-09-10",
-    "link": "https://spectrum.ieee.org/ocean-thermal-energy-conversion",
-    "original_title": "Islands Tap Energy From Oceans’ Thermal Layers",
-    "lang": "en"
-  },
-  "https://airqualitynews.com/headlines/fifth-speaker-confirmed-for-the-2026-national-air-quality-conference/?utm_source=rss&utm_medium=rss&utm_campaign=fifth-speaker-confirmed-for-the-2026-national-air-quality-conference": {
-    "title": "2026년 전국 대기질 회의의 다섯 번째 연사 확정",
-    "summary": "2026년 전국 대기질 회의의 다섯 번째 연사로 자밀라 볼튼-고든이 확정되었다. 이 행사는 11월 11일 런던의 프로스페로 하우스에서 개최될 예정이다. 자밀라는 북켄싱턴 지역 사회의 평생 회원이자 지역 활동에 깊은 뿌리를 둔 인물이다.",
-    "source": "Air Quality News",
-    "date": "2026-09-10",
-    "link": "https://airqualitynews.com/headlines/fifth-speaker-confirmed-for-the-2026-national-air-quality-conference/?utm_source=rss&utm_medium=rss&utm_campaign=fifth-speaker-confirmed-for-the-2026-national-air-quality-conference",
-    "original_title": "Fifth speaker confirmed for the 2026 National Air Quality Conference",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/quantinuum-finalizes-100-million-chips-rd-award-with-u-s-department-of-commerce/?utm_source=rss&utm_medium=rss&utm_campaign=quantinuum-finalizes-100-million-chips-rd-award-with-u-s-department-of-commerce": {
-    "title": "퀀티넘, 미국 상무부와 1억 달러 칩스 R&D 지원금 최종 확정",
-    "summary": "퀀티넘은 미국 상무부와 1억 달러 규모의 CHIPS R&D 지원금 협상을 최종 완료했습니다. 이 자금은 차세대 이온 트랩과 제어 전자장치를 제조하기 위해 글로벌파운드리와 협력하는 데 활용될 예정입니다. 또한 몬arch 퀀텀과 함께 신뢰할 수 있는 레이저 및 광학 부품을 개발하고 생산할 계획입니다.",
+  "https://www.semiconductor-digest.com/quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects/?utm_source=rss&utm_medium=rss&utm_campaign=quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects": {
+    "title": "Quintessent, 4천만 달러 규모의 시리즈 A 투자 유치 및 AI 광학 인터커넥트용 첫 번째 제품 샘플링 시작",
+    "summary": "Quintessent는 오늘 초과 모집된 시리즈 A 투자 라운드에서 4천만 달러를 모금했다고 발표했습니다. Quintessent가 4천만 달러의 시리즈 A 자금을 조달하고 AI 광학 인터커넥트용 첫 번째 제품 샘플링을 시작한다는 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
     "source": "Semiconductor Digest",
-    "date": "2026-09-10",
-    "link": "https://www.semiconductor-digest.com/quantinuum-finalizes-100-million-chips-rd-award-with-u-s-department-of-commerce/?utm_source=rss&utm_medium=rss&utm_campaign=quantinuum-finalizes-100-million-chips-rd-award-with-u-s-department-of-commerce",
-    "original_title": "Quantinuum Finalizes $100 Million CHIPS R&D Award with U.S. Department of Commerce",
+    "date": "2026-08-25",
+    "link": "https://www.semiconductor-digest.com/quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects/?utm_source=rss&utm_medium=rss&utm_campaign=quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects",
+    "original_title": "Quintessent Raises $40 Million Series A and Begins Sampling First Product for AI Optical Interconnects",
     "lang": "en"
   },
-  "https://www.semiconductor-digest.com/semi-calls-on-the-chips-act-2-0-to-strengthen-semiconductor-competitiveness-and-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=semi-calls-on-the-chips-act-2-0-to-strengthen-semiconductor-competitiveness-and-resilience": {
-    "title": "SEMI, 칩스법 2.0 통해 반도체 경쟁력 및 회복력 강화 촉구",
-    "summary": "SEMI는 유럽이 글로벌 반도체 생태계에 계속 중요한 역할을 하도록 보장하기 위해 칩스법 2.0에 관한 최신 입장문를 발표했다. 이 문서는 반도체 경쟁력과 회복력을 강화하기 위한 9가지 정책 권고안을 제시하고 있다.",
+  "https://www.semiconductor-digest.com/micron-opens-boise-training-center-to-build-semiconductor-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=micron-opens-boise-training-center-to-build-semiconductor-workforce": {
+    "title": "Micron, 반도체 인력 구축을 위해 보이시 교육 센터 개설",
+    "summary": "실습 기술 교육과 반도체 경력 경로를 제공하는 새로운 60,000제곱피트 규모의 교육 센터입니다. Micron이 반도체 인력 구축을 위해 보이시 교육 센터를 개설한 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
     "source": "Semiconductor Digest",
-    "date": "2026-09-10",
-    "link": "https://www.semiconductor-digest.com/semi-calls-on-the-chips-act-2-0-to-strengthen-semiconductor-competitiveness-and-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=semi-calls-on-the-chips-act-2-0-to-strengthen-semiconductor-competitiveness-and-resilience",
-    "original_title": "SEMI Calls on the Chips Act 2.0 to Strengthen Semiconductor Competitiveness and Resilience",
+    "date": "2026-08-25",
+    "link": "https://www.semiconductor-digest.com/micron-opens-boise-training-center-to-build-semiconductor-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=micron-opens-boise-training-center-to-build-semiconductor-workforce",
+    "original_title": "Micron Opens Boise Training Center to Build Semiconductor Workforce",
     "lang": "en"
   },
-  "https://www.semiconductor-digest.com/asml-begins-construction-of-new-eindhoven-campus/?utm_source=rss&utm_medium=rss&utm_campaign=asml-begins-construction-of-new-eindhoven-campus": {
-    "title": "ASML, 아인트호번 신규 캠퍼스 건설 착수",
-    "summary": "ASML 홀딩이 네덜란드 브레인포트 지역에 두 번째 주요 산업 캠퍼스 건설을 시작했다. 이는 아인트호번에 조성되는 대규모 시설로, ASML의 지속적인 생산 능력 확충을 뒷받침할 것으로 보인다.",
+  "https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/?utm_source=rss&utm_medium=rss&utm_campaign=micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub": {
+    "title": "Micron, 미국에 기반을 둔 장기적 혁신 허브인 Micron Research Labs 공개",
+    "summary": "향후 10년 동안 100억 달러 규모의 투자 계획을 바탕으로 Micron Research Labs는 학계, 정부, 스타트업 및 업계를 통합하여 AI 시대를 정의할 메모리 및 컴퓨팅 혁신을 발전시킬 것입니다. Micron이 미국에 기반을 둔 Long-Horizon Innovation Hub인 Micron Research Labs를 공개한 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
     "source": "Semiconductor Digest",
-    "date": "2026-09-10",
-    "link": "https://www.semiconductor-digest.com/asml-begins-construction-of-new-eindhoven-campus/?utm_source=rss&utm_medium=rss&utm_campaign=asml-begins-construction-of-new-eindhoven-campus",
-    "original_title": "ASML Begins Construction of New Eindhoven Campus",
+    "date": "2026-08-21",
+    "link": "https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/?utm_source=rss&utm_medium=rss&utm_campaign=micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub",
+    "original_title": "Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub",
     "lang": "en"
   },
-  "https://www.edn.com/altera-brings-quantum-resistant-security-to-fpgas/": {
-    "title": "알테라, FPGA에 양자 내성 보안 기술 도입",
-    "summary": "알테라는 Agilex 3 및 Agilex 5 FPGA에 양자 컴퓨터 공격에 대응할 수 있는 양자 내성 암호화(PQC) 지원 기능을 추가하여 시스템 보안을 강화했다. 이를 통해 향후 양자 컴퓨팅 기술 발전으로 인한 기존 암호화 체계의 취약성 문제를 해결하고자 한다. 해당 지원은 반도체 기반 시스템의 보안성을 한층 더 높이는 데 기여할 것으로 보인다.",
-    "source": "EDN",
-    "date": "2026-09-10",
-    "link": "https://www.edn.com/altera-brings-quantum-resistant-security-to-fpgas/",
-    "original_title": "Altera brings quantum-resistant security to FPGAs",
-    "lang": "en"
-  },
-  "https://www.edn.com/aos-boosts-power-density-with-600-v-mosfets/": {
-    "title": "AOS, 600V MOSFET 출시로 전력 밀도 강화",
-    "summary": "AOS가 상면 냉각 패키지를 적용한 600V MOSFET 두 제품을 출시했다. 이 제품들은 전기적 및 열적 경로를 최적화하여 전력 밀도를 극대화하도록 설계되었다.",
-    "source": "EDN",
-    "date": "2026-09-10",
-    "link": "https://www.edn.com/aos-boosts-power-density-with-600-v-mosfets/",
-    "original_title": "AOS boosts power density with 600-V MOSFETs",
-    "lang": "en"
-  },
-  "https://www.edn.com/dual-port-mipi-d-phy-serdes-delivers-20-gbps-bandwidth/": {
-    "title": "듀얼 포트 MIPI D-PHY SerDes, 20Gbps 대역폭 구현",
-    "summary": "EverProX가 제공하는 SerDes 칩셋은 직렬화된 링크를 통해 최대 10Gbps씩 두 개의 MIPI D-PHY 카메라 스트림을 동시에 처리한다. 이를 통해 총 20Gbps의 대역폭을 구현할 수 있다. 이 기술은 고해상도 카메라 데이터 전송에 적합한 고속 통신 솔루션으로 볼 수 있다.",
-    "source": "EDN",
-    "date": "2026-09-10",
-    "link": "https://www.edn.com/dual-port-mipi-d-phy-serdes-delivers-20-gbps-bandwidth/",
-    "original_title": "Dual-port MIPI D-PHY SerDes delivers 20-Gbps bandwidth",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/closing-the-gap-how-intelligent-sensing-is-reshaping-wafer-process-control/?utm_source=rss&utm_medium=rss&utm_campaign=closing-the-gap-how-intelligent-sensing-is-reshaping-wafer-process-control": {
-    "title": "격차 해소: 지능형 센싱이 웨이퍼 공정 제어를 변화시키는 방법",
-    "summary": "현대 반도체 팹(Fab)에서 수동 검사와 작업자 판단에 대한 의존은 과소평가된 병목 현상 중 하나로 지적되고 있다. 노드슨 테스트 앤 인스펙션의 비드야 비제이는 지능형 센싱 기술이 이러한 문제를 어떻게 해결하는지 분석한다. 이를 통해 기존 공정 제어의 한계를 극복하고 웨이퍼 제조 품질을 향상시킬 수 있다.",
+  "https://www.semiconductor-digest.com/qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities": {
+    "title": "Qnity, 차세대 KLA 검사 기능으로 고급 노드 재료 혁신 가속화",
+    "summary": "투자는 재료 개발부터 제조까지 프로세스 제어를 강화합니다. Qnity, 차세대 KLA 검사 기능으로 고급 노드 재료 혁신을 가속화하는 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
     "source": "Semiconductor Digest",
-    "date": "2026-09-09",
-    "link": "https://www.semiconductor-digest.com/closing-the-gap-how-intelligent-sensing-is-reshaping-wafer-process-control/?utm_source=rss&utm_medium=rss&utm_campaign=closing-the-gap-how-intelligent-sensing-is-reshaping-wafer-process-control",
-    "original_title": "Closing the Gap: How Intelligent Sensing Is Reshaping Wafer Process Control",
+    "date": "2026-08-21",
+    "link": "https://www.semiconductor-digest.com/qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities",
+    "original_title": "Qnity Accelerates Advanced Node Materials Innovation with Next-Generation KLA Inspection Capabilities",
     "lang": "en"
   },
-  "https://www.semiconductor-digest.com/finding-the-fault-that-leaves-no-trace-non-destructive-localization-of-opens-in-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=finding-the-fault-that-leaves-no-trace-non-destructive-localization-of-opens-in-advanced-packaging": {
-    "title": "흔적을 남기지 않는 결함 발견: 어드밴스드 패키징 내 오픈 회로의 비파괴적 위치 추적",
-    "summary": "어드밴스드 패키징에서 오픈 회로(단선)는 전류가 흐르지 않아 발열이나 광자 방출이 없어 매우 발견하기 어려운 결함이다. 또한 X선 CT나 열화상 카메라로도 포착할 수 있는 구조적 결함이 나타나지 않는 경우가 많아 분석에 어려움을 겪는다. 이에 흔적을 남기지 않는 오픈 회로 결함을 비파괴적으로 위치를 추적하는 기술이 소개되었다.",
+  "https://www.semiconductor-digest.com/hanmi-semiconductor-to-invest-in-its-largest-ever-8th-production-facility/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-to-invest-in-its-largest-ever-8th-production-facility": {
+    "title": "한미반도체, 역대 최대 규모 8번째 생산시설 투자",
+    "summary": "한미반도체는 인천 주안국가산업단지에 소재한 (주)머큐리로부터 공장을 인수한다고 오늘 밝혔다. 한미반도체, 역대 최대 규모 8번째 생산시설 투자 관련 글이 Semiconductor Digest에 첫 등장했습니다.",
     "source": "Semiconductor Digest",
-    "date": "2026-09-09",
-    "link": "https://www.semiconductor-digest.com/finding-the-fault-that-leaves-no-trace-non-destructive-localization-of-opens-in-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=finding-the-fault-that-leaves-no-trace-non-destructive-localization-of-opens-in-advanced-packaging",
-    "original_title": "Finding the Fault That Leaves No Trace: Non-Destructive Localization of Opens in Advanced Packaging",
+    "date": "2026-08-19",
+    "link": "https://www.semiconductor-digest.com/hanmi-semiconductor-to-invest-in-its-largest-ever-8th-production-facility/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-to-invest-in-its-largest-ever-8th-production-facility",
+    "original_title": "HANMI Semiconductor To Invest in Its Largest-Ever 8th Production Facility",
     "lang": "en"
   },
-  "https://www.semiconductor-digest.com/semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm": {
-    "title": "SEMIFIVE, 삼성 4nm 공정으로 HyperAccel LLM AI 추론 가속기 'Bertha' 양산 개시",
-    "summary": "맞춤형 AI 반도체 솔루션 기업 SEMIFIVE는 HyperAccel의 데이터센터 AI 추론 가속기 양산을 시작했다고 발표했다. 해당 가속기는 삼성전자 4nm 공정을 기반으로 제조된다. 이를 통해 SEMIFIVE는 고성능 AI 반도체의 맞춤형 설계 및 파운드리 생산 역량을 입증하게 됐다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-09",
-    "link": "https://www.semiconductor-digest.com/semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm",
-    "original_title": "SEMIFIVE Commences Mass Production of HyperAccel’s LLM AI Inference Accelerator ‘Bertha’ on Samsung 4nm",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/globalfoundries-and-u-s-department-of-commerce-finalize-375m-rd-award/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-u-s-department-of-commerce-finalize-375m-rd-award": {
-    "title": "글로벌파운드리, 미국 상무부와 3억 7,500만 달러 R&D 지원금 최종 협약 체결",
-    "summary": "글로벌파운드리(GF)는 미국 상무부와 3억 7,500만 달러 규모의 연구개발(R&D) 지원금 협약을 최종 체결했습니다. 이 자금은 GF의 양자 기술 솔루션 사업 구축을 가속화하는 데 활용될 예정입니다. 나아가 이 지원은 미국 내 양자 반도체 생태계의 경쟁력 강화에 기여할 것으로 보입니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-09",
-    "link": "https://www.semiconductor-digest.com/globalfoundries-and-u-s-department-of-commerce-finalize-375m-rd-award/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-u-s-department-of-commerce-finalize-375m-rd-award",
-    "original_title": "GlobalFoundries and U.S. Department of Commerce Finalize $375M R&D Award",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv/?utm_source=rss&utm_medium=rss&utm_campaign=asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv": {
-    "title": "ASML과 TSMC, 하이 NA EUV용 대형 포토마스크 산업 전환 선도를 위한 협력 발표",
-    "summary": "TSMC와 ASML은 반도체 산업이 대형 포맷 극자외선(EUV) 리소그래피 포토마스크로 전환하는 것을 선도하기 위한 협력 이니셔티브를 발표했습니다. 이 협력은 하이 NA EUV 공정 적용을 위한 기술적 전환을 가속화하는 데 목적이 있습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-09",
-    "link": "https://www.semiconductor-digest.com/asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv/?utm_source=rss&utm_medium=rss&utm_campaign=asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv",
-    "original_title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/nus-cde-researchers-develop-atom-thin-carbon-insulator-for-next-generation-microchips/?utm_source=rss&utm_medium=rss&utm_campaign=nus-cde-researchers-develop-atom-thin-carbon-insulator-for-next-generation-microchips": {
-    "title": "NUS CDE 연구진, 차세대 마이크로칩용 원자 단위 얇기의 탄소 절연체 개발",
-    "summary": "싱가포르 국립대학교(NUS) 공과대학(CDE) 연구진이 원자 두께의 얇은 탄소 필름을 개발했습니다. 이 신소재는 마이크로칩을 더 빠르고 에너지 효율적으로 만드는 데 가장 큰 걸림돌 중 하나를 극복하는 데 기여할 것으로 보입니다. 해당 기술은 차세대 반도체 소자 성능 향상을 위한 핵심 소재 혁신으로 평가받습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-09",
-    "link": "https://www.semiconductor-digest.com/nus-cde-researchers-develop-atom-thin-carbon-insulator-for-next-generation-microchips/?utm_source=rss&utm_medium=rss&utm_campaign=nus-cde-researchers-develop-atom-thin-carbon-insulator-for-next-generation-microchips",
-    "original_title": "NUS CDE Researchers Develop Atom-Thin Carbon Insulator for Next-Generation Microchips",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/magnifying-the-engineer-where-ai-fits-in-semiconductor-analytics/?utm_source=rss&utm_medium=rss&utm_campaign=magnifying-the-engineer-where-ai-fits-in-semiconductor-analytics": {
-    "title": "엔지니어의 역량 강화: 반도체 분석에서 AI의 역할",
-    "summary": "스포트파이어(Spotfire)의 브래드 호퍼 부사장은 반도체 팹, 파운드리, 장비 제조업체들이 AI와 데이터 분석 기술을 도입하는 이유를 설명했다. 신규 생산 능력이 가동되기를 기다리는 대신, 이를 통해 기존 시설의 수율, 품질, 생산량을 극대화하려는 전략이다. 이러한 분석 도구는 엔지니어의 역량을 증폭시켜 현재 인프라 내에서 운영 효율성을 높이는 데 기여한다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-09",
-    "link": "https://www.semiconductor-digest.com/magnifying-the-engineer-where-ai-fits-in-semiconductor-analytics/?utm_source=rss&utm_medium=rss&utm_campaign=magnifying-the-engineer-where-ai-fits-in-semiconductor-analytics",
-    "original_title": "Magnifying the Engineer: Where AI Fits in Semiconductor Analytics",
-    "lang": "en"
-  },
-  "https://airqualitynews.com/health/the-global-public-arent-as-worried-about-air-quality-as-they-should-be/?utm_source=rss&utm_medium=rss&utm_campaign=the-global-public-arent-as-worried-about-air-quality-as-they-should-be": {
-    "title": "전 세계 대중, 대기 질에 대해 기대만큼 우려하지 않아",
-    "summary": "새로운 글로벌 조사에 따르면 사람들이 마시는 공기의 실제 위험성과 이에 대한 우려 수준 사이에 현저한 괴리가 존재합니다. 전 세계 인구의 99%가 세계보건기구(WHO) 안전 기준을 초과하는 공기를 호흡하고 있음에도 불구하고, 상당수는 이에 대한 심각성을 인지하지 못하는 것으로 나타났습니다. 연구진은 이러한 인식 부족이 깨끗한 공기를 위한 정책 마련을 요구하는 대중의 압력을 약화시킬 수 있다고 경고했습니다.",
-    "source": "Air Quality News",
-    "date": "2026-09-07",
-    "link": "https://airqualitynews.com/health/the-global-public-arent-as-worried-about-air-quality-as-they-should-be/?utm_source=rss&utm_medium=rss&utm_campaign=the-global-public-arent-as-worried-about-air-quality-as-they-should-be",
-    "original_title": "The global public aren’t as worried about air quality as they should be",
-    "lang": "en"
-  },
-  "https://airqualitynews.com/headlines/wildfire-smoke-and-heatwaves-undermine-air-quality-gains/?utm_source=rss&utm_medium=rss&utm_campaign=wildfire-smoke-and-heatwaves-undermine-air-quality-gains": {
-    "title": "산불 연기와 폭염이 대기질 개선 성과를 위협한다",
-    "summary": "세계기상기구(WMO)의 새로운 보고서는 산불과 폭염이 증가함에 따라 수십 년간 이루어진 대기질 관리의 진전이 역행하고 있다고 경고했습니다. 이는 전 세계 인류 건강과 생태계에 중대한 위협이 되고 있습니다. 해당 연례 보고서는 '맑은 하늘을 위한 깨끗한 공기의 날'을 기념하기 위해 9월 7일에 발간되었습니다.",
-    "source": "Air Quality News",
-    "date": "2026-09-07",
-    "link": "https://airqualitynews.com/headlines/wildfire-smoke-and-heatwaves-undermine-air-quality-gains/?utm_source=rss&utm_medium=rss&utm_campaign=wildfire-smoke-and-heatwaves-undermine-air-quality-gains",
-    "original_title": "Wildfire smoke and heatwaves undermine air quality gains",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%e2%82%82-with-the-power-of-disorder/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%25e2%2582%2582-with-the-power-of-disorder": {
-    "title": "KAIST, '무질서의 힘'으로 CO₂보다 6천배 강력한 반도체 온실가스 제어",
-    "summary": "KAIST와 삼성전자는 여러 금속 원자를 혼합하여 구조를 안정화하는 '엔트로피 안정화' 원리를 기반으로 한 새로운 장수명 촉매를 개발했다. 이 촉매는 이산화탄소보다 온실가스 효과가 6,000배 더 강력한 반도체 공정 온실가스를 효과적으로 처리할 수 있다. 해당 기술은 반도체 제조 과정에서 발생하는 강력한 온실가스를 저감하여 환경적 영향을 줄이는 데 기여할 것으로 보인다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-05",
-    "link": "https://www.semiconductor-digest.com/kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%e2%82%82-with-the-power-of-disorder/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%25e2%2582%2582-with-the-power-of-disorder",
-    "original_title": "KAIST Tames a Semiconductor Greenhouse Gas 6,000 Times More Potent than CO₂ with the ‘Power of Disorder’",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/new-device-design-could-miniaturize-photonics-quantum-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=new-device-design-could-miniaturize-photonics-quantum-technologies": {
-    "title": "새로운 디바이스 설계, 광자 및 양자 기술의 소형화 가능",
-    "summary": "연구진이 엔지니어링된 반도체와 메타표면을 공동 설계하여 강력한 광학 디바이스를 개발했습니다. 이 기술은 광자 및 양자 기술의 소형화를 가능하게 할 것으로 기대됩니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-05",
-    "link": "https://www.semiconductor-digest.com/new-device-design-could-miniaturize-photonics-quantum-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=new-device-design-could-miniaturize-photonics-quantum-technologies",
-    "original_title": "New Device Design Could Miniaturize Photonics, Quantum Technologies",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/solvay-expands-electronic-grade-hydrogen-peroxide-capacity-in-taiwan/?utm_source=rss&utm_medium=rss&utm_campaign=solvay-expands-electronic-grade-hydrogen-peroxide-capacity-in-taiwan": {
-    "title": "솔베이, 대만 내 전자급 과산화수소 생산 능력 확대",
-    "summary": "솔베이는 대만에서 전자급 과산화수소 생산 능력을 확대한다. 이번 투자는 증가하는 반도체 수요를 지원하고 연말까지 현지 공급망을 강화하는 데 목적이 있다. 이를 통해 대만 지역 반도체 산업의 안정적인 화학물질 조달이 지원될 전망이다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-05",
-    "link": "https://www.semiconductor-digest.com/solvay-expands-electronic-grade-hydrogen-peroxide-capacity-in-taiwan/?utm_source=rss&utm_medium=rss&utm_campaign=solvay-expands-electronic-grade-hydrogen-peroxide-capacity-in-taiwan",
-    "original_title": "Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/global-semiconductor-equipment-billings-increased-23-year-over-year-in-q2-2026-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-equipment-billings-increased-23-year-over-year-in-q2-2026-semi-reports": {
-    "title": "SEMI 보고서: 2026년 2분기 글로벌 반도체 장비 매출 전년 대비 23% 증가",
-    "summary": "SEMI에 따르면 2026년 2분기 글로벌 반도체 장비 청구 금액이 전년 대비 23% 증가했다. 또한 전 분기와 비교해서도 11% 성장하는 등 견고한 상승세를 보였다. 이는 반도체 산업의 지속적인 투자 확대와 설비 수요 증가를 반영한 수치다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-05",
-    "link": "https://www.semiconductor-digest.com/global-semiconductor-equipment-billings-increased-23-year-over-year-in-q2-2026-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-equipment-billings-increased-23-year-over-year-in-q2-2026-semi-reports",
-    "original_title": "Global Semiconductor Equipment Billings Increased 23% Year-Over-Year in Q2 2026, SEMI Reports",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/nanobridge-semiconductor-adopts-siemens-precision-fpga-synthesis-for-low-power-and-harsh-environment-semiconductor-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=nanobridge-semiconductor-adopts-siemens-precision-fpga-synthesis-for-low-power-and-harsh-environment-semiconductor-innovation": {
-    "title": "나노브리지 반도체, 저전력·혹독한 환경 반도체 혁신 위해 지멘스 정밀 FPGA 합성 기술 도입",
-    "summary": "저전력 및 혹독한 환경용 반도체 기술을 개발하는 일본의 나노브리지 반도체(NBS)가 FPGA 개발을 위해 지멘스의 정밀 FPGA 합성 기술을 도입했다. 이를 통해 NBS는 저전력 소비와 극한 환경에서의 안정성을 갖춘 FPGA 제품 개발에 박차를 가할 전망이다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-05",
-    "link": "https://www.semiconductor-digest.com/nanobridge-semiconductor-adopts-siemens-precision-fpga-synthesis-for-low-power-and-harsh-environment-semiconductor-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=nanobridge-semiconductor-adopts-siemens-precision-fpga-synthesis-for-low-power-and-harsh-environment-semiconductor-innovation",
-    "original_title": "NanoBridge Semiconductor Adopts Siemens’ Precision FPGA Synthesis for Low-Power and Harsh-Environment Semiconductor Innovation",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology/?utm_source=rss&utm_medium=rss&utm_campaign=manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology": {
-    "title": "만츠 아시아와 수스, 반도체 잉크젯 기술 전략적 협력 발표",
-    "summary": "반도체 선진 패키징 장비 제조업체인 만츠 아시아는 반도체 산업 장비 및 공정 솔루션 제조업체인 수스와 전략적 협력을 발표했다. 양사는 반도체 제조 및 선진 패키징 애플리케이션을 위한 차세대 잉크젯 솔루션을 공동으로 개발할 예정이다. 이번 협력을 통해 두 회사는 반도체 제조 공정의 효율성을 높이는 기술 혁신을 도모한다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-04",
-    "link": "https://www.semiconductor-digest.com/manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology/?utm_source=rss&utm_medium=rss&utm_campaign=manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology",
-    "original_title": "Manz Asia and SUSS Announce Strategic Collaboration in Semiconductor Inkjet Technology",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters": {
-    "title": "Sivers Semiconductors, AI 데이터센터용 유럽 포토닉스 제조 확장에 3천만 달러 투자",
-    "summary": "Sivers Semiconductors는 AI 데이터센터 수요 증가에 대응하기 위해 3천만 달러를 투자해 유럽 내 포토닉스 제조 시설을 확장한다. 이번 글래스고 증설을 통해 InP(인듐인) 제조 능력이 연 1억 개 이상의 CW DFB 레이저로 확대된다. 이는 예상되는 AI 인프라 고객의 증산을 지원하기 위한 조치다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-04",
-    "link": "https://www.semiconductor-digest.com/sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters",
-    "original_title": "Sivers Semiconductors Invests $30 Million to Expand European Photonics Manufacturing for AI Datacenters",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26": {
-    "title": "Omdia: 중국 패널 제조사, 2026년 하반기 자동차용 디스플레이 출하량의 65% 차지 전망",
-    "summary": "Omdia의 새로운 연구에 따르면, 중국 패널 제조사가 2026년 하반기 글로벌 자동차용 디스플레이 출하량의 65.2%를 차지할 것으로 전망되었습니다. 이는 2026년 상반기의 59.0%에서 소폭 상승한 수치입니다. 자동차용 디스플레이 시장 내 중국 기업들의 지배력이 점차 강화되는 흐름을 보여줍니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-04",
-    "link": "https://www.semiconductor-digest.com/omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26",
-    "original_title": "Omdia: China-Based Panel Makers to Capture 65% of Automotive Display Shipments in 2H26",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference": {
-    "title": "기가포톤, SPIE 포토마스크 기술+EUV 리소그래피 컨퍼런스에서 마스크 검사용 EUV 광원 기술 발표",
-    "summary": "최첨단 반도체 제조 공정용 광원 제조사인 기가포톤이 SPIE 포토마스크 기술 및 EUV 리소그래피 컨퍼런스에서 연구 결과를 발표한다. 이번 발표는 액티닉 포토마스크 검사를 위한 주석 레이저 플라즈마(Sn-LPP) EUV 광원 기술의 지속적인 발전을 입증하는 내용을 담고 있다. 기가포톤은 이를 통해 반도체 제조 공정의 핵심인 EUV 광원 기술의 고도화를 추구하고 있다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-04",
-    "link": "https://www.semiconductor-digest.com/gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference",
-    "original_title": "Gigaphoton to Present on EUV Lightsource Advances for Actinic Mask Inspection at SPIE Photomask Technology + EUV Lithography Conference",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/globalfoundries-announces-customer-availability-of-ux-platform-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-announces-customer-availability-of-ux-platform-technologies": {
-    "title": "글로벌파운드리, UX 플랫폼 기술 고객 제공 개시",
-    "summary": "글로벌파운드리가 차세대 엣지 기기용 UX 플랫폼 기술을 고객에게 제공하기 시작했다. 이 플랫폼은 초저전력 연결, 센싱 및 혼합 신호 기술을 결합한 최신 기능 중심 CMOS 팹 제품군이다. 비용 효율적인 제조가 가능한 것이 특징이다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-03",
-    "link": "https://www.semiconductor-digest.com/globalfoundries-announces-customer-availability-of-ux-platform-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-announces-customer-availability-of-ux-platform-technologies",
-    "original_title": "GlobalFoundries Announces Customer Availability of UX Platform Technologies",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/globalfoundries-and-raaam-memory-technologies-announce-the-joint-development/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-raaam-memory-technologies-announce-the-joint-development": {
-    "title": "글로벌파운드리와 RAAAM 메모리, 공동 개발 발표",
-    "summary": "글로벌파운드리와 RAAAM 메모리 테크놀로지스는 첨단 AI 칩에 널리 사용되는 FDX 플랫폼을 위한 조밀한 표준 CMOS 온칩 메모리 솔루션 공동 개발을 발표했다. 이번 협력의 목표는 기존 상용 SRAM 대비 면적을 40% 줄이고 전력 소모를 최대 60% 감소시키는 것이다. 이를 통해 반도체 제조 공정에서 메모리 집적도와 전력 효율성을 획기적으로 개선할 수 있을 것으로 기대된다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-03",
-    "link": "https://www.semiconductor-digest.com/globalfoundries-and-raaam-memory-technologies-announce-the-joint-development/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-raaam-memory-technologies-announce-the-joint-development",
-    "original_title": "GlobalFoundries and RAAAM Memory Technologies Announce Joint Development",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging/?utm_source=rss&utm_medium=rss&utm_campaign=quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging": {
-    "title": "양자 다이아몬드, 비접촉 전류 이미징 기반 인라인 전기 검사 길목의 핵심 마일스톤 달성",
-    "summary": "퀀텀 다이아몬드는 반도체 구조에 물리적 접촉 없이 전류를 인가하는 새로운 마이크로파 유도 기술을 선보였다. 이를 통해 생산 팹에서 전기 데이터 기반의 인라인 품질 관리가 가능해지는 기반을 마련했다. 비접촉식 전류 이미징 기술은 반도체 제조 공정의 검사 효율과 신뢰성 향상에 기여할 것으로 보인다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-03",
-    "link": "https://www.semiconductor-digest.com/quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging/?utm_source=rss&utm_medium=rss&utm_campaign=quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging",
-    "original_title": "QuantumDiamonds Reaches Key Milestone on the Path to Inline Electrical Inspection with Contact-Free Current Imaging",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership": {
-    "title": "SEMI와 실리콘 캐털리스트, 전략적 파트너십으로 글로벌 반도체 혁신 가속화 도모",
-    "summary": "글로벌 반도체 산업 협회인 SEMI와 반도체 인큐베이터 실리콘 캐털리스트가 전략적 파트너십을 체결했다. 이 양해각서(MOU)는 SEMICON Taiwan 2026 행사에서 공식 체결되었다. 양사는 이번 협력을 통해 글로벌 반도체 혁신을 가속화하는 것을 목표로 하고 있다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-03",
-    "link": "https://www.semiconductor-digest.com/semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership",
-    "original_title": "SEMI and Silicon Catalyst Aim to Accelerate Global Semiconductor Innovation with Strategic Partnership",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/everspin-technologies-and-teledyne-hirel-semiconductors-partner-to-accelerate-mram-adoption-in-aerospace-and-defense-applications/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-and-teledyne-hirel-semiconductors-partner-to-accelerate-mram-adoption-in-aerospace-and-defense-applications": {
-    "title": "에버스핀 테크놀로지스와 텔레다인 하이렐 반도체, 항공우주 및 국방 분야 MRAM 도입 촉진을 위한 파트너십 체결",
-    "summary": "에버스핀 테크놀로지스와 텔레다인 하이렐 반도체는 항공우주 및 국방 분야에서 MRAM 도입을 가속화하기 위한 파트너십을 체결했습니다. 이번 협력을 통해 에버스핀의 256Mb PERSYST MRAM이 텔레다인 하이렐 반도체의 미션 크리티컬 시스템용 메모리 솔루션에 통합될 예정입니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-03",
-    "link": "https://www.semiconductor-digest.com/everspin-technologies-and-teledyne-hirel-semiconductors-partner-to-accelerate-mram-adoption-in-aerospace-and-defense-applications/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-and-teledyne-hirel-semiconductors-partner-to-accelerate-mram-adoption-in-aerospace-and-defense-applications",
-    "original_title": "Everspin Technologies and Teledyne HiRel Semiconductors Partner to Accelerate MRAM Adoption in Aerospace and Defense Applications",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics": {
-    "title": "EV그룹, 차세대 공동 패키지 광학의 핵심 제조 과제 해결",
-    "summary": "EV그룹은 첨단 패키징, 이종 통합 및 포토닉스 제조 분야의 수십 년 전문 지식을 바탕으로 차세대 공동 패키지 광학(CPO) 제조 과제를 해결한다. 이를 통해 EV그룹은 CPO 제조 가치 사슬의 여러 단계를 지원하고 있다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-02",
-    "link": "https://www.semiconductor-digest.com/ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics",
-    "original_title": "EV Group Addresses Critical Manufacturing Challenges for Next-Generation Co-Packaged Optics",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership/?utm_source=rss&utm_medium=rss&utm_campaign=kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership": {
-    "title": "쿨릭앤소파, Co-Packaged Optics(CPO) 및 첨단 패키징 선도를 통해 AI 인프라 발전 견인",
-    "summary": "쿨릭앤소파(Kulicke & Soffa)는 첨단 패키징 포트폴리오를 통해 차세대 인공지능(AI) 인프라의 핵심 공급자로서의 입지를 지속적으로 강화하고 있다. 특히 공동 패키지 광학(CPO) 기술과 첨단 패키징 분야의 선도적 역량을 바탕으로 AI 인프라 발전을 지원한다. 이를 통해 회사는 반도체 패키징 산업 내 기술적 경쟁력을 한층 확고히 다지고 있다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-02",
-    "link": "https://www.semiconductor-digest.com/kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership/?utm_source=rss&utm_medium=rss&utm_campaign=kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership",
-    "original_title": "Kulicke & Soffa Advances AI Infrastructure Through Co-Packaged Optics (CPO) and Advanced Packaging Leadership",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/teradyne-launches-advanced-ultraflexplus-instruments-engineered-for-ai-and-data-center-computing-devices/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-launches-advanced-ultraflexplus-instruments-engineered-for-ai-and-data-center-computing-devices": {
-    "title": "테라다인, AI 및 데이터센터 컴퓨팅 기기용 고급 UltraFLEXplus 장비 출시",
-    "summary": "자동화 테스트 장비 및 로봇 전문 기업인 테라다인이 UltraFLEXplus 플랫폼을 위한 3종의 신규 장비를 출시했다. 이번 장비들은 AI 및 데이터센터 반도체 테스트 요구사항이 점차 복잡해짐에 따라 이를 해결하기 위해 특별히 설계되었다. 이를 통해 반도체 산업의 발전과 테스트 공정의 효율성 향상이 기대된다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-02",
-    "link": "https://www.semiconductor-digest.com/teradyne-launches-advanced-ultraflexplus-instruments-engineered-for-ai-and-data-center-computing-devices/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-launches-advanced-ultraflexplus-instruments-engineered-for-ai-and-data-center-computing-devices",
-    "original_title": "Teradyne Launches Advanced UltraFLEXplus Instruments Engineered for AI and Data Center Computing Devices",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/navitas-delivers-latest-gen-5-ganfast-manufactured-in-the-u-s-through-globalfoundries-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=navitas-delivers-latest-gen-5-ganfast-manufactured-in-the-u-s-through-globalfoundries-partnership": {
-    "title": "나비타, 글로벌파운드리 파트너십 통해 미국 생산 5세대 GaNFast 출시",
-    "summary": "나비타(Navitas)와 글로벌파운드리(GlobalFoundries)는 미국 내 갈륨질화물(GaN) 혁신 및 국내 생산을 가속화하기 위해 장기 전략적 파트너십을 체결했다. 이 협력의 일환으로 미국에서 제조된 최신 5세대 GaNFast 제품이 출시되었다. 이를 통해 반도체 공급망이 강화되고 국내 제조 역량이 확보되었다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-02",
-    "link": "https://www.semiconductor-digest.com/navitas-delivers-latest-gen-5-ganfast-manufactured-in-the-u-s-through-globalfoundries-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=navitas-delivers-latest-gen-5-ganfast-manufactured-in-the-u-s-through-globalfoundries-partnership",
-    "original_title": "Navitas Delivers Latest Gen 5 GaNFast Manufactured in the U.S. Through GlobalFoundries Partnership",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips/?utm_source=rss&utm_medium=rss&utm_campaign=wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips": {
-    "title": "웨이퍼 단위 P형 2D 반도체, 차세대 칩을 위한 핵심 장애물 해결",
-    "summary": "웨이퍼 단위의 P형 2차원(2D) 반도체가 높은 정공 이동도와 강력한 안정성을 확보하며 트랜지스터 성능을 입증했다. 이는 차세대 CMOS 전자 기기 발전을 위한 핵심 기술적 한계를 극복한 것으로 평가된다. 해당 성과는 2D 반도체 소재의 상용화 가능성을 높이는 의미 있는 진전이다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-01",
-    "link": "https://www.semiconductor-digest.com/wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips/?utm_source=rss&utm_medium=rss&utm_campaign=wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips",
-    "original_title": "Wafer-Scale P-Type 2D Semiconductor Clears a Key Hurdle for Next-Generation Chips",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/polyu-develops-quantum-tunnelling-field-effect-transistor/?utm_source=rss&utm_medium=rss&utm_campaign=polyu-develops-quantum-tunnelling-field-effect-transistor": {
-    "title": "홍콩 폴리텍대, 양자 터널링 전계효과 트랜지스터 개발",
-    "summary": "차세대 마이크로일렉트로닉스는 연산 능력 향상을 위해 트랜지스터 스위칭 성능의 획기적 개선에 의존하고 있다. 이에 따라 홍콩 폴리텍대학(PolyU)이 양자 터널링 전계효과 트랜지스터(FET)를 새롭게 개발했다. 이 기술은 향후 반도체 소자의 성능 향상에 기여할 것으로 보인다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-01",
-    "link": "https://www.semiconductor-digest.com/polyu-develops-quantum-tunnelling-field-effect-transistor/?utm_source=rss&utm_medium=rss&utm_campaign=polyu-develops-quantum-tunnelling-field-effect-transistor",
-    "original_title": "PolyU Develops Quantum-Tunnelling Field-Effect Transistor",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing": {
-    "title": "트라이맥스, AOI와 InP 레이저 제조 지원 위한 수백만 달러 공급 계약 체결",
-    "summary": "트라이맥스 반도체 장비는 어플라이드 옵토일렉트로닉스(AOI)로부터 수백만 달러 규모의 다년간 구매 주문을 받았다고 발표했다. 이번 공급 계약은 AOI의 인듐인(P) 레이저 제조를 지원하기 위해 체결되었다. 이를 통해 트라이맥스는 관련 장비 공급을 통해 반도체 및 광전자 소자 생산 역량 강화에 기여할 전망이다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-01",
-    "link": "https://www.semiconductor-digest.com/trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing",
-    "original_title": "Trymax Secures Multi-Million-Dollar Supply Agreement with AOI to Support InP Laser Manufacturing",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026": {
-    "title": "AUO, SEMICON Taiwan 2026에서 마이크로 LED 광통신 및 글래스 코어 기판 기술 선봬",
-    "summary": "AI 애플리케이션의 확산에 따라 고성능 컴퓨팅과 고속 데이터 전송 수요가 가속화되고 있다. 이에 따라 AI 인프라 용량이 산업 성장을 견인하는 핵심 요소로 부상했다. AUO는 SEMICON Taiwan 2026 행사에서 마이크로 LED 광통신 기술과 글래스 코어 기판 기술을 선보였다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-01",
-    "link": "https://www.semiconductor-digest.com/auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026",
-    "original_title": "AUO Showcases Micro LED Optical Communication and Glass Core Substrates Technologies at SEMICON Taiwan 2026",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/rigaku-to-showcase-advanced-x-ray-metrology-and-inspection-solutions-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=rigaku-to-showcase-advanced-x-ray-metrology-and-inspection-solutions-at-semicon-taiwan-2026": {
-    "title": "리가쿠, SEMICON Taiwan 2026에서 첨단 X선 계측 및 검사 솔루션 선보여",
-    "summary": "리가쿠 그룹은 2026년 9월 2일부터 4일까지 타이페이 TaiNEX 1 및 2에서 개최되는 SEMICON Taiwan 2026에 참가한다. 이 전시회에서 리가쿠는 첨단 X선 계측 및 검사 솔루션을 선보일 예정이다. 이를 통해 반도체 제조 공정에 필요한 핵심 장비 기술을 소개할 계획이다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-01",
-    "link": "https://www.semiconductor-digest.com/rigaku-to-showcase-advanced-x-ray-metrology-and-inspection-solutions-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=rigaku-to-showcase-advanced-x-ray-metrology-and-inspection-solutions-at-semicon-taiwan-2026",
-    "original_title": "Rigaku to Showcase Advanced X-ray Metrology and Inspection Solutions at SEMICON Taiwan 2026",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/qnity-introduces-stackplane-cmp-slurry-platform-for-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-introduces-stackplane-cmp-slurry-platform-for-advanced-packaging": {
-    "title": "큐니티, 첨단 패키징용 스택플레인 CMP 슬러리 플랫폼 출시",
-    "summary": "큐니티(Qnity)가 첨단 패키징 공정을 지원하기 위해 스택플레인(Stackplane) CMP 슬러리 플랫폼을 출시했다. 이 플랫폼은 수축 및 적층(shrink-and-stack) 기술 전환을 지원하며, 큐니티의 엔드투엔드 첨단 패키징 포트폴리오의 일부로 제공된다. 첨단 패키징 공정의 효율성을 높이는 데 기여할 것으로 보인다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-01",
-    "link": "https://www.semiconductor-digest.com/qnity-introduces-stackplane-cmp-slurry-platform-for-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-introduces-stackplane-cmp-slurry-platform-for-advanced-packaging",
-    "original_title": "Qnity Introduces Stackplane CMP Slurry Platform for Advanced Packaging",
-    "lang": "en"
-  },
-  "https://spectrum.ieee.org/europes-ai-drive": {
-    "title": "EU의 AI 추진이 자체 반도체 전략을 약화시키는 방식",
-    "summary": "유럽연합(EU)이 AI 팩토리 및 데이터 센터를 확충하며 선진 반도체 수요를 급증시키고 있으나, 글로벌 칩 생산의 10% 미만만을 담당해 미국과 아시아에 대한 의존도가 높은 모순을 안고 있다. 이에 EU 집행위원회는 수요 확대를 통해 투자를 유도하기 위한 수요 측면의 조치를 포함한 '칩스 액트 2.0(Chips Act 2.0)' 개편을 추진 중이다. 그러나 유럽감사원은 2030년 글로벌 반도체 생산 점유율 20% 달성 목표가 불가능할 것으로 경고하며, 실제 점유율은 약 11.7% 수준에 그칠 것으로 전망했다.",
+  "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors": {
+    "title": "Common Earth 프로젝트는 칩 공급망 병목 현상을 종식시키는 것을 목표로 합니다.",
+    "summary": "많은 산업 분야의 공급망은 복잡하게 얽혀 있지만, 반도체 기술의 경우에는 문제가 가벼워집니다. 많은 칩 구성 요소는 위치가 제한되어 있으며 지정학적 요인으로 인해 쉽게 제한될 수 있습니다. 칩 제조는 사회적, 환경적 문제와도 연관되어 있으며, 겉보기에 작은 가닥 하나라도 무너지면 전체가 무너질 수 있습니다. 앤아버에 있는 미시간 대학의 연구원들은 나노 전자 연구 거대 Imec과 협력하여 재료 병목 현상을 해결할 수 있는 방법을 찾고 있으며, 희토류에 대한 반도체 산업의 의존도와 대조하기 위해 그들의 프로젝트를 \"Common Earth\"라고 명명했습니다. 그들은 반도체 공급망에서 중요한 요소와 화학물질을 영구적으로 대체할 수 있는 영리한 솔루션을 찾고 있습니다. IEEE Spectrum은 University of Michigan에서 연구를 주도하고 있는 두 명의 연구원, 즉 컴퓨터 공학 교수이자 부총장인 Valeria Bertacco와 재료 과학 및 공학 부교수인 John Heron과 이야기를 나눴습니다. 당신은 정확히 어떤가요?",
     "source": "IEEE Spectrum · Semiconductors",
-    "date": "2026-08-31",
-    "link": "https://spectrum.ieee.org/europes-ai-drive",
-    "original_title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
+    "date": "2026-08-15",
+    "link": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
+    "original_title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
     "lang": "en"
   },
-  "https://spectrum.ieee.org/spain-nuclear-power-reactor-shutdowns": {
-    "title": "에너지 위기 속 스페인, 원전 폐지 일정 연장",
-    "summary": "스페인 정부는 약 2GW 규모의 알마라즈 원자력 발전소 2기의 가동 중단을 3년 연장하는 법령을 발표했다. 중동 사태를 연장 사유로 들었으나, 실제로는 우크라이나 전쟁과 천연가스 가격 상승, 태양광 발전 비중 확대에 따른 전력망 안정화 필요성 등 복합적 요인이 작용한 것으로 분석된다. 이에 따라 원전 단계적 폐지를 주장하던 연정 내 일부 정당과 갈등이 발생했다. 유럽 전역에서 러시아산 가스 대체 수요와 전력망 안정성 확보를 위해 원전 폐지 정책을 재검토하는 움직임이 확산하고 있다.",
+  "https://spectrum.ieee.org/stimulated-geologic-hydrogen": {
+    "title": "잽 록스. 물을 추가하십시오. 깨끗한 수소를 얻으세요",
+    "summary": "고요한 보스턴 교외의 말 농장 가장자리, 목초지가 숲으로 이어지는 곳에서 크레인이 거대한 전극을 시추공으로 내립니다. 시추공 벽과의 좋은 접촉을 보장하기 위해 끝에 구리로 된 팔이 달린 0.5미터 길이의 실린더인 전극은 해면질 사암층을 통해 지하 수백 미터에 있는 고대 산맥의 단단하고 대리석으로 뒤덮인 뿌리까지 더 깊고 깊게 내려갑니다. 여기 바위는 단단합니다. 물이나 가스가 흐를 수 있는 균열이 거의 없습니다. 하지만 이제 곧 바뀔 예정입니다. 아주 가까운 거리에 두 번째 전극(첫 번째 전극의 쌍둥이 전극)이 같은 깊이의 다른 시추공에 고정되었습니다. 지상에서 두 전극에 케이블로 연결된 한 쌍의 고전압 발생기가 일련의 펄스를 발생시킵니다. 쯧쯧!…쯧쯧!…쯧쯧!…쯧쯧!…쯧!… 각각의 방전은 표면에서 희미하게 들리는데, 마치 지하에서 번개가 치는 미니어처 소리와 같습니다. 전극 사이의 암석이 가열됩니다. 압력이 가해집니다. 그러다가 갑자기 바위가 거미줄처럼 갈라져 갈라집니다. 말을 타고 멀리",
     "source": "IEEE Spectrum · Energy",
-    "date": "2026-08-29",
-    "link": "https://spectrum.ieee.org/spain-nuclear-power-reactor-shutdowns",
-    "original_title": "Spain Slows Nuclear Phaseout Amidst Energy Turbulence",
+    "date": "2026-08-11",
+    "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+    "original_title": "Zap Rocks. Add Water. Get Clean Hydrogen",
     "lang": "en"
   },
-  "https://www.semiconductor-digest.com/researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors": {
-    "title": "트랜지스터 접촉 저항을 낮추는 단계적 증발법 개발",
-    "summary": "트랜지스터 크기가 계속 미세화됨에 따라 금속 내부 및 금속-반도체 계면의 구조적 무질서가 캐리어 주입과 이동을 점점 더 방해하고 있다. 소자 성능을 물리적 한계까지 끌어올리기 위해서는 단결정 반도체와 유사한 수준의 구조적 질서를 갖춘 금속이 필요하다. 이에 연구진는 트랜지스터의 접촉 저항을 줄이기 위해 단계적 증발법을 새롭게 개발했다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-08-29",
-    "link": "https://www.semiconductor-digest.com/researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors",
-    "original_title": "Researchers Develop Stepwise Evaporation Method to Reduce Contact Resistance in Transistors",
+  "https://spectrum.ieee.org/new-york-data-center-ban": {
+    "title": "뉴욕의 데이터 센터 금지 조치로 그리드 문제가 해결되지 않음",
+    "summary": "뉴욕에는 새로운 데이터 센터가 특별히 넘쳐나는 것은 아니지만, 이를 금지한 미국 최초의 주가 되었습니다. Kathy Hochul 주지사는 7월 14일 행정 명령을 통해 50메가와트 이상의 전력을 소비하는 데이터 센터에 대해 최대 1년의 유예를 부과했습니다. 이러한 금지 조치는 데이터 센터의 전력 및 물 사용과 주거용 전기 요금에 미치는 영향에 대한 우려에서 비롯되었습니다. 이러한 우려는 지난해 미국 전역에서 프로젝트를 제안하고 그리드 연결을 요청하는 개발자가 늘어나면서 급격히 높아졌습니다. 국내 데이터 센터 에너지 사용량은 2050년까지 6,500억 킬로와트시를 초과하여 현재 소비량의 두 배에서 네 배로 늘어날 것으로 예상됩니다. 버지니아, 텍사스, 캘리포니아는 데이터 센터의 맹공격을 받아 대중의 반발을 불러일으키고 그리드 운영자가 뒤처지게 되었습니다. 하지만 뉴욕에서는 그렇지 않습니다. 주 전력망의 전기 마진이 부족하고 전력 요금이 오르고 있지만 현재로서는 데이터 센터가 책임이 없습니다. “내 생각엔 우리가 실제로 그런 건 아닌 것 같아",
+    "source": "IEEE Spectrum · Energy",
+    "date": "2026-08-06",
+    "link": "https://spectrum.ieee.org/new-york-data-center-ban",
+    "original_title": "New York’s Data Center Ban Won’t Solve Its Grid Problems",
     "lang": "en"
   },
-  "https://www.semiconductor-digest.com/new-transistor-brings-high-voltage-to-microchip-scale/?utm_source=rss&utm_medium=rss&utm_campaign=new-transistor-brings-high-voltage-to-microchip-scale": {
-    "title": "고전압을 마이크로칩 규모로 구현하는 새로운 트랜지스터",
-    "summary": "EPFL 엔지니어들은 질화 갈륨(GaN)의 특성을 활용하여 최소한의 에너지 손실로 매우 높은 전압을 처리할 수 있는 초소형 트랜지스터를 개발했다. 이 기술은 고전압 처리 능력이 필수적인 AI 데이터 센터, 전기차, 태양광 발전 시스템 등의 핵심 요구 사항을 충족한다. 해당 연구 결과는 반도체 전문 매체인 Semiconductor Digest를 통해 처음 소개되었다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-08-29",
-    "link": "https://www.semiconductor-digest.com/new-transistor-brings-high-voltage-to-microchip-scale/?utm_source=rss&utm_medium=rss&utm_campaign=new-transistor-brings-high-voltage-to-microchip-scale",
-    "original_title": "New Transistor Brings High Voltage to Microchip Scale",
+  "https://spectrum.ieee.org/ieee-course-ai-power-grids": {
+    "title": "IEEE 과정에서는 AI를 사용하여 전력망을 현대화하는 방법을 가르칩니다.",
+    "summary": "지금까지 구축된 시스템 중 가장 크고 복잡한 시스템 중 하나인 오늘날의 미국 전력망은 한계에 도달해 작동하고 있습니다. 미국 에너지부에 따르면 급속한 산업 성장, 더 자주 발생하는 기상 이변, 기록적인 전력 사용량 급증으로 인해 전력망이 한계점에 이르렀다고 합니다. 대부분의 전력이 중앙 집중식 석탄 또는 가스 발전소에서 나오고 전기 사용량이 꾸준한 속도로 증가하는 보다 예측 가능한 세상을 위해 수십 년 전에 구축된 그리드는 부분적으로 데이터 센터의 수요 증가로 인해 예상치 못한 부담에 직면해 있습니다. 인프라를 관리하는 전문가의 업무는 전통적인 엔지니어링 작업에서 복잡하고 빠르게 진행되는 과제로 발전했습니다. 업계 보고서에 따르면 수백만 개의 최신 디지털 센서, 스마트 계량기, 그리드 모니터가 끊임없이 정보의 물결을 생성하고 있습니다. 엄청난 양의 데이터에는 즉각적이고 자동화된 컴퓨터 분석이 필요합니다. 왜냐하면 작업자가 이를 충분히 빠르게 처리할 수 없기 때문입니다. 유틸리티에 대한 압력은 두 가지 원인에서 비롯됩니다.",
+    "source": "IEEE Spectrum · Energy",
+    "date": "2026-08-06",
+    "link": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
+    "original_title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
     "lang": "en"
   },
-  "https://www.semiconductor-digest.com/diodes-completes-acquisition-of-elevate-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=diodes-completes-acquisition-of-elevate-semiconductor": {
-    "title": "다이오디스, 엘리베이트 세마컨덕터 인수 완료",
-    "summary": "다이오디스는 자동 테스트 장비(ATE) 시장용 고성능 집적회로 제공업체인 엘리베이트 세마컨덕터의 인수를 완료했다고 발표했다. 이번 인수는 2억 5천만 달러의 현금 거래로 진행되었다. 이를 통해 다이오디스는 반도체 테스트 장비 분야의 사업 역량을 강화할 것으로 전망된다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-08-29",
-    "link": "https://www.semiconductor-digest.com/diodes-completes-acquisition-of-elevate-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=diodes-completes-acquisition-of-elevate-semiconductor",
-    "original_title": "Diodes Completes Acquisition of ElevATE Semiconductor",
+  "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation": {
+    "title": "시뮬레이션 앱을 사용하여 전자 장치 고장의 근본 원인 식별",
+    "summary": "이 기사는 COMSOL에서 제공한 것입니다. 향상된 주행 거리, 더 큰 신뢰성, 더 빠른 충전을 추구하면서 전기 자동차는 고전압 전자 장치에 대한 수요를 주도하고 있습니다. 이러한 수요를 주도하는 다른 애플리케이션으로는 풍력 발전소, 데이터 센터, 서버 팜 등이 있습니다. 고전압 전자 장치에 대한 관심이 높아짐에 따라 갑작스러운 고장과 관련된 위험을 고려해야 합니다. 고전압 장비의 오작동을 유발하는 대부분의 원인은 해당 장비가 작동하는 기후 조건과 관련이 있을 수 있습니다. 특히, 습기로 인해 전자 표면에 응결이 발생하면 부식이 발생하여 ECM(전기화학적 마이그레이션) 중에 표유 누출 전류 및 수지상 단락이 발생할 수 있습니다. 부식을 고려한 사전 설계, 예측, 완화 및 지원은 덴마크 기술 대학(DTU)의 전자 부식 센터(CELCORR) 연구 그룹의 초점입니다. 그룹의 연구원들은 업계 파트너와 협력하여",
+    "source": "IEEE Spectrum · Semiconductors",
+    "date": "2026-08-03",
+    "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+    "original_title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/sodium-ion-battery-peak-energy": {
+    "title": "나트륨 이온 배터리가 미국에서 또 다른 성공을 거두었습니다.",
+    "summary": "미국의 나트륨 이온 배터리 개발에 어려움이 있음에도 불구하고 스타트업인 Peak Energy는 이 기술을 사용하여 그리드용 에너지를 저장하는 야심 찬 응용을 마침내 달성할 수 있다고 말합니다. 미국의 스타트업인 Natron Energy와 Bedrock Materials가 작년에 나트륨 이온 배터리 사업을 중단했을 때 그들은 12개 이상의 실패한 서구 배터리 회사의 불명예스러운 목록에 합류했습니다. 중국에 본사를 둔 세계 최대 배터리 회사인 CATL은 지난 4월에 그리드 스토리지 제공업체인 HyperStrong에 60기가와트시 나트륨 이온 셀을 공급할 것이라고 발표했습니다. 역사상 최대 규모의 나트륨 이온 배터리 주문은 중국이 지난 몇 년간 인산철 리튬과 마찬가지로 또 다른 유망한 화학 분야를 장악하고 있음을 시사했습니다. 콜로라도에 본사를 둔 Peak Energy는 Natron과 같은 회사가 실패한 곳에서도 성공할 수 있다고 주장합니다. 회사 경영진은 자사의 나트륨 이온 기술이 현재 사용되는 저가형 인산철리튬(LFP) 배터리와 직접적으로 경쟁할 수 있다고 말합니다.",
+    "source": "IEEE Spectrum · Energy",
+    "date": "2026-07-23",
+    "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+    "original_title": "Sodium-Ion Batteries Get Another Shot at Success in the U.S.",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/led-light-pollution": {
+    "title": "우리는 밤하늘을 구할 수 있는 LED의 잠재력을 낭비하고 있습니다.",
+    "summary": "런던의 쌀쌀한 봄밤, 흐린 하늘 아래 상징적인 트라팔가 광장이 내 주위에 펼쳐졌습니다. 넬슨 제독이 받침대 위에 서 있고, 그 뒤에 내셔널 갤러리가 자리잡고 있으며, 근처에는 세인트 마틴 인더 필즈 교회가 있습니다. 13세기부터 이 장소는 매와 말을 위한 왕실 마구로 사용되었습니다. 1844년까지 이곳은 세계에서 가장 큰 도시 중 하나의 중심에 있는 공공 장소였습니다. 그 장대한 역사 속에서 광장의 존재에도 불구하고, 그것이 내가 여기 있는 이유는 아닙니다. 내 관심은 훨씬 더 구체적입니다. 인공 조명, 특히 발광 다이오드(LED)가 침입하면 이와 같은 공간에 어떤 일이 일어나는지 알고 싶습니다. 오늘 밤 내 동반자는 현지 조명 디자이너인 Simon Thorp입니다. 그는 손에 측광기를 들고 Nelson의 첨탑 근처 그림자 속에 웅크리고 있습니다. “2럭스 정도인데 여기는 매우 편안해요.”라고 그는 말합니다. 2럭스는 보름달 밝기의 10~20배에 해당합니다. 우리는 서로를 선명하게 볼 수 있으며, 근처에 폐쇄회로 텔레비전(CCTV)이 있음을 보증하는 표지판이 있습니다.",
+    "source": "IEEE Spectrum · Semiconductors",
+    "date": "2026-07-20",
+    "link": "https://spectrum.ieee.org/led-light-pollution",
+    "original_title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/800-vdc-for-data-centers": {
+    "title": "그리드 운영자는 데이터 센터의 고전압 DC 전력을 측정합니다.",
+    "summary": "데이터 센터 개발자와 하이퍼스케일러는 가장 큰 데이터 센터 내에서 800V 직류(800VDC)를 실험하고 있습니다. 최신 AI 애플리케이션을 실행하기 위해 훨씬 더 작은 공간에 더 많은 컴퓨팅 성능을 담을 수 있습니다. 800VDC는 또한 전선의 폐열을 줄이고, 케이블 무게를 낮추며, 여러 AC-DC-AC 변환에 필요한 장비를 제거합니다. ERCOT(Electric Reliability Council of Texas)의 LLWG(대부하 실무 그룹)는 여러 800VDC 시설 설계를 수용하는 방법을 평가하고 있습니다. 예를 들어, 데이터 센터 전력 인프라 제공업체인 Dimaag는 지난 4월 AI의 대규모 부하 변동으로부터 그리드를 보호하는 방법을 제시했습니다. 이 방법은 거의 아무것도 없는 상태에서 수백 메가와트까지 초당 몇 번씩 전환하고 다시 되돌릴 수 있습니다. DiMaag의 시스템은 또한 짧은 전압 강하 동안에도 데이터 센터가 그리드에 연결된 상태를 유지하거나 \"승속\"할 수 있도록 해줍니다. 이 기능을 LVRT(저전압 라이드 스루)라고 합니다. “그리드 인프라는 다음을 위해 구축되지 않았습니다.",
+    "source": "IEEE Spectrum · Energy",
+    "date": "2026-07-16",
+    "link": "https://spectrum.ieee.org/800-vdc-for-data-centers",
+    "original_title": "Grid Operators Weigh High-Voltage DC Power for Data Centers",
     "lang": "en"
   }
 }
