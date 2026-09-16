@@ -1,16 +1,88 @@
 {
-  "https://www.semiconductor-digest.com/minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor": {
-    "title": "미네소타 철광석, 지속 가능하고 저렴한 반도체 제조의 핵심 될 수도",
-    "summary": "최근 발견된 미네소타 철광석이 향후 전자기기, 태양광 패널, 배터리 등의 제조 원가를 낮추고 지속 가능성을 높이는 데 중요한 역할을 할 수 있다. 해당 발견은 반도체 분야의 친환경 및 저비용화 방안에 새로운 가능성을 제시한다.",
+  "https://www.semiconductor-digest.com/amd-appoints-tim-ryan-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=amd-appoints-tim-ryan-to-board-of-directors": {
+    "title": "AMD, 팀 라이언 이사회 임원으로 선임",
+    "summary": "AMD는 팀 라이언을 이사회 임원으로 선임했다고 발표했다. 해당 임명은 2026년 8월 19일부로 효력이 발생한다.",
     "source": "Semiconductor Digest",
+    "date": "2026-08-21",
+    "link": "https://www.semiconductor-digest.com/amd-appoints-tim-ryan-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=amd-appoints-tim-ryan-to-board-of-directors",
+    "original_title": "AMD Appoints Tim Ryan to Board of Directors",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/?utm_source=rss&utm_medium=rss&utm_campaign=micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub": {
+    "title": "마이크론, 미국 기반 장기 혁신 허브 '마이크론 리서치 랩스' 공개",
+    "summary": "마이크론은 향후 10년간 100억 달러를 투자하여 미국에 '마이크론 리서치 랩스'를 설립한다. 이 연구 허브는 AI 시대를 정의할 메모리 및 컴퓨팅 혁신을 이끌기 위해 학계, 정부, 스타트업 및 산업계를 하나로 모을 예정이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-08-21",
+    "link": "https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/?utm_source=rss&utm_medium=rss&utm_campaign=micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub",
+    "original_title": "Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics/?utm_source=rss&utm_medium=rss&utm_campaign=high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics": {
+    "title": "전하 전달 역학이 향상된 고효율 및 안정적인 심청색 이리듐 인광 OLED",
+    "summary": "심청색 인광 유기 발광 다이오드(Ph-OLED)는 고급 풀컬러 디스플레이에 필수적이지만, 고효율이면서도 안정적인 심청색 발광체를 개발하는 것은 여전히 큰 과제로 남아 있다. 본 연구는 전하 전달 역학을 향상시켜 이러한 한계를 극복한 심청색 이리듐 인광 OLED를 소개한다. 해당 기술은 차세대 디스플레이의 색역 및 수명 개선에 기여할 수 있는 핵심 반도체 소자 기술로 평가된다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-08-21",
+    "link": "https://www.semiconductor-digest.com/high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics/?utm_source=rss&utm_medium=rss&utm_campaign=high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics",
+    "original_title": "High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/silicon-catalyst-expands-us-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-catalyst-expands-us-leadership-team": {
+    "title": "실리콘 촉매, 미국 리더십 팀 확대",
+    "summary": "반도체 생태계 전문 인큐베이터인 실리콘 촉매(Silicon Catalyst)가 글로벌 포트폴리오 확장에 발맞춰 미국 리더십 팀을 강화했다. 이번 인사 발표는 창업자들과 전략적 파트너들에게 더욱 깊이 있는 전문성을 제공하기 위해 마련되었다. 이를 통해 반도체 산업 내 지원 역량을 강화할 것으로 보인다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-08-21",
+    "link": "https://www.semiconductor-digest.com/silicon-catalyst-expands-us-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-catalyst-expands-us-leadership-team",
+    "original_title": "Silicon Catalyst Expands US Leadership Team",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities": {
+    "title": "큐니티, 차세대 KLA 검사 역량 통해 첨단 노드 소재 혁신 가속화",
+    "summary": "큐니티는 차세대 KLA 검사 역량을 도입하여 첨단 노드 소재 혁신을 가속화한다. 이 투자를 통해 소재 개발부터 제조에 이르는 전 과정의 공정 제어能力이 강화된다. 첨단 반도체 소재의 품질 관리와 불량률 감소에 핵심적인 역할을 할 것으로 보인다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-08-21",
+    "link": "https://www.semiconductor-digest.com/qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities",
+    "original_title": "Qnity Accelerates Advanced Node Materials Innovation with Next-Generation KLA Inspection Capabilities",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september/?utm_source=rss&utm_medium=rss&utm_campaign=honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september": {
+    "title": "인도 총리 나렌드라 모디, 2026년 9월 17일 SEMICON India 2026 개막식 참석 예정",
+    "summary": "SEMI와 인도 반도체 미션(ISM)은 인도 총리 나렌드라 모디가 2026년 9월 17일 뉴델리 야쇼부미(인도국제컨벤션엑스포센터)에서 개최되는 SEMICON India 2026의 개막식을 주재할 것이라고 발표했다. 이 행사는 인도의 반도체 산업 육성 의지를 대외적으로 알리는 중요한 자리가 될 전망이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-08-20",
+    "link": "https://www.semiconductor-digest.com/honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september/?utm_source=rss&utm_medium=rss&utm_campaign=honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september",
+    "original_title": "Hon’ble PM Shri. Narendra Modi to Inaugurate SEMICON India 2026 on 17th September",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/menlo-microsystems-appoints-richard-simoncic-as-chief-executive-officer/?utm_source=rss&utm_medium=rss&utm_campaign=menlo-microsystems-appoints-richard-simoncic-as-chief-executive-officer": {
+    "title": "멘로 마이크로시스템즈, 리처드 시몬시치 최고경영자로 임명",
+    "summary": "멘로 마이크로시스템즈는 전 마이크로칩 최고운영책(COO)인 리처드 시몬시치를 새 최고경영자(CEO)로 임명했다. 시몬시치는 반도체 사업 확장 경험이 35년에 달하는 전문가이다. 이번 임용은 AI 인프라 및 고성장 시장으로의 상업적 적용을 확대하기 위한 회사의 전략적 조치이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-08-20",
+    "link": "https://www.semiconductor-digest.com/menlo-microsystems-appoints-richard-simoncic-as-chief-executive-officer/?utm_source=rss&utm_medium=rss&utm_campaign=menlo-microsystems-appoints-richard-simoncic-as-chief-executive-officer",
+    "original_title": "Menlo Microsystems Appoints Richard Simoncic as Chief Executive Officer",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/proteantecs-unveils-advanced-packaging-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=proteantecs-unveils-advanced-packaging-solutions": {
+    "title": "프로테인텍스, 첨단 패키징 솔루션 공개",
+    "summary": "프로테인텍스가 조립 전 스크리닝부터 SiP 생산 및 작동 단계까지 칩렛 단위의 가시성을 제공하는 첨단 패키징 솔루션을 공개했다. 이 솔루션은 고비용의 패키징 불량을 줄여주고 멀티 다이 시스템의 전력 및 성능을 최적화할 수 있도록 지원한다. 이를 통해 반도체 업체들은 패키징 공정의 수율 및 신뢰성을 향상시킬 수 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-08-20",
+    "link": "https://www.semiconductor-digest.com/proteantecs-unveils-advanced-packaging-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=proteantecs-unveils-advanced-packaging-solutions",
+    "original_title": "proteanTecs Unveils Advanced Packaging Solutions",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors": {
+    "title": "공통 지구 프로젝트, 반도체 공급망 병목 해결 목표",
+    "summary": "미시간 대학교 연구진과 나노전자연구소 imec는 반도체 공급망 병목 현상을 해결하기 위해 '공통 지구(Common Earth)' 프로젝트를 진행 중이다. 이 프로젝트는 희토류에 대한 의존도를 줄이는 데 목적을 두고 있다. 또한 반도체 제조에 사용되는 영구 화학물질인 PFAS를 대체할 방안을 모색하고 있다.",
+    "source": "IEEE Spectrum · Semiconductors",
     "date": "2026-08-15",
-    "link": "https://www.semiconductor-digest.com/minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor",
-    "original_title": "Minnesota Iron Ore Could Be Key to Sustainable and Lower-Cost Semiconductor",
+    "link": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
+    "original_title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
     "lang": "en"
   },
   "https://spectrum.ieee.org/stimulated-geologic-hydrogen": {
-    "title": "전기로 바위를 쪼개고 물을 넣으면 깨끗한 수소가 나온다",
-    "summary": "미국 매사추세츠의 스타트업 에덴 지오파워(Eden GeoPower)는 전기를 이용해 지하 암반에 미세한 균열을 만드는 '전기 저류층 자극' 기술을 현장 시험하고 있다. 두 개의 전극 보어홀에 고전압 펄스를 가해 지하 수백 미터 깊이의 암반을 가열하고 파열시키는 방식이다. 이 기술은 광물 채굴, 지열 발전, 탄소 지중 저장 등에 활용될 수 있으며, 수소 생산에도 적용 가능한 것으로 기대된다.",
+    "title": "전기로 바위를 쪼개고 물을 더하면 깨끗한 수소가 된다",
+    "summary": "매사추세츠주의 스타트업 에덴 지오파워(Eden GeoPower)는 전기를 이용해 지하 암반에 미세한 균열을 만드는 전기저류자극 기술을 현장에서 시험하고 있다. 고전압 발전기로 지하에 설치된 두 전극에 펄스를 발생시키면 방전 현상으로 인해 암반 내부에 거미줄 같은 균열이 생성된다. 이 독특한 기술은 광물 채굴과 지열 발전, 이산화탄소 지중 저장 등 다양한 환경 및 에너지 분야에 활용될 수 있는 가능성을 가진다.",
     "source": "IEEE Spectrum · Energy",
     "date": "2026-08-11",
     "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
@@ -18,8 +90,8 @@
     "lang": "en"
   },
   "https://spectrum.ieee.org/new-york-data-center-ban": {
-    "title": "뉴욕주의 데이터센터 금지 조치, 전력망 문제 해결엔 미흡",
-    "summary": "뉴욕주 캐시 호클 주지사는 50MW 이상의 전력을 소비하는 데이터센터에 대해 최대 1년간의 건설 유예 조치를 내리며 미국 최초로 데이터센터를 사실상 금지했다. 이 조치는 데이터센터의 막대한 전력 및 물 사용량이 주민 전기요금 상승으로 이어질 수 있다는 우려에 따른 선제적 조치다. 그러나 현재 뉴욕주의 전력망 여유 부족과 요금 인상 문제는 데이터센터가 주된 원인이 아니기 때문에, 이번 금지 조치만으로는 근본적인 에너지 문제를 해결할 수 없다는 지적이 나온다.",
+    "title": "뉴욕주의 데이터센터 규제, 전력망 문제 해결에는 부족",
+    "summary": "뉴욕주가 전력 소비가 50MW 이상인 대형 데이터센터에 대해 최대 1년간 건설을 금지하는 행정명령을 내렸다. 이 조치는 데이터센터의 전력 및 물 사용량이 주민 전기요금에 미칠 영향에 대한 우려가 커진 결과이다. 그러나 현재 뉴욕주의 전력망 여유가 부족한 원인은 데이터센터에 있지 않아, 사전 예방적 조치에 불과하다는 지적이 나온다. 전문가들은 이 규제만으로 뉴욕주가 직면한 근본적인 에너지 문제를 해결할 수 없다고 분석했다.",
     "source": "IEEE Spectrum · Energy",
     "date": "2026-08-06",
     "link": "https://spectrum.ieee.org/new-york-data-center-ban",
@@ -28,7 +100,7 @@
   },
   "https://spectrum.ieee.org/ieee-course-ai-power-grids": {
     "title": "IEEE 과정에서는 AI를 사용하여 전력망을 현대화하는 방법을 가르칩니다.",
-    "summary": "지금까지 구축된 시스템 중 가장 크고 복잡한 시스템 중 하나인 오늘날의 미국 전력망은 한계에 도달해 작동하고 있습니다. 미국 에너지부에 따르면 급속한 산업 성장, 더 자주 발생하는 기상 이변, 기록적인 전력 사용량 급증으로 인해 전력망이 한계점에 이르렀다고 합니다. 대부분의 전력이 중앙 집중식 석탄 또는 가스 발전소에서 나오고 전기 사용량이 꾸준한 속도로 증가하는 보다 예측 가능한 세상을 위해 수십 년 전에 구축된 그리드는 부분적으로 데이터 센터의 수요 증가로 인해 예상치 못한 부담에 직면해 있습니다. 인프라를 관리하는 전문가의 업무는 전통적인 엔지니어링 작업에서 복잡하고 빠르게 변화하는 과제로 발전했습니다. 업계 보고서에 따르면 수백만 개의 최신 디지털 센서, 스마트 계량기, 그리드 모니터가 끊임없이 정보의 물결을 생성하고 있습니다. 엄청난 양의 데이터에는 즉각적이고 자동화된 컴퓨터 분석이 필요합니다. 왜냐하면 작업자가 이를 충분히 빠르게 처리할 수 없기 때문입니다. 유틸리티에 대한 압력은 두 가지 원인에서 비롯됩니다.",
+    "summary": "지금까지 구축된 시스템 중 가장 크고 복잡한 시스템 중 하나인 오늘날의 미국 전력망은 한계에 도달해 작동하고 있습니다. 미국 에너지부에 따르면 급속한 산업 성장, 더 자주 발생하는 기상 이변, 기록적인 전력 사용량 급증으로 인해 전력망이 한계점에 이르렀다고 합니다. 대부분의 전력이 중앙 집중식 석탄 또는 가스 발전소에서 나오고 전기 사용량이 꾸준한 속도로 증가하는 보다 예측 가능한 세상을 위해 수십 년 전에 구축된 그리드는 부분적으로 데이터 센터의 수요 증가로 인해 예상치 못한 부담에 직면해 있습니다. 인프라를 관리하는 전문가의 업무는 전통적인 엔지니어링 작업에서 복잡하고 빠르게 진행되는 과제로 발전했습니다. 업계 보고서에 따르면 수백만 개의 최신 디지털 센서, 스마트 계량기, 그리드 모니터가 끊임없이 정보의 물결을 생성하고 있습니다. 엄청난 양의 데이터에는 즉각적이고 자동화된 컴퓨터 분석이 필요합니다. 왜냐하면 작업자가 이를 충분히 빠르게 처리할 수 없기 때문입니다. 유틸리티에 대한 압력은 두 가지 원인에서 비롯됩니다.",
     "source": "IEEE Spectrum · Energy",
     "date": "2026-08-06",
     "link": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
@@ -37,7 +109,7 @@
   },
   "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation": {
     "title": "시뮬레이션 앱을 사용하여 전자 장치 고장의 근본 원인 식별",
-    "summary": "이 기사는 COMSOL에서 제공한 것입니다. 향상된 주행 거리, 더 큰 신뢰성, 더 빠른 충전을 추구하면서 전기 자동차는 고전압 전자 장치에 대한 수요를 주도하고 있습니다. 이러한 수요를 주도하는 다른 애플리케이션으로는 풍력 발전소, 데이터 센터, 서버 팜 등이 있습니다. 고전압 전자 장치에 대한 관심이 높아짐에 따라 갑작스러운 고장과 관련된 위험을 고려해야 합니다. 고전압 장비의 오작동을 유발하는 대부분의 원인은 해당 장비가 작동하는 기후 조건과 관련이 있을 수 있습니다. 특히 습기로 인해 전자 표면에 결로가 생기면 부식이 발생하여 ECM(전기화학적 마이그레이션) 중에 표류 누출 전류와 수지상 단락이 발생할 수 있습니다. 부식을 고려한 사전 설계, 예측, 완화 및 지원은 덴마크 기술 대학(DTU)의 전자 부식 센터(CELCORR) 연구 그룹의 초점입니다. 그룹의 연구원들은 업계 파트너와 협력하여",
+    "summary": "이 기사는 COMSOL에서 제공한 것입니다. 향상된 주행 거리, 더 큰 신뢰성, 더 빠른 충전을 추구하면서 전기 자동차는 고전압 전자 장치에 대한 수요를 주도하고 있습니다. 이러한 수요를 주도하는 다른 애플리케이션으로는 풍력 발전소, 데이터 센터, 서버 팜 등이 있습니다. 고전압 전자 장치에 대한 관심이 높아짐에 따라 갑작스러운 고장과 관련된 위험을 고려해야 합니다. 고전압 장비의 오작동을 유발하는 대부분의 원인은 해당 장비가 작동하는 기후 조건과 관련이 있을 수 있습니다. 특히, 습기로 인해 전자 표면에 응결이 발생하면 부식이 발생하여 ECM(전기화학적 마이그레이션) 중에 표유 누출 전류 및 수지상 단락이 발생할 수 있습니다. 부식을 고려한 사전 설계, 예측, 완화 및 지원은 덴마크 기술 대학(DTU)의 전자 부식 센터(CELCORR) 연구 그룹의 초점입니다. 그룹의 연구원들은 업계 파트너와 협력하여",
     "source": "IEEE Spectrum · Semiconductors",
     "date": "2026-08-03",
     "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
@@ -45,8 +117,8 @@
     "lang": "en"
   },
   "https://spectrum.ieee.org/topological-material-nanowire-interconnect": {
-    "title": "특이 준입자가 차세대 반도체 배선을 약속하다",
-    "summary": "반도체 칩 내 트랜지스터를 연결하는 배선은 뛰어난 전도성으로 인해 주로 구리가 사용되어 왔다. 그러나 전자공학이 미세화되면서 구리 배선의 두께가 40nm 이하로 줄어들면 전자 충돌이 증가해 전도성이 급격히 떨어지는 한계에 직면했다. 연구진은 구리 대신 코발트와 루테늄 등 다른 금속을 검토하는 한편, 구조적 위상에 기반한 특수한 성질을 가지는 위상 물질로 나노 와이어를 합성해 차세대 배선 소재로서의 가능성을 입증했다.",
+    "title": "신개념 준입자, 차세대 반도체 배선의 새로운 가능성 제시",
+    "summary": "마이크로칩 내 트랜지스터를 연결하는 배선은 높은 전도성으로 인해 주로 구리로 제조되어 왔다. 그러나 전자기기가 소형화됨에 따라 구리 배선의 두께가 40nm 이하로 얇아지면 전자 충돌이 증가하여 전도성이 급격히 떨어지는 한계가 발생한다. 연구진은 구리보다 전자 평균 자유 행로가 짧은 코발트나 루테늄 등의 대체 금속을 검토하는 한편, 얇아질수록 도전성이 좋아지는 신규 위상 물질 기반의 준입자 연구를 진행 중이다. 최근 위상 물질로 나노 와이어를 합성한 개념 증명 연구를 통해 차세대 반도체 배선 소재의 새로운 가능성을 입증했다.",
     "source": "IEEE Spectrum · Semiconductors",
     "date": "2026-07-27",
     "link": "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
@@ -55,7 +127,7 @@
   },
   "https://spectrum.ieee.org/ai-in-robotics": {
     "title": "광학 기술, 로봇의 AI 모델을 실시간으로 업데이트한다",
-    "summary": "코넬 대학교 연구진이 빛을 이용해 프로세서의 메모리를 직접 변경하는 새로운 광학 수신기를 개발했다. 이 기술은 IEEE/JSAP VLSI 심포지엄에서 발표되었으며, AI 시스템의 메모리 부담을 줄이기 위해 설계되었다. 광학 코드를 통해 AI 모델 파라미터를 전송함으로써 데이터센터, 자율주행차, AI 로봇 등의 에너지 소비를 낮출 수 있다고 연구진은 설명한다.",
+    "summary": "코넬 대학교 연구진이 빛을 이용해 프로세서의 메모리를 직접 변경하는 새로운 광학 수신기 설계를 발표했다. 이 기술은 AI 칩 설계 시 DRAM 등 추가 메모리에 의존해야 하는 부담을 줄이는 것을 목표로 한다. 연구진은 빛으로 데이터를 프로세서에 전송함으로써 데이터센터, 자율주행차, AI 로봇 등에 필요한 에너지 소비를 크게 낮출 수 있다고 설명한다.",
     "source": "IEEE Spectrum · Semiconductors",
     "date": "2026-07-26",
     "link": "https://spectrum.ieee.org/ai-in-robotics",
@@ -72,8 +144,8 @@
     "lang": "en"
   },
   "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207": {
-    "title": "최첨단 반도체 고장 분석을 위한 SEM 유도 저전압 FIB 마감 기술",
-    "summary": "ZEISS Crossbeam 750 FIBSEM이 정밀한 TEM 라멜라 준비, 토모그래피 및 나노 제작의 새로운 기준을 제시합니다. 이 장비는 해상도와 신호 대 잡음비(SNR)를 개선하고 데이터 획득 시간을 단축하여 샘플 손상과 재작업을 줄여줍니다. 특히 가공 중에도 실시간으로 시각적 피드백을 제공하여 반도체 불량 분석 및 수율 향상 팀이 더 빠르고 정확한 데이터 기반 의사 결정을 내릴 수 있도록 지원합니다.",
+    "title": "최첨단 반도체 불량 분석을 위한 SEM 유도 저전압 FIB 마감 기술",
+    "summary": "ZEISS Crossbeam 750 FIBSEM은 정밀한 TEM 라멜라 준비, 토모그래피 및 첨단 나노 제조를 위한 새로운 벤치마크를 제시합니다. 이 장비는 해상도와 신호 대 잡음비(SNR)를 개선하여 더 큰 시야(FOV)를 확보하고 데이터 획득 시간을 단축합니다. 중단 없는 FIB 밀링을 통해 시료 손상과 재작업을 줄여 불량 분석(FA) 및 수율 향상 팀의 데이터 기반 의사결정을 가속화합니다.",
     "source": "IEEE Spectrum · Semiconductors",
     "date": "2026-07-21",
     "link": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
@@ -81,8 +153,8 @@
     "lang": "en"
   },
   "https://spectrum.ieee.org/led-light-pollution": {
-    "title": "우리는 밤하늘을 지킬 LED의 잠재력을 낭비하고 있다",
-    "summary": "런던의 트라팔가 광장을 사례로 들어, LED 인공 조명이 도시의 밤하늘과 빛과 어둠의 균형에 미치는 영향을 분석한다. LED는 밤하늘을 보존할 잠재력을 갖추고 있음에도 불구하고, 기존 조명 기술과 무분별하게 혼용되어 빛 공해를 가중시키고 있다. 조명 디자이너의 측정에 따르면 해당 광장의 조도는 보름달 빛의 10~20배에 달하며, 현대 LED 기술이 19세기 전통 조명 디자인에 결합되며 발생하는 현실적 한계가 드러난다.",
+    "title": "우리는 밤하늘을 구할 수 있는 LED의 잠재력을 낭비하고 있습니다.",
+    "summary": "런던의 쌀쌀한 봄밤, 흐린 하늘 아래 상징적인 트라팔가 광장이 내 주위에 펼쳐졌습니다. 넬슨 제독이 받침대 위에 서 있고, 그 뒤에 내셔널 갤러리가 자리잡고 있으며, 근처에는 세인트 마틴 인더 필즈 교회가 있습니다. 13세기부터 이 장소는 매와 말을 위한 왕실 마구로 사용되었습니다. 1844년까지 이곳은 세계에서 가장 큰 도시 중 하나의 중심에 있는 공공 장소였습니다. 그 장대한 역사 속에서 광장의 존재에도 불구하고, 그것이 내가 여기 있는 이유는 아닙니다. 내 관심은 훨씬 더 구체적입니다. 인공 조명, 특히 발광 다이오드(LED)가 침입하면 이와 같은 공간에 어떤 일이 일어나는지 알고 싶습니다. 오늘 밤 내 동반자는 현지 조명 디자이너인 Simon Thorp입니다. 그는 손에 측광기를 들고 Nelson의 첨탑 근처 그림자 속에 웅크리고 있습니다. “2럭스 정도인데 여기는 매우 편안해요.”라고 그는 말합니다. 2럭스는 보름달 밝기의 10~20배에 해당합니다. 우리는 서로를 선명하게 볼 수 있으며, 근처에 폐쇄회로 텔레비전(CCTV)이 있음을 보증하는 표지판이 있습니다.",
     "source": "IEEE Spectrum · Semiconductors",
     "date": "2026-07-20",
     "link": "https://spectrum.ieee.org/led-light-pollution",
@@ -90,8 +162,8 @@
     "lang": "en"
   },
   "https://spectrum.ieee.org/plug-in-solar-power": {
-    "title": "공익기업, 발코니 태양광 혁명에 대비하지 못하다",
-    "summary": "미국에서 가정용 콘센트에 꽂아 사용하는 소형 발코니 태양광 패널이 빠르게 합법화되고 있다. 그러나 기술 도입 속도가 안전 규제와 인증 기준 마련보다 앞서 있어 법적 및 기술적 문제가 해결되지 않은 상태다. 독일에서 먼저 성장한 이 기술은 러시아의 우크라이나 침공 이후 청정에너지 대안으로 인기를 끌었다.",
+    "title": "공공기업, 발코니 태양광 혁명에 대비되지 않아",
+    "summary": "미국 여러 주에서 가정용 콘센트에 직접 연결하는 발코니 태양ꂹ 패널의 사용을 연이어 합법화하고 있으나, 안전성을 보장하기 위한 규제는 이를 따라가지 못하는 실정이다. 현재 새롭게 도입된 인증 기준을 충족하는 패널 제품은 거의 없으며, 법적·기술적 문제도 여전히 해결되지 않은 상태다. 독일의 사례에서 알 수 있듯이 이 기술은 청정에너지로 인기가 급증했지만, 제도 도입 이후에도 관련 규제와 기술적 과제를 지속적으로 해결해야 한다.",
     "source": "IEEE Spectrum · Energy",
     "date": "2026-07-20",
     "link": "https://spectrum.ieee.org/plug-in-solar-power",
