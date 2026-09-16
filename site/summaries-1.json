@@ -71,27 +71,81 @@
     "original_title": "",
     "lang": "ko"
   },
+  "https://www.donga.com/news/Society/article/all/20260917/134683320/2": {
+    "title": "구미 천연가스발전소 가동… 전력 자립률 6→30%로 ‘껑충’",
+    "summary": "경북 구미시에 천연가스발전소가 본격 가동되면서 지역 전력 자립률이 기존 6%에서 약 30%로 상승할 전망이다. 총사업비 8716억 원이 투입된 이 발전소는 국내 첫 연료전환 사업으로 연간 약 275만MWh의 전력을 생산한다. 이에 따라 반도체 등 첨단 제조기업 유치를 뒷받침할 전력 기반이 크게 강화되었다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-09-17",
+    "link": "https://www.donga.com/news/Society/article/all/20260917/134683320/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20260916/134685100/2": {
+    "title": "화성 자원순환시설 큰불, 한때 대응 2단계 발령",
+    "summary": "16일 오후 경기 화성시 효행구의 자원순환시설에서 화재가 발생해 소방당국이 대응 2단계를 발령했다. 신고 접수 2시간 16분 만에 불길이 잡혀 해제되었으며, 50대 남성 1명이 화상으로 중상을 입고 관계자 9명이 대피했다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-09-17",
+    "link": "https://www.donga.com/news/Society/article/all/20260916/134685100/2",
+    "original_title": "",
+    "lang": "ko"
+  },
   "https://www.semiconductor-digest.com/micron-appoints-deirdre-hanford-to-lead-micron-research-labs/?utm_source=rss&utm_medium=rss&utm_campaign=micron-appoints-deirdre-hanford-to-lead-micron-research-labs": {
-    "title": "Micron, Deirdre Hanford를 Micron 연구소 책임자로 임명",
-    "summary": "Micron Technology, Inc.(Nasdaq: MU)는 오늘 Deirdre Hanford를 자사의 주력 장기 연구 기관인 Micron Research Labs의 기업 부사장 겸 사장으로 임명했다고 발표했습니다. Micron이 Deirdre Hanford를 Micron Research Labs의 책임자로 임명한 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
+    "title": "마이크론, 디어드르 핸포드를 마이크론 리서치 랩스 총괄로 임명",
+    "summary": "마이크론 테크놀로지는 디어드르 핸포드를 기업 부사장 겸 마이크론 리서치 랩스 사장으로 임명했다. 마이크론 리서치 랩스는 회사의 핵심 장기 연구 기관이다. 이번 인사는 반도체 기업의 미래 기술 연구 역량 강화를 위한 조치로 파악된다.",
     "source": "Semiconductor Digest",
     "date": "2026-09-17",
     "link": "https://www.semiconductor-digest.com/micron-appoints-deirdre-hanford-to-lead-micron-research-labs/?utm_source=rss&utm_medium=rss&utm_campaign=micron-appoints-deirdre-hanford-to-lead-micron-research-labs",
     "original_title": "Micron Appoints Deirdre Hanford to Lead Micron Research Labs",
     "lang": "en"
   },
+  "https://www.semiconductor-digest.com/classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating/?utm_source=rss&utm_medium=rss&utm_campaign=classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating": {
+    "title": "클래스원 테크놀로지, 최고급 포토닉스 제조사로부터 6인치 InP 골드 도금을 위한 다중 시스텐 후속 주문 확보",
+    "summary": "클래스원 테크놀로지가 AI 데이터센터용 차세대 광 인터커넥트를 지원하는 인듐 인(P) 포토닉스 제조를 위한 Solstice S8 다중 장비 후속 주문을 확보했다. 이번 주문은 대규모 6인치 InP 골드 도금 생산 확대의 핵심적인 요소로 작용한다. 포토닉스 제조사들이 생산 증설을 본격화하면서 해당 장비에 대한 수요가 증가한 것으로 파악된다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-17",
+    "link": "https://www.semiconductor-digest.com/classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating/?utm_source=rss&utm_medium=rss&utm_campaign=classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating",
+    "original_title": "ClassOne Technology Secures Multi-System Follow-on Orders from Top Photonics Manufacturers for High-Volume 6-inch InP Gold Plating",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture": {
+    "title": "아터리스, 멀티다이 칩렛 기반 아키텍처로의 산업 전환 가속",
+    "summary": "아터리스는 반도체 산업이 멀티다이 아키텍처로 전환함에 따라 데이터 이동의 효율성 문제를 해결하기 위해 새로운 플렉스젠(FlexGen) 멀티다이 제품을 출시했다. 이 솔루션은 칩 경계 간 서비스 품질(QoS)과 아키텍처 유연성을 유지하는 데 중점을 둔다. 결과적으로 멀티다이 칩렛 기반 설계로의 산업적 전환을 촉진하는 데 기여할 것으로 보인다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-17",
+    "link": "https://www.semiconductor-digest.com/arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture",
+    "original_title": "Arteris Accelerates Industry Transition to Multi-Die Chiplet-Based Architecture",
+    "lang": "en"
+  },
   "https://www.semiconductor-digest.com/micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers/?utm_source=rss&utm_medium=rss&utm_campaign=micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers": {
-    "title": "Micron, 차세대 서버용 세계 최초의 초고밀도 모듈로 메모리 혁신 발전",
-    "summary": "Micron Technology, Inc.는 오늘 여러 서버 플랫폼에서 세계 최초의 512GB DDR5 모듈을 성공적으로 시연하여 메모리 혁신의 중요한 이정표를 발표했습니다. Micron, 세계 최초의 차세대 서버용 초고밀도 모듈로 메모리 혁신 발전 포스트 Semiconductor Digest 에 처음 게재되었습니다.",
+    "title": "마이크론, 차세대 서버용 세계 최초 초고집적 모듈로 메모리 혁신 앞장",
+    "summary": "마이크론 테크놀로지는 차세대 서버를 위한 세계 최초의 512GB DDR5 모듈을 여러 서버 플랫폼에서 성공적으로 시연했다. 이번 성과는 메모리 혁신 분야의 중요한 이정표로 평가받는다. 해당 초고집적 모듈은 차세대 서버의 데이터 처리 용량과 성능 향상에 기여할 것으로 보인다.",
     "source": "Semiconductor Digest",
     "date": "2026-09-17",
     "link": "https://www.semiconductor-digest.com/micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers/?utm_source=rss&utm_medium=rss&utm_campaign=micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers",
     "original_title": "Micron Advances Memory Innovation With the World’s First Ultra-Dense Module for Next-Generation Servers",
     "lang": "en"
   },
+  "https://www.eetimes.com/smarter-cameras-need-more-than-edge-ai-to-protect-privacy/": {
+    "title": "더 스마트해진 카메라, 프라이버시 보호를 위해서는 엣지 AI 이상이 필요",
+    "summary": "Axis Communications와 Pimloc는 마스킹, 암호화, 익명화, 거버넌스를 통해 유용한 증거를 훼손하지 않고도 개인정보를 보호할 수 있는 방안을 제시했다. 이는 지능화된 카메라 환경에서 안전과 프라이버시를 동시에 확보하기 위한 산업 안전 및 보안 조치로 볼 수 있다.",
+    "source": "EE Times",
+    "date": "2026-09-17",
+    "link": "https://www.eetimes.com/smarter-cameras-need-more-than-edge-ai-to-protect-privacy/",
+    "original_title": "Smarter Cameras Need More Than Edge AI to Protect Privacy",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/ramxeed-ultimate-feram-guarantees-10-year-data-retention-under-continuous-125c-exposure/": {
+    "title": "RAMXEED ULTIMATE FeRAM, 125°C 연속 노출 시 10년 데이터 보존 보장",
+    "summary": "RAMXEED가 125°C 환경에서 10년간 데이터 보존을 보장하는 FeRAM 신제품 라인업인 RAMXEED ULTIMATE를 출시했다. 이 제품은 고온 환경에서도 데이터 유지 능력이 우수한 메모리 특성을 강조하고 있다. 해당 기술은 고신뢰성 메모리가 요구되는 산업 분야에서 활용 가능성을 제시한다.",
+    "source": "EE Times",
+    "date": "2026-09-17",
+    "link": "https://www.eetimes.com/ramxeed-ultimate-feram-guarantees-10-year-data-retention-under-continuous-125c-exposure/",
+    "original_title": "RAMXEED ULTIMATE FeRAM Guarantees 10-Year Data Retention under Continuous 125°C Exposure",
+    "lang": "en"
+  },
   "https://www.semiconductor-digest.com/why-semiconductor-materials-innovation-requires-fab-aware-ai/?utm_source=rss&utm_medium=rss&utm_campaign=why-semiconductor-materials-innovation-requires-fab-aware-ai": {
-    "title": "반도체 재료 혁신에 Fab-Aware AI가 필요한 이유",
-    "summary": "업계 AI 대화의 대부분은 칩 설계, 공급망 및 데이터 센터 수요에 초점을 맞추고 있지만 SandboxAQ의 Shalini Sharma는 재료 혁신 자체에서 보다 근본적인 병목 현상이 업스트림에 있다고 주장합니다. 반도체 재료 혁신에 Fab-Aware AI가 필요한 이유라는 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
+    "title": "반도체 소재 혁신에 팹 인식 AI가 필요한 이유",
+    "summary": "반도체 산업의 AI 담론은 주로 칩 설계, 공급망, 데이터센터 수요에 집중되어 있다. 샌드박스에큐의 샬리니 샤마는 더 근본적인 병목 현상은 상류인 소재 혁신 자체에 있다고 지적한다. 팹(Fab) 환경을 인식하는 AI 도입을 통해 소재 혁신을 가속화해야 한다.",
     "source": "Semiconductor Digest",
     "date": "2026-09-16",
     "link": "https://www.semiconductor-digest.com/why-semiconductor-materials-innovation-requires-fab-aware-ai/?utm_source=rss&utm_medium=rss&utm_campaign=why-semiconductor-materials-innovation-requires-fab-aware-ai",
@@ -99,8 +153,8 @@
     "lang": "en"
   },
   "https://www.semiconductor-digest.com/advanced-membrane-filtration-supports-reclaimed-wastewater-reuse/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-membrane-filtration-supports-reclaimed-wastewater-reuse": {
-    "title": "고급 막 여과로 재생 폐수 재사용 지원",
-    "summary": "세척, 헹굼 및 냉각을 위해 많은 양의 물을 사용하는 첨단 기술 제조업으로 인해 물 재사용 정책과 기술이 새로운 조사 대상이 되었습니다. 고급 막 여과로 재생 폐수 재사용을 지원하는 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
+    "title": "첨단 막 여과 기술, 재생 폐수 재사용 지원",
+    "summary": "첨단 제조업은 세정, 수세, 냉각 과정에서 대량의 물을 사용하여 물 재사용 정책과 기술에 대한 관심이 높아지고 있다. 이러한 배경 속에서 재생 폐수 재사용을 지원하는 첨단 막 여과 기술이 주목받고 있다. 해당 기술은 제조 공정에서 발생하는 폐수를 효과적으로 처리하여 재사용 가능하도록 돕는다.",
     "source": "Semiconductor Digest",
     "date": "2026-09-16",
     "link": "https://www.semiconductor-digest.com/advanced-membrane-filtration-supports-reclaimed-wastewater-reuse/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-membrane-filtration-supports-reclaimed-wastewater-reuse",
@@ -108,17 +162,35 @@
     "lang": "en"
   },
   "https://www.edie.net/top-20-private-equity-firms-portfolios-pollute-more-than-most-countries-research-finds/": {
-    "title": "상위 20개 사모펀드 포트폴리오가 대부분의 국가보다 오염을 더 많이 일으킨다는 연구 결과가 나왔습니다.",
-    "summary": "사모펀드 기후위험 컨소시엄(Private Equity Climate Risks Consortium)의 보고서에 따르면 상위 20개 사모펀드 회사의 에너지 포트폴리오는 미국, 중국, 인도, 러시아를 제외한 모든 국가보다 더 많은 오염물질을 배출하고 있는 것으로 나타났습니다.",
+    "title": "상위 20개 사모펀드 포트폴리오, 대다수 국가보다 더 많은 오염 물질 배출",
+    "summary": "사모펀드 기후 리스크 컨소시엄의 보고서에 따르면 상위 20개 사모펀드의 에너지 포트폴리오가 배출하는 오염 물질은 미국, 중국, 인도, 러시아를 제외한 모든 국가보다 많은 것으로 나타났습니다. 이는 사모펀드 투자 포트폴리오가 전 세계 온실가스 배출량에 미치는 영향이 전 세계 대다수 국가의 배출량보다 크다는 사실을 보여줍니다.",
     "source": "edie (환경 비즈니스)",
     "date": "2026-09-16",
     "link": "https://www.edie.net/top-20-private-equity-firms-portfolios-pollute-more-than-most-countries-research-finds/",
     "original_title": "Top 20 private equity firms’ portfolios pollute more than most countries, research finds",
     "lang": "en"
   },
+  "https://www.edie.net/bristol-bans-high-carbon-advertising-on-council-owned-sites/": {
+    "title": "브리스톨, 시 소유 광고지에서 고탄소 광고 금지",
+    "summary": "브리스톨시의회는 시 소유 광고판에서 가솔린 및 디젤 자동차, 하이브리드 차량, SUV, 항공편, 화석연료 기업 및 특정 패스트패션 캠페인에 대한 광고를 더 이상 허용하지 않기로 결정했습니다. 이는 지자체 차원에서 탄소 배출이 높은 제품과 서비스의 광고를 통제하는 환경 정책 조치입니다. 시의회 소유의 모든 광고 매체에 적용되는 이번 조치는 기후 및 탄소 저감 목표와 연관된 것으로 보입니다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-09-16",
+    "link": "https://www.edie.net/bristol-bans-high-carbon-advertising-on-council-owned-sites/",
+    "original_title": "Bristol bans high-carbon advertising on council-owned sites",
+    "lang": "en"
+  },
+  "https://www.edn.com/fpga-architecture-radiation-particle-types-and-single-event-upsets-seus/": {
+    "title": "FPGA 아키텍처: 방사선 입자 유형 및 단일 이벤트 오류(SEU)",
+    "summary": "알파 입자, 고에너지 중성자, 열 중성자에 의해 유발되는 단일 이벤트 오류(SEU)는 일시적인 비트 플립을 발생시켜 신뢰성 문제의 원인이 된다. 이러한 방사선 입자들은 반도체 회로의 데이터를 변형시킬 수 있다. 본문은 FPGA 아키텍처에서 발생하는 방사선 입자의 유형과 단일 이벤트 오류가 시스템 신뢰성에 미치는 영향을 다루고 있다.",
+    "source": "EDN",
+    "date": "2026-09-16",
+    "link": "https://www.edn.com/fpga-architecture-radiation-particle-types-and-single-event-upsets-seus/",
+    "original_title": "FPGA architecture: Radiation particle types and single event upsets (SEUs)",
+    "lang": "en"
+  },
   "https://www.etnews.com/20260916000377": {
     "title": "로이터 “SK하이닉스, 인텔과 협력해 美서 메모리 생산”…SK하이닉스 “결정된 바 없다”",
-    "summary": "SK하이닉스가 인텔과 협력해 메모리 반도체를 미국 현지에서 생산하는 방안을 협상 중이라고 로이터가 16일(현지시간) 보도했다. SK하이닉스 측은 모든 가능성이 열려있지만 아직 확정된 것은 없다고 밝혔다. 복수의 소식통을 인용한 로이터는 SK하이닉스가 인텔 오하이오주 반도체 공장(팹) 일부를 임대해 메모리 칩을 생산하는 방안을 가능성 높은 시나리오 중 하나로 검토하고 있다고 전했다. 또 SK하이닉스가 인텔 및 메모리 주요 고객사와 합작 법인을 만",
+    "summary": "SK하이닉스가 인텔과 협력해 미국 현지에서 메모리 반도체를 생산하는 방안을 협상 중이라고 로이터가 보도했다. 인텔 오하이오주 반도체 공장 일부를 임차해 칩을 생산하는 방안이나 합작 법인 설립 등이 검토되고 있다. 그러나 SK하이닉스 측은 모든 가능성이 열려있으나 아직 결정된 바는 없다고 밝혔다.",
     "source": "전자신문 (전체)",
     "date": "2026-09-16",
     "link": "https://www.etnews.com/20260916000377",
@@ -126,26 +198,89 @@
     "lang": "ko"
   },
   "https://airqualitynews.com/health/air-pollution-linked-to-increased-risk-of-suicidal-behaviour/?utm_source=rss&utm_medium=rss&utm_campaign=air-pollution-linked-to-increased-risk-of-suicidal-behaviour": {
-    "title": "대기 오염은 자살 행동 위험 증가와 관련이 있습니다",
-    "summary": "퀸스대학교 벨파스트 연구진의 새로운 체계적 검토 및 메타 분석에 따르면 대기 오염에 대한 노출은 자살, 자살 시도 및 자살 충동의 위험 증가와 관련이 있을 수 있다고 합니다. 연구자들은 환경 오염과 자살 행위 사이의 관계를 조사한 45개 연구를 조사했습니다. 이 중 29개가 통계적 메타 분석에 포함되었습니다. […]",
+    "title": "대기오염, 자살 행동 위험 증가와 연관",
+    "summary": "퀸스 유니버시티 벨파스트 연구진의 체계적 문헌 고찰 및 메타분석 결과, 대기오염 노출은 자살, 자살 시도 및 자살 충동의 위험 증가와 연관이 있는 것으로 나타났다. 연구진은 환경 오염과 자살 행동 간의 관계를 조사한 45건의 연구를 검토했으며, 이 중 29건은 통계적 메타분석에 포함되었다. 이는 환경 오염이 정신 건강에 미치는 악영향을 시사하는 연구 결과이다.",
     "source": "Air Quality News",
     "date": "2026-09-16",
     "link": "https://airqualitynews.com/health/air-pollution-linked-to-increased-risk-of-suicidal-behaviour/?utm_source=rss&utm_medium=rss&utm_campaign=air-pollution-linked-to-increased-risk-of-suicidal-behaviour",
     "original_title": "Air pollution linked to increased risk of suicidal behaviour",
     "lang": "en"
   },
+  "https://semiengineering.com/moving-test-data-faster/": {
+    "title": "테스트 데이터를 더 빠르게 전송하는 방법",
+    "summary": "반도체 칩의 신뢰성을 향상하기 위한 다양한 옵션과 해결 방안을 다룬다. 반도체 엔지니어링 분야에서 테스트 데이터 전송 속도를 개선하는 기술적 접근법을 제시한다. 이는 반도체 제조 및 검증 과정의 효율성과 신뢰성 확보에 직접적인 영향을 미친다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-16",
+    "link": "https://semiengineering.com/moving-test-data-faster/",
+    "original_title": "Moving Test Data Faster",
+    "lang": "en"
+  },
+  "https://semiengineering.com/why-soc-interconnects-have-outgrown-the-bus/": {
+    "title": "SoC 상호연결이 버스를 대체하게 된 이유",
+    "summary": "차세대 시스템 반도체의 확장성, 안전성 및 성능 문제를 해결하기 위해 진보된 NoC(네트워크온칩) 아키텍처와 일관성 하위 시스템 IP가 주목받고 있다. 기존 버스 기반 통신 구조는 복잡한 반도체 설계 요구를 수용하는 데 한계에 도달했기 때문이다. 이러한 기술적 진화는 차세대 반도체 칩 설계의 핵심 과제를 해결하는 기반이 된다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-16",
+    "link": "https://semiengineering.com/why-soc-interconnects-have-outgrown-the-bus/",
+    "original_title": "Why SoC Interconnects Have Outgrown the Bus",
+    "lang": "en"
+  },
+  "https://semiengineering.com/system-level-power-integrity-analysis-using-the-innovator-3d-ic-solution-suite/": {
+    "title": "Innovator 3D IC 솔루션 제품군을 활용한 시스템 수준 전력 무결성 분석",
+    "summary": "Innovator 3D IC 솔루션 제품군은 직관적인 단일 환경에서 다이 수준과 패키지 수준의 전력 무결성 분석을 통합하여 제공한다. 이를 통해 복잡한 3D IC 설계의 난이도를 획기적으로 낮출 수 있다. 해당 기술은 반도체 엔지니어링 설계 효율성 향상에 기여할 것으로 보인다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-16",
+    "link": "https://semiengineering.com/system-level-power-integrity-analysis-using-the-innovator-3d-ic-solution-suite/",
+    "original_title": "System-level Power Integrity Analysis Using The Innovator 3D IC Solution Suite",
+    "lang": "en"
+  },
   "https://semiengineering.com/enhancing-ai-inference-efficiency-with-cadence-lpddr-memory-ip-solutions/": {
-    "title": "Cadence LPDDR 메모리 IP 솔루션으로 AI 추론 효율성 향상",
-    "summary": "차세대 LPDDR6 및 LPDDR5x 메모리 컨트롤러와 PHY IP는 AI 추론 계층의 모든 계층에서 메모리 벽을 해결하고 클라우드, 에지 및 물리적 AI 추론 인프라를 지원하도록 특별히 구축되었습니다. Cadence LPDDR 메모리 IP 솔루션으로 AI 추론 효율성 향상 게시물이 Semiconductor Engineering 에 처음 게재되었습니다.",
+    "title": "캐던스 LPDDR 메모리 IP 솔루션으로 AI 추론 효율성 강화",
+    "summary": "캐던스는 차세대 LPDDR6 및 LPDDR5x 메모리 컨트롤러와 PHY IP를 통해 AI 추론 시스템의 메모리 월 문제를 해결한다. 이 솔루션은 클라우드, 엣지, 물리적 AI 추론 인프라를 모두 지원하도록 설계되었다. 제공된 IP는 AI 기기의 계층 구조 전반에서 메모리 병목 현상을 극복하는 데 최적화되어 있다.",
     "source": "SemiEngineering",
     "date": "2026-09-16",
     "link": "https://semiengineering.com/enhancing-ai-inference-efficiency-with-cadence-lpddr-memory-ip-solutions/",
     "original_title": "Enhancing AI Inference Efficiency with Cadence LPDDR Memory IP Solutions",
     "lang": "en"
   },
+  "https://semiengineering.com/enabling-efficient-edge-ai-inferencing-through-ecosystem-collaboration/": {
+    "title": "생태계 협력을 통한 효율적인 엣지 AI 추론 구현",
+    "summary": "엣지 AI 추론에 최적화된 확장 가능한 LPDDR 기반 메모리 플랫폼이 소개되었습니다. 이는 생태계 파트너십을 통해 효율성을 높이는 방안을 제시합니다. 반도체 엔지니어링 측면에서 엣지 AI의 메모리 성능 개선에 초점을 맞추고 있습니다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-16",
+    "link": "https://semiengineering.com/enabling-efficient-edge-ai-inferencing-through-ecosystem-collaboration/",
+    "original_title": "Enabling Efficient Edge AI Inferencing Through Ecosystem Collaboration",
+    "lang": "en"
+  },
+  "https://semiengineering.com/blog-review-sept-16-3/": {
+    "title": "블로그 리뷰: 9월 16일",
+    "summary": "반도체 엔지니어링과 관련된 주요 블로그 게시물들을 정리한 리뷰이다. 최초 실리콘 성공 감소, 엔지니어링 역량, 최소 클럭 주기 등 반도체 설계 및 검증 이슈를 다룬다. 또한 파이토치 최적화 방법과 전자기기 위조 문제에 관한 내용이 포함되어 있다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-16",
+    "link": "https://semiengineering.com/blog-review-sept-16-3/",
+    "original_title": "Blog Review: Sept. 16",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20260916000148": {
+    "title": "반도체 장비 부품 납기 2배로…최대 40개월도 걸려",
+    "summary": "AI 확산으로 반도체 및 제조 설비 수요는 급증했지만, 한정된 부품 공급망 생산 능력 탓에 반도체 장비 부품 납기가 2배 이상 늘어났다. 일부 부품은 최대 40개월의 납기가 소요되며, 장비 업계 전반이 수급난에 직면했다. 이러한 부품 수급 부족은 반도체 산업 전반의 투자 기조를 발목 잡을 수 있다는 우려가 커지고 있다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-09-16",
+    "link": "https://www.etnews.com/20260916000148",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20260916000225": {
+    "title": "국정자원, '책임운영기관' 지정 10년 만에 해제…“성과·효율 대신 안전 강화”",
+    "summary": "국가정보자원관리원이 책임운영기관 지정 10년 만에 해제된다. 지난해 대전센터 화재를 계기로 성과와 효율성 중심 운영 방식에서 벗어나 재난 안전과 시스템 안정성을 강화하기 위한 조치다. 행안부 등 관계 부처는 해제 작업을 곧 마무리할 예정이다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-09-16",
+    "link": "https://www.etnews.com/20260916000225",
+    "original_title": "",
+    "lang": "ko"
+  },
   "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/": {
-    "title": "다음 주: 비즈니스 가치 사슬 전반에 걸쳐 순환성을 촉진하기 위한 실질적인 조치",
-    "summary": "일주일 후에 Edie는 조직이 순환 경제 약속을 비즈니스 가치 사슬 전반에 걸쳐 실용적이고 측정 가능한 조치로 전환할 수 있는 방법을 탐구하는 새로운 웹 세미나를 개최할 예정입니다.",
+    "title": "NEXT WEEK: Practical actions to drive circularity across the business value chain",
+    "summary": "In a week's time, edie will hold its new webinar exploring how organisations can turn circular economy commitments into practical, measurable action across the business value chain.",
     "source": "edie (환경 비즈니스)",
     "date": "2026-09-16",
     "link": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
@@ -154,7 +289,7 @@
   },
   "https://www.etnews.com/20260916000238": {
     "title": "이재용 삼성전자 회장, 日 참의원 대표단 회동…반도체·AI 협력 논의",
-    "summary": "이재용 삼성전자 회장이 한국을 찾은 일본 참의원(상원) 대표단과 회동, 반도체와 인공지능(AI) 분야 협력을 논의했다. 히라키 다이사쿠 공명당 참의원 국회대책위원장은 자신의 사회관계망서비스(SNS)를 통해 “한일 관계에 정통한 대학 교수·전 주일대사·한국 국회 부의장·재계 인사 등을 만나 의견을 교환했다”며 “삼성전자 경영진과 오찬 자리에는 당초 예정에 없었던 이재용 회장이 깜짝 참석했다”고 밝혔다. 삼성전자에서는 김원경 글로벌퍼블릭어페어스(G",
+    "summary": "이재용 삼성전자 회장이 한국을 방문한 일본 참의원 대표단과 회동하며 반도체와 AI 분야 협력 방안을 논의했다. 히라키 다이사쿠 공명당 참의원 국회대책위원장은 SNS를 통해 대학 교수, 전 주일대사, 한국 국회 부의장, 재계 인사 등과 의견을 교환했다고 밝혔다. 이 회동에서는 당초 일정에 없었던 이 회장이 깜짝 참석해 삼성전자 경영진과 함께 오찬을 가졌다.",
     "source": "전자신문 IT",
     "date": "2026-09-16",
     "link": "https://www.etnews.com/20260916000238",
@@ -162,8 +297,8 @@
     "lang": "ko"
   },
   "https://www.edie.net/nominations-open-for-edies-30-under-30-class-of-2027/": {
-    "title": "2027년 edie의 30세 미만 30세 후보자 후보가 열려 있습니다.",
-    "summary": "edie의 30 Under 30이 2027년에 돌아왔습니다. 야심찬 젊은 전문가들이 지속 가능성 야망을 비즈니스 전반에 걸쳐 의미 있는 행동으로 전환하는 것을 축하합니다. 후보 추천은 무료이며 10월 16일까지 가능합니다.",
+    "title": "에디(edie)의 2027년 30세 이하 30인 후보 접수 시작",
+    "summary": "지속가능성 전문 매체인 에디(edie)가 비즈니스 전반에서 지속가능성 목표를 실제 행동으로 옮기는 젊은 전문가를 선정하는 '2027년 30세 이하 30인' 후보 접수를 시작했다. 접수는 10월 16일까지 무료로 진행된다.",
     "source": "edie (환경 비즈니스)",
     "date": "2026-09-16",
     "link": "https://www.edie.net/nominations-open-for-edies-30-under-30-class-of-2027/",
@@ -172,7 +307,7 @@
   },
   "https://www.etnews.com/20260916000171": {
     "title": "현대차, 글로벌 통합 안전 협의체 출범…전 세계 사업장 표준화 추진",
-    "summary": "현대자동차가 전 세계 생산 거점의 안전 관리 체계를 일원화하고 관리 수준을 높이기 위해 '글로벌 통합 안전 협의체(GOSC)'를 출범했다. 각국의 산업안전보건 관련 법규와 공급망 실사 규제가 갈수록 강화되는 가운데, 해외 법인의 잠재적 안전·법적 리스크를 선제적으로 차단하기 위한 행보다. 현대차는 16일부터 18일까지 사흘간 서울 양재동 본사와 울산공장 등 국내 사업장에서 제1회 GOSC 컨퍼런스를 개최한다고 밝혔다. 현대차의 전 세계 사업장",
+    "summary": "현대자동차가 전 세계 생산 거점의 안전 관리 체계를 일원화하기 위해 글로벌 통합 안전 협의체(GOSC)를 출범했다. 각국의 산업안전보건 법규와 공급망 실사 규제가 강화됨에 따라 해외 법인의 잠재적 안전 및 법적 리스크를 선제적으로 차단하기 위한 조치다. 현대차는 16일부터 18일까지 서울 본사와 울산공장 등에서 제1회 GOSC 컨퍼런스를 개최하며 전 세계 사업장의 안전 표준화를 추진한다.",
     "source": "전자신문 산업/신사업",
     "date": "2026-09-16",
     "link": "https://www.etnews.com/20260916000171",
@@ -181,16 +316,34 @@
   },
   "https://www.etnews.com/20260916000163": {
     "title": "삼성전자, 일상부터 산업까지 맞춤형 에너지 절감 솔루션 선보여",
-    "summary": "삼성전자가 '2026 기후산업국제박람회'에 참가해 독보적인 AI 기술과 고효율 가전을 결합한 에너지 절감 솔루션을 대거 선보인다. 삼성전자는 일상 가전제품부터 AI 데이터센터, 대형 상업시설의 공조 솔루션에 이르기까지 다양한 에너지 절감 솔루션을 통해 글로벌 시장 내 에너지 기술 리더십을 선보인다. 특히, 전시관 곳곳에 배치된 스크린과 기기간 연결된 조명 연출을 통해 주거·상업·산업 등 전 영역에 걸쳐 확장되는 삼성전자의 에너지 솔루션을 관람객",
+    "summary": "삼성전자가 '2026 기후산업국제박람회'에 참가해 AI 기술과 고효율 가전을 결합한 에너지 절감 솔루션을 선보인다. 주거부터 AI 데이터센터, 대형 상업시설에 이르기까지 다양한 에너지 절감 솔루션을 통해 글로벌 시장 내 에너지 기술 리더십을 강조한다. 전시관 곳곳에 배치된 스크린과 기기 연동 조명 연출을 통해 전 영역의 에너지 솔루션을 관람객에게 소개한다.",
     "source": "전자신문 IT",
     "date": "2026-09-16",
     "link": "https://www.etnews.com/20260916000163",
     "original_title": "",
     "lang": "ko"
   },
+  "https://www.etnews.com/20260916000146": {
+    "title": "LG전자, AI 기반 고효율 주거 솔루션 선보여",
+    "summary": "LG전자가 부산 벡스코에서 열리는 '2026 기후산업국제박람회(WCE)'에서 AI 기반 고효율 주거 솔루션을 선보인다. 이번 전시에서는 냉난방공조, 생활가전, 디스플레이 등 가정 내 에너지 사용 영역 전반의 솔루션을 소개한다. LG전자는 2008년부터 글로벌 히트펌프 사업을 지속하며 에너지 효율 기술을 축적해 왔다.",
+    "source": "전자신문 IT",
+    "date": "2026-09-16",
+    "link": "https://www.etnews.com/20260916000146",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20260916000067": {
+    "title": "현대차, 운수사-충전 사업자-유관 기관과 수소버스 보급 활성화 '맞손'",
+    "summary": "현대자동차가 수도권 대중교통의 수소버스 전환을 가속화하기 위해 선진그룹, 하이넷, 유관 기관과 다자간 업무협약을 체결했습니다. 이 협약에 따라 약 1700대의 버스를 운영하는 선진그룹은 경기도 김포와 파주 차고지 내 기존 CNG 충전소를 수소 충전소로 전환할 계획입니다. 이를 통해 수소 모빌리티 보급 확대 및 친환경 대중교통 인프라 구축에 본격적으로 나섭니다.",
+    "source": "전자신문 산업/신사업",
+    "date": "2026-09-16",
+    "link": "https://www.etnews.com/20260916000067",
+    "original_title": "",
+    "lang": "ko"
+  },
   "https://www.edie.net/ccc-warns-heathrow-expansion-has-no-credible-climate-pathway-under-current-policies/": {
-    "title": "CCC는 히드로 확장이 현재 정책에 따라 신뢰할 수 있는 기후 경로가 없다고 경고합니다.",
-    "summary": "기후변화위원회(CCC)의 조언에 따르면 히드로 공항 확장은 현재 정책에 따른 영국의 기후 약속과 조화될 수 없습니다.",
+    "title": "기후변화위원회, 현재 정책 기준 히스로우 공항 확장에 기후 목표 달성 불가하다고 경고",
+    "summary": "영국 기후변화위원회(CCC)는 현재 정책 하에서는 히스로우 공항 확장 사업이 영국의 기후 약속과 양립할 수 없다고 밝혔다. CCC 자문을 통해 현행 정책만으로는 공항 확장에 따른 탄소 배출 증가분을 상쇄할 수 없음이 지적되었다. 이는 기후 목표 달성을 위해 추가적인 환경 정책 마련이 필요함을 시사한다.",
     "source": "edie (환경 비즈니스)",
     "date": "2026-09-16",
     "link": "https://www.edie.net/ccc-warns-heathrow-expansion-has-no-credible-climate-pathway-under-current-policies/",
@@ -198,255 +351,102 @@
     "lang": "en"
   },
   "https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah": {
-    "title": "Gradiant, 뉴욕, 버지니아, 아이다호, 유타에 있는 미국 주요 반도체 공장과 새로운 용수 계약 체결",
-    "summary": "새로운 초순수, 폐수 및 액체 배출 제로 계약에 대한 3억 달러는 AI 경제의 칩 계층에서 지속적인 상업적 모멘텀을 나타냅니다. Gradiant가 뉴욕, 버지니아, 아이다호 및 유타에 있는 미국의 주요 반도체 공장에 대한 새로운 물 계약을 체결한 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
+    "title": "그라디언트, 미국 주요 반도체 팹을 위한 신규 수처리 계약 수주",
+    "summary": "그라디언트는 뉴욕, 버지니아, 아이다호, 유타에 위치한 미국의 주요 반도체 제조시설로부터 초순수, 폐수 및 무배수(ZLD) 처리 관련 신규 계약을 수주했습니다. 이번 계약들은 총액 3억 달러 규모로, AI 경제의 반도체 분야에서 지속적인 상용화 추진력을 나타냅니다. 이는 반도체 팹의 물 사용 및 폐수 규제 대응과 직결되는 중요한 수처리 인프라 확충 사례입니다.",
     "source": "Semiconductor Digest",
     "date": "2026-09-16",
     "link": "https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah",
     "original_title": "Gradiant Wins New Water Contracts for Major US Semiconductor Fabs in New York, Virginia, Idaho, and Utah",
     "lang": "en"
   },
+  "https://www.semiconductor-digest.com/aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies": {
+    "title": "아eluma, 스미토모 화학 첨단 기술과 전략적 협약 체결",
+    "summary": "Aeluma는 AI 데이터 통신 시장을 위한 포토닉스 웨이퍼의 개발 및 생산을 가속하기 위해 스미토모 화학 첨단 기술(SCAT)과 전략적 협약을 체결했다. 이번 협약은 AI 데이터 통신 분야에 필요한 첨단 반도체 웨이퍼의 개발과 생산 역량을 강화하기 위해 마련되었다. 양사의 협력을 통해 AI 관련 반도체 시장의 기술 발전과 공급망 확충이 기대된다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-16",
+    "link": "https://www.semiconductor-digest.com/aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies",
+    "original_title": "Aeluma Executes Strategic Agreement with Sumitomo Chemical Advanced Technologies",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems/?utm_source=rss&utm_medium=rss&utm_campaign=teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems": {
+    "title": "TeRAM, AI 시스템용 3D SRAM 개발을 위해 3,700만 달러 규모의 자금 조달과 함께 스텔스 모드 공개",
+    "summary": "TeRAM은 AI 시스템용 맞춤형 3D SRAM을 개발하기 위해 3,700만 달러의 자금을 조달하며 스텔스 모드에서 모습을 드러냈다. 이 3D SRAM 기술은 메모리 패키징을 재정의하여 용량과 대역폭을 극대화하는 것을 목표로 한다. 이를 통해 AI 시스템의 메모리 성능 한계를 극복하는 데 기여할 것으로 보인다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-16",
+    "link": "https://www.semiconductor-digest.com/teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems/?utm_source=rss&utm_medium=rss&utm_campaign=teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems",
+    "original_title": "TeRAM Emerges from Stealth with $37M to Develop 3D SRAM for AI Systems",
+    "lang": "en"
+  },
   "https://www.semiconductor-digest.com/mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process/?utm_source=rss&utm_medium=rss&utm_campaign=mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process": {
-    "title": "MediaTek, TSMC 2nm 공정에서 Dimensity 9600 Pro 출시",
-    "summary": "이 주력 SoC는 새로운 2nm 프로세스 노드를 채택하여 중요한 기술적 이정표를 달성했습니다. MediaTek이 TSMC 2nm 공정에서 Dimensity 9600 Pro를 출시한 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
+    "title": "미디어텍, TSMC 2nm 공정 기반 디멘시티 9600 프로 출시",
+    "summary": "미디어텍이 TSMC의 2nm 공정을 적용한 플래그십 SoC인 디멘시티 9600 프로를 출시했다. 이 제품은 새로운 2nm 공정 노드를 채택하여 중요한 기술적 이정표를 달성했다. 해당 내용은 Semiconductor Digest를 통해 처음 보도되었다.",
     "source": "Semiconductor Digest",
     "date": "2026-09-16",
     "link": "https://www.semiconductor-digest.com/mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process/?utm_source=rss&utm_medium=rss&utm_campaign=mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process",
     "original_title": "MediaTek Launches Dimensity 9600 Pro on TSMC 2nm Process",
     "lang": "en"
   },
+  "https://www.edie.net/how-to-cut-through-the-noise-at-new-york-climate-week/": {
+    "title": "뉴욕 기후 주간 행사에서 소통의 노이즈를 극복하는 방법",
+    "summary": "오는 9월 20일부터 27일까지 뉴욕 기후 주간(Climate Week NYC)이 개최된다. 수십만 명의 참가자가 현장에 몰리고 온라인 참여자까지 더해지면서 핵심 메시지가 묻힐 우려가 제기되고 있다. 중요한 기후 정보와 실질적인 탄소 감축 목표가 효과적으로 전달되기 위한 방안이 요구된다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-09-16",
+    "link": "https://www.edie.net/how-to-cut-through-the-noise-at-new-york-climate-week/",
+    "original_title": "How to cut through the noise at New York Climate Week",
+    "lang": "en"
+  },
+  "https://www.edie.net/45-minute-masterclass-making-scope-3-actionable-scaling-renewable-electricity-across-the-value-chain/": {
+    "title": "45분 마스터클래스: 가치 사슬 전반의 재생에너지 확대를 통한 범위 3 배출 실천 방안",
+    "summary": "2026년 11월 3일 에디(edie) 웨비나에서 가치 사슬 전반에 걸쳐 재생에너지를 확대하여 범위 3 온실가스 배출량을 실질적으로 감축하는 방안을 다루는 마스터클래스가 열린다. 해당 교육은 기업의 지속 가능한 비즈니스 관행을 구현하는 데 필수적인 내용을 포함하고 있다. 참가자들은 가치 사슬 내 재생에너지 도입을 통해 범위 3 배출량을 관리하는 구체적 방법을 학습할 수 있다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-09-16",
+    "link": "https://www.edie.net/45-minute-masterclass-making-scope-3-actionable-scaling-renewable-electricity-across-the-value-chain/",
+    "original_title": "45-minute Masterclass: Making Scope 3 actionable: Scaling renewable electricity across the value chain",
+    "lang": "en"
+  },
   "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/": {
-    "title": "edie의 지속 가능한 공급망 서밋까지 하루 남았습니다.",
-    "summary": "9월 17일에 우리와 함께 지속 가능성, 공급망 및 조달 분야의 최고 전문가가 참여하는 사고 리더십과 업계 패널을 통해 전문가 주도의 통찰력을 얻을 수 있는 특별한 기회를 놓치지 마세요.",
+    "title": "에디(Edie) 지속가능한 공급망 서밋까지 하루 남아",
+    "summary": "9월 17일, 지속가능성, 공급망, 구매 분야 최고 전문가들이 참여하는 산업 패널과 사고 리더십을 통해 전문가 주도의 인사이트를 얻을 수 있는 행사가 열린다. 이번 서밋은 지속가능한 공급망 구축과 관련된 심층적인 논의를 다룬다.",
     "source": "edie (환경 비즈니스)",
     "date": "2026-09-16",
     "link": "https://www.edie.net/five-weeks-to-go-until-edies-sustainable-supply-chains-summit/",
     "original_title": "ONE DAY to go until edie’s Sustainable Supply Chains Summit",
     "lang": "en"
   },
-  "https://www.power-technology.com/news/epa-revokes-power-plant-rules-310bn-savings/": {
-    "title": "US EPA, 예상 절감액 3,100억 달러로 Biden 시대 발전소 규정 철회",
-    "summary": "미국 환경보호국(EPA)은 석탄 및 가스 화력 발전소에 대한 대부분의 탄소 배출 기준을 폐지했으며, 이러한 변경으로 인해 3,100억 달러가 절약될 것으로 추산하고 있습니다.",
-    "source": "Water Technology",
+  "https://www.edie.net/from-nepal-to-corporate-boardrooms-the-climate-cases-reshaping-accountability/": {
+    "title": "네살부터 기업 이사회까지: 책임을 재정립하는 기후 소송 사례들",
+    "summary": "파리 협정은 기후 행동과 관련하여 기업과 국가를 평가하고 책임을 물을 수 있는 공식적인 기준점을 마련했다. 이에 따라 지난 10년간 기후 관련 소송이 급증했다. 해당 기사는 기후 책임과 관련된 가장 중요한 최근 소송 사례들을 분석하여 제시한다.",
+    "source": "edie (환경 비즈니스)",
     "date": "2026-09-15",
-    "link": "https://www.power-technology.com/news/epa-revokes-power-plant-rules-310bn-savings/",
-    "original_title": "US EPA revokes Biden-era power plant rules with $310bn in estimated savings",
+    "link": "https://www.edie.net/from-nepal-to-corporate-boardrooms-the-climate-cases-reshaping-accountability/",
+    "original_title": "From Nepal to corporate boardrooms: The climate cases reshaping accountability",
     "lang": "en"
   },
-  "https://www.semiconductor-digest.com/the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort/?utm_source=rss&utm_medium=rss&utm_campaign=the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort": {
-    "title": "뉴욕은 Micron Technology 공동 견습 프로그램을 만들고 첫 번째 코호트를 환영합니다",
-    "summary": "NY Creates와 Micron Technology, Inc.는 10명의 견습생이 공동 인력 개발 프로그램의 첫 번째 집단에 합류하는 서명식을 가졌습니다. NY Creates 및 Micron Technology 공동 견습 프로그램 환영 첫 코호트 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
+  "https://www.edie.net/eu-truck-manufacturers-call-for-adjusted-compliance-time-for-ev-production/": {
+    "title": "유럽 트럭 제조사들, 전기차 생산 규제 준수 기한 조정 요청",
+    "summary": "유럽의 주요 트럭 제조사들은 충전 및 급유 인프라 부족, 전력망 연결 문제, 높은 에너지 가격 등으로 인해 무배출 중대형 차량으로의 전환이 위협받고 있다고 밝혔다. 이에 따라 관련 규제의 준수 기한을 조정해야 한다는 입장을 표명했다.",
+    "source": "edie (환경 비즈니스)",
     "date": "2026-09-15",
-    "link": "https://www.semiconductor-digest.com/the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort/?utm_source=rss&utm_medium=rss&utm_campaign=the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort",
-    "original_title": "The NY Creates and Micron Technology Joint Apprenticeship Program Welcomes First Cohort",
+    "link": "https://www.edie.net/eu-truck-manufacturers-call-for-adjusted-compliance-time-for-ev-production/",
+    "original_title": "EU truck manufacturers call for adjusted compliance time for EV production",
     "lang": "en"
   },
-  "https://airqualitynews.com/legislation/us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation/?utm_source=rss&utm_medium=rss&utm_campaign=us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation": {
-    "title": "미국 EPA는 Biden 시대의 대기 오염 법안을 더 해체하기 위해 움직입니다.",
-    "summary": "미국 환경보호청은 석탄 및 가스 화력발전소의 온실가스 배출 제한을 폐지함으로써 바이든 시대의 또 다른 주요 환경 조치를 즉각 폐지할 것으로 예상됩니다.  EPA는 이 규정이 에너지 산업에 불필요한 비용을 부과하고 안정적인 전력 공급을 위협할 수 있다고 주장합니다. Biden 시대의 표준은 […]",
-    "source": "Air Quality News",
+  "https://www.edn.com/a-design-path-to-success-exists-for-ultra-low-voltage-socs/": {
+    "title": "초저전압 SoC를 위한 성공적인 설계 경로 존재한다",
+    "summary": "초저전압(ULV) 칩 설계 영역은 공급 전압이 트랜지스터 임계 전압과 비슷하거나 그 이하인 환경을 의미한다. 해당 기사는 초저전압 시스템온칩(SoC) 설계를 위한 성공적인 설계 경로가 존재한다는 내용을 다룬다. 이는 전력 소비를 최소화하려는 반도체 설계의 기술적 접근법과 관련이 있다.",
+    "source": "EDN",
     "date": "2026-09-15",
-    "link": "https://airqualitynews.com/legislation/us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation/?utm_source=rss&utm_medium=rss&utm_campaign=us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation",
-    "original_title": "US EPA moves to dismantle more Biden-era air pollution legislation",
+    "link": "https://www.edn.com/a-design-path-to-success-exists-for-ultra-low-voltage-socs/",
+    "original_title": "A design path to success exists for ultra-low-voltage SoCs",
     "lang": "en"
   },
-  "https://www.semiconductor-digest.com/xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware": {
-    "title": "Xanadu, ASML, 광자 양자 하드웨어용 리소그래피 발전",
-    "summary": "이번 협력을 통해 캐나다의 광자 양자 컴퓨팅 회사인 Xanadu와 ASML은 향상된 패터닝 제어 및 저손실 광자 구조를 위한 리소그래피 기반 공정 접근 방식을 탐구할 것입니다. Photonic Quantum Hardware를 위한 고급 리소그래피를 위한 Xanadu, ASML의 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-12",
-    "link": "https://www.semiconductor-digest.com/xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware",
-    "original_title": "Xanadu, ASML to Advance Lithography for Photonic Quantum Hardware",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/ny-creates-announces-participation-in-12-inch-mask-industry-initiative-to-advance-high-na-euv-lithography-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=ny-creates-announces-participation-in-12-inch-mask-industry-initiative-to-advance-high-na-euv-lithography-ecosystem": {
-    "title": "NY Creates, High NA EUV 리소그래피 생태계 발전을 위한 12인치 마스크 산업 이니셔티브 참여 발표",
-    "summary": "NY Creates는 오늘 높은 개구수 극자외선(높은 NA EUV) 리소그래피 생태계를 강화하기 위해 고안된 새로 형성된 협력인 12인치 마스크 산업 이니셔티브에 포함되었다고 발표했습니다. NY Creates가 높은 NA EUV 리소그래피 생태계를 발전시키기 위해 12인치 마스크 산업 이니셔티브에 참여한다고 발표한 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-11",
-    "link": "https://www.semiconductor-digest.com/ny-creates-announces-participation-in-12-inch-mask-industry-initiative-to-advance-high-na-euv-lithography-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=ny-creates-announces-participation-in-12-inch-mask-industry-initiative-to-advance-high-na-euv-lithography-ecosystem",
-    "original_title": "NY Creates Announces Participation in 12-Inch Mask Industry Initiative to Advance High NA EUV Lithography Ecosystem",
-    "lang": "en"
-  },
-  "https://spectrum.ieee.org/ocean-thermal-energy-conversion": {
-    "title": "섬은 해양 지열층에서 에너지를 활용합니다",
-    "summary": "인도 본토에서 서쪽으로 거의 400km 떨어진 외딴 섬에서 진행 중인 건설은 광대하고 아직 개발되지 않은 재생 가능 자원인 해양 지열층의 상업적 생존 가능성을 처음으로 보여줄 수 있습니다. 락샤드위프 군도(Lakshadweep Archipelago)의 표층수는 아래 깊이보다 20°C 이상 더 따뜻하며, 올바른 장비를 사용하면 온도 차이를 활용하여 전기를 생산할 수 있습니다. 해양 열에너지 변환(OTEC)으로 알려진 이러한 발전소는 24시간 내내 재생 가능한 전력을 공급할 수 있습니다. 표층수와 심층수 사이의 온도 차이가 충분히 큰 세계 해양의 광범위한 지역 덕분에 기회의 규모는 엄청납니다. 예를 들어, 미국 에너지부 산하 로키산맥 국립연구소의 2021년 보고서에 따르면 OTEC는 미국 주변 해역에서만 국가의 전체 전력 수요를 충족할 수 있다고 합니다. 인도의 프로젝트는 1,000미터 깊이의 바닷물을 활용하여 65kW의 전력을 생산할 것입니다.",
-    "source": "IEEE Spectrum · Energy",
-    "date": "2026-09-10",
-    "link": "https://spectrum.ieee.org/ocean-thermal-energy-conversion",
-    "original_title": "Islands Tap Energy From Oceans’ Thermal Layers",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/asml-begins-construction-of-new-eindhoven-campus/?utm_source=rss&utm_medium=rss&utm_campaign=asml-begins-construction-of-new-eindhoven-campus": {
-    "title": "ASML, 새로운 에인트호벤 캠퍼스 건설 시작",
-    "summary": "ASML Holding N.V.는 오늘 네덜란드 Brainport 지역에 두 번째 주요 산업 캠퍼스 건설을 시작했습니다. ASML이 새로운 아인트호벤 캠퍼스 건설을 시작한다는 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-10",
-    "link": "https://www.semiconductor-digest.com/asml-begins-construction-of-new-eindhoven-campus/?utm_source=rss&utm_medium=rss&utm_campaign=asml-begins-construction-of-new-eindhoven-campus",
-    "original_title": "ASML Begins Construction of New Eindhoven Campus",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/closing-the-gap-how-intelligent-sensing-is-reshaping-wafer-process-control/?utm_source=rss&utm_medium=rss&utm_campaign=closing-the-gap-how-intelligent-sensing-is-reshaping-wafer-process-control": {
-    "title": "격차 해소: 지능형 감지가 웨이퍼 공정 제어를 재구성하는 방법",
-    "summary": "Nordson Test & Inspection의 Vidya Vijay는 수동 검사 및 운영자 판단에 대한 의존이 현대 제조 공장에서 어떻게 가장 절제된 병목 현상 중 하나가 되었는지 살펴봅니다. 격차 해소: 지능형 감지가 웨이퍼 공정 제어를 재구성하는 방법 게시물은 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-09",
-    "link": "https://www.semiconductor-digest.com/closing-the-gap-how-intelligent-sensing-is-reshaping-wafer-process-control/?utm_source=rss&utm_medium=rss&utm_campaign=closing-the-gap-how-intelligent-sensing-is-reshaping-wafer-process-control",
-    "original_title": "Closing the Gap: How Intelligent Sensing Is Reshaping Wafer Process Control",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm": {
-    "title": "SEMIFIVE, Samsung 4nm에서 HyperAccel의 LLM AI 추론 가속기 'Bertha' 양산 시작",
-    "summary": "맞춤형 AI 반도체(ASIC) 솔루션을 공급하는 글로벌 기업 세미파이브(SEMIFIVE)가 하이퍼액셀(HyperAccel)용 데이터센터 AI 추론 가속기 양산을 시작했다고 오늘 발표했다. SEMIFIVE, Samsung 4nm에서 HyperAccel의 LLM AI 추론 가속기 'Bertha' 대량 생산 시작이라는 게시물이 Semiconductor Digest에 처음 등장했습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-09",
-    "link": "https://www.semiconductor-digest.com/semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm",
-    "original_title": "SEMIFIVE Commences Mass Production of HyperAccel’s LLM AI Inference Accelerator ‘Bertha’ on Samsung 4nm",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv/?utm_source=rss&utm_medium=rss&utm_campaign=asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv": {
-    "title": "ASML과 TSMC, 높은 NA EUV를 위한 대형 포토마스크 산업 전환을 위한 이니셔티브 발표",
-    "summary": "Taiwan Semiconductor Manufacturing Company와 ASML Holding N.V.는 반도체 업계의 대형 극자외선(EUV) 리소그래피 포토마스크 전환을 주도하기 위한 협력 계획을 발표했습니다. ASML과 TSMC가 High NA EUV용 대형 포토마스크에 대한 산업 전환을 선도하는 계획을 발표한 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-09",
-    "link": "https://www.semiconductor-digest.com/asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv/?utm_source=rss&utm_medium=rss&utm_campaign=asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv",
-    "original_title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%e2%82%82-with-the-power-of-disorder/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%25e2%2582%2582-with-the-power-of-disorder": {
-    "title": "KAIST, '무질서의 힘'으로 이산화탄소보다 6000배 강한 반도체 온실가스 길들인다",
-    "summary": "KAIST와 삼성전자가 여러 개의 금속 원자를 함께 섞으면 촉매의 구조가 실제로 안정화되는 원리인 '엔트로피 안정화'를 기반으로 오래 지속되는 새로운 촉매를 개발했다. KAIST가 CO2보다 6000배 더 강한 반도체 온실가스를 '무질서의 힘'으로 길들인다는 글이 Semiconductor Digest에 첫 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-05",
-    "link": "https://www.semiconductor-digest.com/kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%e2%82%82-with-the-power-of-disorder/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%25e2%2582%2582-with-the-power-of-disorder",
-    "original_title": "KAIST Tames a Semiconductor Greenhouse Gas 6,000 Times More Potent than CO₂ with the ‘Power of Disorder’",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters": {
-    "title": "Sivers Semiconductors, AI 데이터센터용 유럽 포토닉스 제조 확장을 위해 3천만 달러 투자",
-    "summary": "글래스고 확장을 통해 InP 제조 용량을 연간 1억 개 이상의 CW DFB 레이저로 늘려 예상되는 AI 인프라 고객 증가를 지원할 것입니다. Sivers Semiconductors가 AI 데이터 센터를 위한 유럽 포토닉스 제조 확장을 위해 3천만 달러를 투자한 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-04",
-    "link": "https://www.semiconductor-digest.com/sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters",
-    "original_title": "Sivers Semiconductors Invests $30 Million to Expand European Photonics Manufacturing for AI Datacenters",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference": {
-    "title": "Gigaphoton, SPIE 포토마스크 기술 + EUV 리소그래피 컨퍼런스에서 화학 마스크 검사를 위한 EUV 광원 발전에 대해 발표",
-    "summary": "최첨단 반도체 제조 공정용 광원 제조업체인 Gigaphoton Inc.는 화학 포토마스크 검사를 위한 주석 레이저 생성 플라즈마(Sn-LPP) 극자외선(EUV) 광원 기술의 지속적인 발전을 보여주는 결과를 발표할 예정입니다. SPIE 포토마스크 기술 + EUV 리소그래피 컨퍼런스에서 화학 마스크 검사를 위한 EUV 광원 발전에 대해 발표하는 Gigaphoton의 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-04",
-    "link": "https://www.semiconductor-digest.com/gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference",
-    "original_title": "Gigaphoton to Present on EUV Lightsource Advances for Actinic Mask Inspection at SPIE Photomask Technology + EUV Lithography Conference",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/globalfoundries-and-raaam-memory-technologies-announce-the-joint-development/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-raaam-memory-technologies-announce-the-joint-development": {
-    "title": "GlobalFoundries와 RAAAM 메모리 기술, 공동 개발 발표",
-    "summary": "협력 목표는 상용 SRAM에 비해 면적을 40% 축소하고 전력을 최대 60% 감소시켜 고급 AI 칩에 널리 사용되는 FDX 플랫폼을 위한 가장 밀도가 높은 표준 CMOS 온칩 메모리 솔루션을 구현하는 것입니다. GlobalFoundries와 RAAAM 메모리 기술이 공동 개발을 발표한 게시물은 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-03",
-    "link": "https://www.semiconductor-digest.com/globalfoundries-and-raaam-memory-technologies-announce-the-joint-development/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-raaam-memory-technologies-announce-the-joint-development",
-    "original_title": "GlobalFoundries and RAAAM Memory Technologies Announce Joint Development",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership": {
-    "title": "SEMI와 Silicon Catalyst, 전략적 파트너십으로 글로벌 반도체 혁신 가속화 목표",
-    "summary": "파트너십은 SEMICON Taiwan 2026에서 양해각서(MOU) 체결을 통해 공식화되었습니다. 포스트 SEMI와 Silicon Catalyst는 전략적 파트너십을 통해 글로벌 반도체 혁신을 가속화하는 것을 목표로 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-03",
-    "link": "https://www.semiconductor-digest.com/semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership",
-    "original_title": "SEMI and Silicon Catalyst Aim to Accelerate Global Semiconductor Innovation with Strategic Partnership",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/navitas-delivers-latest-gen-5-ganfast-manufactured-in-the-u-s-through-globalfoundries-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=navitas-delivers-latest-gen-5-ganfast-manufactured-in-the-u-s-through-globalfoundries-partnership": {
-    "title": "Navitas, GlobalFoundries 파트너십을 통해 미국에서 제조된 최신 Gen 5 GaNFast 제공",
-    "summary": "2025년 11월 Navitas와 GF는 미국 GaN 혁신과 국내 제조를 가속화하기 위한 장기 전략적 파트너십을 발표했습니다. Navitas가 GlobalFoundries 파트너십을 통해 미국에서 제조된 최신 Gen 5 GaNFast를 제공하는 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-02",
-    "link": "https://www.semiconductor-digest.com/navitas-delivers-latest-gen-5-ganfast-manufactured-in-the-u-s-through-globalfoundries-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=navitas-delivers-latest-gen-5-ganfast-manufactured-in-the-u-s-through-globalfoundries-partnership",
-    "original_title": "Navitas Delivers Latest Gen 5 GaNFast Manufactured in the U.S. Through GlobalFoundries Partnership",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips/?utm_source=rss&utm_medium=rss&utm_campaign=wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips": {
-    "title": "웨이퍼 스케일 P형 2D 반도체는 차세대 칩의 주요 장애물을 제거합니다.",
-    "summary": "웨이퍼 규모의 2D 반도체는 높은 홀 이동도, 강력한 안정성 및 트랜지스터 성능을 결합하여 차세대 CMOS 전자 장치를 발전시킵니다. 포스트 웨이퍼 스케일 P-타입 2D 반도체는 차세대 칩의 핵심 장애물을 제거합니다.가 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-01",
-    "link": "https://www.semiconductor-digest.com/wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips/?utm_source=rss&utm_medium=rss&utm_campaign=wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips",
-    "original_title": "Wafer-Scale P-Type 2D Semiconductor Clears a Key Hurdle for Next-Generation Chips",
-    "lang": "en"
-  },
-  "https://spectrum.ieee.org/spain-nuclear-power-reactor-shutdowns": {
-    "title": "스페인, 에너지 난기류 속에서 원자력 단계적 폐쇄를 늦추다",
-    "summary": "중요한 정책 변화로, 8월 14일 스페인 정부는 총 용량이 약 2기가와트에 달하는 한 쌍의 원자력 발전소에 대한 3년 연장을 명령했습니다. 2019년에는 마드리드에서 남서쪽으로 200km 떨어진 알마라즈의 발전소가 2027년에 폐쇄될 예정이었습니다. 원자력 발전의 단계적 폐쇄는 스페인 연립 정부의 주요 안건이었기 때문에 지연으로 인해 연립 정당 중 하나와 갈등이 촉발되었습니다. 이 법령은 연장을 “중동의 위기” 때문이라고 비난하지만, 이러한 결정은 여러 가지 요인으로 인해 여러 유럽 국가의 단계적 원자력 폐지 정책이 둔화되거나 역전되었기 때문에 나온 것입니다. \"우크라이나 전쟁, 이베리아 정전, 천연가스 가격 상승으로 인해 상황이 많이 바뀌었습니다.\" 마드리드 콤플루텐세 대학교의 에너지 경제학자이자 스페인 국가시장경쟁위원회의 전 이사이기도 한 디에고 로드리게스 로드리게스의 말입니다. “정부는 시스템에 많은 배터리가 필요할 것임을 알 수 있었습니다.",
-    "source": "IEEE Spectrum · Energy",
-    "date": "2026-08-29",
-    "link": "https://spectrum.ieee.org/spain-nuclear-power-reactor-shutdowns",
-    "original_title": "Spain Slows Nuclear Phaseout Amidst Energy Turbulence",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/micron-celebrates-first-manassas-apprenticeship-graduates/?utm_source=rss&utm_medium=rss&utm_campaign=micron-celebrates-first-manassas-apprenticeship-graduates": {
-    "title": "Micron, 첫 번째 Manassas 견습 졸업생 축하",
-    "summary": "첫 번째 졸업반과 다섯 번째 서명 집단은 버지니아에서 Micron의 인력 개발 파트너십을 뒷받침하는 모멘텀을 강조합니다. Micron이 최초의 Manassas 견습 졸업생을 기념하는 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-08-29",
-    "link": "https://www.semiconductor-digest.com/micron-celebrates-first-manassas-apprenticeship-graduates/?utm_source=rss&utm_medium=rss&utm_campaign=micron-celebrates-first-manassas-apprenticeship-graduates",
-    "original_title": "Micron Celebrates First Manassas Apprenticeship Graduates",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/lam-research-breaks-ground-on-new-oregon-lab/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-breaks-ground-on-new-oregon-lab": {
-    "title": "Lam Research, 새로운 오리건 연구소 착공",
-    "summary": "칩 제조사와의 협력적 혁신을 지원하는 실리콘 포레스트(Silicon Forest) 시설 30억 달러 이상의 글로벌 연구실 네트워크 확장 계획의 첫 번째 이정표입니다. Lam Research가 New Oregon Lab 착공에 관한 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-08-29",
-    "link": "https://www.semiconductor-digest.com/lam-research-breaks-ground-on-new-oregon-lab/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-breaks-ground-on-new-oregon-lab",
-    "original_title": "Lam Research Breaks Ground on New Oregon Lab",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/kioxia-and-sandisk-to-invest-over-31-billion-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=kioxia-and-sandisk-to-invest-over-31-billion-in-japan": {
-    "title": "KIOXIA와 Sandisk, 일본에 310억 달러 이상 투자",
-    "summary": "2032년까지 지속적인 투자를 통해 양사의 오랜 합작 투자가 더욱 강화되고 의미 있는 다년간 플래시 메모리 공급이 가능해질 것입니다. KIOXIA와 Sandisk가 일본에 310억 달러 이상을 투자할 것이라는 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-08-28",
-    "link": "https://www.semiconductor-digest.com/kioxia-and-sandisk-to-invest-over-31-billion-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=kioxia-and-sandisk-to-invest-over-31-billion-in-japan",
-    "original_title": "Kioxia and Sandisk to Invest Over $31 Billion in Japan",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana/?utm_source=rss&utm_medium=rss&utm_campaign=sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana": {
-    "title": "SK하이닉스, 인디애나주 HBM 생산기지 기공식",
-    "summary": "인디애나주 팹에 40억 달러 이상 투자, 2029년 하반기부터 미국 최초 'Made in USA' 차세대 HBM 양산 시작. SK하이닉스가 인디애나주 HBM 생산기지 기공식 개최 소식이 Semiconductor Digest에 처음 등장",
-    "source": "Semiconductor Digest",
-    "date": "2026-08-28",
-    "link": "https://www.semiconductor-digest.com/sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana/?utm_source=rss&utm_medium=rss&utm_campaign=sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana",
-    "original_title": "SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project/?utm_source=rss&utm_medium=rss&utm_campaign=primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project": {
-    "title": "FMS 2026의 Primemas: CXL 풀 스택 제품 및 Abaco 프로젝트의 Micron 협업",
-    "summary": "Primemas Inc.는 FMS(Future of Memory and Storage) 2026에서 최신 CXL 메모리 혁신을 선보였습니다. FMS 2026의 Post Primemas: Abaco 프로젝트의 CXL 풀 스택 제품 및 Micron 협업이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-08-25",
-    "link": "https://www.semiconductor-digest.com/primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project/?utm_source=rss&utm_medium=rss&utm_campaign=primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project",
-    "original_title": "Primemas at FMS 2026: CXL Full-Stack Products and Micron Collaboration on the Abaco Project",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects/?utm_source=rss&utm_medium=rss&utm_campaign=quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects": {
-    "title": "Quintessent, 4천만 달러 규모의 시리즈 A 투자 유치 및 AI 광학 인터커넥트용 첫 번째 제품 샘플링 시작",
-    "summary": "Quintessent는 오늘 초과 모집된 시리즈 A 투자 라운드에서 4천만 달러를 모금했다고 발표했습니다. Quintessent가 4천만 달러의 시리즈 A 자금을 조달하고 AI 광학 인터커넥트용 첫 제품 샘플링을 시작한다는 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-08-25",
-    "link": "https://www.semiconductor-digest.com/quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects/?utm_source=rss&utm_medium=rss&utm_campaign=quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects",
-    "original_title": "Quintessent Raises $40 Million Series A and Begins Sampling First Product for AI Optical Interconnects",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/micron-opens-boise-training-center-to-build-semiconductor-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=micron-opens-boise-training-center-to-build-semiconductor-workforce": {
-    "title": "Micron, 반도체 인력 구축을 위해 보이시 교육 센터 개설",
-    "summary": "실습 기술 교육과 반도체 경력 경로를 제공하는 새로운 60,000제곱피트 규모의 교육 센터입니다. Micron이 반도체 인력 구축을 위해 보이시 교육 센터를 개설한 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-08-25",
-    "link": "https://www.semiconductor-digest.com/micron-opens-boise-training-center-to-build-semiconductor-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=micron-opens-boise-training-center-to-build-semiconductor-workforce",
-    "original_title": "Micron Opens Boise Training Center to Build Semiconductor Workforce",
+  "https://www.edn.com/dac-implementations-the-spread-bit-pwm-strikes-back/": {
+    "title": "DAC 구현: 스프레드 비트 PWM의 재조명",
+    "summary": "스프레드 비트 PWM(펄스 폭 변조) 기술은 이론적으로 뚜렷한 장점을 가지고 있으나, 이를 실제 하드웨어 구현에 적용하는 과정에서는 여러 기술적 한계와 고려사항이 존재한다. 본 기사는 디지털-아날로그 변환기(DAC) 설계 시 스프레드 비트 PWM 방식을 실용화하는 데 따르는 주요 이슈를 분석한다.",
+    "source": "EDN",
+    "date": "2026-09-15",
+    "link": "https://www.edn.com/dac-implementations-the-spread-bit-pwm-strikes-back/",
+    "original_title": "DAC implementations: The spread-bit PWM strikes back",
     "lang": "en"
   }
 }
