@@ -791,7 +791,8 @@ def _load_llm_keyword_boost() -> dict[str, list[str]]:
 
 
 def _apply_keyword_boost(boost: dict[str, list[str]]) -> int:
-    """KEYWORDS 리스트에 boost 키워드를 in-place로 추가. 추가된 총 개수 반환."""
+    """KEYWORDS 리스트에 boost 키워드를 in-place로 추가. 추가된 총 개수 반환.
+    영구화: 추가된 키워드를 keywords-boost.json 에 저장해 다음 실행에서도 유지."""
     if not boost:
         return 0
     added = 0
@@ -799,12 +800,55 @@ def _apply_keyword_boost(boost: dict[str, list[str]]) -> int:
         if cat in boost:
             KEYWORDS[i] = (cat, words + boost[cat])
             added += len(boost[cat])
+    # 영구 저장: 부스트된 키워드를 별도 파일에 누적. 기존 부스트와 merge.
+    boost_file = ROOT / "site" / "keywords-boost.json"
+    existing: dict[str, list[str]] = {}
+    if boost_file.exists():
+        try:
+            existing = json.loads(boost_file.read_text(encoding="utf-8"))
+        except Exception:
+            existing = {}
+    for cat, kws in boost.items():
+        cur = set(existing.get(cat, []))
+        for k in kws:
+            cur.add(k)
+        existing[cat] = sorted(cur)
+    try:
+        boost_file.parent.mkdir(parents=True, exist_ok=True)
+        boost_file.write_text(json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8")
+    except Exception:
+        pass
     return added
+
+
+def _load_persistent_boost() -> dict[str, list[str]]:
+    """영구 부스트 파일(keywords-boost.json)에서 이전 실행이 누적한 키워드 로드.
+    코드 하드코딩 KEYWORDS 에 없는 키워드만 반환 (중복 방지)."""
+    boost_file = ROOT / "site" / "keywords-boost.json"
+    if not boost_file.exists():
+        return {}
+    try:
+        d = json.loads(boost_file.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+    existing = {w for _, words in KEYWORDS for w in words}
+    result: dict[str, list[str]] = {}
+    for cat, kws in d.items():
+        new = [k for k in kws if k not in existing]
+        if new:
+            result[cat] = new
+    return result
 
 
 def collect() -> dict:
     # LLM 추천 키워드 자동 반영(이전 실행 결과 기반).
+    # 영구 부스트 파일에서 누적 키워드 로드 + 이번 실행의 추천에서 새 키워드 추가.
     if LLM_ENABLED:
+        # 1) 영구 부스트 파일에서 이전 실행이 누적한 키워드 병합
+        persistent = _load_persistent_boost()
+        if persistent:
+            _apply_keyword_boost(persistent)  # 중복은 _apply 내부에서 방지
+        # 2) 이번 실행의 추천(keyword_suggestions.json)에서 새 키워드 부스트
         boost = _load_llm_keyword_boost()
         if boost:
             n = _apply_keyword_boost(boost)
@@ -826,6 +870,38 @@ def collect() -> dict:
     feed_ok = 0
     feed_fail = 0
     keyword_suggestions = []  # LLM 모드: 키워드 방식이 놓친 기사의 새 키워드 후보
+
+    # 과거 카드 누적: 이전 실행의 articles.json을 읽어 기존 기사를 보존.
+    # 매 실행마다 RSS 피드(최근 며칠)만 수집되므로, 이전 카드가 사라지는 걸
+    # 막기 위해 기존 articles를 로드해 새 기사와 merge. 너무 오래된 기사는
+    # 만료(기본 90일)시켜 무한 증식 방지.
+    KEEP_DAYS = int(os.environ.get("KEEP_DAYS", "90"))
+    if OUT_FILE.exists():
+        try:
+            old_data = json.loads(OUT_FILE.read_text(encoding="utf-8"))
+            old_articles = old_data.get("articles", [])
+            now = datetime.now(timezone.utc)
+            kept = 0
+            for a in old_articles:
+                link = a.get("link", "")
+                if not link or link in seen_links:
+                    continue
+                # 날짜 기준 만료: KEEP_DAYS 일 이내만 보존.
+                d = a.get("date", "")
+                if d:
+                    try:
+                        ad = datetime.fromisoformat(d.replace("Z", "+00:00"))
+                        if (now - ad).days > KEEP_DAYS:
+                            continue
+                    except Exception:
+                        pass
+                articles.append(a)
+                seen_links.add(link)
+                kept += 1
+            if kept:
+                print(f"[fetcher] 과거 카드 누적: {kept}건 보존 (최근 {KEEP_DAYS}일)")
+        except Exception as e:
+            print(f"[fetcher] 과거 articles.json 로드 스킵: {e}")
 
     print(f"[fetcher] {len(sources)}개 출처 수집 시작")
     for src in sources:
@@ -948,6 +1024,15 @@ def collect() -> dict:
                             "keywords": llm_result["keywords"],
                             "link": link,
                         })
+                    # 영문 기사인데 LLM이 title_ko(번역 제목)를 안 줬으면
+                    # Google 번역으로 보완. cat은 있는데 title_ko만 빈 경우,
+                    # 아래 not cat 폴백이 안 타서 번역이 영원히 누락되는 빈틈 방지.
+                    if lang == "en" and not llm_result["title_ko"]:
+                        title_final = translate_title(title)
+                        if not llm_result["summary"]:
+                            sum_trunc = summary[:1000] if summary else ""
+                            if sum_trunc:
+                                summary_final = translate_summary(sum_trunc)
             # LLM 실패 시 폴백: 영문 기사는 Google 번역으로 제목/요약 번역.
             # (LLM 모드에서는 위에서 Google 번역을 안 했으므로 여기서 보완)
             if lang == "en" and LLM_ENABLED and not cat:
