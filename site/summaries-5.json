@@ -1,0 +1,83 @@
+{
+  "https://spectrum.ieee.org/ieee-course-ai-power-grids": {
+    "title": "IEEE 과정에서는 AI를 사용하여 전력망을 현대화하는 방법을 가르칩니다.",
+    "summary": "지금까지 구축된 시스템 중 가장 크고 복잡한 시스템 중 하나인 오늘날의 미국 전력망은 한계에 도달해 작동하고 있습니다. 미국 에너지부에 따르면 급속한 산업 성장, 더 자주 발생하는 기상 이변, 기록적인 전력 사용량 급증으로 인해 전력망이 한계점에 이르렀다고 합니다. 대부분의 전력이 중앙 집중식 석탄 또는 가스 발전소에서 나오고 전기 사용량이 꾸준한 속도로 증가하는 보다 예측 가능한 세상을 위해 수십 년 전에 구축된 그리드는 부분적으로 데이터 센터의 수요 증가로 인해 예상치 못한 부담에 직면해 있습니다. 인프라를 관리하는 전문가의 업무는 전통적인 엔지니어링 작업에서 복잡하고 빠르게 진행되는 과제로 발전했습니다. 업계 보고서에 따르면 수백만 개의 최신 디지털 센서, 스마트 계량기, 그리드 모니터가 끊임없이 정보의 물결을 생성하고 있습니다. 엄청난 양의 데이터에는 즉각적이고 자동화된 컴퓨터 분석이 필요합니다. 왜냐하면 작업자가 이를 충분히 빠르게 처리할 수 없기 때문입니다. 유틸리티에 대한 압력은 두 가지 원인에서 비롯됩니다.",
+    "source": "IEEE Spectrum · Energy",
+    "date": "2026-08-06",
+    "link": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
+    "original_title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation": {
+    "title": "시뮬레이션 앱을 사용하여 전자 장치 고장의 근본 원인 식별",
+    "summary": "이 기사는 COMSOL에서 제공한 것입니다. 향상된 주행 거리, 더 큰 신뢰성, 더 빠른 충전을 추구하면서 전기 자동차는 고전압 전자 장치에 대한 수요를 주도하고 있습니다. 이러한 수요를 주도하는 다른 애플리케이션으로는 풍력 발전소, 데이터 센터, 서버 팜 등이 있습니다. 고전압 전자 장치에 대한 관심이 높아짐에 따라 갑작스러운 고장과 관련된 위험을 고려해야 합니다. 고전압 장비의 오작동을 유발하는 대부분의 원인은 해당 장비가 작동하는 기후 조건과 관련이 있을 수 있습니다. 특히 습기로 인해 전자 표면에 결로가 생기면 부식이 발생하여 ECM(전기화학적 마이그레이션) 중에 표류 누출 전류와 수지상 단락이 발생할 수 있습니다. 부식을 고려한 사전 설계, 예측, 완화 및 지원은 덴마크 기술 대학(DTU)의 전자 부식 센터(CELCORR) 연구 그룹의 초점입니다. 그룹의 연구원들은 업계 파트너와 협력하여",
+    "source": "IEEE Spectrum · Semiconductors",
+    "date": "2026-08-03",
+    "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+    "original_title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/topological-material-nanowire-interconnect": {
+    "title": "특이 준입자, 차세대 반도체 배선의 새로운 가능성 제시",
+    "summary": "마이크로칩에서 트랜지스터를 연결하는 구리 배선은 전자 기기가 소형화됨에 따라 40나노미터 이하에서 전기 전도도가 급격히 떨어지는 한계에 직면해 있다. 연구진은 코발트나 루테늄 등 대체 금속이 나노 스케일에서 더 나은 전도성을 보이지만 극한의 미세화에서는 동일한 문제가 발생한다고 지적했다. 이에 따라 얇아질수록 전도성이 오히려 향상되는 위상 물질 기반의 특이 준입자를 활용한 차세대 배선 연구가 새로운 대안으로 주목받고 있다.",
+    "source": "IEEE Spectrum · Semiconductors",
+    "date": "2026-07-27",
+    "link": "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
+    "original_title": "Exotic Quasiparticles Promise Next-Gen Interconnects",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/ai-in-robotics": {
+    "title": "광학 기술, 로봇의 AI 모델을 실시간으로 업데이트하다",
+    "summary": "코넬 텍 연구진은 빛을 이용해 프로세서의 메모리를 직접 변경하는 새로운 광학 수신기를 개발했다. 이 기술은 IEEE/JSAP VLSI 심포지엄에서 발표되었으며, 증가하는 AI 시스템의 메모리 부담을 줄이는 것을 목표로 한다. 연구진은 프로세서에 데이터를 비추는 방식을 통해 데이터센터, 자율주행차, 엣지 기기 등에서 소비 에너지를 낮출 수 있다고 설명했다. 기존 전기적 연결 대신 광학 방식을 사용해 AI 모델의 파라미터를 효율적으로 전달할 수 있다.",
+    "source": "IEEE Spectrum · Semiconductors",
+    "date": "2026-07-26",
+    "link": "https://spectrum.ieee.org/ai-in-robotics",
+    "original_title": "Optical Tech Would Update a Robot’s AI on the Fly",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/sleep-monitoring-device": {
+    "title": "수면 패치로 뇌의 야간 정화 의식을 추적할 수 있음",
+    "summary": "밤에 숙면을 취한다는 것은 단지 뇌에게 쉴 기회를 주는 것이 아닙니다. 수면은 2012년에야 발견된 뇌 폐기물을 씻어내는 시스템을 활성화합니다. 글림프 시스템이라고 불리는 이는 몸 전체의 체액을 이동하고 여과하는 더 잘 알려진 림프 시스템과 유사합니다. 건강한 글림프 시스템은 좋은 인지 기능과 연결되어 있으며 알츠하이머병과 같은 신경퇴행성 질환을 예방할 수 있습니다. 그러나 오늘날의 방법에는 시끄럽고 제한적인 MRI와 침습적인 척추 주사가 필요하기 때문에 수면 중에 이를 모니터링하는 것은 사실상 불가능합니다. 조지아텍과 서울대학교 연구진이 개발한 새로운 웨어러블 기기는 더욱 안전하고 수면 친화적인 대안을 제시할 수 있습니다. 이 기술은 근적외선을 빛나게 하여 뇌에 끊임없이 흘러넘치는 체액인 뇌수를 감지합니다. 뇌-물 혼합물에는 뇌척수액(CSF)이 포함되어 있는데, 이는 글림프 시스템이 p와 같은 노폐물 입자를 씻어내는 데 사용하는 것입니다.",
+    "source": "IEEE Spectrum · Semiconductors",
+    "date": "2026-07-23",
+    "link": "https://spectrum.ieee.org/sleep-monitoring-device",
+    "original_title": "Sleep Patch Could Track Brain’s Nightly Cleansing Ritual",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/sodium-ion-battery-peak-energy": {
+    "title": "나트륨 이온 배터리가 미국에서 또 다른 성공을 거두었습니다.",
+    "summary": "미국의 나트륨 이온 배터리 개발에 어려움이 있음에도 불구하고 스타트업인 Peak Energy는 이 기술을 사용하여 그리드용 에너지를 저장하는 야심 찬 응용을 마침내 달성할 수 있다고 말합니다. 미국의 스타트업인 Natron Energy와 Bedrock Materials가 작년에 나트륨 이온 배터리 사업을 중단했을 때 그들은 12개 이상의 실패한 서구 배터리 회사의 불명예스러운 목록에 합류했습니다. 중국에 본사를 둔 세계 최대 배터리 회사인 CATL은 지난 4월에 그리드 스토리지 제공업체인 HyperStrong에 60기가와트시 나트륨 이온 셀을 공급할 것이라고 발표했습니다. 역사상 최대 규모의 나트륨 이온 배터리 주문은 중국이 지난 몇 년간 인산철 리튬과 마찬가지로 또 다른 유망한 화학 분야를 장악하고 있음을 시사했습니다. 콜로라도에 본사를 둔 Peak Energy는 Natron과 같은 회사가 실패한 곳에서도 성공할 수 있다고 주장합니다. 회사 경영진은 자사의 나트륨 이온 기술이 현재 사용되는 저가형 인산철리튬(LFP) 배터리와 직접적으로 경쟁할 수 있다고 말합니다.",
+    "source": "IEEE Spectrum · Energy",
+    "date": "2026-07-23",
+    "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+    "original_title": "Sodium-Ion Batteries Get Another Shot at Success in the U.S.",
+    "lang": "en"
+  },
+  "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207": {
+    "title": "최첨단 반도체 불량 분석을 위한 SEM 기반 저전압 FIB 마무리 기술",
+    "summary": "ZEISS의 Crossbeam 750 FIB-SEM 장비가 TEM 라멜라 준비, 토모그래피 및 나노 제작의 정밀도 향상을 위한 새로운 벤치마크를 제시합니다. 새로운 Gemini 4 대물 렌즈와 고해상도 스캐닝 기술을 통해 더 나은 해상도와 짧은 획득 시간을 제공하며, 저전압 FIB 성능으로 시료 손상을 최소화합니다. 인터리브드 스캐닝 모드를 활용해 가공 중에도 명확한 시각적 피드백을 제공하여 불량 분석 및 수율 개선 팀의 의사 결정을 가속화합니다.",
+    "source": "IEEE Spectrum · Semiconductors",
+    "date": "2026-07-21",
+    "link": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
+    "original_title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/led-light-pollution": {
+    "title": "우리는 밤하늘을 구할 수 있는 LED의 잠재력을 낭비하고 있습니다.",
+    "summary": "런던의 쌀쌀한 봄밤, 흐린 하늘 아래 상징적인 트라팔가 광장이 내 주위에 펼쳐졌습니다. 넬슨 제독이 받침대 위에 서 있고, 그 뒤에 내셔널 갤러리가 자리잡고 있으며, 근처에는 세인트 마틴 인 더 필즈 교회가 있습니다. 13세기부터 이 장소는 매와 말을 위한 왕실 마구로 사용되었습니다. 1844년까지 이곳은 세계에서 가장 큰 도시 중 하나의 중심에 있는 공공 장소였습니다. 그 장대한 역사 속에서 광장의 존재에도 불구하고, 그것이 내가 여기 있는 이유는 아닙니다. 내 관심은 훨씬 더 구체적입니다. 인공 조명, 특히 발광 다이오드(LED)가 침입하면 이와 같은 공간에 어떤 일이 일어나는지 알고 싶습니다. 오늘 밤 내 동반자는 현지 조명 디자이너인 Simon Thorp입니다. 그는 손에 측광기를 들고 Nelson의 첨탑 근처 그림자 속에 웅크리고 있습니다. “2럭스 정도인데 여기는 매우 편안해요.”라고 그는 말합니다. 2럭스는 보름달 밝기의 10~20배에 해당합니다. 우리는 서로를 선명하게 볼 수 있으며, 근처에 폐쇄회로 텔레비전(CCTV)이 있음을 보증하는 표지판이 있습니다.",
+    "source": "IEEE Spectrum · Semiconductors",
+    "date": "2026-07-20",
+    "link": "https://spectrum.ieee.org/led-light-pollution",
+    "original_title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/plug-in-solar-power": {
+    "title": "공익기업, 발코니 태양광 혁명에 대비되지 않아",
+    "summary": "미국 전역에서 플러그인 방식 발코니 태양광 패널의 사용이 빠르게 합법화되고 있으나, 안전한 운영을 보장하기 위한 규제와 인증 기준은 아직 마련되지 않았다. 독일에서 시작된 이 기술은 러시아의 우크라이나 침공 이후 청정에너지 대안으로 인기를 끌었으며 현재 미국 여러 주로 확산 중이다. 법적 승인이 규제보다 앞서면서 현재 새로운 인증 기준을 충족하는 패널은 거의 없으며, 법적·기술적 문제 해결이 필요한 상황이다.",
+    "source": "IEEE Spectrum · Energy",
+    "date": "2026-07-20",
+    "link": "https://spectrum.ieee.org/plug-in-solar-power",
+    "original_title": "Utilities Aren’t Ready for the Balcony Solar Revolution",
+    "lang": "en"
+  }
+}
