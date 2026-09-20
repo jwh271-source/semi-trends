@@ -1,13 +1,4 @@
 {
-  "https://www.semiconductor-digest.com/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market": {
-    "title": "포지트론 AI, 차세대 인퍼런스 실리콘 시장 출시 위해 50억 달러 가치로 8억 7,500만 달러 유치",
-    "summary": "AI 인퍼런스 하드웨어 기업인 포지트론 AI는 차세대 인퍼런스 실리콘을 시장에 출시하기 위해 8억 7,500만 달러 규모의 시리즈 C 자금 유치를 완료했다. 이번 유치로 기업의 밸류에이션은 50억 달러를 기록했다. 회사는 해당 하드웨어를 통해 AI 모델 서빙 비용을 대폭 절감하고 에너지 효율성을 크게 향상시킬 것으로 기대하고 있다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-12",
-    "link": "https://www.semiconductor-digest.com/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market",
-    "original_title": "Positron AI Raises $875 Million at a $5 Billion Valuation to Bring Its Next-Generation Inference Silicon to Market",
-    "lang": "en"
-  },
   "https://www.semiconductor-digest.com/ebeam-initiative-survey-of-semiconductor-luminaries-predicts-a-bright-outlook-for-the-photomask-industry/?utm_source=rss&utm_medium=rss&utm_campaign=ebeam-initiative-survey-of-semiconductor-luminaries-predicts-a-bright-outlook-for-the-photomask-industry": {
     "title": "eBeam 이니셔티브 반도체 인사이트 조사, 포토마스크 산업의 밝은 전망 예측",
     "summary": "eBeam 이니셔티브가 발표한 15주년 반도체 인사이트 조사 결과, 포토마스크 산업의 전망이 밝은 것으로 나타났다. 이 조사 결과는 SPIE 포토마스크 기술 및 EUV 리소그래피 회의 기간에 열린 라이브 행사에서 발표될 예정이다.",
@@ -447,6 +438,15 @@
     "date": "2026-08-29",
     "link": "https://www.semiconductor-digest.com/btu-formic-acid-reflow-technology-advances-fluxless-soldering-for-next-generation-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=btu-formic-acid-reflow-technology-advances-fluxless-soldering-for-next-generation-semiconductor-packaging",
     "original_title": "BTU Formic Acid Reflow Technology Advances Fluxless Soldering for Next-Generation Semiconductor Packaging",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/lam-research-breaks-ground-on-new-oregon-lab/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-breaks-ground-on-new-oregon-lab": {
+    "title": "랍 리서치, 미국 오리건주 신규 연구실 착공",
+    "summary": "반도체 제조장비 기업 랍 리서치가 미국 오리건주에 위치한 신규 연구실 기공식을 진행했다. 이 시설은 칩 제조사들과의 협력적 혁신을 지원할 예정이다. 또한 이번 착공은 전 세계 연구실 네트워크 확장을 위해 계획된 30억 달러 이상 투자의 첫 이정표다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-08-29",
+    "link": "https://www.semiconductor-digest.com/lam-research-breaks-ground-on-new-oregon-lab/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-breaks-ground-on-new-oregon-lab",
+    "original_title": "Lam Research Breaks Ground on New Oregon Lab",
     "lang": "en"
   }
 }
