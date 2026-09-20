@@ -89,10 +89,39 @@ def _get_gh_token() -> str | None:
 
 
 def _contents_api_upload(token: str, repo: str, remote_path: str,
-                         content_bytes: bytes, message: str) -> tuple[bool, str]:
+                         content_bytes: bytes, message: str,
+                         max_retries: int = 3) -> tuple[bool, str]:
     """GitHub Contents API 로 파일 1개 업로드(PUT). 성공 여부와 메시지 반환.
     사내망에서 git push(403) 대신 사용 — 70KB(요청 ~95KB) 이하만 통과.
-    이미 원격에 파일이 있으면 SHA 를 조회해 갱신, 없으면 신규 생성."""
+    이미 원격에 파일이 있으면 SHA 를 조회해 갱신, 없으면 신규 생성.
+    일시적 네트워크 오류(10053 연결 강제 종료, HTTP 5xx/429)는
+    재시도(5s/10s 백오프)로 극복한다."""
+    import base64
+    import json as _json
+    import time
+    import urllib.request
+    import urllib.error
+
+    last_err = "no attempt"
+    for attempt in range(1, max_retries + 1):
+        ok, info = _contents_api_upload_once(token, repo, remote_path,
+                                             content_bytes, message)
+        if ok:
+            return True, info
+        last_err = info
+        # 영구 실패(4xx 인증/권한 등)는 재시도해도 무의미 — 즉시 중단.
+        if info.startswith("SHA 조회 실패 HTTP 4") or info.startswith("HTTP 4"):
+            break
+        if attempt < max_retries:
+            wait = 5 * attempt
+            print(f"  [retry] {remote_path} 시도 {attempt} 실패({info}) — {wait}s 후 재시도")
+            time.sleep(wait)
+    return False, last_err
+
+
+def _contents_api_upload_once(token: str, repo: str, remote_path: str,
+                              content_bytes: bytes, message: str) -> tuple[bool, str]:
+    """Contents API PUT 1회 실행 (재시도 래퍼에서 호출)."""
     import base64
     import json as _json
     import urllib.request
@@ -169,32 +198,45 @@ def git_commit_push_site() -> None:
     ts = datetime.now(KST).strftime("%Y-%m-%d %H:%M KST")
     msg_base = f"chore(local): daily LLM update {ts}"
 
-    # 업로드 대상: index.html + summaries-*.json + summaries-index.json
+    # 업로드 대상: index.html + summaries-index.json + summaries-1..N.json
     # 모두 70KB 이하이도록 build.py 가 분할 생성. articles.json 등은 제외.
+    # 주의: glob "summaries-*.json"은 summaries-index.json도 매칭하므로
+    # index.json을 먼저 넣고 glob 결과에서는 제외해 중복 업로드를 막는다.
     targets = [site_dir / "index.html", site_dir / "summaries-index.json"]
-    targets += sorted(site_dir.glob("summaries-*.json"))
+    targets += sorted(p for p in site_dir.glob("summaries-*.json")
+                      if p.name != "summaries-index.json")
     upload_files = [p for p in targets if p.exists()]
+
+    # 70KB 초과 파일이 섞여 있으면 LLM 버전 배포가 불완전해진다(최신 기사 누락).
+    # 업로드 자체도 사내망에서 차단되므로, 시작 전에 전체 검증해 명확히 경고.
+    oversized = [p for p in upload_files if p.stat().st_size > 71680]
+    for p in oversized:
+        print(f"  [over] {p.name} ({p.stat().st_size/1024:.0f}KB) — 70KB 초과! build.py 분할 확인 필요")
+    if oversized:
+        print("[update] 70KB 초과 파일 존재 — 업로드 중단. Pages는 이전 버전 유지.")
+        return
 
     print(f"[update] Pages 자동 배포(LLM 버전) — Contents API 업로드 {len(upload_files)}개 파일 ...")
     ok = 0
+    failed = []
     for p in upload_files:
         remote_path = str(p.relative_to(ROOT)).replace("\\", "/")
         content = p.read_bytes()
         size_kb = len(content) / 1024
-        if len(content) > 71680:
-            print(f"  [skip] {remote_path} ({size_kb:.0f}KB) — 70KB 초과")
-            continue
         success, info = _contents_api_upload(token, repo, remote_path, content, msg_base)
         if success:
             print(f"  [ok] {remote_path} ({size_kb:.0f}KB) -> {info}")
             ok += 1
         else:
             print(f"  [fail] {remote_path} ({size_kb:.0f}KB) — {info}")
+            failed.append(p.name)
 
-    if ok == len(upload_files):
+    if not failed:
         print(f"[update] 업로드 완료: {ok}개 파일")
     elif ok > 0:
-        print(f"[update] 부분 업로드: {ok}/{len(upload_files)}개")
+        print(f"[update] 부분 업로드: {ok}/{len(upload_files)}개 — 실패: {', '.join(failed)}")
+        print("[update] 불일치 배포 방지 — Pages 배포 트리거 생략. 재실행 필요.")
+        return
     else:
         print("[update] 업로드 실패 — 토큰/네트워크 확인. Pages는 이전 버전 유지.")
         return
