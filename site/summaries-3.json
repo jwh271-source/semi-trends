@@ -1,13 +1,4 @@
 {
-  "https://www.etnews.com/20260917000138": {
-    "title": "농식품부, 부처 최초 'AI 민원행정' 가동…1만7000건 분석해 답변까지",
-    "summary": "#. 농림축산식품부 직원이 국민신문고에 접수된 민원을 화면에 띄우자 인공지능(AI)이 내용을 분석해 담당 부서를 추천했다. 배정 사유가 화면에 표시되고 이어 과거 유사 민원과 관련 법령·판례를 근거로 답변 초안이 생성됐다. 직원은 AI가 작성한 내용을 검토한 뒤 필요한 부분을 수정해 최종 답변으로 확정했다. 기존에는 담당자가 과거 사례와 법령을 일일이 찾아 처음부터 작성해야 했던 업무다. 농식품부가 연간 1만7000여건에 달하는 민원 업무에 생",
-    "source": "전자신문 IT",
-    "date": "2026-09-17",
-    "link": "https://www.etnews.com/20260917000138",
-    "original_title": "",
-    "lang": "ko"
-  },
   "https://www.edn.com/sensor-sharpens-infrared-in-cabin-imaging/": {
     "title": "센서, 차량 내부 적외선 이미징 기능 강화",
     "summary": "ST의 SafeSense VD56GA 110만 화소 자동차 이미지 센서가 차량 내부 적외선 센싱을 가능하게 합니다. 이 센서는 운전자 및 탑승자 모니터링 애플리케이션에 적용될 수 있습니다.",
@@ -447,6 +438,15 @@
     "date": "2026-09-12",
     "link": "https://www.semiconductor-digest.com/kyocera-and-tohoku-university-develop-technology-to-integrate-optical-isolators-directly-onto-silicon-photonics-chips/?utm_source=rss&utm_medium=rss&utm_campaign=kyocera-and-tohoku-university-develop-technology-to-integrate-optical-isolators-directly-onto-silicon-photonics-chips",
     "original_title": "Kyocera and Tohoku University Develop Technology to Integrate Optical Isolators Directly onto Silicon Photonics Chips",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market": {
+    "title": "포지트론 AI, 차세대 인퍼런스 실리콘 시장 출시 위해 50억 달러 가치로 8억 7,500만 달러 유치",
+    "summary": "AI 인퍼런스 하드웨어 기업인 포지트론 AI는 차세대 인퍼런스 실리콘을 시장에 출시하기 위해 8억 7,500만 달러 규모의 시리즈 C 자금 유치를 완료했다. 이번 유치로 기업의 밸류에이션은 50억 달러를 기록했다. 회사는 해당 하드웨어를 통해 AI 모델 서빙 비용을 대폭 절감하고 에너지 효율성을 크게 향상시킬 것으로 기대하고 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-12",
+    "link": "https://www.semiconductor-digest.com/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market",
+    "original_title": "Positron AI Raises $875 Million at a $5 Billion Valuation to Bring Its Next-Generation Inference Silicon to Market",
     "lang": "en"
   }
 }
