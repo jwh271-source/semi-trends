@@ -89,8 +89,9 @@ LLM_ENABLED = os.environ.get("LLM_ENABLED", "0") == "1"
 LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "http://common.llm.skhynix.com")
 LLM_TOKEN = os.environ.get("LLM_TOKEN", "").strip()
 LLM_MODEL = os.environ.get("LLM_MODEL", "GLM-5.2")  # 사내 허용 모델
-LLM_TIMEOUT = int(os.environ.get("LLM_TIMEOUT", "20"))  # thinking 비활성화로 응답 ~5초, 여유 20초
-LLM_MAX_TOKENS = int(os.environ.get("LLM_MAX_TOKENS", "1000"))  # thinking 없이 text만 → 1000면 충분
+LLM_TIMEOUT = int(os.environ.get("LLM_TIMEOUT", "30"))  # thinking 무시되고 추론 텍스트가 길어져 여유 30초
+LLM_MAX_TOKENS = int(os.environ.get("LLM_MAX_TOKENS", "3000"))  # GLM-5.2가 thinking 비활성화를 무시하고
+# 추론 텍스트를 앞에 붙이므로 1000이면 본문 JSON이 잘림 → 3000으로 상향
 
 # --- 번역 엔진들 (우선순위: Google 다중 엔드포인트 → MyMemory) ---
 # 모든 엔진에 TRANSLATE_TIMEOUT 초 타임아웃 → 어느 하나 막혀도 멈추지 않음.
@@ -254,6 +255,32 @@ LLM_CATEGORIES = {
 }
 
 
+def _is_junk_summary(s: str) -> bool:
+    """LLM 출력 중 요약으로 쓸 수 없는 쓰레기 판별.
+    - '...' 같은 점/기호만 있는 출력
+    - 프롬프트 플레이스홀더 echo ('한국어 3~4문장 요약 (핵심 사실/수치/영향, 추측 제외)' 등)
+    - JSON 키/형식 지시문 echo ('summary:', 'category=...' 등)
+    실제 요약은 이런 패턴으로 시작하지 않으므로 시작 부분 위주로 검사."""
+    t = s.strip()
+    if not t:
+        return True
+    # 점/공백만으로 구성 ('...', '..' 등)
+    if re.fullmatch(r"[.\s…]+", t):
+        return True
+    # 프롬프트 지시문이 그대로 새어 들어간 경우 (시작 부분 매칭)
+    junk_starts = (
+        "한국어", "요약:", "summary:", "summary =", "자연스러운 한국어",
+        "핵심 사실", "category:", "keywords:", '"summary"',
+    )
+    tl = t.lower()
+    if any(t.startswith(j) or tl.startswith(j) for j in junk_starts):
+        return True
+    # 플레이스홀더 문구가 문장 어디든 포함 (프롬프트 원문 echo)
+    if "추측 제외" in t or "3~4문장" in t:
+        return True
+    return False
+
+
 def llm_process_article(title: str, summary: str, is_english: bool = False) -> dict | None:
     """LLM으로 기사 분류+요약+키워드 추출(+영문 번역)을 한 번에 처리.
     반환: {category, title_ko, summary, keywords} 또는 None.
@@ -285,10 +312,22 @@ def llm_process_article(title: str, summary: str, is_english: bool = False) -> d
         return None
     # JSON 파싱 시도 — 실패하면 텍스트에서 부분 추출
     try:
-        # 응답에서 JSON 블록 추출 (```json ... ``` 또는 { ... })
-        m = re.search(r"\{.*\}", out, re.DOTALL)
-        raw = m.group(0) if m else out
-        data = json.loads(raw)
+        # 응답에서 JSON 블록 추출 (```json ... ``` 또는 { ... }).
+        # GLM-5.2는 thinking 비활성화를 무시하고 추론 텍스트를 앞에 붙이므로,
+        # 마지막 JSON 객체(최종 답)를 사용한다.
+        matches = re.findall(r"\{[^{}]*\}", out, re.DOTALL)
+        data = None
+        for raw in matches:
+            try:
+                cand = json.loads(raw)
+                if isinstance(cand, dict) and ("category" in cand or "summary" in cand):
+                    data = cand
+            except Exception:
+                continue
+        if data is None:
+            m = re.search(r"\{.*\}", out, re.DOTALL)
+            raw = m.group(0) if m else out
+            data = json.loads(raw)
         category = str(data.get("category", "")).strip().lower()
         # none이면 관련 없음 (정확히 "none"이거나 빈 값)
         if category == "none" or category == "" or "없" in category:
@@ -300,26 +339,22 @@ def llm_process_article(title: str, summary: str, is_english: bool = False) -> d
                 matched_cat = key
                 break
         if not matched_cat:
-            # 카테고리를 못 찾으면 전체 텍스트에서 다시 시도
-            out_lower = out.lower()
-            for key in LLM_CATEGORIES:
-                if key in out_lower:
-                    matched_cat = key
-                    break
-        if not matched_cat:
             return None
         category = matched_cat
         title_ko = str(data.get("title_ko", "")).strip()
         summary_text = str(data.get("summary", "")).strip()
+        # LLM이 프롬프트의 플레이스홀더를 그대로 echo('한국어 3~4문장 요약…')하거나
+        # 말장난 출력('...')을 하는 경우가 있다 — 쓰레기 요약은 폴백(발췌)이
+        # 나으므로 비워서 무시한다.
+        if _is_junk_summary(summary_text):
+            summary_text = ""
         keywords_raw = data.get("keywords", [])
         keywords = [str(k).strip() for k in keywords_raw if str(k).strip()][:5]
         return {"category": category, "title_ko": title_ko, "summary": summary_text, "keywords": keywords}
     except Exception:
-        # JSON 파싱 실패 — 텍스트에서 카테고리만 추출 시도
-        out_lower = out.lower()
-        for key in LLM_CATEGORIES:
-            if key in out_lower:
-                return {"category": key, "title_ko": "", "summary": "", "keywords": []}
+        # JSON 파싱 실패 — 폴백 없이 None 반환 (키워드 분류+발췌 요약으로 자연 폴백).
+        # 주의: 추론 텍스트엔 프롬프트에 있던 카테고리 단어(semiconductor 등)가
+        # 그대로 등장하므로, 텍스트에서 카테고리를 추출하면 잘못 분류된다.
         return None
 
 
