@@ -20,6 +20,16 @@ import os
 import subprocess
 from pathlib import Path
 
+# Windows 스케줄러 실행 시 stdout이 로그 파일로 리다이렉트되면 기본 인코딩이
+# cp949가 되어 유니코드 문자(—, 한글 특수문자 등) print에서 크래시 난다
+# (2026-09-22 7시 실행 실패 사례). UTF-8로 강제한다.
+for _stream in (sys.stdout, sys.stderr):
+    if _stream and hasattr(_stream, "reconfigure"):
+        try:
+            _stream.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
 ROOT = Path(__file__).resolve().parent
 PYTHON = sys.executable or "python"
 
