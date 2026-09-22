@@ -1,4 +1,184 @@
 {
+  "https://www.eetimes.com/no-summer-lull-for-semiconductors/": {
+    "title": "반도체 업계, 여름 비수기 없다",
+    "summary": "과거에는 여름철이 되면 반도체 관련 뉴스 사이클이 다소 느려지는 경향이 있었습니다. 하지만 올해는 이러한 여름 비수기 현상을 찾아볼 수 없을 만큼 반도체 업계의 움직임이 활발합니다. 이는 반도체 산업 내 중요한 이슈와 이벤트가 지속적으로 발생하고 있음을 시사합니다.",
+    "source": "EE Times",
+    "date": "2026-09-17",
+    "link": "https://www.eetimes.com/no-summer-lull-for-semiconductors/",
+    "original_title": "No Summer Lull for Semiconductors",
+    "lang": "en"
+  },
+  "https://www.edie.net/report-businesses-increase-climate-adaptation-spending-as-net-zero-progress-slows/": {
+    "title": "보고서: 넷제로 진전이 지연됨에 따라 기업들의 기후 적응 지출이 증가",
+    "summary": "최근 설문 조사에 따르면 기후 관련 차질이 운영 및 공급망에 가해지는 압박이 커짐에 따라 10명 중 7명에 가까운 경영진이 기업 회복 탄력성을 강화하기 위해 기후 적응을 최우선으로 고려하고 있다. 이는 기업들이 탄소 중립 목표 달성 진척이 더뎌지는 상황에서 기후 변화로 인한 실질적 비즈니스 리스크에 대응하기 위해 투자 방향을 조정하고 있음을 보여준다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-09-17",
+    "link": "https://www.edie.net/report-businesses-increase-climate-adaptation-spending-as-net-zero-progress-slows/",
+    "original_title": "Report: Businesses increase climate adaptation spending as net-zero progress slows",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20260917000282": {
+    "title": "[해설]삼성전자 프리미엄 TV '세대교체'…QD TV에서 미니 LED, RGB LED로",
+    "summary": "삼성전자가 프리미엄 액정표시장치(LCD) TV 전략을 TV 광원 기술 고도화를 중심으로 전환하는 데 속도를 내고 있다. 발광다이오드(LED) 백라이트 앞에 퀀텀닷(QD) 필름을 배치해 색 표현력을 강화하던 방식 대신 백라이트에 들어가는 LED 크기를 줄이고 많이 배치해 블랙 표현력을 높이고 명암비로 화질을 높인다는 전략이다. 삼성전자는 올해부터 QD TV 라인업을 축소하고 그 자리를 '미니 LED TV'로 대체했다. 미니LED는 칩 크기가 10",
+    "source": "전자신문 (전체)",
+    "date": "2026-09-17",
+    "link": "https://www.etnews.com/20260917000282",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://semiengineering.com/why-package-digital-twins-are-so-hard-to-build/": {
+    "title": "패키지 디지털 트윈 구축이 어려운 이유",
+    "summary": "패키지 분야의 디지털 트윈을 구축하기 위해서는 모델이 실제 제조 공정에서 생산되는 결과물과 정확히 동기화되어야 한다. 하지만 실제 제조 현황과 모델 간의 괴리를 해소하는 것이 기술적으로 매우 어려운 과제로 지적된다. 이는 반도체 패키징 공정의 복잡성과 다양한 변수 때문인 것으로 분석된다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-17",
+    "link": "https://semiengineering.com/why-package-digital-twins-are-so-hard-to-build/",
+    "original_title": "Why Package Digital Twins Are So Hard To Build",
+    "lang": "en"
+  },
+  "https://semiengineering.com/negative-expansion-materials-resist-warpage/": {
+    "title": "부팽창 소재가 휨 현상을 방지한다",
+    "summary": "몰딩 컴파운드와 언더필 소재는 열적 안정성을 향상시킬 수 있다. 부팽창(Negative Expansion) 소재는 반도체 패키징 과정에서 발생하는 휨 현상(Warpage)을 방지하는 데 효과적이다. 이러한 소재 적용은 반도체의 열적 안정성과 신뢰성 확보에 기여한다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-17",
+    "link": "https://semiengineering.com/negative-expansion-materials-resist-warpage/",
+    "original_title": "Negative Expansion Materials Resist Warpage",
+    "lang": "en"
+  },
+  "https://semiengineering.com/the-silicon-heartland-wants-to-be-americas-next-chip-powerhouse/": {
+    "title": "The Silicon Heartland Wants To Be America’s Next Chip Powerhouse",
+    "summary": "Intel may be the marquee name, but materials suppliers, packaging hubs, and quantum startups will determine whether the region becomes a true semiconductor ecosystem. The post The Silicon Heartland Wants To Be America’s Next Chip Powerhouse appeared first on Semiconductor Engineering .",
+    "source": "SemiEngineering",
+    "date": "2026-09-17",
+    "link": "https://semiengineering.com/the-silicon-heartland-wants-to-be-americas-next-chip-powerhouse/",
+    "original_title": "The Silicon Heartland Wants To Be America’s Next Chip Powerhouse",
+    "lang": "en"
+  },
+  "https://semiengineering.com/beyond-scaling-the-growing-role-of-materials-innovation-in-semiconductor-manufacturing/": {
+    "title": "스케일링을 넘어서: 반도체 제조에서 소재 혁신의 중요성 증가",
+    "summary": "확장된 컴퓨팅 역량과 심화된 공동 개발은 소재가 연구실에서 팹(Fab)으로 이동하는 방식을 변화시키고 있다. 이는 반도체 제조 공정에서 소재 혁신의 역할이 점차 커지고 있음을 보여준다. 기술 발전에 따라 소재 개발의 패러다임이 진화하고 있다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-17",
+    "link": "https://semiengineering.com/beyond-scaling-the-growing-role-of-materials-innovation-in-semiconductor-manufacturing/",
+    "original_title": "Beyond Scaling: The Growing Role Of Materials Innovation In Semiconductor Manufacturing",
+    "lang": "en"
+  },
+  "https://semiengineering.com/ais-storage-problem-is-a-packaging-problem/": {
+    "title": "AI의 스토리지 문제는 패키징 문제다",
+    "summary": "AI 시대에 요구되는 고성능 스토리지를 구현하기 위해 NAND 메모리의 패키징 기술이 중요해지고 있다. 이를 위해 디의 두께를 얇게 만들고 스택을 높이는 방식과 하이브리드 본딩 기술이 핵심적으로 활용된다. 이러한 첨단 패키징 기술들은 AI 발전에 따른 스토리지 한계를 극복하는 데 주요한 역할을 한다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-17",
+    "link": "https://semiengineering.com/ais-storage-problem-is-a-packaging-problem/",
+    "original_title": "AI’s Storage Problem Is a Packaging Problem",
+    "lang": "en"
+  },
+  "https://semiengineering.com/driving-power-delivery-innovations-for-the-ai-data-center/": {
+    "title": "AI 데이터센터를 위한 전력 공급 혁신 이끌기",
+    "summary": "AI 시스템의 규모가 확장됨에 따라 고도화된 전력 공급 기술이 성능, 효율성 및 안정성을 확보하는 데 핵심적인 요소로 떠오르고 있습니다. 이는 반도체 엔지니어링 관점에서 AI 데이터센터의 운영 한계를 극복하기 위한 중요한 기술적 과제입니다. 데이터센터 내 반도체 시스템의 전력 공급 혁신이 지속 가능한 AI 인프라 구축을 위한 필수 조건으로 평가받고 있습니다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-17",
+    "link": "https://semiengineering.com/driving-power-delivery-innovations-for-the-ai-data-center/",
+    "original_title": "Driving Power Delivery Innovations For The AI Data Center",
+    "lang": "en"
+  },
+  "https://semiengineering.com/virtual-fabrication-meets-stress-physics-solving-gaa-channel-non-uniformity/": {
+    "title": "가상 제조와 응력 물리학의 융합: GAA 채널 불균일성 해결",
+    "summary": "적층된 나노시트 간의 미세한 불균형은 기기의 동작을 왜곡시킬 수 있으며, 이는 기하학적 구조만으로는 예측하기 어렵다. 이에 가상 제조 기술과 응력 물리학을 결합하여 GAA 채널의 불균일성 문제를 해결하는 접근 방식이 제시되었다. 해당 기술은 반도체 엔지니어링 측면에서 GAA 구조의 불균일성으로 인한 예측 불가능성을 극복하는 데 초점을 맞춘다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-17",
+    "link": "https://semiengineering.com/virtual-fabrication-meets-stress-physics-solving-gaa-channel-non-uniformity/",
+    "original_title": "Virtual Fabrication Meets Stress Physics: Solving GAA Channel Non-Uniformity",
+    "lang": "en"
+  },
+  "https://semiengineering.com/from-silicon-to-systems-heterogeneous-integration-as-the-engine-of-ai-performance/": {
+    "title": "실리콘에서 시스템으로: AI 성능을 이끄는 이종 통합",
+    "summary": "AI 시스템의 성능 향상을 위해 실리콘 수준을 넘어선 이종 통합 기술이 핵심 동력으로 주목받고 있다. 이에 따라 어드밴스드 패키징과 칩릿 기반 시스템 설계에서 설계 공간 탐색 능력이 핵심 역량으로 자리 잡아야 한다. 이러한 기술적 진화는 차세대 반도체 시스템 설계 패러다임의 변화를 시사한다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-17",
+    "link": "https://semiengineering.com/from-silicon-to-systems-heterogeneous-integration-as-the-engine-of-ai-performance/",
+    "original_title": "From Silicon To Systems: Heterogeneous Integration As The Engine Of AI Performance",
+    "lang": "en"
+  },
+  "https://semiengineering.com/predicting-silicon-behavior-years-before-test-wafers/": {
+    "title": "테스트 웨이퍼 수년 전부터 실리콘 거동 예측",
+    "summary": "고개구(NA) EUV 애플리케이션을 위한 웨이퍼 검증 광학 시뮬레이션 기술이 소개되었다. 이 기술은 실제 테스트 웨이퍰를 사용하기 수년 전부터 실리콘의 거동을 예측하는 데 활용될 수 있다. 반도체 제조 공정의 효율성을 높이고 개발 기간을 단축하는 데 기여할 것으로 보인다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-17",
+    "link": "https://semiengineering.com/predicting-silicon-behavior-years-before-test-wafers/",
+    "original_title": "Predicting Silicon Behavior Years Before Test Wafers",
+    "lang": "en"
+  },
+  "https://semiengineering.com/predictive-tcad-modeling-of-normally-off-p-gan-hemts-for-dynamic-rdson-leakage-breakdown-and-ml-based-design-exploration/": {
+    "title": "동적 RDS(on), 누전, 항복 및 ML 기반 설계 탐색을 위한 노멀리 오프 p-GaN HEMT 예측 TCAD 모델링",
+    "summary": "노멀리 오프 p-GaN HEMT의 예측 시뮬레이션 워크플로우를 소개한다. 이 연구는 디바이스 물리 교정, 누전 모델링, 동적 RDS(on) 및 항복 거동 분석에 중점을 둔다. 또한 머신러닝을 활용한 설계 탐색을 지원하는 방법론을 제시한다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-17",
+    "link": "https://semiengineering.com/predictive-tcad-modeling-of-normally-off-p-gan-hemts-for-dynamic-rdson-leakage-breakdown-and-ml-based-design-exploration/",
+    "original_title": "Predictive TCAD Modeling of Normally-Off p-GaN HEMTs for Dynamic RDS(on), Leakage, Breakdown, and ML-Based Design Exploration",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20260917000245": {
+    "title": "[2026 전자신문 독자위원회 3차 회의]“발표 전달 넘어 검증으로…AI 떠받치는 SW·인력 짚어야”",
+    "summary": "전자신문 독자위원회가 인공지능(AI) 기술과 정책을 전달하는 데 그치지 말고 실제 효과와 한계를 검증하는 보도를 확대해달라고 주문했다. AI 투자가 반도체·데이터센터 등 하드웨어에 쏠린 사이, 이를 떠받치는 소프트웨어(SW)와 개발 인력의 기초체력이 약해지고 있다는 점도 함께 짚어달라고 당부했다. 발표된 사실 다음의 질문을 던지는 보도가 전문지의 차별성이라는 목소리다. 예산이 늘었다면 줄어든 것은 무엇인지, 대형 사업이 추진된다면 사업비 산정과",
+    "source": "전자신문 (전체)",
+    "date": "2026-09-17",
+    "link": "https://www.etnews.com/20260917000245",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20260917000381": {
+    "title": "잘나가는 기아 'PBV'의 그늘…차종 규제에 갇혀 '모듈 교체' 봉인",
+    "summary": "기아가 첫 전용 목적기반차량(PBV) 'PV5'에 이어 'PV7'까지 공개하며 시장 선점에 속도를 내고 있지만 핵심 혁신 가치로 내세웠던 '수시 모듈 교체' 기술은 틀에 갇힌 규제와 경제성 등 벽에 부딪혀 수면 아래에 머물러 있다. 17일업계에 따르면 기아가 PBV 청사진을 발표하며 내세웠던 차체 모듈 탈부착 기술 '이지스왑(Easy Swap)'은 실제 양산 모델에서 구현되지 못하고 있다. 앞서 기아는 2024년 1월 미국 'CES 2024'에",
+    "source": "전자신문 산업/신사업",
+    "date": "2026-09-17",
+    "link": "https://www.etnews.com/20260917000381",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/": {
+    "title": "다음 주: 기업 가치 사슬 전반에 걸쳐 순환성을 견인하기 위한 실질적 행동",
+    "summary": "에디(edie)는 일주일 후 조직이 순환 경제 공약을 비즈니스 가치 사슬 전반에 걸쳐 실용적이고 측정 가능한 행동으로 전환하는 방법을 모색하는 새로운 웨비나를 개최할 예정이다. 이번 웨비나는 기업들이 환경 보호를 위한 목표를 넘어, 가치 사슬 전반에 실제적인 순환 경제 전략을 구현하는 데 초점을 맞춘다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-09-17",
+    "link": "https://www.edie.net/two-weeks-to-go-practical-actions-to-drive-circularity-across-the-business-value-chain/",
+    "original_title": "NEXT WEEK: Practical actions to drive circularity across the business value chain",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20260917000328": {
+    "title": "한국수출입은행이 충청북도와 협약을 맺고 반도체·바이오·모빌리티 등 지역 첨단산업 육성을 위해 3년간 5조원 규모의 금융 지원에 나선다",
+    "summary": "한국수출입은행은 충청북도와 협약을 맺고 반도체, 바이오, 모빌리티 등 지역 첨단산업 육성을 위해 3년간 5조 원 규모의 금융 지원을 실시한다. 이번 협약은 충북 지역의 대규모 제조 인프라 및 수출 기반 시설 구축을 뒷받침하기 위한 목적으로 추진되었다. 수은은 핵심 첨단산업의 초격차 성장을 지원하기 위해 금융 패키지와 우대 정책을 집중적으로 집행할 예정이다.",
+    "source": "전자신문 IT",
+    "date": "2026-09-17",
+    "link": "https://www.etnews.com/20260917000328",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20260917000270": {
+    "title": "삼성전자 AI 가전, 필리핀 복합단지 낙점...동남아 B2B 시장 정조준",
+    "summary": "삼성전자가 필리핀 복합단지 개발사업에 인공지능(AI) 가전과 기업간거래(B2B) 통합 운영 솔루션을 공급한다. 삼성전자는 17일 부동산 개발사 디에이치플러스(DH플러스)와 필리핀 세부 '그란츠 포레스트 파크' 개발사업 업무협약을 체결했다고 밝혔다. 협약에 따라 삼성전자는 AI 가전과 스마트싱스 프로, b.IoT 등 B2B 통합 운영 솔루션을 공급한다. 그란츠 포레스트 파크는 최첨단 AIoT 기반으로 조성되는 프리미엄 복합단지다. 2030년 완공",
+    "source": "전자신문 IT",
+    "date": "2026-09-17",
+    "link": "https://www.etnews.com/20260917000270",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20260917000239": {
+    "title": "필츠코리아, 10월 22일 수원서 EU MR·CRA 대응 산업 보안 세미나 개최",
+    "summary": "필츠코리아가 10월 22일 수원에서 'PILZ Security Seminar Suwon 2026'을 개최한다. 이번 세미나는 산업 현장의 기계류 보안 관련 글로벌 규제 동향과 제조기업의 대응 방안을 공유하기 위해 마련되었다. 주요 내용으로 EU 기계류 규정(MR), 사이버복원력법(CRA), IEC 62443 등 국제 보안 표준의 실무 적용 방안이 다뤄진다.",
+    "source": "전자신문 IT",
+    "date": "2026-09-17",
+    "link": "https://www.etnews.com/20260917000239",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20260917000138": {
+    "title": "농식품부, 부처 최초 'AI 민원행정' 가동…1만7000건 분석해 답변까지",
+    "summary": "#. 농림축산식품부 직원이 국민신문고에 접수된 민원을 화면에 띄우자 인공지능(AI)이 내용을 분석해 담당 부서를 추천했다. 배정 사유가 화면에 표시되고 이어 과거 유사 민원과 관련 법령·판례를 근거로 답변 초안이 생성됐다. 직원은 AI가 작성한 내용을 검토한 뒤 필요한 부분을 수정해 최종 답변으로 확정했다. 기존에는 담당자가 과거 사례와 법령을 일일이 찾아 처음부터 작성해야 했던 업무다. 농식품부가 연간 1만7000여건에 달하는 민원 업무에 생",
+    "source": "전자신문 IT",
+    "date": "2026-09-17",
+    "link": "https://www.etnews.com/20260917000138",
+    "original_title": "",
+    "lang": "ko"
+  },
   "https://www.edn.com/sensor-sharpens-infrared-in-cabin-imaging/": {
     "title": "센서, 차량 내부 적외선 이미징 기능 강화",
     "summary": "ST의 SafeSense VD56GA 110만 화소 자동차 이미지 센서가 차량 내부 적외선 센싱을 가능하게 합니다. 이 센서는 운전자 및 탑승자 모니터링 애플리케이션에 적용될 수 있습니다.",
@@ -267,186 +447,6 @@
     "date": "2026-09-15",
     "link": "https://airqualitynews.com/health/bacteria-in-the-airways-may-shape-health-risks-from-air-pollution/?utm_source=rss&utm_medium=rss&utm_campaign=bacteria-in-the-airways-may-shape-health-risks-from-air-pollution",
     "original_title": "Bacteria in the airways may shape health risks from air pollution",
-    "lang": "en"
-  },
-  "https://airqualitynews.com/health/air-pollution-linked-to-more-nighttime-coughing-study-finds/?utm_source=rss&utm_medium=rss&utm_campaign=air-pollution-linked-to-more-nighttime-coughing-study-finds": {
-    "title": "연구: 대기 오염과 야간 기침 증가의 연관성 입증",
-    "summary": "수면 추적 애플리케이션 데이터를 활용한 새로운 연구에 따르면 대기 오염과 야간 기침 사이에 뚜렷한 연관성이 있는 것으로 나타났다. 특히 오염 수준이 권장 안전 기준 이내일 때에도 이러한 현상이 발생하는 것으로 확인되었다. 케임브리지 대학교와 칭화 대학교 등의 공동 연구진은 12개국 32개 도시의 수면 데이터를 분석해 이 결과를 도출했다.",
-    "source": "Air Quality News",
-    "date": "2026-09-15",
-    "link": "https://airqualitynews.com/health/air-pollution-linked-to-more-nighttime-coughing-study-finds/?utm_source=rss&utm_medium=rss&utm_campaign=air-pollution-linked-to-more-nighttime-coughing-study-finds",
-    "original_title": "Increased nighttime coughing linked to air pollution, study finds",
-    "lang": "en"
-  },
-  "https://www.etnews.com/20260915000093": {
-    "title": "BMW코리아, '부산 서비스센터' 새단장",
-    "summary": "BMW그룹코리아의 공식 딜러사 코오롱모터스가 부산 광안리 서비스센터를 새롭게 단장해 오픈했다고 15일 밝혔다. BMW 부산 광안리 서비스센터는 연면적 4664㎡(약 1411평), 지상 4층 규모로 조성됐다. BMW그룹의 최신 전시장 콘셉트인 '리테일 넥스트'를 적용해 고객 동선과 휴게 환경을 개선했다. 센터는 최신 판금·도장 부스를 비롯해 총 37개 워크베이와 전담 기술 인력, 첨단 진단 장비를 갖췄다. 소모품 교환 등 일상적 경정비부터 중",
-    "source": "전자신문 산업/신사업",
-    "date": "2026-09-15",
-    "link": "https://www.etnews.com/20260915000093",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20260915000055": {
-    "title": "SK렌터카, 구글 워크스페이스 전사 도입…“업무 환경 혁신”",
-    "summary": "SK렌터카가 구글 클라우드 기반 협업·생산성 플랫폼 '구글 워크스페이스'를 전 조직에 도입했다. SK렌터카는 업무 시스템 현대화를 넘어 업무 생산성을 높이고, 장기간 축적한 데이터와 업무 경험의 활용도를 높일 방침이다. 기존 가상 데스크톱(VDI) 환경에서는 정해진 시스템과 업무 도구를 중심으로 업무를 수행했다면, 새로운 구글 워크스페이스 협업 플랫폼 환경에선 클라우드 기반 협업 도구와 생성형 인공지능(AI)을 활용해 정보 탐색부터 자료 분석·",
-    "source": "전자신문 산업/신사업",
-    "date": "2026-09-15",
-    "link": "https://www.etnews.com/20260915000055",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.semiconductor-digest.com/omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26": {
-    "title": "Omdia: 2026년 2분기 글로벌 반도체 매출 31% 급증하며 역대 최고치 4250억 달러 기록",
-    "summary": "Omdia의 새로운 연구에 따르면 2026년 2분기 글로벌 반도체 매출이 4250억 달러를 돌파하며 사상 최고치를 기록했다. 이는 전 분기 대비 31.4% 증가한 수치로 시장이 기록적인 분기별 성장률을 달성했음을 보여준다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-15",
-    "link": "https://www.semiconductor-digest.com/omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26",
-    "original_title": "Omdia: Global Semiconductor Revenue Surges 31% to Record $425B in 2Q26",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026/?utm_source=rss&utm_medium=rss&utm_campaign=mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026": {
-    "title": "미르텍, SEMICON West 2026에서 최첨단 3D 반도체 검사 시스템 전시 예정",
-    "summary": "미르텍이 SEMICON West 2026에서 3D 반도체 검사 시스템인 MV-9SiP 하이브리드를 선보일 예정이다. 이 장비는 2D 비전, 12-프로젝션 디지털 블루 라이트 무아레, 블루 레이저 스캐닝 기술을 단일 플랫폼에 통합한 것이 특징이다. 해당 시스템은 반도체 검사의 정밀도와 효율성을 높이는 데 기여할 것으로 보인다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-15",
-    "link": "https://www.semiconductor-digest.com/mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026/?utm_source=rss&utm_medium=rss&utm_campaign=mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026",
-    "original_title": "MIRTEC to Showcase Cutting-Edge 3D Semiconductor Inspection System at SEMICON West 2026",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort/?utm_source=rss&utm_medium=rss&utm_campaign=the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort": {
-    "title": "NY Creates와 마이크론 테크놀로지 공동 도제 프로그램, 첫 기수 맞이",
-    "summary": "NY Creates와 마이크론 테크놀로지는 공동 인력 양성 프로그램의 첫 기수로 10명의 견습생을 영입하는 서명식을 개최했다. 이는 반도체 산업에 필요한 전문 인력을 내부적으로 육성하기 위한 워크포스 개발 프로그램의 일환이다. 첫 기수 운영을 통해 두 기관은 지속 가능한 반도체 인력 공급망을 구축하는 기반을 마련했다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-15",
-    "link": "https://www.semiconductor-digest.com/the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort/?utm_source=rss&utm_medium=rss&utm_campaign=the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort",
-    "original_title": "The NY Creates and Micron Technology Joint Apprenticeship Program Welcomes First Cohort",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/hardware-assisted-verification-is-key-to-ai-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=hardware-assisted-verification-is-key-to-ai-chip-design": {
-    "title": "하드웨어 지원 검증이 AI 칩 설계의 핵심",
-    "summary": "지멘스 EDA의 위르겐 예거는 하드웨어 지원 검증이 필수적인 요소로 자리 잡은 배경을 설명했다. AI 칩 설계의 복잡성이 증가함에 따라 검증 과정에서 하드웨어의 도움이 중요해졌다. 이러한 기술은 칩 설계의 신뢰성과 효율성을 높이는 데 핵심적인 역할을 한다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-15",
-    "link": "https://www.semiconductor-digest.com/hardware-assisted-verification-is-key-to-ai-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=hardware-assisted-verification-is-key-to-ai-chip-design",
-    "original_title": "Hardware Assisted Verification Is Key to AI Chip Design",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/when-firmware-panics-expose-semiconductor-defects/?utm_source=rss&utm_medium=rss&utm_campaign=when-firmware-panics-expose-semiconductor-defects": {
-    "title": "펌웨어 패닉이 반도체 결함을 드러낼 때",
-    "summary": "시스템 온 칩(SoC) 아키텍처가 복잡해짐에 따라 자동 테스트 장비(ATE)를 활용한 웨이퍼 정렬 및 패키지 테스트만으로는 현장에서 발생할 수 있는 모든 불량 장치를 검출하기 어려워졌다. 이에 따라 펌웨어 패닉 현상이 반도체 결함을 파악하는 데 중요한 단서로 활용되고 있다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-15",
-    "link": "https://www.semiconductor-digest.com/when-firmware-panics-expose-semiconductor-defects/?utm_source=rss&utm_medium=rss&utm_campaign=when-firmware-panics-expose-semiconductor-defects",
-    "original_title": "When Firmware Panics Expose Semiconductor Defects",
-    "lang": "en"
-  },
-  "https://airqualitynews.com/legislation/us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation/?utm_source=rss&utm_medium=rss&utm_campaign=us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation": {
-    "title": "美 EPA, 바이든 정부 시절 대기오염 규제 추가 철�폐 추진",
-    "summary": "미국 환경보호청(EPA)은 석탄 및 가스 화력발전소의 온실가스 배출 제한 규정을 철폐하여 바이든 정부 시절의 주요 환경 조치를 해체할 예정이다. EPA는 해당 규제가 에너지 산업에 불필요한 비용을 부과하고 안정적인 전력 공급을 위협할 수 있다고 주장한다. 철폐 대상인 바이든 정부의 규정은 온실가스 배출 감축을 목적으로 설계되었던 것으로 알려졌다.",
-    "source": "Air Quality News",
-    "date": "2026-09-15",
-    "link": "https://airqualitynews.com/legislation/us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation/?utm_source=rss&utm_medium=rss&utm_campaign=us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation",
-    "original_title": "US EPA moves to dismantle more Biden-era air pollution legislation",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/ald-system-design-is-the-key-to-proper-precursor-gas-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=ald-system-design-is-the-key-to-proper-precursor-gas-delivery": {
-    "title": "ALD 시스템 설계가 적절한 전구체 가스 전달의 핵심이다",
-    "summary": "원자층 증착(ALD) 공정은 전구체 가스를 반응 챔버로 밀리초 이하의 정밀도로 전달하는 데 좌우된다. 이를 위해 시스템 설계의 최적화가 필수적이다. 이 기사는 반도체 제조 공정에서 ALD 시스템 설계의 중요성을 설명한다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-15",
-    "link": "https://www.semiconductor-digest.com/ald-system-design-is-the-key-to-proper-precursor-gas-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=ald-system-design-is-the-key-to-proper-precursor-gas-delivery",
-    "original_title": "ALD System Design is the Key to Proper Precursor Gas Delivery",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry/?utm_source=rss&utm_medium=rss&utm_campaign=precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry": {
-    "title": "압력 속의 정밀함: 글로벌화 및 초미세화된 반도체 산업에서의 품질 보장",
-    "summary": "반도체 산업의 글로벌화 및 초미세화가 진행됨에 따라 미세한 힘과 빠른 동태를 감지하는 데 기존 측정 방식의 한계가 드러나고 있다. 스트레인 게이지 및 LVDT 변위 센서와 같은 전통적인 측정 접근법은 더 이상 요구되는 수준의 정밀한 감지를 수행하기 어렵다. 이러한 측정 기술의 한계를 극복하는 것이 반도체 제조 품질 보장의 핵심 과제로 대두되고 있다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-15",
-    "link": "https://www.semiconductor-digest.com/precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry/?utm_source=rss&utm_medium=rss&utm_campaign=precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry",
-    "original_title": "Precision Under Pressure: Ensuring Quality in a Globalized and Miniaturized Semiconductor Industry",
-    "lang": "en"
-  },
-  "https://spectrum.ieee.org/llms-for-chip-design": {
-    "title": "OpenAI가 자체 LLM을 활용해 '할라페뇨' 칩을 설계한 방법",
-    "summary": "OpenAI는 8월 25일 자체 개발한 첫 AI 가속기 칩인 '할라펜뇨'를 전격 공개했다. 이 칩은 최대 13.4 페타플롭스의 4비트 연산 성능을 제공하며, 현재 사용 중인 엔비디아의 GB300과 비교해 지연 시간을 최대 3.6배 단축하고 전력 소비도 줄일 수 있는 것으로 나타났다. 또한 설계 과정에 대형 언어 모델(LLM)을 적극 활용하여 최초 아키텍처 개념부터 첫 실리콘 확보까지 20개월 미만이라는 짧은 기간 내에 설계를 완료했다.",
-    "source": "IEEE Spectrum · Semiconductors",
-    "date": "2026-09-14",
-    "link": "https://spectrum.ieee.org/llms-for-chip-design",
-    "original_title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-    "lang": "en"
-  },
-  "https://www.etnews.com/20260914000108": {
-    "title": "하만, 제네시스 플래그십 'GV90'에 뱅앤올룹슨 3D 사운드 공급",
-    "summary": "삼성전자의 전장·오디오 자회사 하만 인터내셔널 코리아는 제네시스의 첫 초대형 플래그십 전동화 스포츠유틸리티차(SUV) 'GV90'에 '뱅앤올룹슨 프리미어 3D 사운드 시스템'을 선보인다고 14일 밝혔다. GV90에 적용된 사운드 시스템은 총 25개의 고성능 스피커를 바탕으로 정교한 공간 음향을 제공한다. 각 좌석의 3웨이 바이앰프 스피커와 서브우퍼, 헤드라이너 및 헤드레스트 스피커가 조화를 이뤄 콘서트홀 수준의 입체감을 연출한다. 특히 알루미늄",
-    "source": "전자신문 산업/신사업",
-    "date": "2026-09-14",
-    "link": "https://www.etnews.com/20260914000108",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20260913000030": {
-    "title": "현대차, '포레스트런 2026' 성료…아프리카에 나무 10만 그루 기부",
-    "summary": "현대차가 친환경 사회공헌 캠페인인 '포레스트런 2026'을 통해 아프리카에 나무 10만 그루를 기부한다. 참가자의 달리기 실적을 실제 나무 기부 및 식재로 연결하는 방식으로 진행된다. 이 캠페인은 미세먼지 경각심을 높이고 깨끗한 환경 조성에 기여하는 것을 목적으로 한다.",
-    "source": "전자신문 산업/신사업",
-    "date": "2026-09-13",
-    "link": "https://www.etnews.com/20260913000030",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.semiconductor-digest.com/xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware": {
-    "title": "자나두·ASML, 포토닉 양자 하드웨어 리소그래피 기술 고도화 협력",
-    "summary": "캐나다 포토닉 양자 컴퓨팅 기업인 자나두(Xanadu)와 반도체 장비 제조사 ASML은 양자 하드웨어 제조를 위한 리소그래피 기술 협력을 진행합니다. 양사는 패터닝 제어를 개선하고 손실이 적은 포토닉 구조물 구현을 위한 리소그래피 기반 공정 방식을 공동으로 탐구할 예정입니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-12",
-    "link": "https://www.semiconductor-digest.com/xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware",
-    "original_title": "Xanadu, ASML to Advance Lithography for Photonic Quantum Hardware",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/synopsys-and-astar-ime-join-forces-to-accelerate-innovation-for-advanced-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-and-astar-ime-join-forces-to-accelerate-innovation-for-advanced-semiconductor-packaging": {
-    "title": "시놉시스와 A*STAR IME, 첨단 반도체 패키징 혁신 가속화 위해 손잡다",
-    "summary": "시놉시스와 A*STAR IME는 첨단 패키징 기술 혁신을 위해 협력합니다. 두 기관은 칩렛 아키텍처 및 시뮬레이션 기술 분야에서 공동으로 연구를 진행할 예정입니다. 이번 협력을 통해 첨단 반도체 패키징 분야의 기술 개발이 한층 가속화될 것으로 보입니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-12",
-    "link": "https://www.semiconductor-digest.com/synopsys-and-astar-ime-join-forces-to-accelerate-innovation-for-advanced-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-and-astar-ime-join-forces-to-accelerate-innovation-for-advanced-semiconductor-packaging",
-    "original_title": "Synopsys and A*STAR IME Join Forces to Accelerate Innovation for Advanced Semiconductor Packaging",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/national-network-for-microelectronics-education-announces-inaugural-industry-advisory-committee-to-help-shape-americas-semiconductor-workforce-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=national-network-for-microelectronics-education-announces-inaugural-industry-advisory-committee-to-help-shape-americas-semiconductor-workforce-strategy": {
-    "title": "미국 반도체 인력 양성을 위한 마이크로일렉트로닉스 교육 국가 네트워크 산업 자문위원회 출범",
-    "summary": "미국의 마이크로일렉트로닉스 교육 국가 네트워크가 미국 반도체 인력 전략 수립을 지원하기 위해 첫 산업 자문위원회를 발족했다. 산업계, 대학, 지역 대학, 인력 개발 전문가들이 미래 반도체 인력을 양성하기 위해 협력하는 체계를 구축했다. 이 위원회는 미국 반도체 산업의 인력 경쟁력 강화를 위한 가이드라인 제시 역할을 수행할 예정이다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-12",
-    "link": "https://www.semiconductor-digest.com/national-network-for-microelectronics-education-announces-inaugural-industry-advisory-committee-to-help-shape-americas-semiconductor-workforce-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=national-network-for-microelectronics-education-announces-inaugural-industry-advisory-committee-to-help-shape-americas-semiconductor-workforce-strategy",
-    "original_title": "National Network for Microelectronics Education Announces Inaugural Industry Advisory Committee to Help Shape America’s Semiconductor Workforce Strategy",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/synopsys-joins-arm-total-design-for-physical-ai-to-advance-autonomous-systems/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-joins-arm-total-design-for-physical-ai-to-advance-autonomous-systems": {
-    "title": "시놉시스, 자율 시스템 고도화를 위해 'Arm Total Design for Physical AI' 참여",
-    "summary": "시놉시스는 자율 시스템 발전을 위해 Arm의 'Physical AI' 생태계인 Arm Total Design에 참여했다. Physical AI는 기술 산업이 직면한 가장 어려운 엔지니어링 문제 중 하나로 평가받고 있다. 이번 협력은 관련 기술 난제 해결을 위한 업계 차원의 노력의 일환이다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-12",
-    "link": "https://www.semiconductor-digest.com/synopsys-joins-arm-total-design-for-physical-ai-to-advance-autonomous-systems/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-joins-arm-total-design-for-physical-ai-to-advance-autonomous-systems",
-    "original_title": "Synopsys Joins Arm Total Design for Physical AI to Advance Autonomous Systems",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/kyocera-and-tohoku-university-develop-technology-to-integrate-optical-isolators-directly-onto-silicon-photonics-chips/?utm_source=rss&utm_medium=rss&utm_campaign=kyocera-and-tohoku-university-develop-technology-to-integrate-optical-isolators-directly-onto-silicon-photonics-chips": {
-    "title": "교세라와 도호쿠대학, 실리콘 포토닉스 칩에 광 아이솔레이터 직접 통합 기술 개발",
-    "summary": "교세라와 도호쿠대학 전기통신연구소는 레이저 어닐링 기술을 활용하여 실리콘 포토닉스 칩에 광 아이솔레이터를 직접 통합하는 신기술을 개발했다. 레이저 어닐링은 국소적인 레이저 기반 열처리 방식으로, 정밀한 통합 공정에 활용된다. 이 기술은 향후 광반도체 및 차세대 통신 칩의 소형화와 성능 향상에 기여할 것으로 기대된다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-12",
-    "link": "https://www.semiconductor-digest.com/kyocera-and-tohoku-university-develop-technology-to-integrate-optical-isolators-directly-onto-silicon-photonics-chips/?utm_source=rss&utm_medium=rss&utm_campaign=kyocera-and-tohoku-university-develop-technology-to-integrate-optical-isolators-directly-onto-silicon-photonics-chips",
-    "original_title": "Kyocera and Tohoku University Develop Technology to Integrate Optical Isolators Directly onto Silicon Photonics Chips",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market": {
-    "title": "포지트론 AI, 차세대 인퍼런스 실리콘 시장 출시 위해 50억 달러 가치로 8억 7,500만 달러 유치",
-    "summary": "AI 인퍼런스 하드웨어 기업인 포지트론 AI는 차세대 인퍼런스 실리콘을 시장에 출시하기 위해 8억 7,500만 달러 규모의 시리즈 C 자금 유치를 완료했다. 이번 유치로 기업의 밸류에이션은 50억 달러를 기록했다. 회사는 해당 하드웨어를 통해 AI 모델 서빙 비용을 대폭 절감하고 에너지 효율성을 크게 향상시킬 것으로 기대하고 있다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-12",
-    "link": "https://www.semiconductor-digest.com/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market",
-    "original_title": "Positron AI Raises $875 Million at a $5 Billion Valuation to Bring Its Next-Generation Inference Silicon to Market",
     "lang": "en"
   }
 }
