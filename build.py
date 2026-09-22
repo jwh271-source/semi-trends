@@ -34,8 +34,10 @@ SUMMARY_MAX_CHARS = int(os.environ.get("SUMMARY_MAX_CHARS", "120"))
 
 # 카드 본문에 표시되는 요약 미리보기의 최대 글자 수 (1~2문장).
 # 전체 요약은 팝업에서만 보이므로, 카드엔 짧은 미리보기만으로 충분.
-# 80자면 카드가 비어 보이지 않으면서도 70KB 업로드 한계 유지.
-PREVIEW_MAX_CHARS = int(os.environ.get("PREVIEW_MAX_CHARS", "80"))
+# 55자: 2026-09-22 카드 65개 시점에 index.html이 72.4KB로 70KB 한계를 넘어
+# 업로드가 중단됐다. 카드 수 증가에도 여유를 두기 위해 80→55자 축소.
+# (팝업 클릭 시 전체 요약은 summaries-N.json에서 그대로 제공)
+PREVIEW_MAX_CHARS = int(os.environ.get("PREVIEW_MAX_CHARS", "55"))
 
 
 def fmt_date(iso: str | None) -> str:
