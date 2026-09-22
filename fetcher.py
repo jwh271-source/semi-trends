@@ -255,6 +255,29 @@ LLM_CATEGORIES = {
 }
 
 
+def _parse_llm_json(out: str) -> dict | None:
+    """LLM 응답에서 최종 JSON 객체(category/summary 포함) 추출.
+    GLM-5.2는 thinking 비활성화를 무시하고 추론 텍스트를 앞에 붙이므로,
+    응답 전체가 아니라 JSON 후보들 중 '최종 답'을 찾는다.
+    실패 시 None (호출부에서 재시도 판단)."""
+    import json as _json
+    candidates = re.findall(r"\{[^{}]*\}", out, re.DOTALL)
+    for raw in candidates:
+        try:
+            cand = _json.loads(raw)
+        except Exception:
+            continue
+        if not (isinstance(cand, dict) and ("category" in cand or "summary" in cand)):
+            continue
+        # 프롬프트 형식 echo 걸러내기: 추론 텍스트에 형식 예시
+        # {"category": "semiconductor|environmental|...", ...}가 그대로 남아
+        # 있어 최종 JSON이 잘렸을 때 이것이 채택될 수 있다.
+        if "|" in str(cand.get("category", "")):
+            continue
+        return cand
+    return None
+
+
 def _is_junk_summary(s: str) -> bool:
     """LLM 출력 중 요약으로 쓸 수 없는 쓰레기 판별.
     - '...' 같은 점/기호만 있는 출력
@@ -310,24 +333,20 @@ def llm_process_article(title: str, summary: str, is_english: bool = False) -> d
     out = _llm_call(prompt)
     if not out:
         return None
-    # JSON 파싱 시도 — 실패하면 텍스트에서 부분 추출
+    # JSON 파싱 시도 — 실패하면 텍스트에서 부분 추출.
+    # GLM-5.2 응답 길이가 호출마다 크게 달라(추론 텍스트 길이 변동) 가끔
+    # max_tokens을 넘겨 최종 JSON이 잘리는 경우가 있다 — 1회 재시도.
+    parsed = _parse_llm_json(out)
+    if parsed is None:
+        print("      [llm] 응답 파싱 실패 — 1회 재시도")
+        out = _llm_call(prompt) or ""
+        parsed = _parse_llm_json(out)
+    if parsed is None:
+        return None
     try:
-        # 응답에서 JSON 블록 추출 (```json ... ``` 또는 { ... }).
-        # GLM-5.2는 thinking 비활성화를 무시하고 추론 텍스트를 앞에 붙이므로,
-        # 마지막 JSON 객체(최종 답)를 사용한다.
-        matches = re.findall(r"\{[^{}]*\}", out, re.DOTALL)
-        data = None
-        for raw in matches:
-            try:
-                cand = json.loads(raw)
-                if isinstance(cand, dict) and ("category" in cand or "summary" in cand):
-                    data = cand
-            except Exception:
-                continue
-        if data is None:
-            m = re.search(r"\{.*\}", out, re.DOTALL)
-            raw = m.group(0) if m else out
-            data = json.loads(raw)
+        # _parse_llm_json이 최종 답 JSON을 찾아 반환 (재시도 후에도 None이면
+        # 상단에서 이미 return None 처리됨).
+        data = parsed
         category = str(data.get("category", "")).strip().lower()
         # none이면 관련 없음 (정확히 "none"이거나 빈 값)
         if category == "none" or category == "" or "없" in category:
