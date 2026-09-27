@@ -1,103 +1,4 @@
 {
-  "https://www.edie.net/ccc-warns-heathrow-expansion-has-no-credible-climate-pathway-under-current-policies/": {
-    "title": "기후변화위원회, 현재 정책으로는 히스로 공항 확장이 기후 목표에 부합하지 않는다고 경고",
-    "summary": "영국 기후변화위원회(CCC)는 현재 정책 기준에서 히스로 공항 확장이 영국의 기후 약정과 상충된다고 조언했다. 현행 정책으로는 공항 확장을 지탱할 수 있는 신뢰할 만한 기후 대응 경로가 없다는 것이다. 이는 기후 목표 달성과 인프라 확충 간의 충돌을 명확히 지적한 내용이다.",
-    "source": "edie (환경 비즈니스)",
-    "date": "2026-09-16",
-    "link": "https://www.edie.net/ccc-warns-heathrow-expansion-has-no-credible-climate-pathway-under-current-policies/",
-    "original_title": "CCC warns Heathrow expansion has no credible climate pathway under current policies",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah": {
-    "title": "그라디언트, 미국 주요 반도체 팹에 대한 신규 수처리 계약 수주",
-    "summary": "그라디언트가 뉴욕, 버지니아, 아이다호, 유타에 위치한 미국의 주요 반도체 제조 시설로부터 초순수, 폐수 및 무액체배출(ZLD) 관련 신규 계약을 수주했다. 이번 계약은 총 3억 달러 규모로, AI 경제의 반도체 부문에서 지속적인 사업 성장을 견인하고 있다. 계약에는 반도체 공장 운영에 필수적인 수자원 관리 및 폐수 처리 규제 대응을 위한 솔루션이 포함된다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-16",
-    "link": "https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah",
-    "original_title": "Gradiant Wins New Water Contracts for Major US Semiconductor Fabs in New York, Virginia, Idaho, and Utah",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies": {
-    "title": "아el루마, 스미토모 화학 첨단 기술과 전략적 협약 체결",
-    "summary": "아el루마(Aeluma)는 AI 데이터통신 시장을 위한 포토닉스 웨이퍼의 개발 및 생산을 가속화하기 위해 스미토모 화학 첨단 기술(SCAT)과 전략적 협약을 체결했다. 이 협약을 통해 두 회사는 차세대 AI 인프라에 필수적인 광반도체 기술의 상용화와 양산 체계 구축에 협력하게 된다. 해당 소식은 반도체 전문 매체인 세미컨덕터 다이제스트를 통해 처음으로 보도되었다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-16",
-    "link": "https://www.semiconductor-digest.com/aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies",
-    "original_title": "Aeluma Executes Strategic Agreement with Sumitomo Chemical Advanced Technologies",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems/?utm_source=rss&utm_medium=rss&utm_campaign=teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems": {
-    "title": "TeRAM, AI 시스템용 3D SRAM 개발 위해 3,700만 달러 규모로 스텔스 모드 종료",
-    "summary": "TeRAM이 AI 시스템용 맞춤형 3D SRAM을 개발하기 위해 3,700만 달러의 자금을 조달하며 스텔스 모드에서 공개적으로 등장했다. 이 3D SRAM 기술은 메모리 패키징을 재정의하여 용량과 대역폭을 극대화하는 것을 목표로 한다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-16",
-    "link": "https://www.semiconductor-digest.com/teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems/?utm_source=rss&utm_medium=rss&utm_campaign=teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems",
-    "original_title": "TeRAM Emerges from Stealth with $37M to Develop 3D SRAM for AI Systems",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process/?utm_source=rss&utm_medium=rss&utm_campaign=mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process": {
-    "title": "미디어텍, TSMC 2nm 공정 기반 디멘시티 9600 프로 출시",
-    "summary": "미디어텍이 TSMC의 2nm 공정을 적용한 플래그십 SoC인 디멘시티 9600 프로를 출시했다. 이 제품은 새로운 2nm 공정 노드를 채택하며 중요한 기술적 이정표를 달성했다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-16",
-    "link": "https://www.semiconductor-digest.com/mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process/?utm_source=rss&utm_medium=rss&utm_campaign=mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process",
-    "original_title": "MediaTek Launches Dimensity 9600 Pro on TSMC 2nm Process",
-    "lang": "en"
-  },
-  "https://www.edie.net/how-to-cut-through-the-noise-at-new-york-climate-week/": {
-    "title": "뉴욕 기후 주간의 노이즈를 줄이는 방법",
-    "summary": "9월 20일부터 27일까지 열리는 뉴욕 기후 주간(Climate Week NYC)이 다가오고 있다. 수십만 명의 참가자가 도시에 모이고 더 많은 인원이 온라인으로 행사에 참여하면서 중요한 기후 메시지와 실질적인 기후 목표가 노이즈에 묻힐 위험이 있다.",
-    "source": "edie (환경 비즈니스)",
-    "date": "2026-09-16",
-    "link": "https://www.edie.net/how-to-cut-through-the-noise-at-new-york-climate-week/",
-    "original_title": "How to cut through the noise at New York Climate Week",
-    "lang": "en"
-  },
-  "https://www.edn.com/a-design-path-to-success-exists-for-ultra-low-voltage-socs/": {
-    "title": "초저전압 SoC 설계 성공을 위한 설계 경로 존재",
-    "summary": "반도체 칩 설계 분야에서 초저전압(ULV) 설계는 공급 전압이 트랜지스터 임계 전압에 가깝거나 그 이하인 상태를 의미한다. 이러한 기술적 한계 속에서 초저전압 SoC(System on Chip)를 성공적으로 구현할 수 있는 설계 경로가 존재한다.",
-    "source": "EDN",
-    "date": "2026-09-15",
-    "link": "https://www.edn.com/a-design-path-to-success-exists-for-ultra-low-voltage-socs/",
-    "original_title": "A design path to success exists for ultra-low-voltage SoCs",
-    "lang": "en"
-  },
-  "https://airqualitynews.com/health/bacteria-in-the-airways-may-shape-health-risks-from-air-pollution/?utm_source=rss&utm_medium=rss&utm_campaign=bacteria-in-the-airways-may-shape-health-risks-from-air-pollution": {
-    "title": "기도 내 박테리아는 대기 오염으로 인한 건강 위험을 초래할 수 있습니다.",
-    "summary": "대기 오염은 사람의 기도에 살고 있는 박테리아의 유형에 따라 다양한 방식으로 심각한 박테리아 감염의 위험을 증가시킬 수 있다는 새로운 연구 결과가 나왔습니다. Wellcome Sanger Institute, 남아프리카 국립 전염병 연구소, 바르셀로나 슈퍼컴퓨팅 센터의 과학자들과 협력자들은 흔히 발견되는 박테리아인 폐렴구균(Streptococcus pneumoniae)을 연구했습니다. […]",
-    "source": "Air Quality News",
-    "date": "2026-09-15",
-    "link": "https://airqualitynews.com/health/bacteria-in-the-airways-may-shape-health-risks-from-air-pollution/?utm_source=rss&utm_medium=rss&utm_campaign=bacteria-in-the-airways-may-shape-health-risks-from-air-pollution",
-    "original_title": "Bacteria in the airways may shape health risks from air pollution",
-    "lang": "en"
-  },
-  "https://airqualitynews.com/health/air-pollution-linked-to-more-nighttime-coughing-study-finds/?utm_source=rss&utm_medium=rss&utm_campaign=air-pollution-linked-to-more-nighttime-coughing-study-finds": {
-    "title": "연구: 대기 오염과 야간 기침 증가의 연관성 입증",
-    "summary": "수면 추적 애플리케이션 데이터를 활용한 새로운 연구에 따르면 대기 오염과 야간 기침 사이에 뚜렷한 연관성이 있는 것으로 나타났다. 특히 오염 수준이 권장 안전 기준 이내일 때에도 이러한 현상이 발생하는 것으로 확인되었다. 케임브리지 대학교와 칭화 대학교 등의 공동 연구진은 12개국 32개 도시의 수면 데이터를 분석해 이 결과를 도출했다.",
-    "source": "Air Quality News",
-    "date": "2026-09-15",
-    "link": "https://airqualitynews.com/health/air-pollution-linked-to-more-nighttime-coughing-study-finds/?utm_source=rss&utm_medium=rss&utm_campaign=air-pollution-linked-to-more-nighttime-coughing-study-finds",
-    "original_title": "Increased nighttime coughing linked to air pollution, study finds",
-    "lang": "en"
-  },
-  "https://www.etnews.com/20260915000093": {
-    "title": "BMW코리아, '부산 서비스센터' 새단장",
-    "summary": "BMW그룹코리아의 공식 딜러사 코오롱모터스가 부산 광안리 서비스센터를 새롭게 단장해 오픈했다고 15일 밝혔다. BMW 부산 광안리 서비스센터는 연면적 4664㎡(약 1411평), 지상 4층 규모로 조성됐다. BMW그룹의 최신 전시장 콘셉트인 '리테일 넥스트'를 적용해 고객 동선과 휴게 환경을 개선했다. 센터는 최신 판금·도장 부스를 비롯해 총 37개 워크베이와 전담 기술 인력, 첨단 진단 장비를 갖췄다. 소모품 교환 등 일상적 경정비부터 중",
-    "source": "전자신문 산업/신사업",
-    "date": "2026-09-15",
-    "link": "https://www.etnews.com/20260915000093",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20260915000055": {
-    "title": "SK렌터카, 구글 워크스페이스 전사 도입…“업무 환경 혁신”",
-    "summary": "SK렌터카가 구글 클라우드 기반 협업·생산성 플랫폼 '구글 워크스페이스'를 전 조직에 도입했다. SK렌터카는 업무 시스템 현대화를 넘어 업무 생산성을 높이고, 장기간 축적한 데이터와 업무 경험의 활용도를 높일 방침이다. 기존 가상 데스크톱(VDI) 환경에서는 정해진 시스템과 업무 도구를 중심으로 업무를 수행했다면, 새로운 구글 워크스페이스 협업 플랫폼 환경에선 클라우드 기반 협업 도구와 생성형 인공지능(AI)을 활용해 정보 탐색부터 자료 분석·",
-    "source": "전자신문 산업/신사업",
-    "date": "2026-09-15",
-    "link": "https://www.etnews.com/20260915000055",
-    "original_title": "",
-    "lang": "ko"
-  },
   "https://www.semiconductor-digest.com/omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26": {
     "title": "Omdia: 2026년 2분기 글로벌 반도체 매출 31% 급증하며 역대 최고치 4250억 달러 기록",
     "summary": "Omdia의 새로운 연구에 따르면 2026년 2분기 글로벌 반도체 매출이 4250억 달러를 돌파하며 사상 최고치를 기록했다. 이는 전 분기 대비 31.4% 증가한 수치로 시장이 기록적인 분기별 성장률을 달성했음을 보여준다.",
@@ -447,6 +348,105 @@
     "date": "2026-09-04",
     "link": "https://www.semiconductor-digest.com/manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology/?utm_source=rss&utm_medium=rss&utm_campaign=manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology",
     "original_title": "Manz Asia and SUSS Announce Strategic Collaboration in Semiconductor Inkjet Technology",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters": {
+    "title": "스바이버스 반도체, AI 데이터센터용 유럽 포토닉스 제조 확장에 3천만 달러 투자",
+    "summary": "스바이버스 반도체스는 AI 데이터센터 인프라 수요 증가에 대응하기 위해 유럽 포토닉스 제조 역량 확장에 3천만 달러를 투자한다. 글래스고 증설을 통해 인듐인(P) 제조 능력을 연간 1억 개 이상의 연속파 분산 피드백(CW DFB) 레이저로 늘릴 계획이다. 이는 AI 인프라 고객사의 예상되는 생산 램프업을 지원하기 위함이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-04",
+    "link": "https://www.semiconductor-digest.com/sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters",
+    "original_title": "Sivers Semiconductors Invests $30 Million to Expand European Photonics Manufacturing for AI Datacenters",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26": {
+    "title": "Omdia: 중국 기반 패널 제조업체, 2H26 자동차 디스플레이 출하량의 65% 차지",
+    "summary": "옴디아(Omdia)의 새로운 조사에 따르면 중국 기반 패널 제조사들은 2026년 하반기 전 세계 자동차 디스플레이 출하량의 65.2%를 차지할 것으로 전망됐다. 이는 상반기 59.0%에서 증가한 수치이다. Omdia: 중국 기반 패널 제조업체, 2H26 자동차 디스플레이 출하량의 65% 차지할 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-04",
+    "link": "https://www.semiconductor-digest.com/omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26",
+    "original_title": "Omdia: China-Based Panel Makers to Capture 65% of Automotive Display Shipments in 2H26",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference": {
+    "title": "기가포톤, SPIE 포토마스크 기술+EUV 리소그래피 컨퍼런스에서 액티닉 마스크 검사용 EUV 광원 기술 발표",
+    "summary": "최첨단 반도체 제조 공정용 광원 제조업체인 기가포톤(Gigaphoton)은 액티닉 포토마스크 검사를 위한 주석 레이저 플라즈마(Sn-LPP) EUV 광원 기술의 발전 결과를 발표할 예정이다. 이번 발표는 SPIE 포토마스크 기술 및 EUV 리소그래피 컨퍼런스에서 진행된다. 기가포톤은 자사의 EUV 광원 기술이 지속적으로 향상되었음을 시연할 계획이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-04",
+    "link": "https://www.semiconductor-digest.com/gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference",
+    "original_title": "Gigaphoton to Present on EUV Lightsource Advances for Actinic Mask Inspection at SPIE Photomask Technology + EUV Lithography Conference",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/whats-in-the-september-issue-2/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-september-issue-2": {
+    "title": "9월호에는 어떤 내용이 있나요?",
+    "summary": "Semiconductor Digest의 각 호에는 해당 잡지에서만 볼 수 있는 기사가 실려 있습니다. 링크를 클릭하시면 9월호 기사를 읽어보실 수 있고 SEMICON West에서 인쇄된 호를 만나보실 수 있습니다! 포스트 9월호에는 어떤 내용이 담겼나요? Semiconductor Digest 에 처음 등장했습니다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-03",
+    "link": "https://www.semiconductor-digest.com/whats-in-the-september-issue-2/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-september-issue-2",
+    "original_title": "What’s in the September Issue?",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/globalfoundries-announces-customer-availability-of-ux-platform-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-announces-customer-availability-of-ux-platform-technologies": {
+    "title": "글로벌파운드리, UX 플랫폼 기술 고객 제공 개시 발표",
+    "summary": "글로벌파운드리는 차세대 엣지 디바이스를 위한 최신 CMOS 플랫폼 패밀리인 UX 플랫폼 기술의 고객 제공을 시작한다고 발표했다. 이 플랫폼은 초저전력 연결, 센싱 및 혼합신호 혁신 기술을 비용 효율적인 제조 공정과 결합한 것이 특징이다. 이를 통해 다양한 기능이 탑재된 차세대 엣지 기기의 생산을 지원할 전망이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-03",
+    "link": "https://www.semiconductor-digest.com/globalfoundries-announces-customer-availability-of-ux-platform-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-announces-customer-availability-of-ux-platform-technologies",
+    "original_title": "GlobalFoundries Announces Customer Availability of UX Platform Technologies",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/globalfoundries-and-raaam-memory-technologies-announce-the-joint-development/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-raaam-memory-technologies-announce-the-joint-development": {
+    "title": "글로벌파운드리스와 RAAAM 메모리 테크놀로지스, 공동 개발 발표",
+    "summary": "글로벌파운드리스와 RAAAM 메모리 테크놀로지스는 공동 개발을 발표했다. 이 협력은 첨단 AI 칩에 널리 사용되는 FDX 플랫폼을 위한 밀도가 가장 높은 표준 CMOS 온칩 메모리 솔루션을 구현하는 것을 목표로 한다. 기존 상용 SRAM 대비 면적은 40% 축소되고 전력 소모는 최대 60% 감소하는 효과를 제공할 예정이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-03",
+    "link": "https://www.semiconductor-digest.com/globalfoundries-and-raaam-memory-technologies-announce-the-joint-development/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-raaam-memory-technologies-announce-the-joint-development",
+    "original_title": "GlobalFoundries and RAAAM Memory Technologies Announce Joint Development",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging/?utm_source=rss&utm_medium=rss&utm_campaign=quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging": {
+    "title": "퀀텀다이아몬즈, 비접촉 전류 이미징 기반 인라인 전기 검사 구현에 중요 이정표 달성",
+    "summary": "퀀텀다이아몬즈는 반도체 구조에 물리적 접촉 없이 전류를 인가하는 새로운 마이크로파 유도 기술을 개발했다. 이 기술은 생산 팹 공정에서 전기적 데이터를 기반으로 인라인 품질 관리를 수행할 수 있는 길을 열었다. 비접촉식 전류 이미징을 통해 반도체 제조업체는 제품의 손상 위험 없이 품질 검사를 진행할 수 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-03",
+    "link": "https://www.semiconductor-digest.com/quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging/?utm_source=rss&utm_medium=rss&utm_campaign=quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging",
+    "original_title": "QuantumDiamonds Reaches Key Milestone on the Path to Inline Electrical Inspection with Contact-Free Current Imaging",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership": {
+    "title": "SEMI와 실리콘 캐털리스트, 전략적 파트너십으로 글로벌 반도체 혁신 가속화 목표",
+    "summary": "SEMI와 실리콘 캐털리스트는 글로벌 반도체 혁신을 가속화하기 위해 전략적 파트너십을 체결했습니다. 이 파트너십은 SEMICON Taiwan 2026에서 업무협약(MOU)을 체결하며 공식화되었습니다. 양사의 협력은 반도체 산업 내 혁신 생태계 강화에 기여할 것으로 보입니다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-03",
+    "link": "https://www.semiconductor-digest.com/semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership",
+    "original_title": "SEMI and Silicon Catalyst Aim to Accelerate Global Semiconductor Innovation with Strategic Partnership",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/everspin-technologies-and-teledyne-hirel-semiconductors-partner-to-accelerate-mram-adoption-in-aerospace-and-defense-applications/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-and-teledyne-hirel-semiconductors-partner-to-accelerate-mram-adoption-in-aerospace-and-defense-applications": {
+    "title": "에버스핀과 텔레다인 하이렐, 항공우주 및 국방 분야 MRAM 적용 가속화 위한 파트너십 체결",
+    "summary": "에버스핀 테크놀로지스와 텔레다인 하이렐 반도체는 항공우주 및 국방 분야에서 MRAM 도입을 가속화하기 위해 파트너십을 체결했다. 이번 협력을 통해 에버스핀의 256Mb PERSYST MRAM이 텔레다인 하이렐의 미션 크리티컬 시스템용 메모리 솔루션에 탑재될 예정이다. 두 회사의 협력은 첨단 반도체 메모리 기술을 필수적인 국방 및 항공우주 시스템에 안정적으로 공급하는 데 기여할 것이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-03",
+    "link": "https://www.semiconductor-digest.com/everspin-technologies-and-teledyne-hirel-semiconductors-partner-to-accelerate-mram-adoption-in-aerospace-and-defense-applications/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-and-teledyne-hirel-semiconductors-partner-to-accelerate-mram-adoption-in-aerospace-and-defense-applications",
+    "original_title": "Everspin Technologies and Teledyne HiRel Semiconductors Partner to Accelerate MRAM Adoption in Aerospace and Defense Applications",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/high-temperature-superconductor-ai-research": {
+    "title": "초전도체 발견 자동화를 위해 AI와 로봇 활용",
+    "summary": "오늘날 수십 가지 재료가 세계에서 가장 일반적인 초전도체인 니오븀-티타늄(NbTi)보다 성능이 뛰어납니다. 그러나 어떤 경쟁 소재도 니오븀-티타늄의 대규모 생산 능력과 사용 가능한 와이어 생산 능력을 능가할 수 없습니다. 두 스타트업에서는 AI와 로봇이 이러한 격차를 줄이는 데 도움이 될 수 있다고 말합니다. 샌프란시스코에 있는 Periodic Labs와 매사추세츠주 케임브리지에 있는 Quantum Formatics는 NbTi의 전이 온도인 10켈빈(−264°C)보다 높은 온도에서 작동하는 재료를 찾고 있으며, 이 온도 이하에서는 모든 전기 저항을 잃습니다. Quantum Formatics는 차세대 초전도체를 위한 여러 가지 후보 물질을 보유하고 있습니다. 회사 설립자인 Jason Gibson은 회사가 초전도체 성능을 입증하기 위한 자격 테스트에 사용할 수 있는 프로토타입 와이어를 만드는 데 약 1년 정도가 소요된다고 말했습니다. \"우리는 10~20K의 작동 온도를 얻으려고 노력하고 있습니다.\"라고 Gibson은 말합니다. “우리는 좋은 제조로 이어지는 우수한 기계적 특성을 지닌 중온 초전도체에 중점을 두고 있습니다.",
+    "source": "IEEE Spectrum · Energy",
+    "date": "2026-09-02",
+    "link": "https://spectrum.ieee.org/high-temperature-superconductor-ai-research",
+    "original_title": "Betting on AI and Robots to Automate Superconductor Discovery",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics": {
+    "title": "EV 그룹, 차세대 공동 패키지드 옵틱스(CPO)의 핵심 제조 과제 해결",
+    "summary": "EV 그룹은 첨단 패키징, 이종 통합 및 포토닉스 제조 분야의 수십 년 경험을 바탕으로 CPO 제조 가치 사슬의 여러 단계를 지원한다. 이를 통해 차세대 공동 패키지드 옵틱스 제조 과정의 핵심적인 과제들을 해결하는 데 기여한다. 해당 내용은 반도체 전문 매체인 세미컨덕터 다이제스트를 통해 보도되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-02",
+    "link": "https://www.semiconductor-digest.com/ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics",
+    "original_title": "EV Group Addresses Critical Manufacturing Challenges for Next-Generation Co-Packaged Optics",
     "lang": "en"
   }
 }
