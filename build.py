@@ -32,12 +32,12 @@ MAX_PER_CAT = 20
 # 70KB 이내 달성. 환경변수로 덮어쓰기 가능 (로컬 LLM 빌드에선 제한 없음).
 SUMMARY_MAX_CHARS = int(os.environ.get("SUMMARY_MAX_CHARS", "120"))
 
-# 카드 본문에 표시되는 요약 미리보기의 최대 글자 수 (1~2문장).
+# 카드 본문에 표시되는 요약 미리보기의 최대 글자 수 (1문장).
 # 전체 요약은 팝업에서만 보이므로, 카드엔 짧은 미리보기만으로 충분.
-# 55자: 2026-09-22 카드 65개 시점에 index.html이 72.4KB로 70KB 한계를 넘어
-# 업로드가 중단됐다. 카드 수 증가에도 여유를 두기 위해 80→55자 축소.
+# 30자: 카드 수 증가(9/28 기준 72개, index.html 74KB)로 55자로는 70KB
+# 업로드 한계를 다시 넘었다. 카드 수가 더 늘어도 여유 확보.
 # (팝업 클릭 시 전체 요약은 summaries-N.json에서 그대로 제공)
-PREVIEW_MAX_CHARS = int(os.environ.get("PREVIEW_MAX_CHARS", "55"))
+PREVIEW_MAX_CHARS = int(os.environ.get("PREVIEW_MAX_CHARS", "20"))
 
 
 def fmt_date(iso: str | None) -> str:
