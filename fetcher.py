@@ -1067,6 +1067,9 @@ def collect() -> dict:
             # LLM 실패 시 키워드 분류 + 발췌 요약으로 폴백.
             # GitHub Actions(LLM 없음)은 기존 classify() + 발췌 요약 사용.
             cat = ""
+            # llm_none: LLM이 명시적으로 "관련 없음" 판정 (응답 실패와 구분).
+            # 이 경우 키워드 폴백 분류를 태우지 않고 수집에서 제외한다.
+            llm_none = False
             if LLM_ENABLED and (summary_final or title_final):
                 # 영문 기사는 원문(title, summary)을 LLM에 넘겨 번역+분류+요약을 한 번에.
                 # 한국어 기사는 번역 없이 분류+요약만.
@@ -1075,6 +1078,8 @@ def collect() -> dict:
                 llm_result = llm_process_article(llm_title, llm_summary, is_english=(lang == "en"))
                 if llm_result:
                     cat = llm_result["category"]
+                    # 빈 category = LLM의 명시적 "관련 없음" 판정.
+                    llm_none = not cat
                     # 영문 기사: LLM 번역 제목 사용
                     if lang == "en" and llm_result["title_ko"]:
                         title_final = llm_result["title_ko"]
@@ -1100,7 +1105,7 @@ def collect() -> dict:
                                 summary_final = translate_summary(sum_trunc)
             # LLM 실패 시 폴백: 영문 기사는 Google 번역으로 제목/요약 번역.
             # (LLM 모드에서는 위에서 Google 번역을 안 했으므로 여기서 보완)
-            if lang == "en" and LLM_ENABLED and not cat:
+            if lang == "en" and LLM_ENABLED and not llm_none and not cat:
                 title_final = translate_title(title)
                 sum_trunc = summary[:1000] if summary else ""
                 if sum_trunc:
@@ -1108,7 +1113,12 @@ def collect() -> dict:
                 # 폴백 후 분류 재시도
                 classify_text = f"{title_final} {summary_final} {title} {summary} {hint}"
                 classify_title = f"{title_final} {title}"
-            if not cat:
+            # LLM이 명시적으로 "관련 없음"으로 판정한 기사는 키워드 폴백으로
+            # 부활시키지 않는다. 키워드 폴백이 우연히 매칭되면(DMZ 지뢰 폭발
+            # → safety 등) LLM의 필터링이 무시되고 발췌문 카드가 수집된다
+            # (2026-09-28 사례). LLM 응답 실패(None)와 구분하기 위해
+            # llm_none 플래그로 판정 결과를 추적한다.
+            if not cat and not llm_none:
                 cat = classify(classify_text, classify_title)
             # 분류 안 되면(빈 문자열) 수집 제외 — 핵심 주제와 무관한 기사 걸러내기
             if not cat:
