@@ -135,8 +135,8 @@
     "lang": "en"
   },
   "https://semiengineering.com/copper-grain-structure-influences-stress-around-scaled-tsvs-purdue-ucla/": {
-    "title": "...",
-    "summary": "Researchers at Purdue University and the UCLA published a technical paper titled “Experimental Evidence for the Impact of Copper Microstructure on Residual Stress of Through Silicon Via.” Abstract Excerpt: “Here, we experimentally quantify the impact of Cu microstructure on the TSV-induced residual stress within silicon. A 3-⁢m-diameter TSV array was annealed at 400 °C for... &#187; read more The post Impact of Cu Microstructure On The TSV-Induced Residual Stress Within Silicon (Purdue, UCLA) appeared first on Semiconductor Engineering .",
+    "title": "실리콘 내 TSV 유발 잔류 응력에 대한 구리 미세구조의 영향 (퍼듀대, UCLA)",
+    "summary": "퍼듀대학교와 UCLA 연구진이 'TSV(관통 실리콘 비아)의 잔류 응력에 대한 구리(Cu) 미세구조의 영향에 관한 실험적 증거'라는 기술 논문을 발표했다. 이 논문은 구리 미세구조가 실리콘 내 TSV 유발 잔류 응력에 미치는 영향을 실험적으로 정량화한 결과를 담고 있다. 연구진은 직경 3μm의 TSV 어레이를 400°C 온도에서 어닐링하는 실험을 수행했다. TSV는 3D 집적 회로 패키징의 핵심 기술로, 잔류 응력 제어는 반도체 신뢰성에 중요한 요소다.",
     "source": "SemiEngineering",
     "date": "2026-09-29",
     "link": "https://semiengineering.com/copper-grain-structure-influences-stress-around-scaled-tsvs-purdue-ucla/",
