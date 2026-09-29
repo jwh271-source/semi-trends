@@ -1080,9 +1080,14 @@ def collect() -> dict:
                     cat = llm_result["category"]
                     # 빈 category = LLM의 명시적 "관련 없음" 판정.
                     llm_none = not cat
-                    # 영문 기사: LLM 번역 제목 사용
-                    if lang == "en" and llm_result["title_ko"]:
+                    # 영문 기사: LLM 번역 제목 사용.
+                    # title_ko에도 쓰레기 판별 적용 — LLM이 '...' 같은
+                    # 말장난 제목을 반환한 사례(2026-09-28 semiengineering)
+                    # 가 있었다. 쓰레기면 빈값 취급해 아래 Google 번역 보완 유도.
+                    if lang == "en" and llm_result["title_ko"] and not _is_junk_summary(llm_result["title_ko"]):
                         title_final = llm_result["title_ko"]
+                    elif lang == "en":
+                        llm_result["title_ko"] = ""  # 쓰레기 제목 → 번역 폴백 유도
                     # LLM 요약이 있으면 발췌 대신 진짜 요약 사용
                     if llm_result["summary"]:
                         summary_final = llm_result["summary"]
