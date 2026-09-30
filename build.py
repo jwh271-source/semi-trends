@@ -26,6 +26,13 @@ KST = timezone(timedelta(hours=9))
 # 쓰도록 모듈 상수로 통일 — 탭 숫자와 실제 카드 수가 어긋나지 않게.
 MAX_PER_CAT = 20
 
+# 카드 표시 기한(일). 최근 N일 이내 기사만 index.html 카드로 표시.
+# 누적형 articles.json은 60일치를 보관하지만, index.html은 70KB 업로드
+# 한계가 있어 오래된 카드까지 넣으면 초과 위험. 최신 뉴스만 노출하는
+# 것이 사용자 경험에도 좋다. (2026-09-29 기준 카드 72개 = 66KB,
+# 카테고리당 20장이 다 차면 71.3KB로 한계 초과 예상되어 도입)
+DISPLAY_MAX_AGE_DAYS = int(os.environ.get("DISPLAY_MAX_AGE_DAYS", "7"))
+
 # 카드/팝업에 표시되는 요약의 최대 글자 수.
 # 사내망에서 GitHub 업로드는 70KB(요청 ~95KB)까지만 허용되므로, 전체 요약을
 # 그대로 넣으면 index.html이 80KB+로 한계 초과. 120자면 가독성 유지하면서
@@ -60,6 +67,30 @@ def fmt_fetched(iso: str) -> str:
 
 def esc(s: str) -> str:
     return html.escape(s or "")
+
+
+def filter_recent(articles: list[dict], max_age_days: int = DISPLAY_MAX_AGE_DAYS) -> list[dict]:
+    """index.html 카드로 표시할 최근 기사만 남긴다.
+    - 일반 뉴스 카드: 최근 max_age_days일 이내만 표시.
+    - legislation 카드(법령 API): 개정 정보는 시효가 있으므로 기한과 무관하게 유지.
+    기준 시각은 빌드 실행 시각(UTC) — 매일 재빌드되므로 "최근 N일"이
+    자연스럽게 유지된다."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=max_age_days)
+    kept = []
+    for a in articles:
+        if a.get("category") == "legislation":
+            kept.append(a)
+            continue
+        iso = a.get("date") or ""
+        try:
+            dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        except Exception:
+            # 날짜 파싱 불가 카드는 기한 필터 통과 (수집 자체가 최근 것이므로)
+            kept.append(a)
+            continue
+        if dt >= cutoff:
+            kept.append(a)
+    return kept
 
 
 def build_sections(articles: list[dict], cats_meta: dict) -> str:
@@ -231,6 +262,9 @@ header.site-head{
 .hero h1{font-size:28px;line-height:1.2;margin:0 0 8px;letter-spacing:-.01em;text-wrap:balance}
 .hero h1 .accent{color:var(--accent)}
 .hero p{margin:0;color:var(--text-dim);font-size:14.5px;max-width:62ch;text-wrap:pretty}
+.hero p.disclaimer{margin-top:8px;font-size:12.5px;color:var(--text-mute);
+  background:var(--surface-2);border-left:3px solid var(--accent);
+  padding:8px 12px;border-radius:0 6px 6px 0}
 
 .controls{position:sticky;top:62px;z-index:9;background:var(--bg);
   padding:14px 0 10px;border-bottom:1px solid var(--border)}
@@ -603,6 +637,14 @@ def write_summary_files(articles: list[dict], max_per_file: int = 50) -> int:
     (out_dir / "summaries-index.json").write_text(
         json.dumps(index, ensure_ascii=False), encoding="utf-8",
     )
+    # 이전 빌드의 잔여 분할 파일 정리 — 카드 수가 줄면(7일 필터 등) 분할
+    # 수도 줄어드는데, 옛 summaries-N.json이 남으면 업로드 목록에 섞여
+    # 과거 데이터가 원격에 계속 올라간다. 이번 빌드가 만든 파일만 남긴다.
+    keep = {f"summaries-{i + 1}.json" for i in range(n_files)}
+    for old in out_dir.glob("summaries-*.json"):
+        if old.name not in keep and old.name != "summaries-index.json":
+            old.unlink()
+            print(f"[build] 잔여 분할 파일 삭제: {old.name}")
     print(f"[build] 요약 분할: {n_files}개 파일, 키 {len(index)}개 -> {out_dir}")
     return n_files
 
@@ -621,6 +663,10 @@ def build_page():
     leg_cards = load_legislation_cards()
     if leg_cards:
         articles = leg_cards + articles
+    # 7일 표시 기한 적용 — 최근 기사만 카드로 표시.
+    before = len(articles)
+    articles = filter_recent(articles)
+    print(f"[build] 표시 기한 {DISPLAY_MAX_AGE_DAYS}일 적용: {before}건 -> {len(articles)}건")
     counts = build_counts(articles, MAX_PER_CAT)
     sections_html = build_sections(articles, cats_meta)
     nav_html = build_nav(cats_meta, counts)
@@ -630,7 +676,48 @@ def build_page():
     # 분할 — 사내망 GitHub 업로드 한계(70KB) 대응.
     write_summary_files(articles)
 
-    page = f"""<!doctype html>
+    page = _render_page(fetched, nav_html, sections_html)
+    OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    OUT_FILE.write_text(page, encoding="utf-8")
+    print(f"[build] 생성 -> {OUT_FILE} (기사 {len(articles)}건)")
+
+    # 70KB 안전장치: index.html이 업로드 한계(70KB)를 넘으면, 7일 이내라도
+    # 오래된 뉴스 카드(legislation 제외)부터 날짜순으로 제거하며 재생성한다.
+    # 이 안전장치가 없으면 update.py가 업로드를 중단해 그날 Pages 갱신이
+    # 전면 실패한다 (2026-09-28 사고 사례). 자동 축소로 업로드는 보장하고,
+    # 어떤 카드가 제외됐는지 로그로 남긴다.
+    size = OUT_FILE.stat().st_size
+    if size > 70000:
+        news_cards = [a for a in articles if a.get("category") != "legislation"]
+        leg_cards_now = [a for a in articles if a.get("category") == "legislation"]
+        # 날짜 오름차순(오래된 것 먼저) 제거. 날짜 없는 카드는 최후순위.
+        news_cards.sort(key=lambda a: (a.get("date") or "") == "", )
+        removed_log = []
+        while size > 70000 and news_cards:
+            # 정렬: 날짜 오래된 것(빈 날짜는 뒤)이 앞에 오도록 다시 계산
+            news_cards.sort(key=lambda a: a.get("date") or "9999")
+            drop = news_cards.pop(0)
+            removed_log.append(f"{drop.get('date','?')[:10]} {drop.get('title','')[:30]}")
+            trimmed = leg_cards_now + news_cards
+            counts = build_counts(trimmed, MAX_PER_CAT)
+            sections_html = build_sections(trimmed, cats_meta)
+            nav_html = build_nav(cats_meta, counts)
+            page = _render_page(fetched, nav_html, sections_html)
+            OUT_FILE.write_text(page, encoding="utf-8")
+            size = OUT_FILE.stat().st_size
+        if removed_log:
+            print(f"[build] 70KB 초과({size/1024:.1f}KB) — 오래된 카드 {len(removed_log)}건 축소 재빌드")
+            for r in removed_log:
+                print(f"  [drop] {r}")
+        # 축소 후 카드 목록이 달라졌으므로 summaries 파일도 재생성
+        final_articles = leg_cards_now + news_cards
+        write_summary_files(final_articles)
+        print(f"[build] 축소 완료: {OUT_FILE} ({size/1024:.1f}KB, 기사 {len(final_articles)}건)")
+
+
+def _render_page(fetched: str, nav_html: str, sections_html: str) -> str:
+    """index.html 페이지 문자열 렌더링 (70KB 축소 재빌드에서 재사용)."""
+    return f"""<!doctype html>
 <html lang="ko">
 <head>
 <meta charset="utf-8">
@@ -652,6 +739,7 @@ def build_page():
   <section class="hero">
     <h1>반도체 업계의 <span class="accent">반도체·환경·안전·규제</span> 동향을 한곳에서.</h1>
     <p>공신력 있는 출처의 최신 기사를 매일 자동 수집·분류합니다. 영문 기사는 한국어로 자동 번역됩니다. 법령 변경은 대상 법령의 개정 사항을 공공데이터포털 API로 직접 추적합니다. 각 카드의 "원문 보기"를 누르면 출처 기사로 이동합니다.</p>
+    <p class="disclaimer">※ 본 사이트는 AI가 자동 수집·분류하므로 주제와 관련 없는 기사가 일부 포함될 수 있습니다. 중요한 정보는 반드시 "원문 보기"로 출처 기사에서 직접 확인하세요.</p>
   </section>
   <div class="controls">
     <input class="search-box" id="search" type="search" placeholder="제목·요약·출처에서 검색…">
@@ -686,9 +774,6 @@ def build_page():
 <script>{JS}</script>
 </body>
 </html>"""
-    OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    OUT_FILE.write_text(page, encoding="utf-8")
-    print(f"[build] 생성 -> {OUT_FILE} (기사 {len(articles)}건)")
 
 
 if __name__ == "__main__":
