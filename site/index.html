@@ -164,13 +164,6 @@ footer a{color:var(--text-dim)}
   .head-right .update-info{display:none}
   .cards{grid-template-columns:1fr}
   .controls{top:58px}
-  /* 모바일 헤더: 로고(제목+부제)와 테마 버튼이 좁은 화면에서 줄바뀜 되는
-     문제 — 제목/버튼 폰트 축소 + 부제 숨김으로 한 줄 유지. */
-  .head-row{padding:10px 0;gap:8px}
-  .logo{font-size:14px;gap:7px;min-width:0}
-  .logo .dot{width:8px;height:8px}
-  .logo small{display:none}
-  .theme-btn{font-size:12px;padding:5px 9px;flex-shrink:0}
 }
 </style>
 </head>
@@ -179,7 +172,7 @@ footer a{color:var(--text-dim)}
   <div class="wrap head-row">
     <div class="logo"><span class="dot"></span>반도체 산업 동향 브리핑 <small>반도체 · 환경 · 안전 · 규제 · 법령</small></div>
     <div class="head-right">
-      <div class="update-info"><b>마지막 업데이트</b><br>2026-09-30 07:15 (KST)</div>
+      <div class="update-info"><b>마지막 업데이트</b><br>2026-09-30 10:33 (KST)</div>
       <button class="theme-btn" id="theme-btn">☀️ 밝게</button>
     </div>
   </div>
@@ -193,10 +186,10 @@ footer a{color:var(--text-dim)}
   <div class="controls">
     <input class="search-box" id="search" type="search" placeholder="제목·요약·출처에서 검색…">
     <div class="filters"><button class="filter-btn active" data-filter="all">전체</button>
-<button class="filter-btn" data-filter="semiconductor"><span class="fb-emoji">🔌</span> 반도체 <span class="fb-count">20</span></button>
-<button class="filter-btn" data-filter="environmental"><span class="fb-emoji">🌱</span> 환경 <span class="fb-count">20</span></button>
-<button class="filter-btn" data-filter="safety"><span class="fb-emoji">🦺</span> 안전 <span class="fb-count">4</span></button>
-<button class="filter-btn" data-filter="regulation"><span class="fb-emoji">⚖️</span> 규제 <span class="fb-count">4</span></button>
+<button class="filter-btn" data-filter="semiconductor"><span class="fb-emoji">🔌</span> 반도체 <span class="fb-count">13</span></button>
+<button class="filter-btn" data-filter="environmental"><span class="fb-emoji">🌱</span> 환경 <span class="fb-count">13</span></button>
+<button class="filter-btn" data-filter="safety"><span class="fb-emoji">🦺</span> 안전 <span class="fb-count">6</span></button>
+<button class="filter-btn" data-filter="regulation"><span class="fb-emoji">⚖️</span> 규제 <span class="fb-count">3</span></button>
 <button class="filter-btn" data-filter="legislation"><span class="fb-emoji">📜</span> 법령 변경 <span class="fb-count">8</span></button></div>
   </div>
   <main>
@@ -204,188 +197,125 @@ footer a{color:var(--text-dim)}
   <header class="cat-head">
     <span class="cat-emoji">🔌</span>
     <h2 class="cat-label">반도체</h2>
-    <span class="cat-count">20</span>
+    <span class="cat-count">13</span>
   </header>
   <div class="cards">
+<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260930000039">
+  <div class="card-head">
+    <span class="src">전자신문 IT</span>
+    <span class="date">2026-09-30  <span class="badge-new">NEW</span></span>
+  </div>
+  <h3 class="card-title">경기 스타트업 서밋 내달 개막…156개사 전시·투자상담 총 480회</h3>
+  <p class="card-sum">스타트업 156곳과 국내외 투자자 1…</p>
+  <a class="card-link" href="https://www.etnews.com/20260930000039" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
 <article class="card" data-lang="en" data-sum-key="https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/">
   <div class="card-head">
     <span class="src">EE Times</span>
     <span class="date">2026-09-30 <span class="badge-tr">번역</span> <span class="badge-new">NEW</span></span>
   </div>
-  <h3 class="card-title">아스테라 랩스, 리오 컨트롤러 업데이트로 메모리 제약 해결 겨냥</h3>
-  <p class="card-sum">아스테라 랩스(Astera Labs)…</p>
+  <h3 class="card-title">Astera Labs의 Leo 컨트롤러 업데이트는 메모리 제약을 목표로 합니다.</h3>
+  <p class="card-sum">Astera Labs는 Leo 메모리…</p>
   <a class="card-link" href="https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Politics/article/all/20260930/134756288/2">
-  <div class="card-head">
-    <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-30  <span class="badge-new">NEW</span></span>
-  </div>
-  <h3 class="card-title">광주 軍공항 이전, 당초 2028년 중순서 더 앞당길듯</h3>
-  <p class="card-sum">이재명 대통령은 29일 청와대 메가프…</p>
-  <a class="card-link" href="https://www.donga.com/news/Politics/article/all/20260930/134756288/2" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/lams-new-logistics-hub-built-for-velocity-resilience-and-ai-era-growth/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lams-new-logistics-hub-built-for-velocity-resilience-and-ai-era-growth">
-  <div class="card-head">
-    <span class="src">Semiconductor Digest</span>
-    <span class="date">2026-09-30 <span class="badge-tr">번역</span> <span class="badge-new">NEW</span></span>
-  </div>
-  <h3 class="card-title">램리서치, 속도·회복력·AI 시대 성장을 위한 새 물류 허브 오픈</h3>
-  <p class="card-sum">램리서치가 미국 내 최대 규모인 47…</p>
-  <a class="card-link" href="https://www.semiconductor-digest.com/lams-new-logistics-hub-built-for-velocity-resilience-and-ai-era-growth/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lams-new-logistics-hub-built-for-velocity-resilience-and-ai-era-growth" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/gigaphoton-begins-evaluation-of-l300kz-excimer-laser-for-pulsed-laser-deposition-for-advanced-materials-applications/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gigaphoton-begins-evaluation-of-l300kz-excimer-laser-for-pulsed-laser-deposition-for-advanced-materials-applications">
-  <div class="card-head">
-    <span class="src">Semiconductor Digest</span>
-    <span class="date">2026-09-30 <span class="badge-tr">번역</span> <span class="badge-new">NEW</span></span>
-  </div>
-  <h3 class="card-title">기가포톤, 첨단 소재 응용용 펄스 레이저 증착 대상 L300KZ 엑시머 레이저 평가 착수</h3>
-  <p class="card-sum">기가포톤이 첨단 소재 응용 분야에 활…</p>
-  <a class="card-link" href="https://www.semiconductor-digest.com/gigaphoton-begins-evaluation-of-l300kz-excimer-laser-for-pulsed-laser-deposition-for-advanced-materials-applications/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gigaphoton-begins-evaluation-of-l300kz-excimer-laser-for-pulsed-laser-deposition-for-advanced-materials-applications" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/research-institute-to-drive-semiconductor-innovation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=research-institute-to-drive-semiconductor-innovation">
-  <div class="card-head">
-    <span class="src">Semiconductor Digest</span>
-    <span class="date">2026-09-30 <span class="badge-tr">번역</span> <span class="badge-new">NEW</span></span>
-  </div>
-  <h3 class="card-title">연구소, 반도체 혁신 이끌다</h3>
-  <p class="card-sum">아칸소 전자시스템 연구소(ARIES)…</p>
-  <a class="card-link" href="https://www.semiconductor-digest.com/research-institute-to-drive-semiconductor-innovation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=research-institute-to-drive-semiconductor-innovation" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/global-electronics-association-and-fraunhofer-group-for-microelectronics-sign-mou-to-support-advanced-packaging-industrial-adoption/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=global-electronics-association-and-fraunhofer-group-for-microelectronics-sign-mou-to-support-advanced-packaging-industrial-adoption">
-  <div class="card-head">
-    <span class="src">Semiconductor Digest</span>
-    <span class="date">2026-09-30 <span class="badge-tr">번역</span> <span class="badge-new">NEW</span></span>
-  </div>
-  <h3 class="card-title">글로벌 일렉트로닉스 협회, 프라운호퍼 마이크로일렉트로닉스 그룹과 첨단 패키징 산업 도입 지원 MoU 체결</h3>
-  <p class="card-sum">글로벌 일렉트로닉스 협회(Global…</p>
-  <a class="card-link" href="https://www.semiconductor-digest.com/global-electronics-association-and-fraunhofer-group-for-microelectronics-sign-mou-to-support-advanced-packaging-industrial-adoption/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=global-electronics-association-and-fraunhofer-group-for-microelectronics-sign-mou-to-support-advanced-packaging-industrial-adoption" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.eetimes.com/ai-data-centers-make-power-cooling-critical-to-scaling/">
-  <div class="card-head">
-    <span class="src">EE Times</span>
-    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">AI 데이터센터, 전력·냉각이 확장의 핵심으로 부상</h3>
-  <p class="card-sum">AI의 확산으로 데이터센터가 전력,…</p>
-  <a class="card-link" href="https://www.eetimes.com/ai-data-centers-make-power-cooling-critical-to-scaling/" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32">
-  <div class="card-head">
-    <span class="src">IEEE Spectrum · Semiconductors</span>
-    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">IC-STAR 공개: 디지털에서 아날로그까지 전 과정 자율화</h3>
-  <p class="card-sum">이 웨비나는 실리콘 개발 전 과정에서…</p>
-  <a class="card-link" href="https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260929000334">
-  <div class="card-head">
-    <span class="src">전자신문 (전체)</span>
-    <span class="date">2026-09-29  </span>
-  </div>
-  <h3 class="card-title">이재명 대통령이 전남광주통합특별시 군(軍)공항 부지에 들어설 반도체 클러스터 조성에 더욱 속도를 내라고 지시했다</h3>
-  <p class="card-sum">이재명 대통령이 전남광주통합특별시 군…</p>
-  <a class="card-link" href="https://www.etnews.com/20260929000334" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.eetimes.com/ibm-details-quantum-ai-developments-in-india/">
-  <div class="card-head">
-    <span class="src">EE Times</span>
-    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">IBM, 인도 내 양자·AI 개발 현황 발표</h3>
-  <p class="card-sum">SEMICON India 2026 행…</p>
-  <a class="card-link" href="https://www.eetimes.com/ibm-details-quantum-ai-developments-in-india/" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
 <article class="card" data-lang="en" data-sum-key="https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast/">
   <div class="card-head">
     <span class="src">SemiEngineering</span>
     <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
   </div>
-  <h3 class="card-title">TSMC OIP: 칩 산업 성장, 예측치를 크게 상회하다</h3>
-  <p class="card-sum">TSMC의 OIP(Open Innov…</p>
+  <h3 class="card-title">TSMC OIP: 칩 산업 성장이 과거 예측을 크게 깨뜨림</h3>
+  <p class="card-sum">2030년까지 1조 달러라는 공격적인…</p>
   <a class="card-link" href="https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast/" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://semiengineering.com/why-verification-needs-a-thread-not-more-fragments/">
-  <div class="card-head">
-    <span class="src">SemiEngineering</span>
-    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">검증에 파편이 아닌 하나의 흐름이 필요한 이유</h3>
-  <p class="card-sum">반도체 엔지니어링 매체에 게재된 기사…</p>
-  <a class="card-link" href="https://semiengineering.com/why-verification-needs-a-thread-not-more-fragments/" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://semiengineering.com/chip-industry-technical-paper-roundup-sept-29/">
-  <div class="card-head">
-    <span class="src">SemiEngineering</span>
-    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">칩 산업 기술 논문 총정리: 9월 29일</h3>
-  <p class="card-sum">Semiconductor Engine…</p>
-  <a class="card-link" href="https://semiengineering.com/chip-industry-technical-paper-roundup-sept-29/" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://semiengineering.com/moores-law-ai-applying-agentic-ai-across-chip-design/">
-  <div class="card-head">
-    <span class="src">SemiEngineering</span>
-    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">무어스랩 AI: 칩 설계 전반에 에이전틱 AI 적용</h3>
-  <p class="card-sum">EDA 스타트업 무어스랩AI(Moor…</p>
-  <a class="card-link" href="https://semiengineering.com/moores-law-ai-applying-agentic-ai-across-chip-design/" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.edn.com/rethinking-rtl-flows-with-ai-driven-hybrid-formal-verification/">
-  <div class="card-head">
-    <span class="src">EDN</span>
-    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">AI 기반 하이브리드 형식 검증으로 RTL 플로우 재정립</h3>
-  <p class="card-sum">칩 설계 과정에서 수천 개의 검증 속…</p>
-  <a class="card-link" href="https://www.edn.com/rethinking-rtl-flows-with-ai-driven-hybrid-formal-verification/" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
 <article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260929000238">
   <div class="card-head">
-    <span class="src">전자신문 (전체)</span>
+    <span class="src">전자신문 IT</span>
     <span class="date">2026-09-29  </span>
   </div>
-  <h3 class="card-title">삼성, AI 데이터센터 &#x27;판&#x27; 짠다…美 AI인프라 기업에 1.4조 투자</h3>
-  <p class="card-sum">삼성전자 등 삼성 6개 관계사가 KK…</p>
+  <h3 class="card-title">삼성, AI 데이터센터 &#x27;판&#x27; 짠다…미국 AI 인프라 기업에 1.4조 투자</h3>
+  <p class="card-sum">삼성전자 등 삼성 6개 관계사가 글로…</p>
   <a class="card-link" href="https://www.etnews.com/20260929000238" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260929000181">
+<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260929000225">
   <div class="card-head">
     <span class="src">전자신문 IT</span>
     <span class="date">2026-09-29  </span>
   </div>
-  <h3 class="card-title">젠슨 황 수상 무대서 뭉친 이재용·최태원…&#x27;AI 동맹&#x27; 과시</h3>
-  <p class="card-sum">젠슨 황 엔비디아 최고경영자(CEO)…</p>
-  <a class="card-link" href="https://www.etnews.com/20260929000181" target="_blank" rel="noopener">원문 보기 →</a>
+  <h3 class="card-title">삼성전자도 토큰으로 해외서 거래 될까…카카오페이증권·온도파이낸스 맞손</h3>
+  <p class="card-sum">카카오페이증권이 글로벌 실물자산(RW…</p>
+  <a class="card-link" href="https://www.etnews.com/20260929000225" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260929000173">
-  <div class="card-head">
-    <span class="src">전자신문 IT</span>
-    <span class="date">2026-09-29  </span>
-  </div>
-  <h3 class="card-title">[ET특징주]한미반도체, 반도체 장비 수주 소식에 상승세</h3>
-  <p class="card-sum">한미반도체가 반도체 장비 수주 소식에…</p>
-  <a class="card-link" href="https://www.etnews.com/20260929000173" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260929000165">
-  <div class="card-head">
-    <span class="src">전자신문 IT</span>
-    <span class="date">2026-09-29  </span>
-  </div>
-  <h3 class="card-title">한국벤처투자, 퓨리오사AI·업스테이지와 손잡고 국산 AI챗봇 구축</h3>
-  <p class="card-sum">한국벤처투자가 모태펀드 투자로 성장한…</p>
-  <a class="card-link" href="https://www.etnews.com/20260929000165" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform">
+<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/vsmc-celebrates-the-grand-opening-of-its-first-300mm-fab-in-singapore/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vsmc-celebrates-the-grand-opening-of-its-first-300mm-fab-in-singapore">
   <div class="card-head">
     <span class="src">Semiconductor Digest</span>
     <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
   </div>
-  <h3 class="card-title">시놉시스, 장기 실행형 에이전트 포트폴리오와 오토파일럿 플랫폼으로 자율 엔지니어링 구현</h3>
-  <p class="card-sum">시놉시스가 도메인 특화 장기 실행형(…</p>
-  <a class="card-link" href="https://www.semiconductor-digest.com/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform" target="_blank" rel="noopener">원문 보기 →</a>
+  <h3 class="card-title">VSMC, 싱가포르 최초의 300mm 팹 그랜드 오픈 축하</h3>
+  <p class="card-sum">글로벌 반도체 공급망 탄력성을 강화합…</p>
+  <a class="card-link" href="https://www.semiconductor-digest.com/vsmc-celebrates-the-grand-opening-of-its-first-300mm-fab-in-singapore/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vsmc-celebrates-the-grand-opening-of-its-first-300mm-fab-in-singapore" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
+<article class="card" data-lang="en" data-sum-key="https://www.eetimes.com/xcena-cuts-data-movement-to-address-memory-bottlenecks/">
+  <div class="card-head">
+    <span class="src">EE Times</span>
+    <span class="date">2026-09-28 <span class="badge-tr">번역</span> </span>
+  </div>
+  <h3 class="card-title">Xcena는 데이터 이동을 줄여 메모리 병목 현상을 해결합니다.</h3>
+  <p class="card-sum">Xcena의 MX1은 CXL을 사용하…</p>
+  <a class="card-link" href="https://www.eetimes.com/xcena-cuts-data-movement-to-address-memory-bottlenecks/" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
+<article class="card" data-lang="en" data-sum-key="https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/">
+  <div class="card-head">
+    <span class="src">SemiEngineering</span>
+    <span class="date">2026-09-26 <span class="badge-tr">번역</span> </span>
+  </div>
+  <h3 class="card-title">기생부터 칩 신뢰성까지 A7 CFET 및 A10 나노시트 FET 비교(TUM, UNIMORE, Applied Materials)</h3>
+  <p class="card-sum">TU 뮌헨, 모데나 대학교, 레지오…</p>
+  <a class="card-link" href="https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
+<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors">
+  <div class="card-head">
+    <span class="src">Semiconductor Digest</span>
+    <span class="date">2026-09-26 <span class="badge-tr">번역</span> </span>
+  </div>
+  <h3 class="card-title">한미반도체, AI 시스템반도체용 &#x27;FC Bonder 75&#x27; 첫 출하</h3>
+  <p class="card-sum">한미반도체는 첫 번째 &#x27;FC Bond…</p>
+  <a class="card-link" href="https://www.semiconductor-digest.com/hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
+<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design">
+  <div class="card-head">
+    <span class="src">Semiconductor Digest</span>
+    <span class="date">2026-09-25 <span class="badge-tr">번역</span> </span>
+  </div>
+  <h3 class="card-title">Synopsys와 TSMC, Agentic AI 및 고급 설계로 AI 시스템 혁신 가속화</h3>
+  <p class="card-sum">Synopsys는 차세대 AI, 고성…</p>
+  <a class="card-link" href="https://www.semiconductor-digest.com/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
+<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design">
+  <div class="card-head">
+    <span class="src">Semiconductor Digest</span>
+    <span class="date">2026-09-25 <span class="badge-tr">번역</span> </span>
+  </div>
+  <h3 class="card-title">Cadence, AI 및 HPC 칩 설계를 위한 TSMC 파트너십 확장</h3>
+  <p class="card-sum">확장된 파트너십은 TSMC A14 인…</p>
+  <a class="card-link" href="https://www.semiconductor-digest.com/cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
+<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/ic-link-by-imec-expands-collaboration-with-tsmc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ic-link-by-imec-expands-collaboration-with-tsmc">
+  <div class="card-head">
+    <span class="src">Semiconductor Digest</span>
+    <span class="date">2026-09-24 <span class="badge-tr">번역</span> </span>
+  </div>
+  <h3 class="card-title">imec의 IC-Link, TSMC와의 협력 확대</h3>
+  <p class="card-sum">ASIC 및 실리콘 포토닉스를 위한…</p>
+  <a class="card-link" href="https://www.semiconductor-digest.com/ic-link-by-imec-expands-collaboration-with-tsmc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ic-link-by-imec-expands-collaboration-with-tsmc" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
+<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production">
+  <div class="card-head">
+    <span class="src">Semiconductor Digest</span>
+    <span class="date">2026-09-24 <span class="badge-tr">번역</span> </span>
+  </div>
+  <h3 class="card-title">Cognex, 반도체 제조업체의 생산 규모 확대를 돕기 위해 새로운 웨이퍼 리더 출시</h3>
+  <p class="card-sum">Cognex Corporation은…</p>
+  <a class="card-link" href="https://www.semiconductor-digest.com/cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
   </div>
 </section>
@@ -393,7 +323,7 @@ footer a{color:var(--text-dim)}
   <header class="cat-head">
     <span class="cat-emoji">🌱</span>
     <h2 class="cat-label">환경</h2>
-    <span class="cat-count">20</span>
+    <span class="cat-count">13</span>
   </header>
   <div class="cards">
 <article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Economy/article/all/20260930/134756651/2">
@@ -402,17 +332,8 @@ footer a{color:var(--text-dim)}
     <span class="date">2026-09-30  <span class="badge-new">NEW</span></span>
   </div>
   <h3 class="card-title">정부, 새 송전망 완공전까지 기존망 ‘갓길’ 연다</h3>
-  <p class="card-sum">정부는 반도체·AI 데이터센터 등 메…</p>
+  <p class="card-sum">정부가 반도체, 인공지능(AI) 데이…</p>
   <a class="card-link" href="https://www.donga.com/news/Economy/article/all/20260930/134756651/2" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Economy/article/all/20260930/134756291/2">
-  <div class="card-head">
-    <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-30  <span class="badge-new">NEW</span></span>
-  </div>
-  <h3 class="card-title">송전망 확장 당장엔 한계… 낮에 만든 전기, ESS 활용 밤에 공급</h3>
-  <p class="card-sum">정부가 29일 &#x27;전력망 혁신 대책&#x27;을…</p>
-  <a class="card-link" href="https://www.donga.com/news/Economy/article/all/20260930/134756291/2" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
 <article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260930/134754988/2">
   <div class="card-head">
@@ -420,7 +341,7 @@ footer a{color:var(--text-dim)}
     <span class="date">2026-09-30  <span class="badge-new">NEW</span></span>
   </div>
   <h3 class="card-title">동해시 ‘수소 저장-운송 전초기지’ 첫 삽</h3>
-  <p class="card-sum">강원 동해시는 29일 북평 제2일반산…</p>
+  <p class="card-sum">‘미래 수소 도시’를 꿈꾸는 강원 동…</p>
   <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260930/134754988/2" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
 <article class="card" data-lang="en" data-sum-key="https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/">
@@ -431,15 +352,6 @@ footer a{color:var(--text-dim)}
   <h3 class="card-title">edie 27의 무료 VIP 패스를 받으세요: 지속 가능성 스냅샷 설문조사에 참여하세요</h3>
   <p class="card-sum">지속 가능성 전문가는 간단한 설문 조…</p>
   <a class="card-link" href="https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.edie.net/edie-named-official-media-partner-of-carbon-accounting-conference-2026/">
-  <div class="card-head">
-    <span class="src">edie (환경 비즈니스)</span>
-    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">에디(edie), 2026 탄소 회계 컨퍼런스 공식 미디어 파트너로 선정</h3>
-  <p class="card-sum">에디(edie)가 2026 탄소 회계…</p>
-  <a class="card-link" href="https://www.edie.net/edie-named-official-media-partner-of-carbon-accounting-conference-2026/" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
 <article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260929000327">
   <div class="card-head">
@@ -456,8 +368,17 @@ footer a{color:var(--text-dim)}
     <span class="date">2026-09-29  </span>
   </div>
   <h3 class="card-title">2년 막힌 호남 전력망 다시 연다…재생에너지 52GW &#x27;숨통&#x27;</h3>
-  <p class="card-sum">재생에너지 발전소의 전력 계통 연계가…</p>
+  <p class="card-sum">재생에너지 발전소를 지어도 전기를 보…</p>
   <a class="card-link" href="https://www.etnews.com/20260929000264" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
+<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260929000213">
+  <div class="card-head">
+    <span class="src">전자신문 IT</span>
+    <span class="date">2026-09-29  </span>
+  </div>
+  <h3 class="card-title">NH농협은행, &#x27;내 서랍 속 자원순환 캠페인&#x27; 개최…ESG 경영 실천</h3>
+  <p class="card-sum">NH농협은행이 임직원과 함께 생활 속…</p>
+  <a class="card-link" href="https://www.etnews.com/20260929000213" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
 <article class="card" data-lang="en" data-sum-key="https://www.edie.net/what-10-years-of-locally-led-innovation-has-taught-unilever/">
   <div class="card-head">
@@ -473,44 +394,17 @@ footer a{color:var(--text-dim)}
     <span class="src">edie (환경 비즈니스)</span>
     <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
   </div>
-  <h3 class="card-title">M 그룹, 최초의 지속가능성 전략 발표</h3>
-  <p class="card-sum">M 그룹이 5개년 지속가능성 계획을…</p>
+  <h3 class="card-title">M그룹, 첫 지속가능성 전략 공개</h3>
+  <p class="card-sum">M그룹은 5개년 지속 가능성 계획에서…</p>
   <a class="card-link" href="https://www.edie.net/m-group-unveils-first-sustainability-strategy/" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260929/134746991/2">
-  <div class="card-head">
-    <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-29  </span>
-  </div>
-  <h3 class="card-title">편의점에서 종이 영수증 안 뽑았더니, 몽골 황무지에 숲 생겼다</h3>
-  <p class="card-sum">내륙 고원 지대로 해양의 완충 효과를…</p>
-  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260929/134746991/2" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260929/134746985/2">
-  <div class="card-head">
-    <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-29  </span>
-  </div>
-  <h3 class="card-title">“‘영하 50도’ 혹한에 가축 740만 마리 폐사… 기후위기, 한 국가 힘으로 해결 못해”</h3>
-  <p class="card-sum">몽골 산림청장은 2024년 영하 40…</p>
-  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260929/134746985/2" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.edie.net/esrs-tc-and-uk-srs-preparing-for-a-changing-sustainability-reporting-landscape/">
-  <div class="card-head">
-    <span class="src">edie (환경 비즈니스)</span>
-    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">ESRS-TC와 UK SRS: 변화하는 지속가능성 보고 환경 대비하기</h3>
-  <p class="card-sum">CSRD(기업 지속가능성 보고 지침)…</p>
-  <a class="card-link" href="https://www.edie.net/esrs-tc-and-uk-srs-preparing-for-a-changing-sustainability-reporting-landscape/" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
 <article class="card" data-lang="en" data-sum-key="https://www.edie.net/bio-based-materials-improving-performance-assessing-carbon-and-scaling-delivery/">
   <div class="card-head">
     <span class="src">edie (환경 비즈니스)</span>
     <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
   </div>
-  <h3 class="card-title">바이오 기반 소재: 성능 개선, 탄소 평가 및 공급 확대</h3>
-  <p class="card-sum">기업들이 건축 환경의 탄소 발자국을…</p>
+  <h3 class="card-title">바이오 기반 소재: 성능 개선, 탄소 평가 및 전달 규모 확대</h3>
+  <p class="card-sum">기업이 건축 환경의 탄소 배출량을 줄…</p>
   <a class="card-link" href="https://www.edie.net/bio-based-materials-improving-performance-assessing-carbon-and-scaling-delivery/" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
 <article class="card" data-lang="en" data-sum-key="https://www.power-technology.com/news/net-zero-mou-atlantic-canada/">
@@ -527,54 +421,27 @@ footer a{color:var(--text-dim)}
     <span class="src">Water Technology</span>
     <span class="date">2026-09-28 <span class="badge-tr">번역</span> </span>
   </div>
-  <h3 class="card-title">아시아 수력발전 성장, 수자원 문제에 직면</h3>
-  <p class="card-sum">아시아 수력발전 부문은 기후변화 대응…</p>
+  <h3 class="card-title">아시아의 수력 성장은 물 문제에 직면</h3>
+  <p class="card-sum">기후 변화와 전력 수요 증가, 수자원…</p>
   <a class="card-link" href="https://www.power-technology.com/analysis/asias-hydropower-growth-faces-water-challenges/" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
-<article class="card" data-lang="en" data-sum-key="https://www.edie.net/from-smart-grids-to-ocean-resilience-what-happened-at-nyc-climate-week/">
+<article class="card" data-lang="en" data-sum-key="https://spectrum.ieee.org/offshore-geothermal-energy">
   <div class="card-head">
-    <span class="src">edie (환경 비즈니스)</span>
-    <span class="date">2026-09-28 <span class="badge-tr">번역</span> </span>
+    <span class="src">IEEE Spectrum · Energy</span>
+    <span class="date">2026-09-24 <span class="badge-tr">번역</span> </span>
   </div>
-  <h3 class="card-title">스마트그리드부터 해양 회복력까지: 뉴욕 기후주간에서 무슨 일이 있었나</h3>
-  <p class="card-sum">뉴욕 기후주간(Climate Week…</p>
-  <a class="card-link" href="https://www.edie.net/from-smart-grids-to-ocean-resilience-what-happened-at-nyc-climate-week/" target="_blank" rel="noopener">원문 보기 →</a>
+  <h3 class="card-title">해상 지열 발전을 테스트하는 스타트업</h3>
+  <p class="card-sum">지열 스타트업인 Endurance E…</p>
+  <a class="card-link" href="https://spectrum.ieee.org/offshore-geothermal-energy" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260928000232">
-  <div class="card-head">
-    <span class="src">전자신문 IT</span>
-    <span class="date">2026-09-28  </span>
-  </div>
-  <h3 class="card-title">韓 뒤쳐진 고온가스로 SMR, “열·수소 산업계 공급 최적 대안 속도 높여야”</h3>
-  <p class="card-sum">석유화학·철강 등 국내 주력 산업이…</p>
-  <a class="card-link" href="https://www.etnews.com/20260928000232" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260928000189">
+<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260924000020">
   <div class="card-head">
     <span class="src">전자신문 산업/신사업</span>
-    <span class="date">2026-09-28  </span>
+    <span class="date">2026-09-24  </span>
   </div>
-  <h3 class="card-title">“중동 전쟁 여파로 공급망 흔들”…IEA·수소위원회, &#x27;수소&#x27; 대안으로 주목</h3>
-  <p class="card-sum">중동 전쟁 여파로 에너지 공급망 불안…</p>
-  <a class="card-link" href="https://www.etnews.com/20260928000189" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260927/134739515/2">
-  <div class="card-head">
-    <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-28  </span>
-  </div>
-  <h3 class="card-title">[단독]“온실가스 감축 기술투자 기업 지원” 목적인데…렌터카 업계에 130억 쓴 녹색정책금융</h3>
-  <p class="card-sum">정부의 온실가스 감축 기업 지원 사업…</p>
-  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260927/134739515/2" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260926000026">
-  <div class="card-head">
-    <span class="src">전자신문 IT</span>
-    <span class="date">2026-09-26  </span>
-  </div>
-  <h3 class="card-title">경기도가 기후테크 스타트업의 투자유치 전략을 다루는 세미나를 연다</h3>
-  <p class="card-sum">경기도와 경기창조경제혁신센터는 오는…</p>
-  <a class="card-link" href="https://www.etnews.com/20260926000026" target="_blank" rel="noopener">원문 보기 →</a>
+  <h3 class="card-title">벤틀리, &#x27;토르칼&#x27; 세계 첫 공개…1회 충전에 600㎞ 달린다</h3>
+  <p class="card-sum">벤틀리모터스가 24일(현지시간) 영국…</p>
+  <a class="card-link" href="https://www.etnews.com/20260924000020" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
   </div>
 </section>
@@ -582,44 +449,62 @@ footer a{color:var(--text-dim)}
   <header class="cat-head">
     <span class="cat-emoji">🦺</span>
     <h2 class="cat-label">안전</h2>
-    <span class="cat-count">4</span>
+    <span class="cat-count">6</span>
   </header>
   <div class="cards">
-<article class="card" data-lang="en" data-sum-key="https://airqualitynews.com/health/toxic-metals-detected-in-maui-residents-months-after-wildfires/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=toxic-metals-detected-in-maui-residents-months-after-wildfires">
-  <div class="card-head">
-    <span class="src">Air Quality News</span>
-    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">마우이 산불 수개월 후 주민들에게서 유해 중금속 검출</h3>
-  <p class="card-sum">하와이 마우이섬을 휩쓴 대규모 산불이…</p>
-  <a class="card-link" href="https://airqualitynews.com/health/toxic-metals-detected-in-maui-residents-months-after-wildfires/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=toxic-metals-detected-in-maui-residents-months-after-wildfires" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260928/134740771/1">
+<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Politics/article/all/20260930/134757948/2">
   <div class="card-head">
     <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-28  </span>
+    <span class="date">2026-09-30  <span class="badge-new">NEW</span></span>
   </div>
-  <h3 class="card-title">당진 에너지시설 화재 13시간 만에 진화…인명피해 없어</h3>
-  <p class="card-sum">충남 당진 석문에너지 연료 하역동에서…</p>
-  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260928/134740771/1" target="_blank" rel="noopener">원문 보기 →</a>
+  <h3 class="card-title">[속보]유엔사 “DMZ 北지뢰 폭발, 정전협정 위반 판단”</h3>
+  <p class="card-sum">유엔군사령부(UNC)는 30일 최근…</p>
+  <a class="card-link" href="https://www.donga.com/news/Politics/article/all/20260930/134757948/2" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260927000064">
+<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Politics/article/all/20260930/134757875/1">
+  <div class="card-head">
+    <span class="src">동아일보 (사회/사고)</span>
+    <span class="date">2026-09-30  <span class="badge-new">NEW</span></span>
+  </div>
+  <h3 class="card-title">[속보]유엔사 “DMZ 北지뢰 폭발, 정전협정 위반 판단”</h3>
+  <p class="card-sum">유엔사 “DMZ 北지뢰 폭발, 정전협…</p>
+  <a class="card-link" href="https://www.donga.com/news/Politics/article/all/20260930/134757875/1" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
+<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260930000013">
   <div class="card-head">
     <span class="src">전자신문 IT</span>
-    <span class="date">2026-09-27  </span>
+    <span class="date">2026-09-30  <span class="badge-new">NEW</span></span>
   </div>
-  <h3 class="card-title">&#x27;마라톤 로봇&#x27; 라이보, 물속 걷는다…라이온로보틱스, 내년 판매 목표</h3>
-  <p class="card-sum">라이온로보틱스가 완전방수 기술을 적용…</p>
-  <a class="card-link" href="https://www.etnews.com/20260927000064" target="_blank" rel="noopener">원문 보기 →</a>
+  <h3 class="card-title">삼성화재 “투석 첫해 의료비 2888만원…조기 발견·관리 중요”</h3>
+  <p class="card-sum">만성콩팥병 환자가 투석을 시작한 첫해…</p>
+  <a class="card-link" href="https://www.etnews.com/20260930000013" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260924000054">
+<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260930/134757381/1">
   <div class="card-head">
-    <span class="src">전자신문 IT</span>
-    <span class="date">2026-09-24  </span>
+    <span class="src">동아일보 (사회/사고)</span>
+    <span class="date">2026-09-30  <span class="badge-new">NEW</span></span>
   </div>
-  <h3 class="card-title">박해철 국회의원 “산재 신청 5년 새 30%↑…지난해 18만건 역대 최대”</h3>
-  <p class="card-sum">산업재해(산재) 신청 건수가 최근 5…</p>
-  <a class="card-link" href="https://www.etnews.com/20260924000054" target="_blank" rel="noopener">원문 보기 →</a>
+  <h3 class="card-title">전남광주 지하주차장서 방화 추정 화재…60대 숨져</h3>
+  <p class="card-sum">전남광주 서구 금호동의 한 상가 지하…</p>
+  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260930/134757381/1" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
+<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Politics/article/all/20260930/134756649/2">
+  <div class="card-head">
+    <span class="src">동아일보 (사회/사고)</span>
+    <span class="date">2026-09-30  <span class="badge-new">NEW</span></span>
+  </div>
+  <h3 class="card-title">폭발현장에 北지뢰 최소 4개… “유실 지뢰 가능성 매우 작다”</h3>
+  <p class="card-sum">강신철 국방부 장관이 29일 국회에…</p>
+  <a class="card-link" href="https://www.donga.com/news/Politics/article/all/20260930/134756649/2" target="_blank" rel="noopener">원문 보기 →</a>
+</article>
+<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260929000262">
+  <div class="card-head">
+    <span class="src">전자신문 (전체)</span>
+    <span class="date">2026-09-29  </span>
+  </div>
+  <h3 class="card-title">“AI가 AI 개발 가속”…&#x27;지능 폭발&#x27; 경고 속 빅테크 행보 엇갈려</h3>
+  <p class="card-sum">인공지능(AI)이 AI 연구개발까지…</p>
+  <a class="card-link" href="https://www.etnews.com/20260929000262" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
   </div>
 </section>
@@ -627,44 +512,35 @@ footer a{color:var(--text-dim)}
   <header class="cat-head">
     <span class="cat-emoji">⚖️</span>
     <h2 class="cat-label">규제</h2>
-    <span class="cat-count">4</span>
+    <span class="cat-count">3</span>
   </header>
   <div class="cards">
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260930/134756213/2">
+<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Economy/article/all/20260930/134756291/2">
   <div class="card-head">
     <span class="src">동아일보 (사회/사고)</span>
     <span class="date">2026-09-30  <span class="badge-new">NEW</span></span>
   </div>
-  <h3 class="card-title">악취-오염 방지… 굴착기 동원 ‘은행 털이’</h3>
-  <p class="card-sum">29일 부산 부산진구의 한 도로변에서…</p>
-  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260930/134756213/2" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.eetimes.com/eu-cyber-resilience-act-three-misconceptions-that-put-embedded-products-at-risk/">
-  <div class="card-head">
-    <span class="src">EE Times</span>
-    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">EU 사이버 복원력법: 임베디드 제품을 위험에 빠뜨리는 세 가지 오해</h3>
-  <p class="card-sum">이 기사는 EU 사이버 복원력법(Cy…</p>
-  <a class="card-link" href="https://www.eetimes.com/eu-cyber-resilience-act-three-misconceptions-that-put-embedded-products-at-risk/" target="_blank" rel="noopener">원문 보기 →</a>
+  <h3 class="card-title">송전망 확장 당장엔 한계… 낮에 만든 전기, ESS 활용 밤에 공급</h3>
+  <p class="card-sum">정부가 29일 ‘전력망 혁신 대책’을…</p>
+  <a class="card-link" href="https://www.donga.com/news/Economy/article/all/20260930/134756291/2" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
 <article class="card" data-lang="en" data-sum-key="https://www.edie.net/unga-guterres-calls-to-triple-climate-adaptation-finance/">
   <div class="card-head">
     <span class="src">edie (환경 비즈니스)</span>
     <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
   </div>
-  <h3 class="card-title">UNGA: 구테레스가 기후 적응 재정을 3배로 요구</h3>
+  <h3 class="card-title">UNGA: 구테레스가 기후 적응 재정을 세 배로 요구</h3>
   <p class="card-sum">유엔 총회(UNGA)의 고위급 행사에…</p>
   <a class="card-link" href="https://www.edie.net/unga-guterres-calls-to-triple-climate-adaptation-finance/" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
-<article class="card" data-lang="en" data-sum-key="https://www.edie.net/eu-directive-on-empowering-consumers-for-the-green-transition-enters-into-force-everything-you-need-to-know/">
+<article class="card" data-lang="en" data-sum-key="https://www.edie.net/esrs-tc-and-uk-srs-preparing-for-a-changing-sustainability-reporting-landscape/">
   <div class="card-head">
     <span class="src">edie (환경 비즈니스)</span>
-    <span class="date">2026-09-27 <span class="badge-tr">번역</span> </span>
+    <span class="date">2026-09-29 <span class="badge-tr">번역</span> </span>
   </div>
-  <h3 class="card-title">EU &#x27;녹색 전환 소비자 역량 강화 지침&#x27; 발효: 알아야 할 모든 것</h3>
-  <p class="card-sum">EU의 녹색 전환을 위한 소비자 역량…</p>
-  <a class="card-link" href="https://www.edie.net/eu-directive-on-empowering-consumers-for-the-green-transition-enters-into-force-everything-you-need-to-know/" target="_blank" rel="noopener">원문 보기 →</a>
+  <h3 class="card-title">ESRS-TC 및 영국 SRS: 변화하는 지속 가능성 보고 환경에 대비</h3>
+  <p class="card-sum">최근 CSRD의 변경으로 인해 보고해…</p>
+  <a class="card-link" href="https://www.edie.net/esrs-tc-and-uk-srs-preparing-for-a-changing-sustainability-reporting-landscape/" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
   </div>
 </section>
