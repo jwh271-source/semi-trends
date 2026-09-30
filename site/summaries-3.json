@@ -1,0 +1,110 @@
+{
+  "https://semiengineering.com/3d-chips-push-eda-into-new-territory/": {
+    "title": "3D 칩, EDA를 새로운 영역으로 이끌다",
+    "summary": "AI 칩이 적층형 3D 및 칩릿 기반 아키텍처로 전환하면서 EDA 업체들이 기존의 성숙한 설계 도구를 개편하고 있다. 개편 작업은 크로스 도메인 분석, 더 빠른 설계 탐색, 에이전틱 AI 지원 기능 강화에 초점이 맞춰져 있다. 해당 내용은 Semiconductor Engineering이 보도했다.",
+    "source": "SemiEngineering",
+    "date": "2026-09-24",
+    "link": "https://semiengineering.com/3d-chips-push-eda-into-new-territory/",
+    "original_title": "3D Chips Push EDA Into New Territory",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20260924000020": {
+    "title": "벤틀리, '토르칼' 세계 첫 공개…1회 충전에 600㎞ 달린다",
+    "summary": "벤틀리모터스가 24일(현지시간) 영국 런던에서 '토르칼'을 세계 최초로 선보였다. 토르칼은 벤틀리 최초의 순수 전기차다. 벤틀리의 지속가능성 비전을 앞당기고 미래를 향한 새로운 방향성을 제시할 럭셔리 전동화 스포츠유틸리티차(SUV)다. 토르칼은 113kWh 배터리와 다양한 효율 극대화 사양으로 유럽 기준 1회 충전시 주행거리는 최대 600㎞다. 최고출력 888마력, 최대토크 137.7kg.m를 발휘하고 정지상태에서 시속 100㎞까지 2.9초 만",
+    "source": "전자신문 산업/신사업",
+    "date": "2026-09-24",
+    "link": "https://www.etnews.com/20260924000020",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.edn.com/ai-agent-automates-ppa-driven-rtl-generation/": {
+    "title": "AI 에이전트, PPA 기반 RTL 생성 자동화",
+    "summary": "케이던스(Cadence)가 프론트엔드 실리콘 설계 및 검증용 '칩스택(ChipStack) AI 슈퍼 에이전트' 플랫폼에 RTL 생성 에이전트를 추가했다. 이 에이전트는 PPA(전력·성능·면적) 요구사항을 반영한 RTL 생성 작업을 자동화하는 기능을 수행한다. 이로써 설계자는 반도체 프론트엔드 설계·검증 단계에서 AI 기반 자동화 기능을 활용할 수 있게 되었다.",
+    "source": "EDN",
+    "date": "2026-09-24",
+    "link": "https://www.edn.com/ai-agent-automates-ppa-driven-rtl-generation/",
+    "original_title": "AI agent automates PPA-driven RTL generation",
+    "lang": "en"
+  },
+  "https://www.edn.com/vision-ai-asic-enables-always-on-vehicle-security/": {
+    "title": "비전 AI ASIC, 차량 보안 상시 구동 실현",
+    "summary": "옴니비전(OmniVision)이 차량 보안 시스템용 초저전력 비전 AI 컴패니언 프로세서 'OAX7700'을 공개했다. OAX7700은 상시 구동(Always-on) 방식의 ASIC로, 차량의 전원이 꺼져 있을 때에도 지속적인 보안 감시 기능을 수행할 수 있도록 설계되었다. 해당 제품 소식은 전자공학 전문 매체 EDN을 통해 보도되었다.",
+    "source": "EDN",
+    "date": "2026-09-24",
+    "link": "https://www.edn.com/vision-ai-asic-enables-always-on-vehicle-security/",
+    "original_title": "Vision AI ASIC enables always-on vehicle security",
+    "lang": "en"
+  },
+  "https://www.edn.com/sensors-extend-current-measurement-to-100-a/": {
+    "title": "센서, 전류 측정 범위를 100A까지 확장",
+    "summary": "멜렉시스(Melexis)가 MLX91224와 MLX91225 절연형 홀(Hall) 전류 센서를 발표했습니다. 두 센서는 최대 100A RMS까지 전류를 측정할 수 있습니다. 주요 적용 분야는 자동차와 에너지입니다.",
+    "source": "EDN",
+    "date": "2026-09-24",
+    "link": "https://www.edn.com/sensors-extend-current-measurement-to-100-a/",
+    "original_title": "Sensors extend current measurement to 100 A",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/valens-semiconductor-to-collaborate-with-onsemi/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-to-collaborate-with-onsemi": {
+    "title": "발렌스반도체, 온세미와 협력 발표",
+    "summary": "고성능 커넥티비티 칩셋 제공업체인 발렌스반도체(Valens Semiconductor)가 온세미(onsemi)와의 협력을 발표했다. 양사는 대량 생산되는 300만 화소(3메가픽셀) 자동차 카메라 애플리케이션을 위한 비용 최적화형 통합 센서를 공동으로 개발할 예정이다. 이 협력은 자동차 카메라 시장을 겨냥한 반도체 제품 협업으로 알려졌다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-24",
+    "link": "https://www.semiconductor-digest.com/valens-semiconductor-to-collaborate-with-onsemi/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-to-collaborate-with-onsemi",
+    "original_title": "Valens Semiconductor to Collaborate with onsemi",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/hammond-power-solutions-increases-north-american-manufacturing-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=hammond-power-solutions-increases-north-american-manufacturing-capacity": {
+    "title": "해먼드 파워 솔루션스, 북미 제조 역량 확대",
+    "summary": "해먼드 파워 솔루션스가 북미 지역 제조 역량 확대를 발표했다. 신규 공장이 가동되면 연간 약 2억 5천만 캐나다 달러 상당의 생산 능력이 추가될 것으로 예상된다. 부지 전체를 완전 개발할 경우 약 4억 캐나다 달러 규모까지 확장 가능하다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-24",
+    "link": "https://www.semiconductor-digest.com/hammond-power-solutions-increases-north-american-manufacturing-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=hammond-power-solutions-increases-north-american-manufacturing-capacity",
+    "original_title": "Hammond Power Solutions Increases North American Manufacturing Capacity",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/ic-link-by-imec-expands-collaboration-with-tsmc/?utm_source=rss&utm_medium=rss&utm_campaign=ic-link-by-imec-expands-collaboration-with-tsmc": {
+    "title": "이멕의 IC-Link, TSMC와 협력 확대",
+    "summary": "이멕(imec)의 ASIC 및 실리콘 포토닉스 설계·제조 서비스 제공업체인 IC-Link by imec가 TSMC와의 협력 확대를 발표했다. 양사는 고객이 첨단 공정 노드 반도체 설계 역량에 더 쉽게 접근할 수 있도록 하는 것을 목표로 한다. 이번 협력 확대를 통해 고객의 첨단 노드 설계 접근성이 개선될 것으로 보인다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-24",
+    "link": "https://www.semiconductor-digest.com/ic-link-by-imec-expands-collaboration-with-tsmc/?utm_source=rss&utm_medium=rss&utm_campaign=ic-link-by-imec-expands-collaboration-with-tsmc",
+    "original_title": "IC-Link by imec Expands Collaboration With TSMC",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production/?utm_source=rss&utm_medium=rss&utm_campaign=cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production": {
+    "title": "코그넥스, 반도체 제조업체의 생산 확대 지원을 위한 신형 웨이퍼 리더 출시",
+    "summary": "코그넥스(Cognex)는 차세대 웨이퍼 및 패널 식별 시스템인 In-Sight 1750 시리즈를 출시했다고 발표했다. 이 시스템은 반도체 제조업체가 생산 중단을 줄이고 추적성(traceability)을 개선하며 처리량을 유지할 수 있도록 설계되었다. 신제품은 반도체 제조업체의 생산 확대(scaling)를 지원하는 것이 목적이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-09-24",
+    "link": "https://www.semiconductor-digest.com/cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production/?utm_source=rss&utm_medium=rss&utm_campaign=cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production",
+    "original_title": "Cognex Launches New Wafer Reader to Help Semiconductor Manufacturers Scale Production",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/ultrafast-lasers-europe": {
+    "title": "EU 기술 정책 지원에 초고속 레이저 스타트업 성장 가속",
+    "summary": "EU 집행위원회가 반도체·AI 생태계의 경쟁력과 자립을 강화하는 법안과 전략을 제안했으며, '칩스액트 2.0'은 설계, 소재, 초고속 레이저 등 가공 장비를 포함한 반도체 공급망 전반을 지원한다. 독일 RayVen Laser의 CEO 셀리아 밀론은 '주권'이 자금, 파트너, 관심을 끌어오는 실질적 이유가 됐다고 밝혔고, 한 스타트업은 10월 리투아니아에 공장을 착공한다. 시장조사에 따르면 글로벌 초고속 레이저 시장은 2025년 약 24억 달러에서 연평균 20% 성장해 2030년대 초 100억 달러를 넘을 전망이며, 반도체 미세화와 첨단 패키징이 주요 성장 동력이다. 펨토초~피코초 펄스를 발사하는 초고속 레이저는 주변 소재에 열 손상 없이 정밀 가공이 가능해 첨단 반도체 제조의 핵심 장비다.",
+    "source": "IEEE Spectrum · Semiconductors",
+    "date": "2026-09-23",
+    "link": "https://spectrum.ieee.org/ultrafast-lasers-europe",
+    "original_title": "EU Tech Push Boosts Ultrafast Laser Startups",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/semicon-india-2026-india-starts-packaging-chips-as-ecosystem-takes-shape/": {
+    "title": "SEMCON India 2026: 생태계 형성에 따라 인도, 칩 패키징 본격 시작",
+    "summary": "인도가 다섯 개 칩 패키징(후공정) 공장을 생산 단계로 전환하며 본격적으로 반도체 후공정 생산을 시작했다. 135억 달러 규모의 ISM 2.0(인도 반도체 미션 2.0) 프로그램이 제조, 설계, 엔지니어링 역량 확대를 지원하고 있다. 이는 인도 반도체 생태계가 점차 자리를 잡아가고 있음을 보여준다.",
+    "source": "EE Times",
+    "date": "2026-09-23",
+    "link": "https://www.eetimes.com/semicon-india-2026-india-starts-packaging-chips-as-ecosystem-takes-shape/",
+    "original_title": "SEMICON India 2026: India Starts Packaging Chips as Ecosystem Takes Shape",
+    "lang": "en"
+  },
+  "https://semiengineering.com/five-signals-from-the-2026-functional-verification-study/": {
+    "title": "2026 기능 검증 연구에서 나타난 다섯 가지 신호",
+    "summary": "Functional verification is no longer only about closing the design. It is increasingly about understanding the system before silicon becomes the first place where all interactions are fully revealed. The post Five Signals From The 2026 Functional Verification Study appeared first on Semiconductor Engineering .",
+    "source": "SemiEngineering",
+    "date": "2026-09-23",
+    "link": "https://semiengineering.com/five-signals-from-the-2026-functional-verification-study/",
+    "original_title": "Five Signals From The 2026 Functional Verification Study",
+    "lang": "en"
+  }
+}
