@@ -66,7 +66,9 @@ header.site-head{
   background:var(--surface-2);border-left:3px solid var(--accent);
   padding:8px 12px;border-radius:0 6px 6px 0}
 
-.controls{position:sticky;top:62px;z-index:9;background:var(--bg);
+/* top: 데스크톱 62px. JS가 실측 헤더 높이를 --header-h로 설정하면 그 값을
+   우선 사용 (기기별 렌더링 차이 대응). var() 기본값은 JS 미작동 시 폴백. */
+.controls{position:sticky;top:var(--header-h,62px);z-index:9;background:var(--bg);
   padding:14px 0 10px;border-bottom:1px solid var(--border)}
 .search-box{width:100%;padding:11px 14px;border:1px solid var(--border);
   border-radius:9px;background:var(--surface);color:var(--text);font-size:14px;font-family:inherit}
@@ -163,10 +165,10 @@ footer a{color:var(--text-dim)}
   .hero h1{font-size:23px}
   .head-right .update-info{display:none}
   .cards{grid-template-columns:1fr}
-  /* 모바일 헤더 높이 = head-row padding 20 + 버튼 30 + border 1 = ~51px.
-     sticky 검색창(.controls)의 top을 실제 헤더 높이에 정확히 맞춰야
-     스크롤 시 헤더와 검색창 사이로 본문이 비치지 않는다. */
-  .controls{top:51px}
+  /* 모바일 헤더 높이: JS가 실측 값을 --header-h로 설정 (var 폴백 51px =
+     padding 20 + 버튼 30 + border 1 계산값). 스크롤 시 헤더와 검색창
+     사이로 본문이 비치지 않게 정확히 맞춤. */
+  .controls{top:var(--header-h,51px)}
   /* 모바일 헤더: 로고(제목+부제)와 테마 버튼이 좁은 화면에서 줄바뀜 되는
      문제 — 부제 숨김으로 한 줄 유지.
      제목 폰트: 360px 최소 폭 기준 한 줄 상한이 ~17px (17자 × 1em),
@@ -788,6 +790,20 @@ footer a{color:var(--text-dim)}
 const root = document.documentElement;
 const stored = (()=>{try{return localStorage.getItem('semi-trends-theme')}catch(e){return null}})();
 if(stored){root.setAttribute('data-theme',stored)}
+// sticky 검색창(.controls)을 실제 렌더링된 헤더 높이에 정확히 맞춘다.
+// CSS 하드코딩(top:51px)은 기기별 폰트 렌더링 차이로 1~2px 어긋나면
+// 스크롤 시 헤더-검색창 사이로 본문이 비쳤다. 로드/리사이즈 시 실측해
+// --header-h CSS 변수로 반영 → 기기/폰트와 무관하게 틈 없음.
+const headerEl = document.querySelector('header.site-head');
+const controlsEl = document.querySelector('.controls');
+function syncHeaderHeight(){
+  if(!headerEl||!controlsEl) return;
+  const h = headerEl.getBoundingClientRect().height;
+  root.style.setProperty('--header-h', h + 'px');
+}
+syncHeaderHeight();
+window.addEventListener('resize', syncHeaderHeight);
+window.addEventListener('load', syncHeaderHeight);
 const themeBtn = document.getElementById('theme-btn');
 function currentTheme(){
   return root.getAttribute('data-theme') || (matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');
