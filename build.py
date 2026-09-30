@@ -372,7 +372,11 @@ footer a{color:var(--text-dim)}
   .logo{font-size:16px;gap:7px;min-width:0}
   .logo .dot{width:8px;height:8px}
   .logo small{display:none}
-  .theme-btn{font-size:12px;padding:5px 9px;flex-shrink:0}
+  .theme-btn{font-size:12px;padding:5px 9px;flex-shrink:0;line-height:1}
+  /* 모바일 좌우 여백: 데스크톱 20px은 좁은 화면에서 과함.
+     14px로 줄여 로고가 화면 왼쪽 끝에서 적당히, 테마 버튼도
+     오른쪽 끝에서 같은 간격으로 떨어지게 (양쪽 대칭). */
+  .wrap{padding:0 14px}
 }
 """
 
