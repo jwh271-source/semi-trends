@@ -262,9 +262,11 @@ header.site-head{
 .hero h1{font-size:28px;line-height:1.2;margin:0 0 8px;letter-spacing:-.01em;text-wrap:balance}
 .hero h1 .accent{color:var(--accent)}
 .hero p{margin:0;color:var(--text-dim);font-size:14.5px;max-width:62ch;text-wrap:pretty}
+/* 고지 문구: 다른 히어로 문단과 달리 max-width 제한 없이 검색창과 같은
+   전체 폭으로 — 좌우가 길게 늘어져 검색창 길이와 정렬이 맞도록. */
 .hero p.disclaimer{margin-top:8px;font-size:12.5px;color:var(--text-mute);
   background:var(--surface-2);border-left:3px solid var(--accent);
-  padding:8px 12px;border-radius:0 6px 6px 0}
+  padding:8px 12px;border-radius:0 6px 6px 0;max-width:none}
 
 /* top: 데스크톱 62px. JS가 실측 헤더 높이를 --header-h로 설정하면 그 값을
    우선 사용 (기기별 렌더링 차이 대응). var() 기본값은 JS 미작동 시 폴백. */
@@ -365,21 +367,21 @@ footer a{color:var(--text-dim)}
   .hero h1{font-size:23px}
   .head-right .update-info{display:none}
   .cards{grid-template-columns:1fr}
-  /* 모바일 헤더 높이: JS가 실측 값을 --header-h로 설정 (var 폴백 51px =
-     padding 20 + 버튼 30 + border 1 계산값). 스크롤 시 헤더와 검색창
+  /* 모바일 헤더 높이: JS가 실측 값을 --header-h로 설정 (var 폴백 65px =
+     padding 30 + 버튼 34 + border 1 계산값). 스크롤 시 헤더와 검색창
      사이로 본문이 비치지 않게 정확히 맞춤. */
-  .controls{top:var(--header-h,51px)}
+  .controls{top:var(--header-h,65px)}
   /* 모바일 헤더: 로고(제목+부제)와 테마 버튼이 좁은 화면에서 줄바뀜 되는
      문제 — 부제 숨김으로 한 줄 유지.
      제목 폰트: 360px 최소 폭 기준 한 줄 상한이 ~17px (17자 × 1em),
      렌더링 오차 감안 16px로 설정.
      테마 버튼: 폰트만 12px로 줄되 박스 크기(패딩 6px 10px)는
      데스크톱과 동일하게 유지. */
-  .head-row{padding:10px 0;gap:8px}
+  .head-row{padding:15px 0;gap:8px}
   .logo{font-size:16px;gap:7px;min-width:0}
   .logo .dot{width:8px;height:8px}
   .logo small{display:none}
-  .theme-btn{font-size:12px;padding:6px 10px;flex-shrink:0}
+  .theme-btn{font-size:12px;padding:9px 15px;flex-shrink:0}
   /* 모바일 좌우 여백: 데스크톱 20px은 좁은 화면에서 과함.
      14px로 줄여 로고가 화면 왼쪽 끝에서 적당히, 테마 버튼도
      오른쪽 끝에서 같은 간격으로 떨어지게 (양쪽 대칭). */
