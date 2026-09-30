@@ -164,6 +164,13 @@ footer a{color:var(--text-dim)}
   .head-right .update-info{display:none}
   .cards{grid-template-columns:1fr}
   .controls{top:58px}
+  /* 모바일 헤더: 로고(제목+부제)와 테마 버튼이 좁은 화면에서 줄바뀜 되는
+     문제 — 제목/버튼 폰트 축소 + 부제 숨김으로 한 줄 유지. */
+  .head-row{padding:10px 0;gap:8px}
+  .logo{font-size:14px;gap:7px;min-width:0}
+  .logo .dot{width:8px;height:8px}
+  .logo small{display:none}
+  .theme-btn{font-size:12px;padding:5px 9px;flex-shrink:0}
 }
 </style>
 </head>
