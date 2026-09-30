@@ -367,10 +367,10 @@ footer a{color:var(--text-dim)}
   .hero h1{font-size:23px}
   .head-right .update-info{display:none}
   .cards{grid-template-columns:1fr}
-  /* 모바일 헤더 높이: JS가 실측 값을 --header-h로 설정 (var 폴백 65px =
-     padding 30 + 버튼 34 + border 1 계산값). 스크롤 시 헤더와 검색창
+  /* 모바일 헤더 높이: JS가 실측 값을 --header-h로 설정 (var 폴백 62px =
+     padding 30 + 버튼 28 + border 1 계산값). 스크롤 시 헤더와 검색창
      사이로 본문이 비치지 않게 정확히 맞춤. */
-  .controls{top:var(--header-h,65px)}
+  .controls{top:var(--header-h,62px)}
   /* 모바일 헤더: 로고(제목+부제)와 테마 버튼이 좁은 화면에서 줄바뀜 되는
      문제 — 부제 숨김으로 한 줄 유지.
      제목 폰트: 360px 최소 폭 기준 한 줄 상한이 ~17px (17자 × 1em),
@@ -381,7 +381,7 @@ footer a{color:var(--text-dim)}
   .logo{font-size:16px;gap:7px;min-width:0}
   .logo .dot{width:8px;height:8px}
   .logo small{display:none}
-  .theme-btn{font-size:12px;padding:9px 15px;flex-shrink:0}
+  .theme-btn{font-size:12px;padding:6px 10px;flex-shrink:0}
   /* 모바일 좌우 여백: 데스크톱 20px은 좁은 화면에서 과함.
      14px로 줄여 로고가 화면 왼쪽 끝에서 적당히, 테마 버튼도
      오른쪽 끝에서 같은 간격으로 떨어지게 (양쪽 대칭). */
