@@ -62,6 +62,9 @@ header.site-head{
 .hero h1{font-size:28px;line-height:1.2;margin:0 0 8px;letter-spacing:-.01em;text-wrap:balance}
 .hero h1 .accent{color:var(--accent)}
 .hero p{margin:0;color:var(--text-dim);font-size:14.5px;max-width:62ch;text-wrap:pretty}
+.hero p.disclaimer{margin-top:8px;font-size:12.5px;color:var(--text-mute);
+  background:var(--surface-2);border-left:3px solid var(--accent);
+  padding:8px 12px;border-radius:0 6px 6px 0}
 
 .controls{position:sticky;top:62px;z-index:9;background:var(--bg);
   padding:14px 0 10px;border-bottom:1px solid var(--border)}
@@ -178,14 +181,15 @@ footer a{color:var(--text-dim)}
   <section class="hero">
     <h1>반도체 업계의 <span class="accent">반도체·환경·안전·규제</span> 동향을 한곳에서.</h1>
     <p>공신력 있는 출처의 최신 기사를 매일 자동 수집·분류합니다. 영문 기사는 한국어로 자동 번역됩니다. 법령 변경은 대상 법령의 개정 사항을 공공데이터포털 API로 직접 추적합니다. 각 카드의 "원문 보기"를 누르면 출처 기사로 이동합니다.</p>
+    <p class="disclaimer">※ 본 사이트는 AI가 자동 수집·분류하므로 주제와 관련 없는 기사가 일부 포함될 수 있습니다. 중요한 정보는 반드시 "원문 보기"로 출처 기사에서 직접 확인하세요.</p>
   </section>
   <div class="controls">
     <input class="search-box" id="search" type="search" placeholder="제목·요약·출처에서 검색…">
     <div class="filters"><button class="filter-btn active" data-filter="all">전체</button>
 <button class="filter-btn" data-filter="semiconductor"><span class="fb-emoji">🔌</span> 반도체 <span class="fb-count">20</span></button>
 <button class="filter-btn" data-filter="environmental"><span class="fb-emoji">🌱</span> 환경 <span class="fb-count">20</span></button>
-<button class="filter-btn" data-filter="safety"><span class="fb-emoji">🦺</span> 안전 <span class="fb-count">11</span></button>
-<button class="filter-btn" data-filter="regulation"><span class="fb-emoji">⚖️</span> 규제 <span class="fb-count">13</span></button>
+<button class="filter-btn" data-filter="safety"><span class="fb-emoji">🦺</span> 안전 <span class="fb-count">4</span></button>
+<button class="filter-btn" data-filter="regulation"><span class="fb-emoji">⚖️</span> 규제 <span class="fb-count">4</span></button>
 <button class="filter-btn" data-filter="legislation"><span class="fb-emoji">📜</span> 법령 변경 <span class="fb-count">8</span></button></div>
   </div>
   <main>
@@ -571,7 +575,7 @@ footer a{color:var(--text-dim)}
   <header class="cat-head">
     <span class="cat-emoji">🦺</span>
     <h2 class="cat-label">안전</h2>
-    <span class="cat-count">11</span>
+    <span class="cat-count">4</span>
   </header>
   <div class="cards">
 <article class="card" data-lang="en" data-sum-key="https://airqualitynews.com/health/toxic-metals-detected-in-maui-residents-months-after-wildfires/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=toxic-metals-detected-in-maui-residents-months-after-wildfires">
@@ -610,76 +614,13 @@ footer a{color:var(--text-dim)}
   <p class="card-sum">산업재해(산재) 신청 건수가 최근 5…</p>
   <a class="card-link" href="https://www.etnews.com/20260924000054" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260922/134714485/2">
-  <div class="card-head">
-    <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-22  </span>
-  </div>
-  <h3 class="card-title">[단독]5년간 산림 산재로 76명 사망했는데 안전관리 위반 처벌 ‘0건’</h3>
-  <p class="card-sum">2021년부터 지난해까지 5년간 산림…</p>
-  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260922/134714485/2" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260922/134714923/2">
-  <div class="card-head">
-    <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-22  </span>
-  </div>
-  <h3 class="card-title">‘하청직원 끼임 사망’ HL만도 안전 위반 138건</h3>
-  <p class="card-sum">올 7월 하청 근로자가 끼임 사고로…</p>
-  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260922/134714923/2" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260921000082">
-  <div class="card-head">
-    <span class="src">전자신문 산업/신사업</span>
-    <span class="date">2026-09-21  </span>
-  </div>
-  <h3 class="card-title">현대모비스, 전국 순회 &#x27;종합안전체험랜드&#x27; 성료…올해 7000명 참가</h3>
-  <p class="card-sum">현대모비스는 어린이 안전문화 확산을…</p>
-  <a class="card-link" href="https://www.etnews.com/20260921000082" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260921/134706439/2">
-  <div class="card-head">
-    <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-21  </span>
-  </div>
-  <h3 class="card-title">[단독]“120일로 단축” 예산 2.7배 늘렸는데 아직 221일…속도 못내는 산재 처리</h3>
-  <p class="card-sum">정부가 산업재해 처리 기간 단축을 위…</p>
-  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260921/134706439/2" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260918/134692402/2">
-  <div class="card-head">
-    <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-18  </span>
-  </div>
-  <h3 class="card-title">74명 사상 대전 안전공업 “경보 울리면 우선 꺼라” 지침</h3>
-  <p class="card-sum">대전 안전공업 화재 참사로 14명이…</p>
-  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260918/134692402/2" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.eetimes.com/edge-first-architectures-for-building-and-campus-safety-and-security/">
-  <div class="card-head">
-    <span class="src">EE Times</span>
-    <span class="date">2026-09-17 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">건물 및 캠퍼스 안전과 보안을 위한 엣지 우선 아키텍처</h3>
-  <p class="card-sum">퀄컴 테크놀로지스는 AI 처리를 카메…</p>
-  <a class="card-link" href="https://www.eetimes.com/edge-first-architectures-for-building-and-campus-safety-and-security/" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260916000171">
-  <div class="card-head">
-    <span class="src">전자신문 산업/신사업</span>
-    <span class="date">2026-09-16  </span>
-  </div>
-  <h3 class="card-title">현대차, 글로벌 통합 안전 협의체 출범…전 세계 사업장 표준화 추진</h3>
-  <p class="card-sum">현대자동차가 전 세계 생산 거점의 안…</p>
-  <a class="card-link" href="https://www.etnews.com/20260916000171" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
   </div>
 </section>
 <section class="cat-section" data-cat="regulation">
   <header class="cat-head">
     <span class="cat-emoji">⚖️</span>
     <h2 class="cat-label">규제</h2>
-    <span class="cat-count">13</span>
+    <span class="cat-count">4</span>
   </header>
   <div class="cards">
 <article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260930/134756213/2">
@@ -717,87 +658,6 @@ footer a{color:var(--text-dim)}
   <h3 class="card-title">EU &#x27;녹색 전환 소비자 역량 강화 지침&#x27; 발효: 알아야 할 모든 것</h3>
   <p class="card-sum">EU의 녹색 전환을 위한 소비자 역량…</p>
   <a class="card-link" href="https://www.edie.net/eu-directive-on-empowering-consumers-for-the-green-transition-enters-into-force-everything-you-need-to-know/" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260919000004">
-  <div class="card-head">
-    <span class="src">전자신문 (전체)</span>
-    <span class="date">2026-09-20  </span>
-  </div>
-  <h3 class="card-title">“제발 좀 조용”…지하철 스피커폰 통화 &#x27;민폐 승객&#x27;에 &#x27;벌금 21만원&#x27; 내라는 中</h3>
-  <p class="card-sum">중국 광저우시가 지하철과 버스 등 대…</p>
-  <a class="card-link" href="https://www.etnews.com/20260919000004" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260918/134692756/2">
-  <div class="card-head">
-    <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-18  </span>
-  </div>
-  <h3 class="card-title">민노총 “메가특구 노동특례 대화 참여할 것”</h3>
-  <p class="card-sum">민노총이 반도체 메가 클러스터 등에…</p>
-  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260918/134692756/2" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.donga.com/news/Society/article/all/20260917/134692390/1">
-  <div class="card-head">
-    <span class="src">동아일보 (사회/사고)</span>
-    <span class="date">2026-09-17  </span>
-  </div>
-  <h3 class="card-title">민노총 “메가특구 사회적 대화 참여…노동권 후퇴 막을 것”</h3>
-  <p class="card-sum">전국민주노동조합총연맹(민노총)이 반도…</p>
-  <a class="card-link" href="https://www.donga.com/news/Society/article/all/20260917/134692390/1" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="ko" data-sum-key="https://www.etnews.com/20260917000239">
-  <div class="card-head">
-    <span class="src">전자신문 IT</span>
-    <span class="date">2026-09-17  </span>
-  </div>
-  <h3 class="card-title">필츠코리아, 10월 22일 수원서 EU MR·CRA 대응 산업 보안 세미나 개최</h3>
-  <p class="card-sum">필츠코리아가 10월 22일 수원에서…</p>
-  <a class="card-link" href="https://www.etnews.com/20260917000239" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/advanced-membrane-filtration-supports-reclaimed-wastewater-reuse/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=advanced-membrane-filtration-supports-reclaimed-wastewater-reuse">
-  <div class="card-head">
-    <span class="src">Semiconductor Digest</span>
-    <span class="date">2026-09-16 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">첨단 막 여과 기술, 재활용 폐수 재사용 지원</h3>
-  <p class="card-sum">첨단 제조업은 세정, 수세, 냉각 과…</p>
-  <a class="card-link" href="https://www.semiconductor-digest.com/advanced-membrane-filtration-supports-reclaimed-wastewater-reuse/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=advanced-membrane-filtration-supports-reclaimed-wastewater-reuse" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah">
-  <div class="card-head">
-    <span class="src">Semiconductor Digest</span>
-    <span class="date">2026-09-16 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">그라디언트, 미국 주요 반도체 팹에 대한 신규 수처리 계약 수주</h3>
-  <p class="card-sum">그라디언트가 뉴욕, 버지니아, 아이다…</p>
-  <a class="card-link" href="https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://airqualitynews.com/legislation/us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation">
-  <div class="card-head">
-    <span class="src">Air Quality News</span>
-    <span class="date">2026-09-15 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">美 EPA, 바이든 정부 시절 대기오염 규제 추가 철�폐 추진</h3>
-  <p class="card-sum">미국 환경보호청(EPA)은 석탄 및…</p>
-  <a class="card-link" href="https://airqualitynews.com/legislation/us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=us-epa-moves-to-dismantle-more-biden-era-air-pollution-legislation" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://spectrum.ieee.org/new-york-data-center-ban">
-  <div class="card-head">
-    <span class="src">IEEE Spectrum · Energy</span>
-    <span class="date">2026-08-06 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">뉴욕의 데이터 센터 금지 조치로 그리드 문제가 해결되지 않음</h3>
-  <p class="card-sum">뉴욕에는 새로운 데이터 센터가 특별히…</p>
-  <a class="card-link" href="https://spectrum.ieee.org/new-york-data-center-ban" target="_blank" rel="noopener">원문 보기 →</a>
-</article>
-<article class="card" data-lang="en" data-sum-key="https://spectrum.ieee.org/plug-in-solar-power">
-  <div class="card-head">
-    <span class="src">IEEE Spectrum · Energy</span>
-    <span class="date">2026-07-20 <span class="badge-tr">번역</span> </span>
-  </div>
-  <h3 class="card-title">공익기업, 발코니 태양광 혁명에 대비되지 않아</h3>
-  <p class="card-sum">미국 전역에서 플러그인 방식 발코니…</p>
-  <a class="card-link" href="https://spectrum.ieee.org/plug-in-solar-power" target="_blank" rel="noopener">원문 보기 →</a>
 </article>
   </div>
 </section>
