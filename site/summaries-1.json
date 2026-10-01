@@ -55,7 +55,7 @@
   },
   "https://www.law.go.kr/DRF/lawService.do?OC=sapphire_5&target=law&MST=283441&type=HTML&mobileYn=&efYd=20260219": {
     "title": "[법령] 물환경보전법",
-    "summary": "일부개정 | 공포 2026-02-19 | 시행 2026-02-19 | 소관: 기후에너지환경부",
+    "summary": "일부개정 | 공포 2026-02-19 | 시행 2026-02-19 | 소관: 기후에너지환경부 | 개정 조항: 20260219:제40조 | 개정 이유: [일부개정] ◇ 개정이유 및 주요내용 기후에너지환경부장관은 수질과 수생태계에 영향을 미칠 우려가 있는 새로운 물질을 관찰물질로 지정ㆍ고시하도록 하고, 방사성물질 및 방사성폐기물의 하천ㆍ호소 유입 여부를 매년 조사하여 그 결과를 누적 관리 및 공개하도록 하며, 낚시금지ㆍ제한구역에 대한 변경 및 해제의 근거를 마련하고, 정기적으로 지정 유지 여부를 재검토하도록 하며, 배출허용기준을 초과하여 개선명령을 받고도 이행하지 아니한 경우 등에 대한 조업정지 처분의 상한을 6개월로 설정하려는 것임.",
     "source": "법제처 (공공데이터포털 API)",
     "date": "2026-02-19",
     "link": "https://www.law.go.kr/DRF/lawService.do?OC=sapphire_5&target=law&MST=283441&type=HTML&mobileYn=&efYd=20260219",
@@ -64,30 +64,102 @@
   },
   "https://www.law.go.kr/DRF/lawService.do?OC=sapphire_5&target=law&MST=276833&type=HTML&mobileYn=&efYd=20251023": {
     "title": "[법령] 환경영향평가법",
-    "summary": "타법개정 | 공포 2025-10-01 | 시행 2025-10-23 | 소관: 기후에너지환경부 | 개정 조항: 20251023:제52조의2,제52조의3 | 개정 이유: [일부개정] ◇ 개정이유 특정 부처에 집중된 기능과 권한을 분산ㆍ재배치하여 권한 집중에 관한 우려를 해소하고 업무 고유의 전문성을 강화하며, 기후위기 및 인공지능 대전환 등 행정환경의 변화에 능동적으로 대응할 수 있도록 정부 조직 체계를 재설계하고, 과학기술ㆍ인공지능 분야와 국가 데이터 및 지식재산 행정의 역량을 강화하기 위하여 부총리제 및 국무총리 소속 부처 체계를 재조정하며, 성평등 정책 및 산업안전보건 정책을 적극적으로 추진할 수 있도록 정부 기능을 강화하려는 것임. ◇ 주요내용 가. 방송통신위원회를 폐지하고, 방송미디어통신위…",
+    "summary": "타법개정 | 공포 2025-10-01 | 시행 2025-10-23 | 소관: 기후에너지환경부",
     "source": "법제처 (공공데이터포털 API)",
     "date": "2025-10-01",
     "link": "https://www.law.go.kr/DRF/lawService.do?OC=sapphire_5&target=law&MST=276833&type=HTML&mobileYn=&efYd=20251023",
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.donga.com/news/Economy/article/all/20261001/134769408/1": {
-    "title": "용인 반도체 국가산단, 2028년 팹 1기 착공 ‘속도전’…내년말까지 부지 조성 완료",
-    "summary": "지난달 30일 오전 경기 용인시 처인구 이동읍과 남사읍 일원. 판교신도시와 맞먹는 778만㎡(약 235만 평) 규모 땅에는 논밭과 비닐하우스가 펼쳐져 있었다. 이곳은 삼성전자 반도체 팹(Fab·공장) 6기가 들어설 용인 첨단시스템반도체 클러스터 국가산업단지 예정지다. 부지 중앙을 가로지르는 국도 45호선에는 승용차들이 달리고 있었다. 언뜻 첨단 산업단지가 지어질 곳이라고 생각하기 어려운 모습이었다. 국가산단의 흔적은 부지 가장자리에 있는 달봉산에서 찾을 수 있었다. 산단 부지에 포함된 산 일부는 이미 벌목 작업이 진행돼 흙이 파헤쳐진 상태였다. 전체 부지의 토지 보상이 끝나기를 기다리지 않고 달봉산 부지 중 보상이 완료되거나 보상 완료 전 주민 사전 동의를 얻어 공사가 가능한 땅의 작업을 먼저 시작한 것이다.●“팹 1기 2028년 착공” 목표용인 반도체 국가산단 조성사업의 시행자인 LH는 이날 국가산단 예정지를 처음 공개하고 공정 가속화 방안을 발표했다. 2028년 반도체 팹",
+  "https://www.donga.com/news/Politics/article/all/20261002/134772250/2": {
+    "title": "李 “DMZ서 불의의 사고”… 지뢰 폭발 北 책임은 언급 안해",
+    "summary": "이재명 대통령은 1일 국군의 날을 맞아 “얼마 전 비무장지대(DMZ)에서 불의의 사고로 부상을 당한 우리 장병들을 생각하면 지금도 마음이 아프다”고 밝혔다. 이 대통령은 이날 충남 계룡대에서 열린 국군의 날 기념식 기념사에서 “우리가 누리는 이 평범한 하루가 누군가의 위험 위에 서 있다는 것을 다시 한번 생각하게 된다”면서 “빠른 쾌유를 빌며 가족들께도 깊은 위로의 말씀을 전한다”며 이같이 말했다. 지난달 21일 서부전선 DMZ 지뢰 폭발을 불의의 사고로 규정한 것. 이 대통령은 지뢰 폭발 사고와 관련한 북한의 책임이나 사과는 언급하지 않았다. 이 대통령은 “우리 정부는 남북 간 군사적 긴장을 낮추기 위한 실질적인 조치를 일관되게 이어 나가겠다”며 남북 대화 필요성을 강조했다. 이어 “남북관계의 매듭은 복잡하게 얽혀 있지만 앞으로도 인내심을 가지고 차근차근 얽힌 매듭을 풀어나갈 것”이라며 “신뢰를 회복하고 단절된 대화를 복원하는 길에 북측도 이제는 함께하기를 기대하고 촉구한다”",
     "source": "동아일보 (사회/사고)",
-    "date": "2026-10-01",
-    "link": "https://www.donga.com/news/Economy/article/all/20261001/134769408/1",
+    "date": "2026-10-02",
+    "link": "https://www.donga.com/news/Politics/article/all/20261002/134772250/2",
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.etnews.com/20261001000330": {
-    "title": "“디스플레이 세액 공제 등 정책 지원 확대해야”…업계, 국회에 투자 여건 개선 촉구",
-    "summary": "국내 디스플레이 업계가 '산업 안보' 자산으로 부상하고 있는 디스플레이 산업 초격차 실현을 위해 지속 투자를 위한 세액공제 제도 개선이 필요하다고 입을 모았다. 허철 삼성디스플레이 부사장은 1일 서울 영등포구 국회의원회관에서 열린 '디스플레이 국회 정책 토론회'에서 “국가전략기술 세액공제 이월기간 연장 및 일몰기한 폐지와 함께, 전력·용수 등 인프라 적기 지원으로 기업 투자 여건을 획기적으로 개선해야 한다”고 말했다. 이한구 LG디스플레이 부사",
-    "source": "전자신문 (전체)",
-    "date": "2026-10-01",
-    "link": "https://www.etnews.com/20261001000330",
+  "https://www.donga.com/news/Politics/article/all/20261002/134772510/2": {
+    "title": "‘지뢰 폭발’ 北 사과 요구 없이… 李 “단절된 대화 함께 복원하자”",
+    "summary": "이재명 대통령이 1일 국군의 날 기념사에서 지난달 21일 발생한 서부전선 비무장지대(DMZ) 지뢰 폭발 사건을 ‘불의(不意)의 사고’로 표현한 것을 두고 북한의 고의적인 ‘지뢰 도발’ 가능성에 거리를 둔 것 아니냐는 분석이 나온다. 우리 군과 유엔군사령부가 북한의 군사분계선(MDL) 이남 지뢰 매설을 ‘정전협정 위반’이라고 결론 내리고 북한의 ‘책임 있는 조치’를 요구한 가운데 이번 폭발 사건을 예상치 못한 채 벌어진 사고로 규정한 것이기 때문이다. 국민의힘은 이 대통령이 북한에 사고 책임이나 사과 요구를 하지 않은 데 대해 “대북 저자세 노선”이라고 비판했다. 외교안보 수뇌부는 이날 국가안전보장회의(NSC) 상임위원회를 열어 지뢰 폭발 사고에 대한 대응 조치 등을 논의한 것으로 알려졌다.● 李 “北, 단절된 대화 복원하자” 이 대통령은 이날 기념사에서 북한에 대한 언급 없이 “얼마 전 비무장지대에서 불의의 사고로 부상을 당하신 우리 장병들을 생각하면 지금도 마음이 아프다”고 말",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-02",
+    "link": "https://www.donga.com/news/Politics/article/all/20261002/134772510/2",
     "original_title": "",
     "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261002/134771904/2": {
+    "title": "제주 호텔서 염소가스 누출 59명 병원 이송",
+    "summary": "1일 오전 제주 서귀포시 그랜드조선호텔에서 염소가스가 누출돼 소방당국이 투숙객의 상태를 살피고 있다. 당국은 현기증과 메스꺼움을 호소하는 59명을 병원에 이송했고, “수영장 소독제를 잘못 섞었다”는 호텔 측 진술에 따라 원인을 조사 중이다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-02",
+    "link": "https://www.donga.com/news/Society/article/all/20261002/134771904/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261002/134771905/2": {
+    "title": "경찰, 진료중인 응급실 압수수색 논란… 소아학회 “치료 지연-안전사고 위험”",
+    "summary": "경찰이 환자를 진료 중이던 대학병원 소아응급실을 압수수색해 논란이 되고 있다. 의료계는 “환자 안전을 위협하는 수사”라고 반발하고 있지만, 경찰은 “진료 차질은 없었다”고 반박했다. 대한소아응급의학회는 1일 성명을 내고 “소아응급센터는 수 초만 지체해도 아이의 생사가 갈리는 특수 진료 구역”이라며 “진료 중인 응급실 내 압수수색은 중증 환아 치료를 지연시키고 안전사고로 직결될 수 있다”고 밝혔다. 학회 등에 따르면 경찰은 지난달 30일 경기 남부권의 한 대학병원 소아응급센터를 상대로 압수수색 영장을 집행했다. 경찰은 센터 내 컴퓨터를 열람하고, 소아청소년 외래까지 압수수색을 했다. 최근 이 소아응급센터에서 청색증으로 치료받던 아이가 숨지는 사고가 발생한 데 따른 것이다. 대한응급의학회 등에 따르면 진료 중인 응급실을 경찰이 압수수색한 것은 이번이 처음이다. 하지만 압수수색 당시 응급센터에는 경련이 지속돼 내원한 생후 7개월 영아가 진료 중이었고, 소아 중환자실이 부족해 응급실에",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-02",
+    "link": "https://www.donga.com/news/Society/article/all/20261002/134771905/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261002/134772097/2": {
+    "title": "‘폭발사고 5명 사망’ 한화에어로, 위법 473건 적발",
+    "summary": "올해 6월 폭발 사고로 5명의 사망자와 2명의 부상자가 발생한 한화에어로스페이스 대전 사업장에서 473건의 법 위반 사항이 적발됐다. 정부는 189건은 즉시 사법 처리하고, 284건에 대해서는 과태료 5억510만 원을 부과할 방침이다. 고용노동부는 6월 29일부터 지난달 18일까지 한화에어로스페이스 대전 사업장에 대한 특별감독을 실시해 이 같은 결과를 1일 발표했다. 노동부가 사법 처리한 위반 사항 189건 가운데 안전보건규칙 위반이 184건에 달했다. 이 중 폭발 화재와 관련한 위반 사항이 46건이었다. 예를 들어 폭발 위험 장소에서 방폭 미인증 전기·기계기구를 사용하거나 압력용기 최고 사용 압력을 표시하지 않았다. 압력이 높은 설비에 안전밸브를 설치하지 않는 등 위험물질 및 누출 관련 위반도 45건이 확인됐다. 이 밖에 비상구를 부적절하게 설치하거나 안전난간을 설치하지 않는 등 안전보건규칙 위반 사항도 93건 적발됐다. 정부는 화학제품 사용 설명서인 물질안건보건자료 미",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-02",
+    "link": "https://www.donga.com/news/Society/article/all/20261002/134772097/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.edie.net/fca-ditches-mandatory-sustainability-reporting-for-uk-businesses/": {
+    "title": "FCA, 영국 기업에 대한 의무적 지속가능성 보고 폐지",
+    "summary": "FCA(Financial Conduct Authority)는 상장 회사에 대한 최종 규칙을 발표하여 완전히 의무적인 보고 대신 '준수 또는 설명' 접근 방식을 확립했습니다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-02",
+    "link": "https://www.edie.net/fca-ditches-mandatory-sustainability-reporting-for-uk-businesses/",
+    "original_title": "FCA ditches mandatory sustainability reporting for UK businesses",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling": {
+    "title": "어플라이드 머티리얼즈, 베시와 AI 스케일링 위한 첨단 패키징 파트너십 확대",
+    "summary": "Besi는 Applied의 EPIC Center에 혁신 파트너로 합류하여 2020년에 시작된 싱가포르의 양사 공동 Hybrid Bonding Center of Excellence와의 협력을 확장했습니다. 어플라이드 머티어리얼즈, Besi 확장 AI 스케일링을 위한 고급 패키징 파트너십 확장 글이 Semiconductor Digest 에 처음 게재되었습니다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-02",
+    "link": "https://www.semiconductor-digest.com/applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling",
+    "original_title": "Applied Materials, Besi Expand Advanced Packaging Partnership for AI Scaling",
+    "lang": "en"
+  },
+  "https://www.donga.com/news/Economy/article/all/20261001/134771093/2": {
+    "title": "산재 사망 반복땐 영업익 최대 5% 과징금… 경영계 “비현실적”",
+    "summary": "반복적으로 산업재해를 낸 사업주에게 영업이익 5% 이내에서 과징금을 부과할 수 있도록 한 산업안전보건법 개정안이 1일 국회 본회의를 통과했다. 경영계는 “과도하고 비현실적인 기준”이라며 즉각 반발하고 나섰다. 민주당과 조국혁신당 등 범여권은 이날 국회 본회의에서 산업안전보건법 개정안을 재석 219명 중 찬성 161명, 반대 52명, 기권 6명으로 통과시켰다. 더불어민주당을 비롯한 범여권 의원들은 대부분 찬성했지만 국민의힘 의원들은 이 법안을 당론으로 반대했다. 국민의힘 김위상 의원은 반대토론에서 “여아 간 충분한 숙의 없이 일방적으로 산정된 개정안은 산업 현장과 국가 경제에 치명적인 부작용을 낳을 독소 조항이 심각하다”며 반발했지만 민주당은 “기업에 부담이 된다는 주장도 일각에서 하지만 작업중지권은 기업의 비용이 아니라 감당할 수 없는 더 큰 비용을 막는 보험이 될 것”이라며 법안을 처리했다. 해당 법안은 안전, 보건조치 위반으로 최근 1년간 근로자 3명이 사망한 경우 사업주에",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-02",
+    "link": "https://www.donga.com/news/Economy/article/all/20261001/134771093/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://spectrum.ieee.org/electricity-theft": {
+    "title": "전기 절도가 만연해 있지만 델리에서 해결책을 찾았습니다.",
+    "summary": "그리드 네트워크를 통해 이동하면서 얼마나 많은 전력이 생성되었다가 즉시 손실되는지는 실망스럽습니다. 이는 전기가 열로 사라질 때 발생하거나 도둑이나 돈을 내지 않는 고객이 훔쳐갈 때 발생합니다. 세계은행에 따르면 이러한 지표를 추적하는 국가 중 절반 이상이 2023년에 IR 전력의 최소 10%를 잃었습니다. 그 중 24개국에서는 손실이 20%를 넘었습니다. 두 국가는 그들이 창출한 것의 절반 이상을 잃었습니다. 숫자가 이렇게 높으면 손실을 줄이는 것이 합리적입니다. 전력 수요는 많은 그리드 운영업체가 공급할 수 있는 것 이상으로 증가하고 있습니다. 폐기물을 줄이면 새로운 발전소를 건설하지 않고도 이러한 수요를 일부 충족하는 데 도움이 됩니다. 또한 전력이 화석 연료에서 나오는 경우 손실이 발생하면 더 많은 온실 가스가 대기로 방출됩니다. 그리고 전기 손실은 전력 공급업체의 수익에 타격을 주며, 결국 해당 비용은 다른 모든 사람에게 전가됩니다. 문제는 전력 손실을 줄이는 것입니다.",
+    "source": "IEEE Spectrum · Energy",
+    "date": "2026-10-01",
+    "link": "https://spectrum.ieee.org/electricity-theft",
+    "original_title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
+    "lang": "en"
+  },
+  "https://www.power-technology.com/news/solar-wind-tidal-renewable-fuels/": {
+    "title": "재생 가능한 연료를 위한 태양광, 풍력, 조력: 연구 결과",
+    "summary": "에너지 기술의 이번 에피소드에서는 저탄소 연료 생산 경로를 위한 재생 에너지에 대한 연구를 고려합니다.",
+    "source": "Water Technology",
+    "date": "2026-10-01",
+    "link": "https://www.power-technology.com/news/solar-wind-tidal-renewable-fuels/",
+    "original_title": "Solar, wind and tidal for renewable fuels: what the research says",
+    "lang": "en"
   },
   "https://semiengineering.com/ai-defined-vehicles-push-compute-memory-and-validation-limits/": {
     "title": "AI 정의 차량으로 컴퓨팅, 메모리 및 검증 한계를 뛰어넘다",
@@ -98,15 +170,6 @@
     "original_title": "AI-Defined Vehicles Push Compute, Memory, And Validation Limits",
     "lang": "en"
   },
-  "https://www.etnews.com/20261001000430": {
-    "title": "'반복 산재 땐 영업이익 5% 과징금'…산안법, 野 반대에도 본회의 통과",
-    "summary": "산업재해 사망사고가 반복되는 기업에 영업이익의 최대 5%를 과징금으로 부과하는 산업안전보건법(산안법) 개정안이 1일 국회 본회의를 통과했다. 국민의힘은 기업 부담과 고용 위축을 우려하며 반대했지만, 더불어민주당을 비롯한 범여권 주도로 가결됐다. 국회는 이날 본회의에서 산안법 개정안을 재석 219명 중 찬성 161명, 반대 52명, 기권 6명으로 의결했다. 당초 산안법과 도시 및 주거환경정비법(도시정비법) 개정안 처리를 둘러싸고 여야가 대립하면서",
-    "source": "전자신문 (전체)",
-    "date": "2026-10-01",
-    "link": "https://www.etnews.com/20261001000430",
-    "original_title": "",
-    "lang": "ko"
-  },
   "https://semiengineering.com/memory-at-the-edge-non-volatile-memory-challenges-and-requirements-for-humanoid-robots/": {
     "title": "에지 메모리: 휴머노이드 로봇의 비휘발성 메모리 과제 및 요구 사항",
     "summary": "분산 NVM은 탄력성이 중요한 높은 내구성의 원격 측정 로깅, 기능 안전 및 시간에 민감한 네트워킹을 지원합니다. 가장자리에 있는 메모리: 휴머노이드 로봇을 위한 비휘발성 메모리 과제 및 요구 사항 포스트가 Semiconductor Engineering에 처음 게재되었습니다.",
@@ -115,42 +178,6 @@
     "link": "https://semiengineering.com/memory-at-the-edge-non-volatile-memory-challenges-and-requirements-for-humanoid-robots/",
     "original_title": "Memory At The Edge: Non-Volatile Memory Challenges And Requirements For Humanoid Robots",
     "lang": "en"
-  },
-  "https://www.donga.com/news/Society/article/all/20261001/134768182/1": {
-    "title": "‘7명 사상 폭발사고’ 한화에어로 대전사업장에 과태료 5억",
-    "summary": "올해 6월 폭발 사고로 5명의 사망자와 2명의 부상자가 발생한 한화에어로스페이스 대전 사업장에서 473건의 법 위반 사항이 적발됐다. 정부는 189건은 즉시 사법 처리하고, 284건에 대해서는 과태료 5억510만 원을 부과할 방침이다.고용노동부는 6월 29일부터 지난달 18일까지 한화에어로스페이스 대전 사업장에 대한 특별감독을 실시해 이 같은 결과를 1일 발표했다.노동부가 사법 처리한 위반 사항 189건 가운데 안전보건규칙 위반이 184건에 달했다. 이 중 폭발 화재와 관련한 위반 사항이 46건이었다. 예를 들어 폭발위험 장소에서 방폭 미인증 전기·기계기구를 사용하거나 압력용기 최고 사용 압력을 표시하지 않았다. 압력이 높은 설비에 안전밸브를 설치하지 않는 등 위험물질 및 누출 관련 위반도 45건이 확인됐다. 이밖에 비상구를 부적절하게 설치하거나 안전난간을 설치하지 않는 등 안전보건규칙 위반 사항도 93건 적발됐다. 정부는 화학제품 사용 설명서인 물질안건보건자료 미게시, 안전보건교육",
-    "source": "동아일보 (사회/사고)",
-    "date": "2026-10-01",
-    "link": "https://www.donga.com/news/Society/article/all/20261001/134768182/1",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20261001000338": {
-    "title": "KEA “대미 투자 합의 환영…사업 협력 확대해야”",
-    "summary": "한국전자정보통신산업진흥회(KEA)가 한미 간 투자 프로젝트 합의에 대해 환영의 뜻을 나타냈다. KEA는 “합의가 양국 간 산업 협력을 한층 확대하는 계기가 되기를 기대한다”며 “한국과 미국이 그동안 논의한 전략적 투자 협력이 첫 번째 구체적인 프로젝트로 이어졌다는 점은 향후 한미 산업 협력의 실질적 기반을 마련한다는 데 의미가 있다”고 11일 밝혔다. 이어 “전자·정보기술(IT) 산업은 반도체·인공지능(AI)·데이터센터·에너지 등 다양한 산업과",
-    "source": "전자신문 IT",
-    "date": "2026-10-01",
-    "link": "https://www.etnews.com/20261001000338",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20261001000272": {
-    "title": "화학사고·폭발현장에 휴머노이드 투입…싱가포르, 2028년 실전 배치",
-    "summary": "휴머노이드 로봇이 싱가포르에서 화학물질 사고 대응과 폭발 현장 조사, 교정시설 수색 등 위험 업무를 맡는다. 싱가포르 정부는 2028년 실제 공공안전 현장에 휴머노이드를 투입한다는 목표다. 1일 싱가포르 내무부 산하 과학기술기관 HTX 등에 따르면 HTX는 지난달 30일 공공안전용 휴머노이드 연구개발 거점인 '홈팀 휴머노이드 로보틱스 센터(H2RC)'를 개소했다. H2RC는 싱가포르 원노스에 2만9000ft²(약 2694㎡) 규모로 조성됐다.",
-    "source": "전자신문 (전체)",
-    "date": "2026-10-01",
-    "link": "https://www.etnews.com/20261001000272",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20261001000182": {
-    "title": "[르포] 180m 산 깎아 삼성 팹 터로…용인 반도체 국가산단 '속도전'",
-    "summary": "경기 용인시 처인구 이동읍. 지난달 30일 인근 건물 옥상에서 내려다본 용인 첨단시스템반도체 클러스터 국가산업단지 예정지는 아직 논과 산이 대부분이었다. 국도 45호선 너머로 누렇게 익은 논이 펼쳐졌고 산 중턱에는 벌목한 자리가 길게 드러나 있었다. 올해 마지막인 추수가 끝나면 농지에서도 공사가 시작된다. 산을 깎고 낮은 땅을 메우는 대규모 부지 조성이 본격화하는 것이다. “왼쪽 산을 전부 발파합니다. 지금 해발 180m 정도인데 바닥은 60m",
-    "source": "전자신문 IT",
-    "date": "2026-10-01",
-    "link": "https://www.etnews.com/20261001000182",
-    "original_title": "",
-    "lang": "ko"
   },
   "https://www.eetimes.com/emergence-ai-to-deploy-neuroformal-ai-with-fabless-chipmakers/": {
     "title": "Emergence AI, Neuroformal AI로 팹리스 칩 제조업체를 목표로 삼다",
@@ -197,15 +224,6 @@
     "original_title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
     "lang": "en"
   },
-  "https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/": {
-    "title": "Astera Labs의 Leo 컨트롤러 업데이트는 메모리 제약을 목표로 합니다.",
-    "summary": "Astera Labs는 Leo 메모리 컨트롤러와 Scorpio 패브릭 스위치를 결합하여 확장 가능한 메모리를 AI 가속기에 더 가깝게 만듭니다. Astera Labs의 Leo 컨트롤러 업데이트가 메모리 제약 조건을 목표로 한다는 게시물이 EE Times에 처음 게재되었습니다.",
-    "source": "EE Times",
-    "date": "2026-09-30",
-    "link": "https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/",
-    "original_title": "Astera Labs’ Leo Controller Update Targets Memory Constraints",
-    "lang": "en"
-  },
   "https://www.semiconductor-digest.com/vsmc-celebrates-the-grand-opening-of-its-first-300mm-fab-in-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=vsmc-celebrates-the-grand-opening-of-its-first-300mm-fab-in-singapore": {
     "title": "VSMC, 싱가포르 최초의 300mm 팹 그랜드 오픈 축하",
     "summary": "글로벌 반도체 공급망 탄력성을 강화합니다. 월간 생산 능력은 2029년까지 44,000개의 12인치 웨이퍼에 도달할 것으로 예상됩니다. VSMC가 싱가포르 최초의 300mm 팹 그랜드 오픈을 축하하는 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
@@ -222,33 +240,6 @@
     "date": "2026-09-26",
     "link": "https://www.semiconductor-digest.com/hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors",
     "original_title": "HANMI Semiconductor Ships First ‘FC Bonder 75’ for AI System Semiconductors",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design": {
-    "title": "Synopsys와 TSMC, Agentic AI 및 고급 설계로 AI 시스템 혁신 가속화",
-    "summary": "Synopsys는 차세대 AI, 고성능 컴퓨팅(HPC) 및 고급 반도체 시스템의 개발을 가속화하는 TSMC와의 새로운 혁신을 발표했습니다. Synopsys와 TSMC가 Agentic AI 및 고급 설계를 통해 AI 시스템 혁신을 가속화하기 위해 제휴한 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-25",
-    "link": "https://www.semiconductor-digest.com/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design",
-    "original_title": "Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design": {
-    "title": "Cadence, AI 및 HPC 칩 설계를 위한 TSMC 파트너십 확장",
-    "summary": "확장된 파트너십은 TSMC A14 인증, TSMC N3P/N2P의 실리콘 검증 IP, 수백 개의 칩렛을 위한 웨이퍼 규모 3D-IC 및 에이전트 AI 흐름을 포괄합니다. Cadence, AI 및 HPC 칩 설계를 위한 TSMC 파트너십 확장 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-09-25",
-    "link": "https://www.semiconductor-digest.com/cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design",
-    "original_title": "Cadence Expands TSMC Partnership for AI and HPC Chip Design",
-    "lang": "en"
-  },
-  "https://spectrum.ieee.org/offshore-geothermal-energy": {
-    "title": "해상 지열 발전을 테스트하는 스타트업",
-    "summary": "지열 스타트업인 Endurance Energy는 수중 화산에서 에너지를 활용하기 위해 지난 주 해저에 우물을 뚫기 시작했습니다. 오레곤 해안 태평양 표면 아래 1,500m에 위치한 이 유정을 통해 회사는 지각의 뜨거운 유체에 접근할 수 있게 되어 수중 발전기의 터빈을 회전하게 됩니다. 이 프로젝트는 다른 곳에서 훨씬 더 쉽게 접근할 수 있는 지열 에너지를 활용하기 위해 정교한 접근 방식을 취합니다. 거의 모든 지열 회사는 마른 땅에서 운영되고 있는 반면 Endurance는 심해에서 작업을 수행하여 수많은 엔지니어링 과제를 추가하고 있습니다. 그러나 회사는 값비싼 수입 디젤을 사용하지 않으려고 노력하면서 대체 에너지원이 필요한 소규모 섬에 이 접근 방식이 가치 있는 것으로 입증될 것이라고 확신하고 있습니다. 해저 지열 발전은 \"적어도 그리드 생성에 있어서는 약간 멍청한 아이디어\"이지만 섬에 전력을 생산하는 것과 같은 특정 사용 사례에서는 잠재력이 있다고 스탠포드 지질 연구소 소장인 롤랜드 혼(Roland Horne)은 말합니다.",
-    "source": "IEEE Spectrum · Energy",
-    "date": "2026-09-24",
-    "link": "https://spectrum.ieee.org/offshore-geothermal-energy",
-    "original_title": "Startup Tests Offshore Geothermal Power",
     "lang": "en"
   }
 }
