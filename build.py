@@ -227,6 +227,16 @@ CSS = """
   --text:#e7e9ee; --text-dim:#a3a9b6; --text-mute:#6f7686;
   --border:#272d36; --accent:#6ba8e8; --accent-soft:#1a2532;
   --shadow:0 1px 2px rgba(0,0,0,.3);
+  /* 다크 테마에서 헤더를 본문 배경(--bg)과 동일하게 — iOS 상태표시줄
+     (#0e1116)과 헤더가 이어져 상단이 한 색으로 보임. 헤더의 surface 대비는
+     테두리 없애는 대신 얇은 그림자로 유지. */
+  --header-bg:#0e1116;
+}
+/* 다크 자동(prefers-color-scheme)도 동일 적용 */
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --header-bg:#0e1116;
+  }
 }
 *{box-sizing:border-box}
 html,body{margin:0;padding:0}
@@ -240,7 +250,7 @@ body{
 .wrap{max-width:1200px;margin:0 auto;padding:0 20px}
 header.site-head{
   border-bottom:1px solid var(--border);
-  background:var(--surface);
+  background:var(--header-bg, var(--surface));
   position:sticky; top:0; z-index:10;
   backdrop-filter:saturate(140%) blur(6px);
 }
@@ -412,7 +422,13 @@ const themeBtn = document.getElementById('theme-btn');
 function currentTheme(){
   return root.getAttribute('data-theme') || (matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');
 }
-function updateThemeBtn(){themeBtn.textContent = currentTheme()==='dark'?'🌙 어둡게':'☀️ 밝게';}
+// 상태표시줄 색 갱신 — 다크면 --bg(#0e1116), 라이트면 헤더색(#ffffff).
+// <head>의 인라인 스크립트가 로드 시 초기화하고, 토글 시 여기서 갱신.
+function syncThemeColor(){
+  var m = document.querySelector('meta[name="theme-color"]');
+  if(m) m.content = currentTheme()==='dark' ? '#0e1116' : '#ffffff';
+}
+function updateThemeBtn(){themeBtn.textContent = currentTheme()==='dark'?'🌙 어둡게':'☀️ 밝게'; syncThemeColor();}
 updateThemeBtn();
 themeBtn.addEventListener('click',()=>{
   const next = currentTheme()==='dark'?'light':'dark';
@@ -760,8 +776,24 @@ def _render_page(fetched: str, nav_html: str, sections_html: str) -> str:
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>반도체 산업 동향 브리핑</title>
 <link rel="manifest" href="manifest.webmanifest">
-<meta name="theme-color" media="(prefers-color-scheme:light)" content="#ffffff">
-<meta name="theme-color" media="(prefers-color-scheme:dark)" content="#0e1116">
+<meta name="theme-color" content="#ffffff">
+<script>
+// iOS 상태표시줄(시계/배터리 영역) 색을 앱 내 테마와 동기화한다.
+// media query 기반 theme-color는 OS 시스템 다크모드만 따라가서,
+// 앱 안의 테마 토글(data-theme)과 어긋난다 (시스템 라이트 + 앱 다크
+// 조합에서 상태표시줄이 흰색으로 남는 문제). 단일 meta를 JS가 직접
+// 갱신하는 구조로 바꾸고, 헤드에서 즉시 실행해 첫 페인트부터 반영.
+(function(){{
+  var c = '#ffffff';
+  try{{
+    var t = localStorage.getItem('semi-trends-theme');
+    var dark = t ? t === 'dark'
+      : (window.matchMedia && matchMedia('(prefers-color-scheme:dark)').matches);
+    if (dark) c = '#0e1116';
+  }}catch(e){{}}
+  document.querySelector('meta[name="theme-color"]').content = c;
+}})();
+</script>
 <link rel="icon" href="icons/icon-192.png">
 <link rel="apple-touch-icon" href="icons/icon-180.png">
 <style>{CSS}</style>
