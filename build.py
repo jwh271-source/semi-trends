@@ -253,6 +253,10 @@ header.site-head{
   background:var(--header-bg, var(--surface));
   position:sticky; top:0; z-index:10;
   backdrop-filter:saturate(140%) blur(6px);
+  /* iOS black-translucent 상태표시줄: 콘텐츠가 상단까지 확장되므로
+     safe-area(시계/노치 영역)만큼 헤더 상단 패딩. iOS 이외 기기는
+     env()가 0이라 영향 없음. */
+  padding-top:env(safe-area-inset-top, 0px);
 }
 .head-row{display:flex;align-items:center;gap:14px;padding:14px 0}
 .logo{display:flex;align-items:center;gap:10px;font-weight:700;font-size:17px}
@@ -295,7 +299,7 @@ header.site-head{
 .filter-btn.active{background:var(--accent);color:#fff;border-color:var(--accent)}
 .filter-btn .fb-count{font-size:11px;opacity:.75;font-variant-numeric:tabular-nums}
 
-main{padding:24px 0 60px}
+main{padding:24px 0 calc(60px + env(safe-area-inset-bottom, 0px))}
 .cat-section{margin-bottom:38px}
 .cat-head{display:flex;align-items:center;gap:10px;margin-bottom:14px;
   padding-bottom:8px;border-bottom:1px solid var(--border)}
@@ -773,10 +777,14 @@ def _render_page(fetched: str, nav_html: str, sections_html: str) -> str:
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>반도체 산업 동향 브리핑</title>
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="theme-color" content="#ffffff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="반도체 동향">
 <script>
 // iOS 상태표시줄(시계/배터리 영역) 색을 앱 내 테마와 동기화한다.
 // media query 기반 theme-color는 OS 시스템 다크모드만 따라가서,
