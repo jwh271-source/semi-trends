@@ -759,6 +759,11 @@ def _render_page(fetched: str, nav_html: str, sections_html: str) -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>반도체 산업 동향 브리핑</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" media="(prefers-color-scheme:light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme:dark)" content="#0e1116">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
 <style>{CSS}</style>
 </head>
 <body>
@@ -808,6 +813,7 @@ def _render_page(fetched: str, nav_html: str, sections_html: str) -> str:
 </div>
 
 <script>{JS}</script>
+<script>navigator.serviceWorker&&navigator.serviceWorker.register('sw.js')</script>
 </body>
 </html>"""
 
