@@ -1,4 +1,13 @@
 {
+  "https://www.etnews.com/20260929000327": {
+    "title": "AI 시대, 지자체 온실가스 관리 '이듬해 쓰는 보고서'에서 '연중 대응하는 플랫폼'으로",
+    "summary": "2035 국가 온실가스 감축목표(NDC)가 2018년 대비 53~61%로 상향되고, 배출권거래제 제4차 계획기간(2026~2030년) 할당량이 제3차 대비 17.9% 줄면서 지자체의 온실가스 관리 부담이 커지고 있다. 이에 따라 한 해가 끝난 뒤에야 결과보고서를 작성하는 현행 방식에서 벗어나, 연중 감축 상황을 점검하고 해당 연도 안에 대응하는 플랫폼 기반 상시 관리 체계로 전환해야 한다는 제언이 나왔다. 이러한 내용은 한국탄소배출권산업협회가 29일 제시한 것이다.",
+    "source": "전자신문 IT",
+    "date": "2026-09-29",
+    "link": "https://www.etnews.com/20260929000327",
+    "original_title": "",
+    "lang": "ko"
+  },
   "https://www.eetimes.com/ibm-details-quantum-ai-developments-in-india/": {
     "title": "IBM, 인도 내 양자·AI 개발 현황 발표",
     "summary": "SEMICON India 2026 행사에서 IBM의 라울 라오(Rahul Rao)가 인도의 양자 컴퓨팅 확산 역할에 대해 상세히 설명했다. 발표에는 오픈소스 양자 프레임워크 Qiskit 기반 교육 현황과 AI 가속기 관련 개발 내용도 포함되었다. 해당 소식은 EE Times가 보도했다.",
@@ -366,24 +375,6 @@
     "date": "2026-09-27",
     "link": "https://www.edie.net/eu-directive-on-empowering-consumers-for-the-green-transition-enters-into-force-everything-you-need-to-know/",
     "original_title": "EU Directive on Empowering Consumers for the Green Transition enters into force: Everything you need to know",
-    "lang": "en"
-  },
-  "https://www.etnews.com/20260926000026": {
-    "title": "경기도가 기후테크 스타트업의 투자유치 전략을 다루는 세미나를 연다",
-    "summary": "경기도와 경기창조경제혁신센터는 오는 29일 오후 판교 제2테크노밸리 기업지원허브 대회의실에서 '2026 제2회 기후테크 세미나ON'을 개최한다. 이번 세미나는 '기후테크 투자시장 동향 및 기업 성장 전략'을 주제로 진행된다. 투자유치와 사업 확대를 준비하는 스타트업을 대상으로 투자시장 흐름, 기업가치 평가 방식, 투자기관의 심사 기준을 공유하고 환경 성과를 투자설명에 반영하는 전략을 다룬다.",
-    "source": "전자신문 IT",
-    "date": "2026-09-26",
-    "link": "https://www.etnews.com/20260926000026",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/": {
-    "title": "A7 CFET와 A10 나노시트 FET 비교: 기생 요소부터 칩 신뢰성까지 (TU 뮌헨, UNIMORE, Applied Materials)",
-    "summary": "TU 뮌헨, 모데나 레조 에밀리아 대학(UNIMORE), Applied Materials 연구진이 '셀 기생 요소부터 칩 신뢰성까지 A7 CFET와 A10 NSFET 기술의 시스템-기술 공동 평가'라는 제목의 기술 논문을 발표했다. 이 연구는 물리 기반의 열(熱) 및 열화(aging)를 고려한 시스템-기술 공동 평가(STCO) 흐름을 제시하여 기생 RC를 평가하는 데 초점을 맞추고 있다. 차세대 트랜지스터 구조인 CFET와 나노시트 FET를 셀 수준부터 칩 신뢰성까지 비교 분석한 것이 핵심 내용이다.",
-    "source": "SemiEngineering",
-    "date": "2026-09-26",
-    "link": "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/",
-    "original_title": "Comparing A7 CFET and A10 Nanosheet FETs From Parasitics to Chip Reliability (TUM, UNIMORE, Applied Materials)",
     "lang": "en"
   }
 }
