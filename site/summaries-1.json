@@ -71,6 +71,15 @@
     "original_title": "",
     "lang": "ko"
   },
+  "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich/": {
+    "title": "물리 디바이스에서 RTL까지 하드웨어 설계 추적 (인피니언, 뮌헨공대)",
+    "summary": "인피니언 테크놀로지스와 뮌헨공과대학교(TU Munich) 연구진이 '물리적 디바이스에서 RTL 모델까지: 하드웨어 엔지니어링의 추상화와 검증'이라는 제목의 기술 논문을 발표했다. 논문은 하드웨어 엔지니어링 모델의 기초 원리를 소개하며 추상화가 모델의 핵심 정의 특징이라고 주장한다. 추상화는 필연적으로 세부 사항을 생략하고 엔지니어가 표현할 수 있는 범위를 제한한다는 점을 다룬다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-03",
+    "link": "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich/",
+    "original_title": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
+    "lang": "en"
+  },
   "https://www.semiconductor-digest.com/semiconductor-quantum-dot-resonator-improves-single-photon-quality-for-quantum-systems/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-quantum-dot-resonator-improves-single-photon-quality-for-quantum-systems": {
     "title": "반도체 양자점 공진기, 양자 시스템용 단일 광자 품질 개선",
     "summary": "파더본 대학교, 바젤 대학교, 루르 대학교 보훔 연구진이 긴밀한 공동 연구를 통해 양자 통신 분야에서 중요한 돌파구를 마련했다. 연구진은 반도체 양자점 공진기를 활용해 양자 시스템에 사용되는 단일 광자의 품질을 개선하는 성과를 거두었다. 해당 내용은 Semiconductor Digest를 통해 보도되었다.",
@@ -439,14 +448,5 @@
     "link": "https://www.etnews.com/20261001000279",
     "original_title": "",
     "lang": "ko"
-  },
-  "https://airqualitynews.com/health/billions-exposed-to-ozone-pollution-as-heat-and-emissions-combine/?utm_source=rss&utm_medium=rss&utm_campaign=billions-exposed-to-ozone-pollution-as-heat-and-emissions-combine": {
-    "title": "폭염과 배출이 결합해 수십억 명이 오존 오염에 노출",
-    "summary": "코페르니쿠스 대기 모니터링 서비스(CAMS)의 새로운 분석에 따르면, 올해 들어 전 세계 인구의 약 40%가 유해한 수준의 지상(지표면) 오존에 노출된 것으로 나타났다. 극심한 폭염과 대기 오염물질 배출이 결합하면서 전 세계 대부분 지역의 대기질이 악화된 것이 원인이다. 이는 수십억 명 규모의 인구가 오존 오염의 건강 위험에 직면했음을 의미한다.",
-    "source": "Air Quality News",
-    "date": "2026-10-01",
-    "link": "https://airqualitynews.com/health/billions-exposed-to-ozone-pollution-as-heat-and-emissions-combine/?utm_source=rss&utm_medium=rss&utm_campaign=billions-exposed-to-ozone-pollution-as-heat-and-emissions-combine",
-    "original_title": "Billions exposed to ozone pollution as heat and emissions combine",
-    "lang": "en"
   }
 }
