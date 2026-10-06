@@ -20,15 +20,10 @@ import os
 import subprocess
 from pathlib import Path
 
-# Windows 스케줄러 실행 시 stdout이 로그 파일로 리다이렉트되면 기본 인코딩이
-# cp949가 되어 유니코드 문자(—, 한글 특수문자 등) print에서 크래시 난다
-# (2026-09-22 7시 실행 실패 사례). UTF-8로 강제한다.
-for _stream in (sys.stdout, sys.stderr):
-    if _stream and hasattr(_stream, "reconfigure"):
-        try:
-            _stream.reconfigure(encoding="utf-8", errors="replace")
-        except Exception:
-            pass
+# Windows 스케줄러 stdout cp949 크래시 방어 (common.py)
+from common import reconfigure_utf8
+
+reconfigure_utf8()
 
 ROOT = Path(__file__).resolve().parent
 PYTHON = sys.executable or "python"
@@ -203,8 +198,8 @@ def git_commit_push_site() -> None:
         return
 
     import glob
-    from datetime import datetime, timezone, timedelta
-    KST = timezone(timedelta(hours=9))
+    from datetime import datetime
+    from common import KST
     ts = datetime.now(KST).strftime("%Y-%m-%d %H:%M KST")
     msg_base = f"chore(local): daily LLM update {ts}"
 
