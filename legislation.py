@@ -26,8 +26,11 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timedelta
 from pathlib import Path
+
+# KST 상수 (common.py)
+from common import KST
 
 try:
     import requests
@@ -42,7 +45,6 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parent
 OUT_FILE = ROOT / "site" / "legislation.json"
-KST = timezone(timedelta(hours=9))
 TIMEOUT = 15
 
 # 법령 검색 엔드포인트.
@@ -53,7 +55,6 @@ TIMEOUT = 15
 # 2순위(폴백): 공공데이터포털 apis.data.go.kr — DATA_API_KEY 필요.
 API_URL_LAWGO = "https://www.law.go.kr/DRF/lawSearch.do"
 API_URL_DATAGO = "https://apis.data.go.kr/1170000/law/lawSearchList.do"
-API_URL = API_URL_LAWGO  # 기본값(하위호환): law.go.kr 우선.
 OC_ID = "sapphire_5"     # law.go.kr DRF 사용자 식별자 (fetch_amendment_detail과 동일)
 
 # 대상 법령 (정확한 법령명)
