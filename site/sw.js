@@ -3,7 +3,7 @@
 //  - 콘텐츠(index.html, summaries-*.json)는 매일 재생성되므로 온라인일 땐 항상 최신.
 //  - 성공한 응답은 런타임 캐시에 저장 → 오프라인 시 "마지막으로 본 버전" 표시.
 //  - 앱 셸(manifest, 아이콘)은 설치 시 1회 사전캐시.
-const SHELL = 'st-shell-v2';  // v2: 아이콘 교체 — 사전캐시 무효화
+const SHELL = 'st-shell-v3';  // v3: 아이콘 재교체(download.png) — 사전캐시 무효화
 const RUNTIME = 'st-rt-v1';
 const SHELL_FILES = [
   './manifest.webmanifest',
