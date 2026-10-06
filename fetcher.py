@@ -281,10 +281,19 @@ def _parse_llm_json(out: str) -> dict | None:
     return None
 
 
+# LLM 프롬프트에 넣는 플레이스홀더 문구들.
+# 주의: 이 값들을 LLM이 그대로 echo해 응답으로 돌려주는 사례가 있다
+# (2026-10-05: title_ko에 "제목의 한국어 번역"이 그대로 들어와 카드 제목이
+#  된 사고). _is_junk_summary()가 아래 문자열을 참조해 echo를 차단하므로,
+# 프롬프트 문구를 바꿀 때는 반드시 이 상수만 수정한다 (판별 로직과 자동 동기화).
+_PLACEHOLDER_TITLE_KO = "제목의 한국어 번역"
+_PLACEHOLDER_SUMMARY = "한국어 3~4문장 요약 (핵심 사실/수치/영향, 추측 제외)"
+
+
 def _is_junk_summary(s: str) -> bool:
     """LLM 출력 중 요약으로 쓸 수 없는 쓰레기 판별.
     - '...' 같은 점/기호만 있는 출력
-    - 프롬프트 플레이스홀더 echo ('한국어 3~4문장 요약 (핵심 사실/수치/영향, 추측 제외)' 등)
+    - 프롬프트 플레이스홀더 echo (_PLACEHOLDER_* 상수 참조 — 프롬프트와 동기화)
     - JSON 키/형식 지시문 echo ('summary:', 'category=...' 등)
     실제 요약은 이런 패턴으로 시작하지 않으므로 시작 부분 위주로 검사."""
     t = s.strip()
@@ -293,16 +302,19 @@ def _is_junk_summary(s: str) -> bool:
     # 점/공백만으로 구성 ('...', '..' 등)
     if re.fullmatch(r"[.\s…]+", t):
         return True
+    # 프롬프트 플레이스홀더가 그대로 들어간 경우 (부분 포함 매칭 — title_ko의
+    # "제목의 한국어 번역"은 "한국어"로 시작하지 않아 시작 매칭만으론 놓친다)
+    if _PLACEHOLDER_TITLE_KO in t or _PLACEHOLDER_SUMMARY in t:
+        return True
+    if "추측 제외" in t or "3~4문장" in t:
+        return True
     # 프롬프트 지시문이 그대로 새어 들어간 경우 (시작 부분 매칭)
     junk_starts = (
         "한국어", "요약:", "summary:", "summary =", "자연스러운 한국어",
-        "핵심 사실", "category:", "keywords:", '"summary"',
+        "핵심 사실", "category:", "keywords:", '"summary"', "제목의",
     )
     tl = t.lower()
     if any(t.startswith(j) or tl.startswith(j) for j in junk_starts):
-        return True
-    # 플레이스홀더 문구가 문장 어디든 포함 (프롬프트 원문 echo)
-    if "추측 제외" in t or "3~4문장" in t:
         return True
     return False
 
@@ -317,10 +329,12 @@ def llm_process_article(title: str, summary: str, is_english: bool = False) -> d
     if not LLM_ENABLED:
         return None
     cats = "\n".join(f"- {k}: {v}" for k, v in LLM_CATEGORIES.items())
-    # 영문 기사: title_ko 필드 추가 요청 (한국어 번역 제목)
+    # 영문 기사: title_ko 필드 추가 요청 (한국어 번역 제목).
+    # 플레이스홀더는 상수 사용 — LLM이 이 문구를 echo로 돌려줘도
+    # _is_junk_summary()가 같은 상수로 잡아낸다.
     title_ko_field = ""
     if is_english:
-        title_ko_field = ' "title_ko": "제목의 한국어 번역",\n'
+        title_ko_field = f' "title_ko": "{_PLACEHOLDER_TITLE_KO}",\n'
     prompt = (
         f"아래 기사를 분석해 JSON 형식으로 답하세요. 마크다운 없이 순수 JSON만.\n"
         f"반도체 제조업 공장 환경·안전·규제 특화 사이트. 일반 경제/증시/정치 뉴스는 category를 none으로.\n"
@@ -328,7 +342,7 @@ def llm_process_article(title: str, summary: str, is_english: bool = False) -> d
         f"형식:\n"
         f'{{"category": "semiconductor|environmental|safety|regulation|none",\n'
         f'{title_ko_field}'
-        f' "summary": "한국어 3~4문장 요약 (핵심 사실/수치/영향, 추측 제외)",\n'
+        f' "summary": "{_PLACEHOLDER_SUMMARY}",\n'
         f' "keywords": ["키워드1", "키워드2", "키워드3"]}}\n\n'
         f"카테고리:\n{cats}\n\n"
         f"기사:\n제목: {title}\n본문: {summary[:1500]}"
