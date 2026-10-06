@@ -15,11 +15,11 @@ import os
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+from common import KST
+
 ROOT = Path(__file__).resolve().parent
 IN_FILE = ROOT / "site" / "articles.json"
 OUT_FILE = ROOT / "site" / "index.html"
-
-KST = timezone(timedelta(hours=9))
 
 # 카테고리당 표시할 최대 카드 수 (최신순).
 # build_sections(카드 본문)와 build_counts(상단 탭 카운트)가 같은 기준을
@@ -746,8 +746,6 @@ def build_page():
     if size > 70000:
         news_cards = [a for a in articles if a.get("category") != "legislation"]
         leg_cards_now = [a for a in articles if a.get("category") == "legislation"]
-        # 날짜 오름차순(오래된 것 먼저) 제거. 날짜 없는 카드는 최후순위.
-        news_cards.sort(key=lambda a: (a.get("date") or "") == "", )
         removed_log = []
         while size > 70000 and news_cards:
             # 정렬: 날짜 오래된 것(빈 날짜는 뒤)이 앞에 오도록 다시 계산
