@@ -28,15 +28,10 @@ import re
 import sys
 import time
 
-# Windows 스케줄러 실행 시 stdout이 로그 파일로 리다이렉트되면 기본 인코딩이
-# cp949가 되어 유니코드 문자(— 등) print에서 크래시 난다 (2026-09-27/28
-# 7시 실행 실패 사례). UTF-8로 강제한다.
-for _stream in (sys.stdout, sys.stderr):
-    if _stream and hasattr(_stream, "reconfigure"):
-        try:
-            _stream.reconfigure(encoding="utf-8", errors="replace")
-        except Exception:
-            pass
+# Windows 스케줄러 stdout cp949 크래시 방어 + KST 상수 (common.py 참조)
+from common import KST, reconfigure_utf8
+
+reconfigure_utf8()
 
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -65,9 +60,6 @@ except ImportError:
 ROOT = Path(__file__).resolve().parent
 SOURCES_FILE = ROOT / "sources.json"
 OUT_FILE = ROOT / "site" / "articles.json"
-
-# 한국 표준시 (New 배지 날짜 비교용)
-KST = timezone(timedelta(hours=9))
 
 TIMEOUT = 15
 USER_AGENT = "semi-trends-bot/1.0 (+local research aggregator)"
@@ -509,6 +501,15 @@ KEYWORDS = [
     ]),
 ]
 
+# 키워드 중복 정규화: 안전 카테고리에 같은 키워드가 2회 등록되어 있어
+# ('산업안전' x2 등 28개, 2026-10-06 코드 리뷰 발견) "본문 히트 >= 2 → safety"
+# 임계치가 단어 1개 등장으로도 통과하는 버그가 있었다. 정의 시점에서
+# 즉시 중복 제거해 임계치가 의도대로 동작하게 한다.
+KEYWORDS = [
+    (cat, list(dict.fromkeys(words)))  # dict.fromkeys: 순서 유지 중복 제거
+    for cat, words in KEYWORDS
+]
+
 # 카테고리 표시 메타데이터
 # 최종 카테고리: 반도체, 환경, 안전, 규제, 법령 변경
 CATEGORIES = {
@@ -705,8 +706,9 @@ POLICY_SIGNALS = [
 # 카테고리별 키워드 (classify_scored에서 사용). KEYWORDS 정의 뒤에 평가되도록
 # 함수 본체가 실행 시점에 참조하므로 모듈 로드 순서에 안전하게 두기 위해
 # classify_scored 정의 이전에 평가해 둔다.
+# 참고: legislation 카테고리 키워드는 사용하지 않는다 — 법령 변경 카드는
+# 공공데이터포털 API 데이터(legislation.py)만 표시하므로.
 KEYWORDS_SAFETY = [w for cat, words in KEYWORDS if cat == "safety" for w in words]
-KEYWORDS_LEGISLATION = [w for cat, words in KEYWORDS if cat == "legislation" for w in words]
 KEYWORDS_REGULATION = [w for cat, words in KEYWORDS if cat == "regulation" for w in words]
 KEYWORDS_ENVIRONMENTAL = [w for cat, words in KEYWORDS if cat == "environmental" for w in words]
 KEYWORDS_SEMICONDUCTOR = [w for cat, words in KEYWORDS if cat == "semiconductor" for w in words]
@@ -918,10 +920,9 @@ def collect() -> dict:
         if boost:
             n = _apply_keyword_boost(boost)
             # 병합 후 KEYWORDS_* 재계산 (분류에서 참조)
-            global KEYWORDS_SAFETY, KEYWORDS_LEGISLATION, KEYWORDS_REGULATION
+            global KEYWORDS_SAFETY, KEYWORDS_REGULATION
             global KEYWORDS_ENVIRONMENTAL, KEYWORDS_SEMICONDUCTOR
             KEYWORDS_SAFETY = [w for cat, words in KEYWORDS if cat == "safety" for w in words]
-            KEYWORDS_LEGISLATION = [w for cat, words in KEYWORDS if cat == "legislation" for w in words]
             KEYWORDS_REGULATION = [w for cat, words in KEYWORDS if cat == "regulation" for w in words]
             KEYWORDS_ENVIRONMENTAL = [w for cat, words in KEYWORDS if cat == "environmental" for w in words]
             KEYWORDS_SEMICONDUCTOR = [w for cat, words in KEYWORDS if cat == "semiconductor" for w in words]
