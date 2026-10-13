@@ -71,54 +71,198 @@
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.donga.com/news/Society/article/all/20261013/134831616/1": {
-    "title": "단국대 경영대학원, ESG 심사 전문인력 키운다",
-    "summary": "단국대 경영대학원은 (사)국제ESG심사원협회와 ESG 전문인력 양성을 위한 업무협약을 맺었다고 13일 밝혔다. 협약식은 지난 8일 단국대 죽전캠퍼스에서 정연승 경영대학원장과 김영국 협회장 등이 참석한 가운데 열렸다. 두 기관은 이번 협약으로 교육·연구개발 사업 공동 참여, ESG 실무 전문가 양성 프로그램 공동 운영, 정보 공유와 인적 교류 등에 협력한다. 협회 회원이 단국대 경영대학원에 진학할 경우 장학 혜택도 지원하기로 했다. 경영대학원은 ESG경영전공 석사과정과 연계해 현장 중심 교육과정을 보강하고, 협회 회원에게 학위 취득과 공동 연구 기회를 제공할 계획이다. 정 원장은 “심사·평가 전문 네트워크를 갖춘 협회와 손잡고 산업 현장에 필요한 지속가능경영 리더를 길러내겠다”고 말했다. 김 협회장은 “기업의 지속가능성은 ESG 평가와 심사의 신뢰성에서 출발한다”며 “이론과 실무를 겸비한 심사 전문인력을 체계적으로 양성하겠다”고 했다.",
-    "source": "동아일보 (사회/사고)",
-    "date": "2026-10-13",
-    "link": "https://www.donga.com/news/Society/article/all/20261013/134831616/1",
-    "original_title": "",
-    "lang": "ko"
+  "https://semiengineering.com/agentic-ai-automates-rtl-waveform-analysis-and-debugging-columbia-google/": {
+    "title": "에이전틱 AI가 RTL 파형 분석·디버깅을 자동화하다 (컬럼비아대, 구글)",
+    "summary": "컬럼비아대, 구글 딥마인드, 구글 연구진이 'Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification'라는 기술 논문을 발표했다. 논문은 현대 AI의 방대한 컴퓨팅 규모가 수십억 개 트랜지스터급 SoC에 의존함에도 칩 검증 워크플로는 여전히 수작업 중심이라고 지적했다. 연구진은 에이전틱 AI를 활용해 RTL 파형 분석과 디버깅을 자동화하는 EDA 인프라 방안을 제시했다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-14",
+    "link": "https://semiengineering.com/agentic-ai-automates-rtl-waveform-analysis-and-debugging-columbia-google/",
+    "original_title": "Agentic AI Automates RTL Waveform Analysis And Debugging (Columbia, Google)",
+    "lang": "en"
   },
-  "https://www.etnews.com/20261013000103": {
-    "title": "씨엔티테크, '로켓십 IR 경진대회' 3회차 기업 모집...기후·ESG 분야 대상",
-    "summary": "투자 전문 액셀러레이터 씨엔티테크가 기후·ESG 분야 초기창업기업을 대상으로 '2026 초기창업패키지 로켓십 IR 경진대회' 3회차 참가기업을 모집한다고 12일 밝혔다. 우수기업에는 최대 5억원 직접 투자와 팁스(TIPS) 연계 검토 기회를 제공한다. 모집 대상은 2023년부터 2026년까지 초기창업패키지에 선정됐거나 졸업한 기후테크, 자원순환, 사회적가치 창출 등 기후·ESG 분야 창업기업이다. 선정 기업은 투자사 대상 IR 발표, 1대1 투",
+  "https://www.semiconductor-digest.com/fujifilm-to-expand-cmp-slurry-production-capacity-in-the-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=fujifilm-to-expand-cmp-slurry-production-capacity-in-the-u-s": {
+    "title": "후지필름, 미국 내 CMP 슬러리 생산능력 확대",
+    "summary": "후지필름이 미국 애리조나주 메사(Mesa) 소재 생산 시설에 새로운 생산 라인을 추가해 CMP 슬러리 생산능력을 확대한다. 이번 확대는 구리 인터커넥트와 첨단 패키징 애플리케이션에 대한 수요 증가에 대응하기 위한 것이다. CMP 슬러리는 반도체 웨이퍼 평탄화 공정에 필수적인 소재로, 첨단 반도체 제조 수요와 연동된다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-14",
+    "link": "https://www.semiconductor-digest.com/fujifilm-to-expand-cmp-slurry-production-capacity-in-the-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=fujifilm-to-expand-cmp-slurry-production-capacity-in-the-u-s",
+    "original_title": "Fujifilm to Expand CMP Slurry Production Capacity in the U.S.",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates/?utm_source=rss&utm_medium=rss&utm_campaign=global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates": {
+    "title": "증설 가속화에 따라 글로벌 300mm 팹 장비 지출, 2029년 2,270억 달러 도달 전망",
+    "summary": "SEMI가 최신 300mm Fab Outlook 보고서에서 발표한 바에 따르면, 글로벌 300mm 프런트엔드 팹 장비 지출은 2026년 1,490억 달러로 전년 대비 31% 증가할 것으로 전망된다. 팹 증설(Buildout)이 가속화되면서 이 같은 지출은 2029년까지 총 2,270억 달러에 도달할 것으로 예상된다. 이는 반도체 제조 설비 투자가 중장기적으로 크게 확대될 것임을 시사하는 지표다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-14",
+    "link": "https://www.semiconductor-digest.com/global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates/?utm_source=rss&utm_medium=rss&utm_campaign=global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates",
+    "original_title": "Global 300mm Fab Equipment Spending to Reach $227 Billion in 2029 as Buildout Accelerates",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/advanced-energy-launches-temperature-measurement-system-for-semiconductor-processing/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-energy-launches-temperature-measurement-system-for-semiconductor-processing": {
+    "title": "어드밴스드 에너지, 반도체 공정용 온도 측정 시스템 출시",
+    "summary": "어드밴스드 에너지 인더스트리스(Advanced Energy Industries)는 샌프란시스코에서 개최된 SEMICON West에서 반도체 공정용 온도 측정 시스템인 '센트라 스마트 허브(Centra Smart Hub)'를 공식 출시했다. 이번 제품은 반도체 제조 공정의 정밀한 온도 관리를 위한 장비로, 업계 전시회 현장에서 발표되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-14",
+    "link": "https://www.semiconductor-digest.com/advanced-energy-launches-temperature-measurement-system-for-semiconductor-processing/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-energy-launches-temperature-measurement-system-for-semiconductor-processing",
+    "original_title": "Advanced Energy Launches Temperature Measurement System for Semiconductor Processing",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/tower-semiconductor-and-semtech-expand-sige-manufacturing-partnership-for-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-and-semtech-expand-sige-manufacturing-partnership-for-ai-data-centers": {
+    "title": "타워 반도체와 섬테크, AI 데이터센터용 SiGe 제조 파트너십 확대",
+    "summary": "타워 반도체(Tower Semiconductor)와 섬테크(Semtech)는 AI 데이터센터 지원을 위한 SiGe(실리콘 게르마늄) 제조 파트너십을 확대하는 다년간 계약을 체결했다. 이 계약에 따라 타워 반도체의 글로벌 팹 네트워크 전반에 걸쳐 전용 생산 캐파시티가 확대된다. 이는 차세대 AI 인프라에 필수적인 광학(optical) 및 구리(copper) 인터커넥트 분야에서 양사의 성장을 뒷받침하기 위한 것이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-14",
+    "link": "https://www.semiconductor-digest.com/tower-semiconductor-and-semtech-expand-sige-manufacturing-partnership-for-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-and-semtech-expand-sige-manufacturing-partnership-for-ai-data-centers",
+    "original_title": "Tower Semiconductor and Semtech Expand SiGe Manufacturing Partnership for AI Data Centers",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/nikon-unveils-digital-lithography-system-for-advanced-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-unveils-digital-lithography-system-for-advanced-semiconductor-packaging": {
+    "title": "니콘, 반도체 첨단 패키징용 디지털 리소그래피 시스템 공개",
+    "summary": "니콘이 반도체 첨단 패키징용 디지털 리소그래피 시스템 'DSP-110'을 공개했다. 이 시스템은 2027년 4월에 출시될 예정이다. 해당 장비는 반도체 후공정인 첨단 패키징 분야에 적용된다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-14",
+    "link": "https://www.semiconductor-digest.com/nikon-unveils-digital-lithography-system-for-advanced-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-unveils-digital-lithography-system-for-advanced-semiconductor-packaging",
+    "original_title": "Nikon Unveils Digital Lithography System for Advanced Semiconductor Packaging",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/show-daily-2026-day-one/?utm_source=rss&utm_medium=rss&utm_campaign=show-daily-2026-day-one": {
+    "title": "쇼 데일리 2026 — 1일차",
+    "summary": "반도체 전문 매체 Semiconductor Digest가 SEMICON West 2026 행사 첫째 날의 쇼 데일리(전시회 일간지)를 공개했다. 쇼 데일리는 전시회 기간 중 매일 발행되는 간행물로, SEMICON West 전시회의 주요 소식과 정보를 담고 있다. 독자는 Semiconductor Digest 웹사이트에서 해당 호를 열람하거나 다운로드할 수 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-13",
+    "link": "https://www.semiconductor-digest.com/show-daily-2026-day-one/?utm_source=rss&utm_medium=rss&utm_campaign=show-daily-2026-day-one",
+    "original_title": "Show Daily 2026 — Day One",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/caspa-ceo-summit-preview-with-president-jimmy-cheng/": {
+    "title": "지미 청 CASPA 회장이 전하는 CEO 서밋 사전 예고",
+    "summary": "CASPA(중국계 미국인 반도체 전문가 협회)의 연례 컨퍼런스가 올해 35주년을 맞는다. 이번 행사에는 인텔의 립-부 탄(Lip-Bu Tan) CEO와 세레브라스의 앤드류 펠드먼(Andrew Feldman) CEO를 포함해 실리콘밸리 CEO 35명 이상이 참가자 명단에 올랐다. 본 기사는 EE Times에 게재된 CASPA CEO 서밋 사전 소개 기사다.",
+    "source": "EE Times",
+    "date": "2026-10-13",
+    "link": "https://www.eetimes.com/caspa-ceo-summit-preview-with-president-jimmy-cheng/",
+    "original_title": "CASPA CEO Summit Preview with President Jimmy Cheng",
+    "lang": "en"
+  },
+  "https://www.edn.com/5g-chips-and-modules-power-phones-wearables-iot-and-vehicles/": {
+    "title": "5G 칩과 모듈, 스마트폰·웨어러블·IoT·차량을 구동하다",
+    "summary": "최신 5G 칩과 모듈이 다양한 애플리케이션을 겨냥하고 있다. 적용 대상은 스마트폰과 웨어러블은 물론 산업용 IoT와 커넥티드 차량에 이른다. 해당 기사는 EDN에 처음 게재된 5G 칩 및 모듈 관련 소식이다.",
+    "source": "EDN",
+    "date": "2026-10-13",
+    "link": "https://www.edn.com/5g-chips-and-modules-power-phones-wearables-iot-and-vehicles/",
+    "original_title": "5G chips and modules power phones, wearables, IoT, and vehicles",
+    "lang": "en"
+  },
+  "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/": {
+    "title": "앞으로 2주: AI가 기후 솔루션에 대한 투자를 가속화하는 방법",
+    "summary": "앞으로 2주만 남은 지속 가능성 전문가들은 인공 지능(AI), 시장 정보 및 인간 전문 지식이 어떻게 기업이 신뢰할 수 있는 기후 투자 기회를 식별하고 지속 가능성 야망을 실행으로 전환하는 데 필요한 재정적 지원을 확보하는 데 도움이 될 수 있는지 알아보는 다가오는 웹 세미나에 등록하도록 초대됩니다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-13",
+    "link": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
+    "original_title": "TWO WEEKS TO GO: How AI can accelerate investment in climate solutions",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/semiconductor-research": {
+    "title": "미국 반도체 기업들, R&D에 대규모 베팅",
+    "summary": "어플라이드 머티리얼즈는 10월 12일 실리콘밸리 중심부인 캘리포니아 서니베일에 수십억 달러 규모의 연구개발 시설(EPIC 센터)을 공개했으며, 2023년 발표한 40억 달러에서 약 50억 달러로 투자액을 상향했다. 앞서 8월에는 마이크론이 아이다호 보이시의 메모리 연구소에 10년간 100억 달러를 투자하겠다고 밝혔고, SK하이닉스는 인디애나주 웨스트라파예트에 첨단 패키징 시설로 40억 달러를 투입할 계획이다. 이러한 민간 투자 확대는 미국 반도체 R&D 부문의 규모를 키우는 동시에 구조를 더 복잡하게 만들고 있다. 미국 정부의 우방국 기업 투자 유치, 관세 부과, 인텔 지원 등의 정책도 배경이 있지만, 분석가들은 AI 붐에 따른 막대한 매출 기대가 이번 투자 물결의 실제 동력이라고 본다.",
+    "source": "IEEE Spectrum · Semiconductors",
+    "date": "2026-10-13",
+    "link": "https://spectrum.ieee.org/semiconductor-research",
+    "original_title": "U.S. Chip Firms Bet Big on R&D",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/europe-advanced-packaging-gap-fraunhofer-swissbit-target-the-missing-middle/": {
+    "title": "유럽의 첨단 패키징 공백: 프라운호퍼·스위스비트가 '중간 단계'를 겨냥하다",
+    "summary": "유럽 반도체 산업은 연구 개발과 대량생산 사이에 위치한 저용량 생산 단계가 부재한 '중간 단계 공백' 문제에 직면해 있다. 이 공백을 메우기 위해서는 유럽만의 산업 모델 구축이 필요하다. 독일 프라운호퍼 연구소와 메모리 제조업체 스위스비트가 이 문제 해결의 핵심 주체로 거론된다. 첨단 패키징 분야에서 유럽의 경쟁력 강화가 주요 쟁점이다.",
+    "source": "EE Times",
+    "date": "2026-10-13",
+    "link": "https://www.eetimes.com/europe-advanced-packaging-gap-fraunhofer-swissbit-target-the-missing-middle/",
+    "original_title": "Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle",
+    "lang": "en"
+  },
+  "https://www.edie.net/climate-risk-and-the-uk-food-supply-what-lies-beyond-the-farm/": {
+    "title": "기후 리스크와 영국 식량 공급: 농장 너머에는 무엇이 있을까?",
+    "summary": "2026년 여름, 기후 변화에 따른 식량 시스템의 취약성이 뚜렷하게 드러났다. 이 기사는 영국 식량 공급망에서 농장 이후 단계에 존재하는 기후 리스크를 조명한다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-13",
+    "link": "https://www.edie.net/climate-risk-and-the-uk-food-supply-what-lies-beyond-the-farm/",
+    "original_title": "Climate risk and the UK food supply: What lies beyond the farm?",
+    "lang": "en"
+  },
+  "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-13-2/": {
+    "title": "반도체 산업 기술 논문 종합: 10월 13일",
+    "summary": "반도체 업계의 최신 기술 논문 7편을 정리한 기사로, M3D 메모리-TFT 기반 뉴로모픽 컴퓨팅과 2D 반도체 핵형성 연구가 소개되었다. 초박형 high-k 유전체와 하이퍼-NA EUV 리소그래피 등 차세대 공정 기술 논문도 포함되었다. 이 밖에 AI 가속기의 비트 플립 공격 탐지, 프로그래밍 가능 DRAM 컨트롤러, 파운드리 호환 포토닉 벤드 기술이 다뤄졌다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-13",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-13-2/",
+    "original_title": "Chip Industry Technical Paper Roundup: Oct. 13",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261013000312": {
+    "title": "이정우 지에스아이엘 대표, '2026 전자·IT의 날' 산업통상부장관표창 수상",
+    "summary": "스마트 안전 전문기업 지에스아이엘(GSIL)의 이정우 대표이사가 10월 13일 서울 코엑스에서 열린 '제21회 전자·IT의 날' 기념행사에서 산업통상부장관표창을 수상했다. 전자·IT의 날은 국내 전자·IT산업 발전과 국가경쟁력 강화에 기여한 유공자를 발굴해 포상하는 행사다. 이정우 대표는 산업안전 분야 자체 원천기술 확보와 국가 신기술 인정, 스마트 안전기술의 산업현장 적용 및 해외시장 진출 등 국내 스마트 안전산업의 기술 경쟁력 강화에 기여한 공로를 인정받았다.",
     "source": "전자신문 IT",
     "date": "2026-10-13",
-    "link": "https://www.etnews.com/20261013000103",
+    "link": "https://www.etnews.com/20261013000312",
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.etnews.com/20261013000073": {
-    "title": "삼성전자, '라 리스트 2027'서 비스포크 AI 주방가전 소개",
-    "summary": "삼성전자가 인천 파라다이스시티에서 열린 글로벌 미식 행사 '라 리스트 2027 코리아 어워즈'에서 인공지능(AI) 기술을 접목한 혁신적 주방 경험을 선보였다 라 리스트는 전 세계 레스토랑과 호텔, 페이스트리 등을 평가하는 글로벌 미식 가이드로, 매년 언론 보도와 전문가 평론, 고객 리뷰 등을 종합해 세계 우수 레스토랑 1000곳을 선정한다. 삼성전자는 행사장에 제품 체험 공간을 마련하고 관람객들이 비스포크 AI 가전의 고도화된 기능과 차별화된",
+  "https://www.etnews.com/20261013000311": {
+    "title": "[2026 국감] '호남 반도체' 주 52시간 예외 공방…김영훈 장관 “결과 정해두지 않고 대화”",
+    "summary": "호남 반도체 메가프로젝트 연구개발(R&D) 인력에 대한 주 52시간제 예외 적용이 고용노동부 국정감사의 주요 쟁점으로 떠올랐다. 김영훈 고용노동부 장관은 13일 국회 기후에너지환경노동위 국정감사에서 결과를 정해두지 않고 노사정 사회적 대화를 통해 결론을 내겠다고 밝혔다. 메가특구법상 노동특례와 관련해 신중하게 검토할 부분이 많다고 답했다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-13",
+    "link": "https://www.etnews.com/20261013000311",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261013000166": {
+    "title": "[KES2026] 김영재 대덕전자 회장 '금탑산업훈장' 영예",
+    "summary": "김영재 대덕전자 회장이 13일 코엑스에서 열린 '제21회 전자·IT의 날' 행사에서 금탑산업훈장을 받았다. 김 회장은 PCB 전문기업 대덕전자를 이끌며 첨단반도체 기판 국산화와 수입 대체를 실현한 공로를 인정받았다. MLB 등 고부가가치 신제품 양산 및 세계 시장 진출로 국내외 전자산업 공급망 안정에 기여했다. 이날 시상식에서는 조지태 LG이노텍 전무가 은탑산업훈장을 받았다.",
     "source": "전자신문 IT",
     "date": "2026-10-13",
-    "link": "https://www.etnews.com/20261013000073",
+    "link": "https://www.etnews.com/20261013000166",
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.etnews.com/20261013000024": {
-    "title": "삼성전자, OCP서 AI 메모리·스토리지 혁신 청사진 공개",
-    "summary": "삼성전자가 고대역폭메모리(HBM)와 컴퓨트익스프레스링크(CXL), 차세대 솔리드스테이트드라이브(SSD)를 앞세워 인공지능(AI) 인프라 공략에 나선다. 메모리 속도와 용량을 높이고 데이터 저장·관리를 효율화하는 한편, 글로벌 파트너와 시스템 공동 설계를 확대한다. 삼성전자는 12일(현지시간) 미국 캘리포니아주 새너제이에서 개막한 'OCP 글로벌 서밋 2026'에서 차세대 메모리·스토리지 기술 전략과 글로벌 파트너 협업 성과를 공개했다. 심호준",
-    "source": "전자신문 (전체)",
+  "https://www.edn.com/ai-silicon-tapeout-can-it-beat-a-benchmark-engineers-trust/": {
+    "title": "AI 반도체 테이프아웃: 엔지니어가 신뢰하는 벤치마크를 능가할 수 있을까?",
+    "summary": "이 기사는 AI를 활용한 반도체(실리콘) 설계의 성과를 검증하는 문제를 다룬다. 핵심 쟁점은 AI 설계 개선이 일회성 성공 사례나 수천 개의 툴 로그에 의존하는 것이 아니라, 공학적 데이터로 입증될 수 있는지 여부다. 엔지니어들이 실제로 신뢰할 수 있는 벤치마크를 AI가 능가할 수 있는지가 관건으로 제시된다.",
+    "source": "EDN",
     "date": "2026-10-13",
-    "link": "https://www.etnews.com/20261013000024",
-    "original_title": "",
-    "lang": "ko"
+    "link": "https://www.edn.com/ai-silicon-tapeout-can-it-beat-a-benchmark-engineers-trust/",
+    "original_title": "AI silicon tapeout: Can it beat a benchmark engineers trust?",
+    "lang": "en"
   },
-  "https://www.etnews.com/20261013000019": {
-    "title": "삼성전자, 반도체 협력사 5만8000명에 '감사'…연말까지 상생 행사",
-    "summary": "삼성전자가 반도체 협력사 임직원 약 5만8000명에게 감사의 마음을 전하는 'DS Together' 행사를 진행한다. 협력사 사업장에 커피차를 보내고 직원과 가족을 영화관에 초청하는 등 연말까지 교류를 이어간다. 삼성전자는 10~11월 주요 반도체 구매 협력사 67개사 임직원 약 2만7000명을 대상으로 '상생 카페'를 운영한다고 13일 밝혔다. 지난 6일 대덕전자와 새솔다이아몬드공업을 시작으로 7일에는 티엘비와 피에스케이 사업장을 방문했다.",
-    "source": "전자신문 (전체)",
+  "https://semiengineering.com/carbon-dot-interface-enables-ultrathin-high-%ce%ba-dielectrics-on-2d-semiconductors-uiuc-netl-argonne-monash/": {
+    "title": "탄소점 인터페이스로 2D 반도체 위 초박형 고유전율 유전체 구현 (UIUC, NETL, Argonne, Monash)",
+    "summary": "일리노이대학교 어배너-섐페인(UIUC), 미국 국립에너지기술연구소(NETL), 아곤 국립연구소, 모나시대학교 공동 연구진이 2D 반도체 위 고유전율(high-κ) 산화물 유전체 집적 기술에 관한 논문을 발표했다. 연구진은 탄소점(carbon-dot) 단층 조립체를 반데르발스 계면층으로 활용해 원자 수준의 초박형 유전체 증착을 구현했다. 논문 제목은 '탄소점 단층 조립체를 반데르발스 계면층으로 활용한 2D 반도체 상 고유전율 산화물 집적'이며, Semiconductor Engineering을 통해 소개되었다.",
+    "source": "SemiEngineering",
     "date": "2026-10-13",
-    "link": "https://www.etnews.com/20261013000019",
-    "original_title": "",
-    "lang": "ko"
+    "link": "https://semiengineering.com/carbon-dot-interface-enables-ultrathin-high-%ce%ba-dielectrics-on-2d-semiconductors-uiuc-netl-argonne-monash/",
+    "original_title": "Carbon-Dot Interface Enables Ultrathin High-κ Dielectrics on 2D Semiconductors (UIUC, NETL, Argonne, Monash)",
+    "lang": "en"
+  },
+  "https://semiengineering.com/on-chip-monitors-detect-bit-flip-attacks-in-ai-accelerators-uf-ut-dallas-rpi/": {
+    "title": "온칩 모니터가 AI 가속기의 비트 플립 공격을 탐지하다 (플로리다대·텍사스대 댈러스·RPI)",
+    "summary": "플로리다대학교, 텍사스대학교 댈러스, 르세일러 공과대학(RPI) 연구진이 'BARE-AI: 내장형 성능 모니터를 통한 AI 하드웨어의 비트 플립 공격 회복력'이라는 기술 논문을 발표했다. 논문은 심층 신경망(DNN)이 안전 필수 시스템의 핵심 요소이지만 비트 플립 공격(BFA)에 매우 취약하다고 지적했다. 연구진은 AI 가속기에 내장되는 온칩 성능 모니터를 활용해 이러한 공격을 탐지하는 방안을 제시했다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-13",
+    "link": "https://semiengineering.com/on-chip-monitors-detect-bit-flip-attacks-in-ai-accelerators-uf-ut-dallas-rpi/",
+    "original_title": "On-Chip Monitors Detect Bit-Flip Attacks in AI Accelerators (UF, UT Dallas, RPI)",
+    "lang": "en"
+  },
+  "https://semiengineering.com/deterministic-nucleation-enables-controlled-growth-of-2d-semiconductors-kaist-tds-hanyang-et-al/": {
+    "title": "결정론적 핵형성 기술로 2차원 반도체의 제어된 성장 구현 (KAIST, TDS, 한양대 등)",
+    "summary": "KAIST, TDS Innovation, 한양대, UNIST 등 공동 연구진이 '에칭 플럭스를 이용한 2차원 반도체의 공간적 결정론적 핵형성'이라는 기술 논문을 발표했다. 논문은 핵형성 제어가 반도체 증착 공정의 핵심 요소로서 결정성 재료가 언제, 어디서, 어떻게 형성될지를 결정한다고 설명한다. 기존 전략은 핵형성 밀도 조절과 면선택 성장을 통해 증착을 지정 영역에 한정할 수 있지만, 연구진의 결정론적 핵형성 기법은 2차원 반도체의 성장 위치와 방식을 더 정밀하게 제어할 수 있게 한다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-13",
+    "link": "https://semiengineering.com/deterministic-nucleation-enables-controlled-growth-of-2d-semiconductors-kaist-tds-hanyang-et-al/",
+    "original_title": "Deterministic Nucleation Enables Controlled Growth of 2D Semiconductors (KAIST, TDS, Hanyang et al.)",
+    "lang": "en"
   },
   "https://www.semiconductor-digest.com/applied-materials-unveils-5b-epic-center-in-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-unveils-5b-epic-center-in-silicon-valley": {
-    "title": "어플라이드 머티어리얼즈, 실리콘 밸리에 50억 달러 규모의 EPIC 센터 공개",
-    "summary": "50억 달러의 투자로 세계 최대의 반도체 장비 및 공정 기술 R&D 시설이 탄생했습니다. Applied Materials가 실리콘 밸리에 50억 달러 규모의 EPIC 센터를 공개한다는 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
+    "title": "어플라이드 머티어리얼즈, 실리콘밸리에 50억 달러 규모 EPIC 센터 공개",
+    "summary": "어플라이드 머티어리얼즈가 실리콘밸리에 50억 달러를 투자해 EPIC 센터를 공개했다. 이 투자로 세계 최대 규모의 반도체 장비 및 공정 기술 연구개발(R&D) 시설이 조성된다. EPIC 센터는 반도체 장비와 공정 기술 개발을 위한 핵심 거점으로 활용될 전망이다.",
     "source": "Semiconductor Digest",
     "date": "2026-10-13",
     "link": "https://www.semiconductor-digest.com/applied-materials-unveils-5b-epic-center-in-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-unveils-5b-epic-center-in-silicon-valley",
@@ -126,71 +270,152 @@
     "lang": "en"
   },
   "https://www.semiconductor-digest.com/white-knight-introduces-compact-inline-heaters-for-semiconductor-processing/?utm_source=rss&utm_medium=rss&utm_campaign=white-knight-introduces-compact-inline-heaters-for-semiconductor-processing": {
-    "title": "White Knight, 반도체 공정용 소형 인라인 히터 출시",
-    "summary": "고순도 유체 취급 장비 공급업체이자 Graco 계열사인 White Knight Fluid Handling은 오늘 ThermaPoint 컴팩트 인라인 히터 출시를 발표했습니다. White Knight가 반도체 가공용 소형 인라인 히터를 소개한 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
+    "title": "화이트 나이트, 반도체 공정용 컴팩트 인라인 히터 출시",
+    "summary": "고순도 유체 취급 장비 전문업체이자 그라코(Graco) 계열사인 White Knight Fluid Handling이 반도체 공정용 ThermaPoint 컴팩트 인라인 히터를 출시했다고 발표했다. 해당 제품은 반도체 제조 공정에서 고순도 유체를 가열하기 위한 인라인 히터로 보인다. 이 소식은 Semiconductor Digest를 통해 공개되었다.",
     "source": "Semiconductor Digest",
     "date": "2026-10-13",
     "link": "https://www.semiconductor-digest.com/white-knight-introduces-compact-inline-heaters-for-semiconductor-processing/?utm_source=rss&utm_medium=rss&utm_campaign=white-knight-introduces-compact-inline-heaters-for-semiconductor-processing",
     "original_title": "White Knight Introduces Compact Inline Heaters for Semiconductor Processing",
     "lang": "en"
   },
+  "https://www.semiconductor-digest.com/semiconductor-leaders-to-address-ai-manufacturing-and-industry-growth-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-leaders-to-address-ai-manufacturing-and-industry-growth-at-semicon-west": {
+    "title": "SEMICON West서 반도체 업계 지도자들이 AI·제조·산업 성장 논의",
+    "summary": "SEMICON West 행사에서 반도체 업계 주요 지도자들이 AI, 제조 및 산업 성장에 관해 발표할 예정이다. 3일간 진행되는 프로그램은 반도체 산업의 성장과 변혁을 주도하는 핵심 동력을 다룬다. 이 기사는 Semiconductor Digest를 통해 공개되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-13",
+    "link": "https://www.semiconductor-digest.com/semiconductor-leaders-to-address-ai-manufacturing-and-industry-growth-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-leaders-to-address-ai-manufacturing-and-industry-growth-at-semicon-west",
+    "original_title": "Semiconductor Leaders to Address AI, Manufacturing and Industry Growth at SEMICON West",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/ers-introduces-automated-310mm-panel-level-packaging-system/?utm_source=rss&utm_medium=rss&utm_campaign=ers-introduces-automated-310mm-panel-level-packaging-system": {
+    "title": "ERS, 310mm 패널레벨 패키징 완전 자동화 시스템 출시",
+    "summary": "ERS electronic이 310×310mm 기판용 완전 자동화 패널레벨 패키징(PLP) 시스템을 공식 발표했다. PLP는 원형 웨이퍼 대신 대형 정사각형 패널 기판에 반도체 칩을 패키징하는 첨단 패키징 기술로, 면적 효율과 생산성 측면에서 주목받고 있다. 이번 발표로 ERS는 310mm급 대형 패널 대상 완전 자동화 솔루션을 갖추게 됐다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-13",
+    "link": "https://www.semiconductor-digest.com/ers-introduces-automated-310mm-panel-level-packaging-system/?utm_source=rss&utm_medium=rss&utm_campaign=ers-introduces-automated-310mm-panel-level-packaging-system",
+    "original_title": "ERS Introduces Automated 310mm Panel-Level Packaging System",
+    "lang": "en"
+  },
   "https://www.semiconductor-digest.com/suss-introduces-greentec-wafer-cleaning-platform-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=suss-introduces-greentec-wafer-cleaning-platform-at-semicon-west": {
-    "title": "SUSS, SEMICON West에서 GreenTec 웨이퍼 클리닝 플랫폼 소개",
-    "summary": "반도체 산업용 장비 및 프로세스 솔루션 공급업체인 SUSS MicroTec SE는 오늘 새로운 GreenTec Solutions 제품 라인 출시와 첫 번째 시스템인 GT200 출시를 통해 웨이퍼 레벨 세정 시장에 진출한다고 발표했습니다. SUSS가 SEMICON West에서 GreenTec 웨이퍼 세척 플랫폼을 소개한 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
+    "title": "수스 마이크로텍, SEMICON West서 '그린텍(GreenTec)' 웨이퍼 세정 플랫폼 공개",
+    "summary": "반도체 장비 및 공정 솔루션 공급업체인 수스 마이크로텍(SUSS MicroTec SE)이 신제품 라인 'GreenTec Solutions'와 첫 시스템 'GT200' 출시를 발표했다. 이번 발표로 해당 회사는 웨이퍼 레벨 세정 시장에正式 진출하게 되었다. 신규 플랫폼은 SEMICON West 행사에서 처음 공개되었다.",
     "source": "Semiconductor Digest",
     "date": "2026-10-13",
     "link": "https://www.semiconductor-digest.com/suss-introduces-greentec-wafer-cleaning-platform-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=suss-introduces-greentec-wafer-cleaning-platform-at-semicon-west",
     "original_title": "SUSS Introduces GreenTec Wafer-Cleaning Platform at SEMICON West",
     "lang": "en"
   },
+  "https://www.semiconductor-digest.com/semi-and-semiconductor-digest-announce-2026-best-of-west-award-finalists/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-semiconductor-digest-announce-2026-best-of-west-award-finalists": {
+    "title": "SEMI와 Semiconductor Digest, 2026 Best of West 어워드 파이널리스트 발표",
+    "summary": "SEMI와 Semiconductor Digest가 2026 Best of West 어워드 파이널리스트를 발표했다. 수상자는 2026년 10월 15일 목요일 SEMICON West 2026 행사에서 공개될 예정이다. 발표는 North Expo Hall 저층 Hall F에 위치한 Smart Theater 스테이지에서 진행된다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-13",
+    "link": "https://www.semiconductor-digest.com/semi-and-semiconductor-digest-announce-2026-best-of-west-award-finalists/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-semiconductor-digest-announce-2026-best-of-west-award-finalists",
+    "original_title": "SEMI and Semiconductor Digest Announce 2026 Best of West Award Finalists",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/microchip-expands-ai-data-center-portfolio-with-pcie-6-0-switch-and-storage-upgrades/?utm_source=rss&utm_medium=rss&utm_campaign=microchip-expands-ai-data-center-portfolio-with-pcie-6-0-switch-and-storage-upgrades": {
+    "title": "마이크로칩, PCIe 6.0 스위치 및 스토리지 업그레이드로 AI 데이터센터 포트폴리오 확장",
+    "summary": "마이크로칩(Microchip)이 PCIe 6.0 스위치와 스토리지 업그레이드를 통해 AI 데이터센터 제품 포트폴리오를 확장했다. 새로운 연결성, 스토리지 및 가속 솔루션은 현대 컴퓨팅 아키텍처 전반의 성능, 보안, 확장성 문제 해결을 지원한다. 해당 소식은 반도체 전문 매체 Semiconductor Digest를 통해 공개되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-13",
+    "link": "https://www.semiconductor-digest.com/microchip-expands-ai-data-center-portfolio-with-pcie-6-0-switch-and-storage-upgrades/?utm_source=rss&utm_medium=rss&utm_campaign=microchip-expands-ai-data-center-portfolio-with-pcie-6-0-switch-and-storage-upgrades",
+    "original_title": "Microchip Expands AI Data Center Portfolio with PCIe 6.0 Switch and Storage Upgrades",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/teradyne-launches-ultraflexplus-s-test-platform-for-edge-ai-chips/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-launches-ultraflexplus-s-test-platform-for-edge-ai-chips": {
+    "title": "테라다인, 엣지 AI 칩용 '울트라플렉스플러스 S' 테스트 플랫폼 출시",
+    "summary": "테라다인(Teradyne)이 엣지 AI 칩 대상 새로운 테스트 플랫폼 '울트라플렉스플러스 S(UltraFLEXplus S)'를 출시했다. 새로운 테스터 시리즈는 기존 울트라플렉스플러스 아키텍처를 확장한 것으로, 다품종·변동 수량 생산 환경에서 우수한 설비 공간 효율성을 제공한다. 해당 소식은 세미컨덕트 다이제스트(Semiconductor Digest)를 통해 보도되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-13",
+    "link": "https://www.semiconductor-digest.com/teradyne-launches-ultraflexplus-s-test-platform-for-edge-ai-chips/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-launches-ultraflexplus-s-test-platform-for-edge-ai-chips",
+    "original_title": "Teradyne Launches UltraFLEXplus S Test Platform for Edge AI Chips",
+    "lang": "en"
+  },
+  "https://www.edie.net/cop31-can-the-eu-turn-climate-ambition-into-delivery/": {
+    "title": "COP31: EU는 기후 야망을 실행으로 전환할 수 있을까?",
+    "summary": "유럽이사회가 10월 12일 기후정상회의(COP31)를 위한 주요 협상 입장을 승인했다. 기후행동네트워크(CAN) 유럽은 이 입안에 '실질적 이행'을 위한 계획이 부족하다고 비판했다. EU가 기후 목표를 실제 성과로 전환할 수 있을지가 향후 관심사가 된다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-13",
+    "link": "https://www.edie.net/cop31-can-the-eu-turn-climate-ambition-into-delivery/",
+    "original_title": "COP31: Can the EU turn climate ambition into delivery?",
+    "lang": "en"
+  },
   "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/": {
-    "title": "Applied Materials, 칩 혁신을 위한 새로운 모델에 50억 달러 투자",
-    "summary": "50억 달러 규모의 어플라이드 머티어리얼즈 EPIC 센터는 칩 제조사, 장비 공급업체, 연구원들을 한자리에 모아 반도체 R&D 및 상용화를 가속화합니다. Applied Materials가 칩 혁신을 위한 새로운 모델에 50억 달러를 투자했다는 게시물이 EE Times에 처음 게재되었습니다.",
+    "title": "어플라이드 머티리얼즈, 칩 혁신을 위한 새로운 모델에 50억 달러 베팅",
+    "summary": "어플라이드 머티리얼즈는 50억 달러를 투자해 EPIC Center를 설립한다. 이 센터는 반도체 제조업체, 장비 공급업체, 연구자들을 한곳에 모아 반도체 연구개발(R&D)과 상용화를 가속화하는 것이 목표다. 칩 업계의 혁신 방식을 개선하는 새로운 협업 모델로 제시되고 있다.",
     "source": "EE Times",
     "date": "2026-10-13",
     "link": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/",
     "original_title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
     "lang": "en"
   },
-  "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/": {
-    "title": "앞으로 2주: AI가 기후 솔루션에 대한 투자를 가속화하는 방법",
-    "summary": "앞으로 2주만 남은 지속 가능성 전문가들은 인공 지능(AI), 시장 정보 및 인간 전문 지식이 어떻게 기업이 신뢰할 수 있는 기후 투자 기회를 식별하고 지속 가능성 야망을 실행으로 전환하는 데 필요한 재정적 지원을 확보하는 데 도움이 될 수 있는지 알아보는 다가오는 웹 세미나에 등록하도록 초대됩니다.",
-    "source": "edie (환경 비즈니스)",
+  "https://spectrum.ieee.org/fervo-cape-station-geothermal": {
+    "title": "최초의 유틸리티 규모 강화 지열 발전소 가동 개시",
+    "summary": "이 기사는 원래 Canary Media에서 출판되었습니다. 지열 스타트업인 Fervo Energy는 현재 유타주의 케이프 스테이션 프로젝트에서 전력망에 전력을 판매하고 있습니다. 이는 유틸리티 규모의 차세대 지열 시설이 전 세계적으로 이러한 성과를 달성한 최초의 사례입니다. 휴스턴에 본사를 둔 이 회사는 지난 주 후반에 초기 33메가와트 장치를 가동했으며 그 이후로 테스트하고 생산량을 늘려 왔습니다. 목요일부터 Fervo는 공식적으로 상업 운영을 시작하여 캘리포니아의 소매 전력 공급업체인 Shell Energy에 무탄소 전력을 공급할 예정입니다. 20억 달러 규모의 프로젝트로 최종적으로 500MW가 될 케이프 스테이션은 세계 상업용 지열 발전소 중에서 독특합니다. 다른 시설에서는 자연적으로 발생하는 뜨거운 물과 증기를 사용하는 반면, Fervo는 지하 깊은 곳에서 자체 지열 자원을 설계했습니다. 이 스타트업은 석유 및 가스 산업의 시추 기술을 사용하여 뜨겁고 건조한 암석에 저수지를 만들어 증기를 생성하여 전기를 생산합니다. “전통적인 지열은",
+    "source": "IEEE Spectrum · Energy",
     "date": "2026-10-12",
-    "link": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-    "original_title": "TWO WEEKS TO GO: How AI can accelerate investment in climate solutions",
+    "link": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
+    "original_title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
     "lang": "en"
   },
-  "https://www.etnews.com/20261012000360": {
-    "title": "동반위, 전통시장 7곳 안전환경 개선…노후 전선 정비부터 디지털트윈 도입까지",
-    "summary": "동반성장위원회가 전국 전통시장의 화재 예방과 안전관리 강화를 위해 노후 전기시설 정비부터 디지털트윈 기반 스마트 안전시스템 구축까지 맞춤형 지원에 나선다. 동반성장위원회는 지역별 안전수요를 반영한 '2026년 전통시장 및 영세가맹점 안전환경 개선 지원사업'을 본격 추진한다고 12일 밝혔다. 이번 사업은 지방정부가 전통시장과 영세가맹점의 현장 여건에 맞는 안전환경 개선과제를 직접 발굴하고 동반위가 사업 추진을 지원하는 방식으로 진행된다. 화재 예",
-    "source": "전자신문 IT",
+  "https://www.eetimes.com/eu-cra-readiness-5-steps-manufacturers-need-to-take-now/": {
+    "title": "EU 사이버 복원력법(CRA) 대비: 제조업체가 지금 취해야 할 5가지 조치",
+    "summary": "EU 사이버 복원력법(CRA)은 소비자용 제품, 산업기기, 네트워킹 장비, 반도체, 소프트웨어 제조업체에 광범위한 제품 사이버보안 규제를 처음으로 적용하는 법안이다. EE Times는 제조업체가 CRA 발효에 대비해 지금 즉시 수행해야 할 5가지 준비 단계를 소개했다. 반도체 제조사 등 관련 업계는 신규 규제 대응을 위한 사전 준비가 필요하다.",
+    "source": "EE Times",
     "date": "2026-10-12",
-    "link": "https://www.etnews.com/20261012000360",
-    "original_title": "",
-    "lang": "ko"
+    "link": "https://www.eetimes.com/eu-cra-readiness-5-steps-manufacturers-need-to-take-now/",
+    "original_title": "EU CRA Readiness: 5 Steps Manufacturers Need to Take Now",
+    "lang": "en"
   },
   "https://www.edie.net/innocent-drinks-food-waste-reduction-initiative-and-liverpools-retrofit-programme-the-sustainability-success-stories-of-the-week/": {
-    "title": "Innocent Drinks의 음식물 쓰레기 감소 계획과 리버풀의 개조 프로그램: 이번 주의 지속 가능성 성공 사례",
-    "summary": "Mission Possible 캠페인의 일환으로 edie는 이번 주 최고의 지속 가능한 비즈니스 성공 사례 5개를 회원에게만 제공하는 주간 요약을 제공합니다. 이번 주 편에서는 Innocent Drinks의 음식물 쓰레기 줄이기 이니셔티브 등을 소개합니다.",
+    "title": "이노선트 드링크스의 음식물 쓰레기 감축 이니셔티브와 리버풀의 리트로핏 프로그램: 이번 주 지속가능성 성공 사례",
+    "summary": "에디(edie)가 'Mission Possible' 캠페인의 일환으로 이번 주 지속가능한 비즈니스 성공 사례 5건을 회원 전용 주간 요약 형태로 전달했다. 이번 호에서는 음료 기업 이노선트 드링크스의 음식물 쓰레기 감축 이니셔티브가 핵심 사례로 소개된다. 또한 리버풀의 리트로핏(건물 개보수) 프로그램 등 추가 지속가능성 성공 사례가 함께 다뤄진다.",
     "source": "edie (환경 비즈니스)",
     "date": "2026-10-12",
     "link": "https://www.edie.net/innocent-drinks-food-waste-reduction-initiative-and-liverpools-retrofit-programme-the-sustainability-success-stories-of-the-week/",
     "original_title": "Innocent Drinks’ food-waste reduction initiative and Liverpool’s retrofit programme: The sustainability success stories of the week",
     "lang": "en"
   },
-  "https://www.etnews.com/20261012000221": {
-    "title": "'광고판도 해킹하는 시대'...삼성전자, 유럽서 사이니지 보안 리더십 다진다",
-    "summary": "삼성전자가 보안을 앞세워 유럽 상업용 디스플레이 시장 공략 전략을 수정한다. 핵심 성장 동력으로 꼽히는 디지털 사이니지(광고·정보 전송 디스플레이 시스템) 시장에서 화면 크기·밝기 등 하드웨어 사양 경쟁을 넘어 소프트웨어·시스템 파트너와 '신뢰'를 새 경쟁 축으로 삼겠다는 전략이다. 삼성전자는 이달 중순 독일 프랑크푸르트에서 유럽 파트너 콘퍼런스 'In:Security 2026'을 개최한다. 삼성전자가 지역 파트너 대상으로 특정 상품군 보안 행",
-    "source": "전자신문 (전체)",
+  "https://www.eetimes.com/security-becomes-a-sign-off-item/": {
+    "title": "보안이 사인오프 항목으로 전환되다",
+    "summary": "유럽연합의 사이버 복원력 법(CRA)이 칩 보안을 감사 가능한 사인오프 항목으로 만들었다. 이에 따라 반도체 설계 팀은 2027년 이전에 보안 복원력을 입증해야 하는 상황이다. 보안 검증이 설계 승인(sign-off) 프로세스의 공식 요구사항으로 편입됨에 따라 칩 개발 워크플로우에 직접적인 영향을 줄 것으로 보인다.",
+    "source": "EE Times",
     "date": "2026-10-12",
-    "link": "https://www.etnews.com/20261012000221",
-    "original_title": "",
-    "lang": "ko"
+    "link": "https://www.eetimes.com/security-becomes-a-sign-off-item/",
+    "original_title": "Security Becomes a Sign-off Item",
+    "lang": "en"
+  },
+  "https://semiengineering.com/startup-funding-q3-2026/": {
+    "title": "스타트업 자금 조달: 2026년 3분기",
+    "summary": "2026년 3분기에 80개 스타트업이 총 85억 달러의 투자를 유치했다. 데이터 이동(data movement)과 메모리 기술을 다루는 기업들이 대규모 자금 조달에 성공했다. 해당 기사는 반도체 전문 매체 Semiconductor Engineering이 발행했다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-12",
+    "link": "https://semiengineering.com/startup-funding-q3-2026/",
+    "original_title": "Startup Funding: Q3 2026",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/rapidus-launches-core-ecosystem-to-support-2nm-chip-development-and-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-launches-core-ecosystem-to-support-2nm-chip-development-and-manufacturing": {
+    "title": "라피두스, 2나노미터 반도체 개발·생산 지원 위한 CORE 생태계 출범",
+    "summary": "일본 라피두스(Rapidus)가 첨단 2나노미터(nm) 반도체 파운드리의 개발과 생산을 지원하기 위해 CORE 생태계를 출범시켰다. 첫 단계 조치로 라피두스는 고객들의 초기 단계 설계를 지원하기 위한 디자인 솔루션 어소시에이츠(Design Solution Associates) 결성을 발표했다. 이는 고객사가 라피두스의 2nm 파운드리 공정을 원활히 활용할 수 있도록 하기 위한 생태계 구축 전략의 일환이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-12",
+    "link": "https://www.semiconductor-digest.com/rapidus-launches-core-ecosystem-to-support-2nm-chip-development-and-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-launches-core-ecosystem-to-support-2nm-chip-development-and-manufacturing",
+    "original_title": "Rapidus Launches CORE Ecosystem to Support 2nm Chip Development and Manufacturing",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/infineon-unveils-27-kw-power-supply-for-next-generation-ai-servers/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-unveils-27-kw-power-supply-for-next-generation-ai-servers": {
+    "title": "인피니언, 차세대 AI 서버용 27kW 전원공급장치 공개",
+    "summary": "인피니언이 차세대 AI 서버를 위한 27kW 출력의 전원공급장치(PSU)를 공개했다. AI 워크로드가 현대 데이터센터의 전력 요구사항을 새롭게 정의하고 있는 가운데 나온 발표다. 해당 소식은 Semiconductor Digest를 통해 보도되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-12",
+    "link": "https://www.semiconductor-digest.com/infineon-unveils-27-kw-power-supply-for-next-generation-ai-servers/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-unveils-27-kw-power-supply-for-next-generation-ai-servers",
+    "original_title": "Infineon Unveils 27 kW Power Supply for Next-Generation AI Servers",
+    "lang": "en"
   },
   "https://spectrum.ieee.org/data-center-excess-solar": {
     "title": "모듈형 데이터 센터 회사, 잉여 태양광 발전 활용",
-    "summary": "데이터 센터 건설에 수십억 달러가 쏟아지면서 많은 프로젝트에서는 시설 건설 이상의 제약에 직면하게 됩니다. 즉, 전력을 공급할 만큼 충분한 전력을 확보해야 한다는 것입니다. 샌프란시스코에 본사를 둔 Rune Energy는 데이터 센터를 건설하고 그리드 전력을 기다리는 대신 그리드가 흡수할 수 없는 과잉 전력이 있는 곳에 데이터 센터를 배치하고 있습니다. RELIC(Renewable Energy Linked Intelligent Compute)이라고 불리는 이 회사의 모듈형 데이터 센터는 태양광 어레이에서 생성된 직류(DC) 전기에 직접 연결됩니다. 각 RELIC 모듈은 길이 약 8피트, 너비 2피트, 높이 5피트의 컨테이너 내에 자체 네트워크 장비, 냉각 시스템, 전력 전자 장치 및 GPU를 갖춘 독립형 생태계입니다. 모듈은 최대 100kW의 전력을 소비할 수 있으며 무게는 약 2,000파운드입니다. Rune의 공동 창업자인 William Layden은 \"매년 유틸리티 규모의 태양광 발전으로 인해 낭비되는 에너지가 50,000기가와트시인 것으로 추정됩니다.\"라고 말합니다.",
+    "summary": "데이터 센터 건설에 수십억 달러가 쏟아지면서 많은 프로젝트에서는 시설 건설 이상의 제약에 직면하게 됩니다. 즉, 전력을 공급할 만큼 충분한 전력을 확보해야 한다는 것입니다. 샌프란시스코에 본사를 둔 Rune Energy는 데이터 센터를 건설하고 그리드 전력을 기다리는 대신 그리드가 흡수할 수 없는 과잉 전력이 있는 곳에 데이터 센터를 배치하고 있습니다. RELIC(Renewable Energy Linked Intelligent Compute)이라고 불리는 이 회사의 모듈형 데이터 센터는 태양광 어레이에서 생성된 직류(DC) 전기에 직접 연결됩니다. 각 RELIC 모듈은 약 8피트 길이, 2피트 너비, 5피트 높이의 컨테이너 내에 자체 네트워크 장비, 냉각 시스템, 전력 전자 장치 및 GPU를 갖춘 독립형 생태계입니다. 모듈은 최대 100kW의 전력을 소비할 수 있으며 무게는 약 2000파운드입니다. Rune의 공동 창업자이자 CE인 William Layden은 \"매년 유틸리티 규모의 태양광 발전으로 인해 낭비되는 에너지가 50,000기가와트시인 것으로 추산됩니다.\"라고 말합니다.",
     "source": "IEEE Spectrum · Energy",
     "date": "2026-10-10",
     "link": "https://spectrum.ieee.org/data-center-excess-solar",
@@ -198,120 +423,30 @@
     "lang": "en"
   },
   "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/": {
-    "title": "Manfred Horstmann: GlobalFoundries는 물리적 AI를 위한 FDX Fusion에 투자합니다",
-    "summary": "GlobalFoundries는 변형된 실리콘 FD-SOI가 EUV 없이 7nm급 성능을 제공하고 유럽에 새로운 시장을 열 수 있다고 말했습니다. Manfred Horstmann: GlobalFoundries가 물리적 AI용 FDX Fusion에 투자한 게시물이 EE Times에 처음 게재되었습니다.",
+    "title": "만프레드 호르스트만: 글로벌파운드리스, 피지컬 AI를 위한 FDX 퓨전에 베팅",
+    "summary": "글로벌파운드리스는 변형 실리콘 FD-SOI 기술이 EUV 노광 장비 없이도 7나노급 성능을 구현할 수 있다고 밝혔다. 회사는 이를 통해 유럽에 새로운 시장 기회를 열 수 있다고 주장했다. 해당 기사는 만프레드 호르스트만이 FDX 퓨전 기술을 피지컬 AI(Physical AI) 분야에 적용하는 전략을 다룬 EE Times 인터뷰다.",
     "source": "EE Times",
     "date": "2026-10-10",
     "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
     "original_title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
     "lang": "en"
   },
-  "https://www.edie.net/from-scrapping-the-future-homes-standard-to-repealing-the-climate-change-act-what-the-conservatives-economic-plan-means-for-the-uks-net-zero-economy/": {
-    "title": "순 제로 비용 오류가 발생한 후 면밀히 조사되는 보수적인 기후 정책 청사진",
-    "summary": "보수당의 예비 총리는 광범위한 경제 규제 완화 프로그램의 일환으로 미래 주택 표준 및 기후 변화법을 포함한 일련의 환경 및 순제로 정책을 폐지할 계획을 발표했습니다.",
-    "source": "edie (환경 비즈니스)",
+  "https://www.semiconductor-digest.com/microchip-technology-acquires-vorago-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=microchip-technology-acquires-vorago-technologies": {
+    "title": "마이크로칩 테크놀로지, 보라고 테크놀로지스 인수",
+    "summary": "마이크로칩 테크놀로지는 미국 텍사스 오스틴에 기반을 둔 비상장 기업 보라고 테크놀로지스를 인수했다고 발표했다. 보라고 테크놀로지스는 방사선 내성(radiation-hardened) 및 방사선 허용(radiation-tolerant) 마이크로컨트롤러(MCU)와 마이크로프로세서(MPU) 공급업체다. 이번 인수로 마이크로칩은 우주·방산 등 극한 환경용 반도체 포트폴리오를 강화할 것으로 보인다.",
+    "source": "Semiconductor Digest",
     "date": "2026-10-10",
-    "link": "https://www.edie.net/from-scrapping-the-future-homes-standard-to-repealing-the-climate-change-act-what-the-conservatives-economic-plan-means-for-the-uks-net-zero-economy/",
-    "original_title": "Conservative climate policy blueprint under scrutiny after net-zero cost error emerges",
+    "link": "https://www.semiconductor-digest.com/microchip-technology-acquires-vorago-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=microchip-technology-acquires-vorago-technologies",
+    "original_title": "Microchip Technology Acquires VORAGO Technologies",
     "lang": "en"
   },
-  "https://www.edie.net/one-week-to-go-connecting-existing-sustainability-reporting-with-uk-srs/": {
-    "title": "화요일: 기존 지속 가능성 보고를 영국 SRS와 연결",
-    "summary": "10월 13일 화요일에 진행되는 이 웹 세미나에서는 기업이 기존 ESOS, SECR 및 TCFD 관련 프로세스를 새로운 UK SRS(영국 지속 가능성 보고 표준)와 연결할 수 있는 방법을 알아봅니다.",
-    "source": "edie (환경 비즈니스)",
-    "date": "2026-10-09",
-    "link": "https://www.edie.net/one-week-to-go-connecting-existing-sustainability-reporting-with-uk-srs/",
-    "original_title": "ON TUESDAY: Connecting existing sustainability reporting with UK SRS",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/applied-materials-and-ucla-to-collaborate-on-chip-rd-at-epic-center/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-and-ucla-to-collaborate-on-chip-rd-at-epic-center": {
-    "title": "어플라이드 머티어리얼즈와 UCLA, EPIC 센터에서 칩 R&D 협력",
-    "summary": "Applied Materials, Inc.는 오늘 UCLA Samueli 공과대학이 실리콘 밸리에 있는 회사의 EPIC 센터에 연구 파트너로 합류할 것이라고 발표했습니다. EPIC 센터에서 칩 R&D 협력을 위한 어플라이드 머티어리얼즈와 UCLA의 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
+  "https://www.semiconductor-digest.com/gf-unveils-roadmap-to-deliver-the-worlds-most-advanced-fd-soi-platform-for-physical-ai/?utm_source=rss&utm_medium=rss&utm_campaign=gf-unveils-roadmap-to-deliver-the-worlds-most-advanced-fd-soi-platform-for-physical-ai": {
+    "title": "글로벌파운드리즈, 피지컬 AI를 위한 세계 최고 수준 FD-SOI 플랫폼 로드맵 공개",
+    "summary": "글로벌파운드리즈(GF)가 피지컬 AI(Physical AI)를 위한 세계 최고 수준의 FD-SOI 플랫폼 로드맵을 공개했다. 새로 발표된 FDX Fusion 플랫폼은 유럽 최초로 물리 세계에 최적화된 한 자릿수 나노미터급 디지털 성능을 제공하는 공정 기술이다. 이를 통해 GF는 FD-SOI 분야에서의 기술 리더십을 한층 확장해 나갈 계획이다.",
     "source": "Semiconductor Digest",
-    "date": "2026-10-09",
-    "link": "https://www.semiconductor-digest.com/applied-materials-and-ucla-to-collaborate-on-chip-rd-at-epic-center/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-and-ucla-to-collaborate-on-chip-rd-at-epic-center",
-    "original_title": "Applied Materials and UCLA to Collaborate on Chip R&D at EPIC Center",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/globalfoundries-tsmc-strike-2b-deal-for-u-s-ai-chip-packaging-components/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-tsmc-strike-2b-deal-for-u-s-ai-chip-packaging-components": {
-    "title": "GlobalFoundries, TSMC, 미국 AI 칩 패키징 부품에 대해 20억 달러 규모 거래 성사",
-    "summary": "다년간 20억 달러 규모의 계약을 통해 고급 패키징 생태계의 용량을 확장하고 AI 및 고성능 컴퓨팅 기술에 대한 수요 증가를 지원할 것입니다. GlobalFoundries와 TSMC가 미국 AI 칩 패키징 부품에 대해 20억 달러 규모의 거래를 성사시킨 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-09",
-    "link": "https://www.semiconductor-digest.com/globalfoundries-tsmc-strike-2b-deal-for-u-s-ai-chip-packaging-components/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-tsmc-strike-2b-deal-for-u-s-ai-chip-packaging-components",
-    "original_title": "GlobalFoundries, TSMC Strike $2B Deal for U.S. AI Chip Packaging Components",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/micron-plans-to-invest-up-to-50-million-to-support-genesis-mission-graduate-fellowship-and-national-laboratory-research/?utm_source=rss&utm_medium=rss&utm_campaign=micron-plans-to-invest-up-to-50-million-to-support-genesis-mission-graduate-fellowship-and-national-laboratory-research": {
-    "title": "Micron은 Genesis Mission 대학원 펠로우십 및 국립 연구소 연구를 지원하기 위해 최대 5천만 달러를 투자할 계획입니다.",
-    "summary": "백악관 \"과학: 새로운 황금시대 정상회담\"에서 발표된 투자는 고급 컴퓨팅 및 슈퍼 인텔리전스 분야의 차세대 미국 과학자 및 엔지니어를 개발할 것입니다. Micron은 Genesis Mission Graduate Fellowship 및 National Laboratory Research를 지원하기 위해 최대 5천만 달러를 투자할 계획이라는 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-09",
-    "link": "https://www.semiconductor-digest.com/micron-plans-to-invest-up-to-50-million-to-support-genesis-mission-graduate-fellowship-and-national-laboratory-research/?utm_source=rss&utm_medium=rss&utm_campaign=micron-plans-to-invest-up-to-50-million-to-support-genesis-mission-graduate-fellowship-and-national-laboratory-research",
-    "original_title": "Micron Plans to Invest Up to $50 Million to Support Genesis Mission Graduate Fellowship and National Laboratory Research",
-    "lang": "en"
-  },
-  "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant": {
-    "title": "미국 원자력 발전소 함대가 AI에 기대고 있다",
-    "summary": "AI가 접근할 수 없는 곳이 있다면 원자력 발전소의 제어실이 바로 그런 곳일 것입니다. 원자력 산업은 역사적으로 조심스럽고 위험을 회피합니다. 이는 사고나 실수로 인해 발생할 수 있는 치명적인 결과를 고려하면 이해할 수 있는 일입니다. 잘 훈련된 관리자라도 원자로의 운영 복잡성으로 인해 어려움을 겪습니다. 강력하지만 오류가 발생하기 쉬운 신기술에 적합해 보이는 설정은 아닙니다. 현실은 놀라울 정도로 다른 이야기를 들려준다. 다양한 기업들이 원자력 발전을 위한 AI 솔루션을 제공하기 시작했습니다. 올해에는 미국의 94개 원자로 전체가 AI를 운영에 통합할 수 있는 기회를 얻었고 대부분이 이를 받아들였습니다. 지난 8월 캘리포니아에 본사를 둔 Atomic Canyon은 원자력 산업 그룹과 협력하여 개발한 원자력 산업 가상 보조 장치인 NIVA를 출시했습니다. 이 보조자는 Constellation Energy가 운영하는 원자력 발전소에서 파일럿 테스트를 거쳤으며 이제 th에서 사용할 수 있습니다.",
-    "source": "IEEE Spectrum · Energy",
-    "date": "2026-10-08",
-    "link": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant",
-    "original_title": "The U.S. Nuclear Plant Fleet Is Leaning Into AI",
-    "lang": "en"
-  },
-  "https://semiengineering.com/finding-critical-defects-before-they-become-costly-failures-process-control-for-hybrid-bonding-and-advanced-packaging/": {
-    "title": "비용이 많이 드는 실패가 발생하기 전에 심각한 결함 찾기: 하이브리드 결합 및 고급 패키징을 위한 공정 제어",
-    "summary": "보완적인 검사 및 계측 기술을 통해 어떻게 작은 결함을 감지하고 통합 작업흐름 내에서 다양한 결함 유형을 구별할 수 있는지 알아보세요. 비용이 많이 드는 실패가 되기 전에 심각한 결함 찾기: 하이브리드 본딩 및 고급 패키징을 위한 공정 제어 게시물이 Semiconductor Engineering에서 처음으로 게재되었습니다.",
-    "source": "SemiEngineering",
-    "date": "2026-10-08",
-    "link": "https://semiengineering.com/finding-critical-defects-before-they-become-costly-failures-process-control-for-hybrid-bonding-and-advanced-packaging/",
-    "original_title": "Finding Critical Defects Before They Become Costly Failures: Process Control For Hybrid Bonding And Advanced Packaging",
-    "lang": "en"
-  },
-  "https://semiengineering.com/shift-left-complicates-fab-data-management/": {
-    "title": "왼쪽으로 이동하면 Fab 데이터 관리가 복잡해집니다.",
-    "summary": "스트리밍 센서 데이터는 고급 공정 제어에 대한 새로운 과제를 제시합니다. Shift Left가 Fab 데이터 관리를 복잡하게 만든다는 글이 Semiconductor Engineering에서 처음으로 등장했습니다.",
-    "source": "SemiEngineering",
-    "date": "2026-10-08",
-    "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-    "original_title": "Shift Left Complicates Fab Data Management",
-    "lang": "en"
-  },
-  "https://spectrum.ieee.org/anderon-quantum-fab": {
-    "title": "미국은 양자 칩 제조에 10억 달러를 투자했습니다.",
-    "summary": "미국 상무부는 IBM이 올해 초 설립한 양자 파운드리 기업인 앤더론(Anderon)에 최대 10억 달러의 CHIPS 및 과학법 R&D 지원금을 확정했습니다. 9월 16일 발표는 IBM 및 기타 양자 하드웨어 개발자를 위한 제조 서비스를 지원합니다. IBM은 이 상과 상응하는 현금 10억 달러를 지급하고 지적 재산, 자산 및 숙련된 인력을 기부하고 있습니다. Anderon은 뉴욕 주 Albany에 본사를 두고 있으며 IBM이 5년 이상 양자 웨이퍼를 생산해온 Albany NanoTech의 기존 사업장을 기반으로 하고 있다고 CEO Mukesh Khare가 밝혔습니다. 기존 인프라는 Anderon이 시작하는 데 도움이 되었습니다. 첫 번째 웨이퍼는 이미 생산 규모의 300mm 라인을 통해 이동하고 있습니다. 양자 컴퓨팅은 “이제 과학에서 실질적인 상업적 영향으로 옮겨가고 있습니다”라고 Khare는 말합니다. \"이는 업계가 양자 칩을 구축하기 위해 보다 안정적인 제조 소스도 필요하다는 것을 의미합니다.\" Anderon이 성공하면 Taiwan Semiconductor Manufactu가 할 수 있는 양자 하드웨어에 대한 성과를 얻을 수 있습니다.",
-    "source": "IEEE Spectrum · Semiconductors",
-    "date": "2026-10-07",
-    "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-    "original_title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/reducing-fab-cycle-time-what-mes-dispatching-scheduling-and-apc-each-contribute/?utm_source=rss&utm_medium=rss&utm_campaign=reducing-fab-cycle-time-what-mes-dispatching-scheduling-and-apc-each-contribute": {
-    "title": "Fab 사이클 시간 단축: MES, 디스패칭, 스케줄링 및 APC가 각각 기여하는 것",
-    "summary": "디스패치, 유한 용량 스케줄링, MES, APC 및 시뮬레이션은 각각 웨이퍼가 대기하는 데 소비하는 시간의 서로 다른 부분을 공격하며 모두 정확한 WIP 및 장비 상태 데이터에 의존합니다. Fab 사이클 시간 단축: MES, 디스패칭, 스케줄링 및 APC 각각의 기여에 대한 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-07",
-    "link": "https://www.semiconductor-digest.com/reducing-fab-cycle-time-what-mes-dispatching-scheduling-and-apc-each-contribute/?utm_source=rss&utm_medium=rss&utm_campaign=reducing-fab-cycle-time-what-mes-dispatching-scheduling-and-apc-each-contribute",
-    "original_title": "Reducing Fab Cycle Time: What MES, Dispatching, Scheduling and APC Each Contribute",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/qnity-develops-330c-sealing-material-for-high-temperature-chipmaking-processes/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-develops-330c-sealing-material-for-high-temperature-chipmaking-processes": {
-    "title": "Qnity, 고온 칩 제조 공정을 위한 330°C 밀봉 소재 개발",
-    "summary": "새로운 Kalrez 7080 씰링 솔루션은 수율, 신뢰성 및 도구 성능을 향상시키도록 설계된 통합 기술 포트폴리오를 강화합니다. Qnity, 고온 칩 제조 공정을 위한 330°C 밀봉 재료 개발 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-07",
-    "link": "https://www.semiconductor-digest.com/qnity-develops-330c-sealing-material-for-high-temperature-chipmaking-processes/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-develops-330c-sealing-material-for-high-temperature-chipmaking-processes",
-    "original_title": "Qnity Develops 330°C Sealing Material for High-Temperature Chipmaking Processes",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging": {
-    "title": "어플라이드 머티어리얼즈, 인텔과 트랜지스터 스케일링 및 고급 패키징 분야 R&D 협력 강화",
-    "summary": "이번 협력을 통해 실리콘 밸리에 있는 어플라이드의 EPIC 센터와 오리건주 힐스보로에 있는 인텔의 R&D 캠퍼스의 최첨단 역량을 결합하여 AI 컴퓨팅에 필수적인 고급 반도체 기술의 출시 기간을 단축할 것입니다. Applied Materials, Intel의 트랜지스터 스케일링 및 고급 패키징에 대한 R&D 협력 심화 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-07",
-    "link": "https://www.semiconductor-digest.com/applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging",
-    "original_title": "Applied Materials, Intel Deepen R&D Collaboration on Transistor Scaling and Advanced Packaging",
+    "date": "2026-10-10",
+    "link": "https://www.semiconductor-digest.com/gf-unveils-roadmap-to-deliver-the-worlds-most-advanced-fd-soi-platform-for-physical-ai/?utm_source=rss&utm_medium=rss&utm_campaign=gf-unveils-roadmap-to-deliver-the-worlds-most-advanced-fd-soi-platform-for-physical-ai",
+    "original_title": "GF Unveils Roadmap to Deliver the World’s Most Advanced FD-SOI Platform for Physical AI",
     "lang": "en"
   }
 }
