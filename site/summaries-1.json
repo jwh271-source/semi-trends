@@ -71,81 +71,216 @@
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.donga.com/news/Society/article/all/20261017/134858305/1": {
-    "title": "부천 공장 화재 진압 선착대 40대 소방관 끝내 사망",
-    "summary": "경기 부천 공장 화재 현장에 투입됐다가 심정지 상태에 빠졌던 소방관이 끝내 숨졌다.17일 소방당국과 경찰에 따르면 전날 부천 공장 화재 진화 중 심정지 상태에 빠진 40대 소방대원 A 씨가 병원에 이송돼 치료를 받던 중 숨졌다.앞서 전날 오전 8시 38분께 부천시 오정구 내동의 한 금속 사출 인쇄공장에서 불이 나 2시간 28분 만에 진화됐다.이 불로 A 씨가 숨지고, 다른 40대 소방대원 1명도 중상을 입었다. 이들은 당시 선착대로 도착해 화재를 진압했던 것으로 파악됐다.소방은 투입 과정에서 불이 급격히 확산하고 다량의 연기가 발생하면서 2인 1조로 작업 중이던 두 대원이 중상을 입은 것으로 보고 있다.두 사람은 당시 5ｍ가량 떨어져 있는 상태로 구조됐으며, 화재 출동 시 갖춰야 하는 개인 장구류를 모두 착용한 상태로 알려졌다.나머지 소방관 4명도 열탈진 증상을 보여 병원으로 이송됐고, 공장 관계자 2명은 연기흡입 등으로 병원 치료를 받는 등 모두 8명이 중경상을 입었다.",
+  "https://www.semiconductor-digest.com/saras-micro-devices-embeds-capacitors-to-power-ai-accelerators/?utm_source=rss&utm_medium=rss&utm_campaign=saras-micro-devices-embeds-capacitors-to-power-ai-accelerators": {
+    "title": "Saras Micro Devices, AI 가속기 전원 공급을 위한 내장형 커패시터 공개",
+    "summary": "Saras Micro Devices가 PCB 또는 패키지 코어에 내장되도록 설계된 커패시터를 발표했다. 이 커패시터는 AI 칩에 필요한 수직 전력 전달(vertical power delivery)을 지원한다. 신규 2mm 제품은 현재 샘플링 단계에 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-17",
+    "link": "https://www.semiconductor-digest.com/saras-micro-devices-embeds-capacitors-to-power-ai-accelerators/?utm_source=rss&utm_medium=rss&utm_campaign=saras-micro-devices-embeds-capacitors-to-power-ai-accelerators",
+    "original_title": "Saras Micro Devices Embeds Capacitors to Power AI Accelerators",
+    "lang": "en"
+  },
+  "https://www.donga.com/news/Society/article/all/20261017/134859215/1": {
+    "title": "인천 식품가공 공장서 화재…2시간만에 완진",
+    "summary": "17일 오후 7시 1분께 인천 제물포구 항동7가에 위치한 식품 가공 공장 2층에서 화재가 발생했다. 인명 피해는 없는 것으로 파악됐다. 소방 당국은 인원 163명과 펌프차 등 장비 51대를 동원해 2시간 13분 만인 오후 9시 14분에 진화를 완료했다. 소방은 구체적인 화재 원인과 재산 피해 규모를 조사할 방침이다.",
     "source": "동아일보 (사회/사고)",
     "date": "2026-10-17",
-    "link": "https://www.donga.com/news/Society/article/all/20261017/134858305/1",
+    "link": "https://www.donga.com/news/Society/article/all/20261017/134859215/1",
     "original_title": "",
     "lang": "ko"
   },
+  "https://www.donga.com/news/Politics/article/all/20261017/134859132/2": {
+    "title": "“소방관 딸이 7살” 대답에…말 잇지 못한 李대통령",
+    "summary": "President Lee Jae-myung visited the funeral home of the late Kim Jin-seok, a firefighter who died in the line of duty during the fire suppression of a factory fire in Bucheon, Gyeonggi Province, on the 17th to offer condolences. President Lee awarded the Okjo Geunjeong Medal, given to public officials with distinguished achievements, to the deceased and wrote in the guest book that the nation will forever remember his sacrifice. President Lee, who had a conversation with the deceased's wife, is said to have been unable to speak for a while, speechless at the answer that the deceased's daughter was 7 years old.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-17",
+    "link": "https://www.donga.com/news/Politics/article/all/20261017/134859132/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Politics/article/all/20261017/134859126/1": {
+    "title": "김은혜 국힘 도당위원장 순직 소방관 조문…“희생 헛되지 않게 할 것”",
+    "summary": "지난 16일 경기 부천시 오정구 내동의 공장 화재 진압 작업 중 중상을 입었던 김진석 소방위가 17일 새벽 순직했다. 김은혜 국민의힘 경기도당위원장은 17일 순천향대학교 부천병원 장례식장에 마련된 빈소를 찾아 유가족과 동료 소방관들에게 위로를 전했다. 김 위원장은 가장 위험한 곳에서 국민의 생명을 지킨 영웅들의 희생이 헛되지 않도록 더 큰 책임을 다하겠다고 밝혔다. 고인은 소방장에서 소방위로 1계급 특진 추서됐으며 장례는 경기도청장으로 치러진다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-17",
+    "link": "https://www.donga.com/news/Politics/article/all/20261017/134859126/1",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Politics/article/all/20261017/134859031/1": {
+    "title": "부천 화재 순직 김진석 소방위 19일 영결식…장례위원장 추미애",
+    "summary": "경기 부천시 오정구 한 공장 3층 화재 진화 작업에 투입됐다가 중상을 입은 김진석 소방위가 17일 숨졌다. 경기도는 추미애 지사를 장례위원장으로 하는 장례위원회를 구성해 고인의 장례를 경기도청장으로 치르며, 19일 부천시체육관에서 영결식을 엄수한 뒤 국립서울현충원에 안장한다. 도는 고인을 소방장에서 소방위로 1계급 특별승진시키고 옥조근정훈장을 추서하며, 국가유공자 지정 행정절차도 추진한다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-17",
+    "link": "https://www.donga.com/news/Politics/article/all/20261017/134859031/1",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261017/134858793/1": {
+    "title": "“발화지점 인근서 시너 수십 통 발견”…부천 공장 화재 합동감식",
+    "summary": "경기 부천시 오정구 내동의 5층짜리 금속부품 도장 공장 화재로 소방관 등 8명의 사상자가 발생했다. 17일 경찰·소방·국립과학수사연구원·한국전기안전공사 등 4개 기관 관계자 23명이 합동감식을 진행한 결과, 발화지점으로 보이는 작업장에서 인화성 물질인 시너 수십 통과 페인트통 수백 통이 발견됐다. 당국은 시너를 사용하는 금속 세척 작업 과정에서 발생한 유증 등에 의해 발화했을 가능성을 염두에 두고 정확한 원인을 조사 중이다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-17",
+    "link": "https://www.donga.com/news/Society/article/all/20261017/134858793/1",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/": {
+    "title": "SEMICON West 2026, AI 시대 반도체 제조 기술과 인력 양성 전시",
+    "summary": "SEMICON West 2026 행사에서 AI 시대에 대응하는 반도체 제조 기술과 인력 양성이 전시될 예정이다. 조 달러 규모의 반도체 산업은 AI 수요에 대비해 팹 인프라를 적응하고 확장할 준비가 되어 있다. 해당 소식은 EE Times를 통해 보도되었다.",
+    "source": "EE Times",
+    "date": "2026-10-17",
+    "link": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/",
+    "original_title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
+    "lang": "en"
+  },
   "https://www.donga.com/news/Society/article/all/20261016/134857699/2": {
     "title": "부천 공장서 화재, 소방관 1명 심정지 등 8명 부상",
-    "summary": "경기 부천시의 한 금속부품 도장 공장에서 큰불이 나 진화에 나선 소방관 2명이 중상을 입는 등 8명이 다쳤다. 중상을 입은 소방관 1명은 심정지 상태로 병원에 이송됐다. 16일 경기 부천소방서 등에 따르면 이날 오전 8시 38분경 부천시 오정구 내동의 4층짜리 건물 3층 도장 공장에서 불이 났다. 화재 초기 현장에 진입한 40대 김모 소방위 등 소방관 2명은 공장 관계자들의 대피를 돕고 마지막으로 빠져나오던 중 불길과 연기가 급격히 확산되면서 중상을 입은 것으로 파악됐다. 이 중 1명은 심정지 상태로 병원에 옮겨져 치료를 받고 있다. 다른 1명은 의식 장애 증상을 보였으나 병원 이송 후 의식을 회복했다. 다른 소방관 4명은 열탈진 증세로 병원에 옮겨졌다. 공장 관계자 2명도 연기를 흡입하거나 화상을 입었다. 소방 당국은 인근 소방서의 인력과 장비를 동원하는 대응 2단계를 발령하고, 화재 발생 2시간 반 만인 오전 11시 6분 불을 모두 껐다. 화재 발생 사실을 보고받은 이재명 대",
+    "summary": "16일 오전 8시 38분경 경기 부천시 오정구 내동의 4층짜리 건물 3층 금속부품 도장 공장에서 화재가 발생해 소방관 2명이 중상을 입는 등 총 8명이 다쳤다. 화재 초기 현장에 진입해 대피를 돕던 소방관 2명은 불길과 연기가 급격히 확산되면서 중상을 입었으며, 이 중 1명은 심정지 상태로 병원에 이송됐다. 다른 소방관 4명은 열탈진 증세로, 공장 관계자 2명은 연기 흡입 및 화상으로 병원으로 옮겨졌다. 소방 당국은 대응 2단계를 발령하고 화재 발생 2시간 반 만인 오전 11시 6분에 불을 모두 껐다.",
     "source": "동아일보 (사회/사고)",
     "date": "2026-10-17",
     "link": "https://www.donga.com/news/Society/article/all/20261016/134857699/2",
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/": {
-    "title": "다음 주: AI가 기후 솔루션에 대한 투자를 가속화하는 방법",
-    "summary": "앞으로 2주만 남은 지속 가능성 전문가들은 인공 지능(AI), 시장 정보 및 인간 전문 지식이 어떻게 기업이 신뢰할 수 있는 기후 투자 기회를 식별하고 지속 가능성 야망을 실행으로 전환하는 데 필요한 재정적 지원을 확보하는 데 도움이 될 수 있는지 알아보는 다가오는 웹 세미나에 등록하도록 초대됩니다.",
-    "source": "edie (환경 비즈니스)",
+  "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/": {
+    "title": "대만의 AI 야망, 인재 부족이라는 난관에 부딪히다",
+    "summary": "AMD의 데이비드 왕은 EE Times와 인터뷰에서 대만이 랙스케일 AI, 피지컬 AI, AI PC 시장에서 막대한 기회를 갖고 있다고 밝혔다. 다만 그는 이러한 기회를 실현하는 데 있어 걸림돌은 인재 부족일 수 있다고 지적했다. 즉, 대만의 AI 산업 성장은 숙련 인력 확보에 달려 있다는 것이다.",
+    "source": "EE Times",
     "date": "2026-10-16",
-    "link": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-    "original_title": "NEXT WEEK: How AI can accelerate investment in climate solutions",
+    "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
+    "original_title": "Taiwan’s AI Ambitions Run into Talent Gap",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/your-chip-works-prove-it-is-secure/": {
+    "title": "칩은 작동합니다. 이제 보안성을 증명하세요.",
+    "summary": "EE Times가 30분 분량의 BitCast 웨비나 개최를 알리는 콘텐츠다. 이 세션에서는 전문가가 기존 시뮬레이션 또는 에뮬레이션 실행 과정에서 정보 흐름 추적(IFT) 기법이 보안에 민감한 자산을 어떻게 추적하는지 시연한다. 이를 통해 칩의 기능 정상 동작 여부와 별개로 보안성을 검증할 수 있음을 강조한다.",
+    "source": "EE Times",
+    "date": "2026-10-16",
+    "link": "https://www.eetimes.com/your-chip-works-prove-it-is-secure/",
+    "original_title": "Your Chip Works. Prove It Is Secure.",
     "lang": "en"
   },
   "https://www.donga.com/news/Society/article/all/20261016/134855225/1": {
     "title": "부천 화재 공장에 석유류 2000L 보관…“기계서 스파크 튀며 불길”",
-    "summary": "“처음에는 연기가 많이 보이지 않더니, 갑자기 검은 연기가 뿜어져 나왔다.”16일 경기 부천시의 한 금속부품 도장 공장 화재를 목격한 인근 공장 직원 채윤병 씨(58)는 “매캐한 연기 냄새가 자욱해 밖으로 나와 봤다”며 당시 상황을 전했다. 이어 “현장에서 나온 소방관 일부는 도로에 주저앉았다가 몸을 추스르고 일어났지만, 한 분은 결국 실려서 이송됐다”고 말했다. 이날 불은 소방대원들의 진화 도중 급격히 확산됐고, 초기 진압에 나섰던 소방관 1명은 심정지 상태로 이송됐다.소방 당국에 따르면 이날 부천소방서 오정119안전센터 소속 김모 소방장 등 선착대 4명은 화재 신고 접수 7분 만인 오전 8시 45분경 현장에 도착해 보호장비를 착용하고 불이 난 3층으로 진입했다. 하지만 20여 분 뒤 불길이 급격히 번졌다. 2인 1조로 진화 작업을 하던 대원들 중 입구 쪽에 있던 2명은 몸을 피했지만, 김 소방장 등 2명은 미쳐 빠져나오지 못했다.소방관 1명은 고립된 지 3분 만에 다른 대원",
+    "summary": "16일 경기 부천시의 한 금속부품 도장 공장에서 화재가 발생해 초기 진압에 나선 김모 소방장 등 소방관 1명이 심정지 상태로 병원에 이송됐다. 이 공장에는 석유류 2000L가 보관돼 있었으며, 목격자는 기계에서 스파크가 튀며 불길이 발생했다고 전했다. 선착대 소방관 4명은 화재 신고 접수 7분 만인 오전 8시 45분께 현장에 도착해 3층에 진입했으나 20여 분 뒤 불길이 급격히 번지면서 김 소방장 등 2명이 고립됐다.",
     "source": "동아일보 (사회/사고)",
     "date": "2026-10-16",
     "link": "https://www.donga.com/news/Society/article/all/20261016/134855225/1",
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.etnews.com/20261016000191": {
-    "title": "이재용 삼성전자 회장, 중동 파견 임직원 격려…“책임감·노력에 깊이 감사”",
-    "summary": "이재용 삼성전자 회장이 중동 지역에 파견된 삼성 관계사 임직원과 가족을 격려했다. 삼성은 이 회장이 전쟁으로 불안감이 높아진 중동 임직원 독려를 위해 선물을 전달했다고 16일 밝혔다. 선물은 중동 현지에서 사용할 수 있는 300만~500만원 상당 상품권과 국내 거주 가족을 위한 온누리상품권 200만~300만원이다. 대상자는 △사우디아라비아 △아랍에미리트(UAE) △이란 △이라크 △이스라엘 △카타르 △요르단 △쿠웨이트 △바레인 등 7개국에 파견된",
+  "https://www.eetimes.com/ai-moves-to-system-level-co-design-how-can-taiwan-capture-more-value/": {
+    "title": "AI가 시스템 수준 공동 설계로 이동: 대만은 어떻게 더 많은 가치를 확보할 것인가",
+    "summary": "iTechCon 2026의 패널 세션에서 AI 개발 지원을 위해 대만이 반도체, 첨단 패키징, 시스템 설계 분야의 강점을 어떻게 활용할 수 있는지 논의가 진행되었다. AI 개발 흐름이 시스템 수준의 공동 설계(System-Level Co-Design)로 이동하는 가운데, 대만이 기존 반도체 강국의 지위를 넘어 공급망에서 더 많은 부가가치를 확보하는 전략이 주요 화두였다. 본 기사는 EE Times에 게재된 내용으로, 패널 논의의 구체적 세부 내용은 원문을 통해 확인할 수 있다.",
+    "source": "EE Times",
+    "date": "2026-10-16",
+    "link": "https://www.eetimes.com/ai-moves-to-system-level-co-design-how-can-taiwan-capture-more-value/",
+    "original_title": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value",
+    "lang": "en"
+  },
+  "https://semiengineering.com/chip-industry-week-in-review-160/": {
+    "title": "반도체 산업 주간 리뷰",
+    "summary": "반도체 산업 주간 동향을 정리한 기사로, 팹 증설이 가속화되고 있으며 중국이 메모리와 EUV 기술에서 진전을 보이고 있다. 테라다인이 테스트 분야 계약을 체결했고, TSMC와 ASML의 시장 신호 및 300mm 팹 투자 동향이 주요 관심사로 언급됐다. SEMICON West와 OCP 행사 주요 내용과 3D SiP 기술 동향이 다뤄졌으며, 광학 및 3D 컴퓨팅 스타트업들이 신규 자금을 조달했다. 또한 양자 하드웨어 분야에서도 기술 진전이 있었다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-16",
+    "link": "https://semiengineering.com/chip-industry-week-in-review-160/",
+    "original_title": "Chip Industry Week In Review",
+    "lang": "en"
+  },
+  "https://www.edie.net/suntory-publishes-first-climate-transition-plan/": {
+    "title": "산토리, 첫 기후 전환 계획 발표",
+    "summary": "산토리 음료·식품 유럽법인(Suntory Beverage & Food Europe)이 첫 기후 전환 계획(Climate Transition Plan)을 공개했다. 이 계획은 자체 운영 및 가치사슬 전반의 배출량을 줄이기 위한 구체적 조치를 담고 있다. 최종 목표는 2050년까지, 가능한 한 그 이전에 넷제로(순배출 제로)를 달성하는 것이다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-16",
+    "link": "https://www.edie.net/suntory-publishes-first-climate-transition-plan/",
+    "original_title": "Suntory publishes first Climate Transition Plan",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261016000190": {
+    "title": "둠둠, 베트남 드론 기업 CT UAV와 전략적 업무협약 체결… 현지 수질관리 시장 진출 기반 마련",
+    "summary": "드론 기반 환경 솔루션 기업 둠둠이 베트남 드론 기업 CT UAV와 전략적 업무협약(MOU)을 체결했다. 양사는 드론 기반 수질관리 기술 협력과 베트남 시장 진출 기반을 마련하기로 했다. 이번 협력은 국내 수질관리 기술과 베트남 현지 드론 기술을 연계해 공동 사업 기회를 발굴하는 것이 골자이며, 향후 동남아시아 시장 확장 가능성도 모색하고 있다.",
     "source": "전자신문 IT",
     "date": "2026-10-16",
-    "link": "https://www.etnews.com/20261016000191",
+    "link": "https://www.etnews.com/20261016000190",
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.etnews.com/20261016000098": {
-    "title": "바이오벤처 “규제·자금 장벽 낮춰달라”…이소영 “전담조직 신설”",
-    "summary": "첨단재생바이오 분야 중소벤처기업들이 정부에 규제 개선과 자금 지원 확대를 촉구했다. 신약 개발부터 상용화까지 막대한 시간과 비용이 소요되는 바이오산업 특성을 고려해 해외 임상·실증 성과의 국내 인허가 활용을 확대하고, 기술력을 보유한 기업에 대한 금융지원도 강화해야 한다는 요구다. 이에 이소영 중소벤처기업부 장관은 제약바이오 분야 전담조직을 신설하고 관계부처와의 규제 협의를 강화하겠다고 밝혔다. 이 장관은 16일 충북 청주시 오송에 위치한 오가",
+  "https://www.etnews.com/20261016000161": {
+    "title": "에티포스·넥스윌, 드론·무인체계 방산 통신기술 공동개발",
+    "summary": "통신반도체 전문기업 에티포스가 방산전자 기업 넥스윌과 손잡고 드론·무인체계용 통신기술 개발에 나선다. 자체 개발한 국산 통신반도체 기술을 방산 분야로 확대하고, 공동 제품 개발과 국내외 사업화를 추진한다. 16일 관련 업계에 따르면 에티포스는 전날 경기 성남시 분당구 본사에서 넥스윌과 '방산 분야 기술개발 및 사업협력 양해각서(MOU)'를 체결했다. 에티포스의 통신모뎀·반도체 설계 기술과 넥스윌의 무선주파수(RF)·방산장비 개발 역량을 결합하는",
     "source": "전자신문 IT",
     "date": "2026-10-16",
-    "link": "https://www.etnews.com/20261016000098",
+    "link": "https://www.etnews.com/20261016000161",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261016000023": {
+    "title": "교보생명, 수소차량으로 찾아가는 환경교육 실시",
+    "summary": "교보생명은 '푸름이 이동환경교실'을 통해 올해 연말까지 초·중학생과 지역 주민 등 2만5000명을 대상으로 찾아가는 체험형 환경교육을 펼친다고 16일 밝혔다. 수도권(서울·인천·경기) 일대 100여개 학교와 돌봄기관 등을 방문하는 이번 프로그램은 기후위기와 탄소중립, 친환경 소비를 아우르는 참여형 콘텐츠로 채워진다. 특히 교육 거점을 교실 밖으로 확장했다. 지역아동센터와 우리동네키움센터 등 방과 후 돌봄 공간에는 눈높이 놀이형 수업을 제공하고,",
+    "source": "전자신문 IT",
+    "date": "2026-10-16",
+    "link": "https://www.etnews.com/20261016000023",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261015000053": {
+    "title": "[2026 경기 스타트업 서밋]에임퓨처, 기기에서 AI 돌릴 반도체 기술 공개…가전 넘어 자동차로",
+    "summary": "AI 반도체 설계기업 에임퓨처가 '2026 경기 스타트업 서밋'에서 신경망처리장치(NPU) 설계자산(IP)과 시스템 통합 솔루션을 공개했다. 이 기술은 반도체 설계부터 AI 모델 최적화, 기기 적용까지 전 과정을 지원한다. 기업은 에임퓨처의 설계자산을 활용해 제품에 필요한 AI 연산 기능을 반도체에 직접 탑재할 수 있다. 외부 서버와의 통신에 의존하지 않고 가전제품, 로봇, 자동차 등 기기 내부에서 AI를 실행하는 데 활용된다.",
+    "source": "전자신문 IT",
+    "date": "2026-10-16",
+    "link": "https://www.etnews.com/20261015000053",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261015000041": {
+    "title": "[2026 경기 스타트업 서밋] 뉴로플로우, 위험성평가 돕는 '세이프플로우' 공개",
+    "summary": "영상 AI 기업 뉴로플로우가 '2026 경기 스타트업 서밋'에서 산업현장 위험성평가 솔루션 '세이프플로우'를 공개했다. 이 솔루션은 작업 정보와 현장 데이터를 분석해 위험요인을 찾아내고 평가 문서 작성을 지원하며, 사업장 담당자는 AI가 분류한 위험요인과 관련 안전기준, 개선대책을 검토할 수 있다. 반복되는 문서 작성과 기준 확인 부담을 줄여 위험요인 누락 방지에 기여하는 것이 목적이다. 뉴로플로우는 경기 수원에 본사를 두고 있다.",
+    "source": "전자신문 IT",
+    "date": "2026-10-16",
+    "link": "https://www.etnews.com/20261015000041",
     "original_title": "",
     "lang": "ko"
   },
   "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/": {
-    "title": "일본, 미국 팹 확장을 위해 GlobalFoundries에 210억 달러 제공",
-    "summary": "일본이 GlobalFoundries에 210억 달러를 제안하면 뉴욕에 2개의 팹이 추가되고 미국 칩 생산 능력이 10% 증가할 것입니다. 분석가들이 국가 지원에 대해 경고하는 이유를 알아보세요. 일본이 미국 Fab 확장을 위해 GlobalFoundries에 210억 달러를 제안한 게시물이 EE Times에 처음 게재되었습니다.",
+    "title": "일본, 글로벌파운드리 미국 팹 증설에 210억 달러 제안",
+    "summary": "일본이 글로벌파운드리(GlobalFoundries)에 210억 달러를 제안하며 미국 내 팹 증설을 지원한다. 이 제안에는 뉴욕에 팹 2곳을 추가 건설하는 내용이 포함되어 있다. 증설이 완료되면 미국 반도체 생산능력이 10% 증가할 것으로 전망된다. 한편 분석가들은 정부 지원에 대한 우려를 제기하고 있다.",
     "source": "EE Times",
     "date": "2026-10-16",
     "link": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/",
     "original_title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
     "lang": "en"
   },
+  "https://www.semiconductor-digest.com/nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west": {
+    "title": "노드슨 소노플렉스, SEMICON West 2026에서 '베스트 오브 웨스트' 상 수상",
+    "summary": "SEMI와 Semiconductor Digest는 노드슨 테스트 & 인스펙션의 SonoFlex 어쿠스틱 시스템이 SEMICON West 2026에서 수여되는 'Best of West' 상 수상자로 선정됐다고 발표했다. 수상 제품은 행사장 부스 5844에서 전시될 예정이다. Best of West는 SEMICON West에서 혁신적인 반도체 기술·장비에 수여되는 상으로, 이번 수상으로 노드슨의 검사 장비 기술력이 인정받았다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-16",
+    "link": "https://www.semiconductor-digest.com/nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west",
+    "original_title": "Nordson SonoFlex Wins 2026 Best of West Award at SEMICON West",
+    "lang": "en"
+  },
   "https://www.semiconductor-digest.com/great-lakes-semiconductor-launches-modular-fab-and-packaging-project/?utm_source=rss&utm_medium=rss&utm_campaign=great-lakes-semiconductor-launches-modular-fab-and-packaging-project": {
-    "title": "Great Lakes Semiconductor, 모듈식 팹 및 패키징 프로젝트 개시",
-    "summary": "Great Lakes Semiconductor(GLS)는 회사의 Innovation Funnel 이니셔티브에 따라 출시된 Great American ChipForge 플랫폼의 첫 번째 프로젝트를 오늘 발표했습니다. Great Lakes Semiconductor, 모듈식 Fab 및 패키징 프로젝트 출시 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
+    "title": "그레이트 레이크스 세미컨덕터, 모듈형 팹 및 패키징 프로젝트 출범",
+    "summary": "Great Lakes Semiconductor (GLS) today announced the first project on its Great American ChipForge platform, launched under the company's Innovation Funnel initiative. The post Great Lakes Semiconductor Launches Modular Fab and Packaging Project appeared first on Semiconductor Digest .",
     "source": "Semiconductor Digest",
     "date": "2026-10-16",
     "link": "https://www.semiconductor-digest.com/great-lakes-semiconductor-launches-modular-fab-and-packaging-project/?utm_source=rss&utm_medium=rss&utm_campaign=great-lakes-semiconductor-launches-modular-fab-and-packaging-project",
     "original_title": "Great Lakes Semiconductor Launches Modular Fab and Packaging Project",
     "lang": "en"
   },
+  "https://www.semiconductor-digest.com/ny-loves-nanotech-rebrands-as-semiconductor-alliance-ny/?utm_source=rss&utm_medium=rss&utm_campaign=ny-loves-nanotech-rebrands-as-semiconductor-alliance-ny": {
+    "title": "NY Loves Nanotech, 'Semiconductor Alliance NY'로 리브랜딩",
+    "summary": "뉴욕주의 27년 된 반도체 아웃리치 컨소시엄이 SEMICON West 행사에서 새 조직명을 공개했다. 이번 리브랜딩으로 '나노테크(Nanotech)' 대신 반도체 칩 생태계를 강조하는 'Semiconductor Alliance NY'로 명칭이 변경되었다. 이는 뉴욕주가 성장하는 반도체 칩 생태계를 중심으로 한 홍보 전략으로 전환했음을 보여준다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-16",
+    "link": "https://www.semiconductor-digest.com/ny-loves-nanotech-rebrands-as-semiconductor-alliance-ny/?utm_source=rss&utm_medium=rss&utm_campaign=ny-loves-nanotech-rebrands-as-semiconductor-alliance-ny",
+    "original_title": "NY Loves Nanotech Rebrands as Semiconductor Alliance NY",
+    "lang": "en"
+  },
   "https://www.semiconductor-digest.com/wooptix-brings-astronomy-optics-to-wafer-metrology/?utm_source=rss&utm_medium=rss&utm_campaign=wooptix-brings-astronomy-optics-to-wafer-metrology": {
-    "title": "Wooptix, 천문학 광학을 웨이퍼 계측에 도입",
-    "summary": "Wavefront 위상 이미징은 단일 샷에서 1,600만 개의 데이터 포인트를 캡처하여 모든 웨이퍼의 인라인 형상 및 응력 측정을 목표로 합니다. Wooptix가 천문학 광학을 웨이퍼에 가져옵니다. 계측학이 Semiconductor Digest에 처음으로 게재되었습니다.",
+    "title": "Wooptix, 천문학 광학 기술을 웨이퍼 계측에 적용",
+    "summary": "Wooptix는 천문학 분야의 광학 기술인 파면 위상 이미징(wavefront phase imaging)을 웨이퍼 계측에 도입했다. 이 기술은 단 한 번의 측정으로 1,600만 개의 데이터 포인트를 확보할 수 있다. 회사는 이를 통해 모든 웨이퍼에 대한 인라인 형상 및 응력 측정을 목표로 하고 있다.",
     "source": "Semiconductor Digest",
     "date": "2026-10-16",
     "link": "https://www.semiconductor-digest.com/wooptix-brings-astronomy-optics-to-wafer-metrology/?utm_source=rss&utm_medium=rss&utm_campaign=wooptix-brings-astronomy-optics-to-wafer-metrology",
@@ -162,8 +297,8 @@
     "lang": "en"
   },
   "https://www.semiconductor-digest.com/zeiss-smt-expands-from-lithography-optics-into-advanced-packaging-process-control/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-smt-expands-from-lithography-optics-into-advanced-packaging-process-control": {
-    "title": "ZEISS SMT, 리소그래피 광학에서 고급 패키징 공정 제어로 확장",
-    "summary": "DUNE은 한 번에 하나의 웨이퍼를 수정하고, NLX는 X선 인라인을 가져오며, 마스크 도구는 High-NA의 더 큰 레티클을 위해 준비됩니다. 포스트 ZEISS SMT가 리소그래피 광학에서 고급 패키징 공정 제어로 확장하다 Semiconductor Digest에 처음 등장했습니다.",
+    "title": "자이스 SMT, 리소그래피 광학에서 첨단 패키징 공정 제어 사업으로 확장",
+    "summary": "자이스 SMT가 리소그래피 광학 분야를 넘어 첨단 패키집 공정 제어 시장으로 사업을 확장한다. DUNE은 웨이퍼 보우(휨)를 한 장씩 교정하는 도구이며, NLX는 X-ray 검사를 인라인으로 구현한다. 또한 마스크 관련 장비는 High-NA 노광 장비의 더 큰 레티클에 대응할 준비를 마쳤다. 해당 기사는 Semiconductor Digest를 통해 처음 게재되었다.",
     "source": "Semiconductor Digest",
     "date": "2026-10-16",
     "link": "https://www.semiconductor-digest.com/zeiss-smt-expands-from-lithography-optics-into-advanced-packaging-process-control/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-smt-expands-from-lithography-optics-into-advanced-packaging-process-control",
@@ -171,183 +306,147 @@
     "lang": "en"
   },
   "https://www.semiconductor-digest.com/abm-maps-the-six-phases-of-a-fabs-life/?utm_source=rss&utm_medium=rss&utm_campaign=abm-maps-the-six-phases-of-a-fabs-life": {
-    "title": "ABM은 Fab 수명의 6단계를 매핑합니다.",
-    "summary": "WGNSTAR는 이제 ABM의 일부가 되면서 미국 프로젝트가 증가함에 따라 건설 청소부터 해체까지 팹에 인력을 투입할 수 있다고 밝혔습니다. 포스트 ABM Maps the Six Phases of a Fab's Life가 Semiconductor Digest에 처음 등장했습니다.",
+    "title": "ABM, 팹 생애주기 6단계를 제시하다",
+    "summary": "시설관리 기업 ABM은 WGNSTAR 인수가 완료됨에 따라 미국 내 반도체 팹 프로젝트가 급증하는 상황에서 팹의 전 생애주기에 걸친 인력 공급이 가능하다고 밝혔다. ABM은 팹 건설 단계의 청소 작업부터 해체·폐쇄(decommissioning)까지 6단계로 나눈 팹 생애주기 모델을 제시했다. 이를 통해 ABM은 미국에서 늘어나는 팹 건설·운영 프로젝트에 대응하는 통합 서비스를 제공할 수 있게 되었다.",
     "source": "Semiconductor Digest",
     "date": "2026-10-16",
     "link": "https://www.semiconductor-digest.com/abm-maps-the-six-phases-of-a-fabs-life/?utm_source=rss&utm_medium=rss&utm_campaign=abm-maps-the-six-phases-of-a-fabs-life",
     "original_title": "ABM Maps the Six Phases of a Fab’s Life",
     "lang": "en"
   },
+  "https://www.semiconductor-digest.com/heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging": {
+    "title": "하이덴하인, 프런트엔드 모션 제어 정밀도를 첨단 패키징에 적용",
+    "summary": "하이던하인(HEIDENHAIN)이 프런트엔드(전공정) 수준의 모션 제어 정밀도를 첨단 패키징 분야에 도입했다. 새로운 ETEL METIS HP 에어 베어링 스테이지는 다자유도 엔코더를 활용해 대형 패널 기반 마스크리스 리소그래피 및 검사 장비에 적용된다. 해당 제품은 첨단 패키징 공정에서 대형 패널의 정밀 위치 제어 요구에 대응하기 위한 것이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-16",
+    "link": "https://www.semiconductor-digest.com/heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging",
+    "original_title": "HEIDENHAIN Brings Front-End Motion Control Precision to Advanced Packaging",
+    "lang": "en"
+  },
   "https://spectrum.ieee.org/china-rare-earth-minerals": {
     "title": "중국의 모나자이트 독점을 쫓아라",
-    "summary": "내몽고에 위치한 200만 인구의 산업 도시인 바오터우(Baotou)의 특이한 특징 중 하나는 세계에서 가장 오염된 호수 중 하나인 10평방 킬로미터(4평방 마일)의 호수입니다. 관련된 댐 이름인 Weikuang Dam(또는 Baogang Tailings Dam)으로 불리는 인공 호수는 수십 년 동안 중국이 전 세계적으로 지배적인 철강, 희토류 산업을 위한 광물 가공에서 배출되는 폐수를 수집해 왔습니다. 1950년대 후반에 건설된 이 호수에는 상당량의 방사성 토륨과 함께 매우 독성이 강한 산업용 화학 물질이 들어 있습니다. 후자는 주로 희토류를 위한 모나자이트 광석을 처리하면서 발생합니다. 이후 중국은 환경 규제와 채광 및 광물 처리에 대한 제한을 크게 강화했습니다. 예를 들어, 웨이쿠앙댐이라는 환경재난 때문에 국가에서는 독립형 모나자이트 광산, 즉 모나자이트 외에는 아무것도 채굴하지 않는 광산의 개발이나 운영을 허용하지 않는 것이 크다.",
+    "summary": "내몽고에 위치한 200만 인구의 산업 도시인 바오터우(Baotou)의 특이한 특징 중 하나는 세계에서 가장 오염된 호수 중 하나인 10평방 킬로미터(4평방 마일)의 호수입니다. 관련된 댐 이름인 Weikuang Dam(또는 Baogang Tailings Dam)으로 불리는 인공 호수는 수십 년 동안 중국이 전 세계적으로 지배적인 철강, 희토류 산업을 위한 광물 가공에서 배출되는 폐수를 수집해 왔습니다. 1950년대 후반에 건설된 이 호수에는 상당량의 방사성 토륨과 함께 매우 독성이 강한 산업용 화학 물질이 들어 있습니다. 후자는 주로 희토류용 모나자이트 광석을 가공하여 생성됩니다. 이후 중국은 환경 규제와 채광 및 광물 처리에 대한 제한을 크게 강화했습니다. 예를 들어, 웨이쿠앙댐이라는 환경재난 때문에 국가에서는 독립형 모나자이트 광산, 즉 모나자이트 외에는 아무것도 채굴하지 않는 광산의 개발이나 운영을 허용하지 않는 것이 크다.",
     "source": "IEEE Spectrum · Energy",
     "date": "2026-10-15",
     "link": "https://spectrum.ieee.org/china-rare-earth-minerals",
     "original_title": "Chasing China’s Monazite Monopoly",
     "lang": "en"
   },
-  "https://spectrum.ieee.org/monazite-rare-earth": {
-    "title": "방사성 광석이 희토류에 대한 중국의 지배력을 깰 수 있을까?",
-    "summary": "중요한 희토류 시장에 대한 중국의 지배력을 무너뜨리기 위한 글로벌 캠페인은 21세기 초의 대표적인 지정학적 투쟁 중 하나로 자리잡고 있습니다. 북미, 호주, 유럽 전역에 흩어져 있는 수백 개의 광산 회사, 정부 기관 및 산업 시설은 희토류 산화물 및 희토류 금속 시장의 약 90%를 장악하고 있는 중국 기업의 점유율을 빼앗기 위해 노력하고 있습니다. 희토류는 반도체, LED, 레이저, 디스플레이, 금속 합금, 광학 렌즈, 석유 및 화학 처리용 촉매 등 광범위하고 중요한 제조 분야에 사용되는 성분입니다. 하지만 가장 중요한 것은 영구 자석입니다. 기본적으로 모든 강력한 전기 모터는 희토류 영구 자석을 기반으로 합니다. 이러한 모터는 전기 자동차, 냉난방 시스템, 로봇, 가전제품, 도구의 핵심입니다. 희토류 자석은 전술 드론부터 탄도 미사일에 이르는 군사 시스템용 모터에도 사용됩니다.",
-    "source": "IEEE Spectrum · Semiconductors",
+  "https://www.semiconductor-digest.com/advantest-readies-silicon-photonics-test-for-volume-production/?utm_source=rss&utm_medium=rss&utm_campaign=advantest-readies-silicon-photonics-test-for-volume-production": {
+    "title": "Advantest는 대량 생산을 위한 실리콘 포토닉스 테스트를 준비합니다.",
+    "summary": "FormFactor의 TRITON 프로버 및 새로운 턴키 광학 테스트 랙과 V93000의 통합은 엔지니어링에서 HVM으로의 전환을 목표로 합니다. 대량 생산을 위한 Advantest Readyies Silicon Photonics 테스트 포스트가 Semiconductor Digest에 처음으로 게재되었습니다.",
+    "source": "Semiconductor Digest",
     "date": "2026-10-15",
-    "link": "https://spectrum.ieee.org/monazite-rare-earth",
-    "original_title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+    "link": "https://www.semiconductor-digest.com/advantest-readies-silicon-photonics-test-for-volume-production/?utm_source=rss&utm_medium=rss&utm_campaign=advantest-readies-silicon-photonics-test-for-volume-production",
+    "original_title": "Advantest Readies Silicon Photonics Test for Volume Production",
     "lang": "en"
   },
-  "https://www.etnews.com/20261015000199": {
-    "title": "현대차, 서울디자인어워드 'ESG 임팩트상' 수상",
-    "summary": "현대자동차가 '서울디자인어워드 2026'에서 이름 없는 숲 캠페인이 'ESG 디자인 임팩트상'을 수상했다고 15일 밝혔다. 이름 없는 숲은 바다숲에 정체성을 부여해 해양 생태계 보전의 중요성을 알린 현대자동차의 글로벌 사회공헌 캠페인이다. 현대차는 이름 없는 숲 캠페인을 통해 전 세계 바다숲 보전의 필요성에 대한 공감과 논의를 확산한 점에서 높은 평가를 받았다. 지성원 현대차 브랜드마케팅본부장 부사장은 “'이름 없는 숲 캠페인을 통해 바다숲의",
-    "source": "전자신문 산업/신사업",
+  "https://www.semiconductor-digest.com/mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool": {
+    "title": "미쓰비시화학그룹: 장비 속에 숨어 있는 소재 공급업체",
+    "summary": "미쓰비시화학그룹(MCG)은 반도체 웨이퍼 장비에 사용되는 엔지니어링 플라스틱부터 EUV 드라이브 레지스트 전구체까지 다양한 소재를 공급하는 기업이다. MCG는 수직적으로 통합된 포트폴리오가 칩 제조의 거의 모든 단계에 관여한다고 밝혔다. 이 기사는 Semiconductor Digest에 게시된 것으로, 반도체 장비 내부에 자리 잡은 소재 공급업체로서 MCG의 역할을 조명한다.",
+    "source": "Semiconductor Digest",
     "date": "2026-10-15",
-    "link": "https://www.etnews.com/20261015000199",
+    "link": "https://www.semiconductor-digest.com/mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool",
+    "original_title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261015000474": {
+    "title": "경기도, 기후테크 투자·해외진출 지원…수원 광교서 이틀간 컨퍼런스",
+    "summary": "경기도가 15일부터 16일까지 수원 경기융합타운 경기신용보증재단에서 '2026 경기도 기후테크 컨퍼런스'를 개최했다. 행사는 기후테크 기업의 기술 발굴, 투자유치, 사업화, 해외진출 등 성장 단계별 지원 프로그램으로 구성됐으며 경기환경에너지진흥원과 경기창조경제혁신센터가 주관한다. 첫날 열린 기후테크 경진대회에는 공모에 참여한 17개 기업 가운데 예선을 통과한 기업들이 경쟁했다.",
+    "source": "전자신문 IT",
+    "date": "2026-10-15",
+    "link": "https://www.etnews.com/20261015000474",
     "original_title": "",
     "lang": "ko"
   },
-  "https://semiengineering.com/characterization-of-hbm-power-consumption-eth-zurich-nyu/": {
-    "title": "HBM 전력 소비 특성 분석(ETH Zurich, NYU)",
-    "summary": "ETH Zürich와 New York University의 연구원들은 \"현대 고대역폭 메모리의 전력 소비 이해: 실제 HBM2 DRAM 칩을 사용한 실험 분석 및 모델링\"이라는 제목의 기술 논문을 발표했습니다. 발췌 발췌: \"우리는 실제 HBM2 DRAM 칩이 소비하는 전력에 대한 최초의 포괄적인 실험적 특성화를 수행합니다. 우리의 광범위한 특성화는 1) 경험적... » 자세히 보기 The post Characterization of HBM Power Consumption(ETH Zurich, NYU)이 Semiconductor Engineering에 처음 게재되었습니다.",
+  "https://www.eetimes.com/data-orchestration-the-foundation-for-the-next-generation-semiconductor-enterprise/": {
+    "title": "데이터 오케스트레이션: 차세대 반도체 기업의 토대",
+    "summary": "데이터 오케스트레이션은 반도체 엔지니어링 팀이 기존 인프라를 교체하지 않고도 단절된 장비, 시스템, 데이터를 통합할 수 있는 실용적 방법을 제공한다. 엔지니어링, OT, IT, 설비, 생산 환경 전반에 연결된 실행 계층을 구축해 실시간 정보에 맥락을 부여하고 인사이트를 조율된 행동으로 전환한다. 이를 통해 엔지니어는 근본 원인을 더 빠르게 파악하고 장비 고장을 사전에 예측하며 업무를 자동화할 수 있다.",
+    "source": "EE Times",
+    "date": "2026-10-15",
+    "link": "https://www.eetimes.com/data-orchestration-the-foundation-for-the-next-generation-semiconductor-enterprise/",
+    "original_title": "Data Orchestration: The Foundation for the Next-generation Semiconductor Enterprise",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/husb237-the-cost-effective-pd-sink-with-just-2-passives/": {
+    "title": "HUSB237: 수동 부품 단 2개만으로 구현하는 비용 효율적 PD 싱크",
+    "summary": "하이네텍(Hynetek)의 HUSB237은 컴팩트한 USB-PD 싱크 컨트롤러다. 외부 수동 부품 2개만으로 최대 100W의 USB-C 전력 전달 업그레이드를 지원한다. 펌웨어 개발 없이도 USB-C 기능 적용이 가능해 비용 효율성이 높다는 점이 특징이다.",
+    "source": "EE Times",
+    "date": "2026-10-15",
+    "link": "https://www.eetimes.com/husb237-the-cost-effective-pd-sink-with-just-2-passives/",
+    "original_title": "HUSB237: The Cost-Effective PD Sink with Just 2 Passives",
+    "lang": "en"
+  },
+  "https://www.edn.com/not-all-diodes-use-electrons/": {
+    "title": "모든 다이오드가 전자를 사용하는 것은 아니다",
+    "summary": "EDN에 게재된 이 기사는 '모든 다이오드가 전자를 사용하는 것은 아니다'라는 주제의 짧은 소개글이다. 본문은 긱(엔지니어)다운 사고방식이 유용해지는 상황, 특히 '열광하는 저지 주디(Judge Judy) 팬들'을 상대할 때 도움이 된다는 언급만 담고 있다. 구체적인 기술 내용, 수치, 산업적 영향 등의 정보는 본문에 포함되어 있지 않다.",
+    "source": "EDN",
+    "date": "2026-10-15",
+    "link": "https://www.edn.com/not-all-diodes-use-electrons/",
+    "original_title": "Not all diodes use electrons",
+    "lang": "en"
+  },
+  "https://www.edie.net/slowing-the-flow-why-flood-resilience-is-becoming-natures-first-investable-asset/": {
+    "title": "흐름을 늦추다: 홍수 회복력이 자연의 첫 번째 투자 가능 자산이 되는 이유",
+    "summary": "영국 최대 규모 해비타트 뱅크(Habitat Banks) 네트워크를 운영하는 Environment Bank는 상류 자연 복원을 투자 가능한 자연 인프라 자산으로 전환하는 방안을 제시했다. 보험사들은 홍수 위험을 미리 파악하고 대응 자본을 보유하고 있지만, 이를 뒷받침하는 계약(계약 구조)이 부족한 상황이다. 해당 기고는 기업과 지속가능성 리더들이 자연 기반 해결책(Nature-based solutions)을 투자 자산으로 활용할 수 있는 방향을 다룬다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-15",
+    "link": "https://www.edie.net/slowing-the-flow-why-flood-resilience-is-becoming-natures-first-investable-asset/",
+    "original_title": "Slowing the flow: Why flood resilience is becoming nature’s first investable asset",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/show-daily-2026-day-three/?utm_source=rss&utm_medium=rss&utm_campaign=show-daily-2026-day-three": {
+    "title": "SEMICON West 쇼 데일리 2026 — 3일차",
+    "summary": "이 기사는 반도체 전문 매체 Semiconductor Digest가 SEMICON West 전시회 '쇼 데일리' 3일차 호의 열람 및 다운로드 링크를 안내하는 게시물이다. SEMICON West는 반도체 제조 장비 및 산업 분야의 주요 국제 전시회로, 쇼 데일리는 행사 기간 중 소식과 정보를 전하는 일간 간행물이다. 본문에는 별도의 상세 내용 없이 해당 호를 확인하거나 내려받을 수 있다는 소개만 담겨 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-15",
+    "link": "https://www.semiconductor-digest.com/show-daily-2026-day-three/?utm_source=rss&utm_medium=rss&utm_campaign=show-daily-2026-day-three",
+    "original_title": "Show Daily 2026 — Day Three",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/": {
+    "title": "적은 물량, 큰 영향: 첨단 반도체 제조에서 유럽의 숨겨진 역할",
+    "summary": "프라운호퍼(Fraunhofer)와 IMS Nanofabrication의 파트너십은 유럽의 저물량 반도체 생산이 세계 최첨단 반도체 제조를 지원할 수 있음을 보여준다. 대량 생산 규모는 크지 않지만, 유럽이 첨단 칩 제조 공정에서 핵심적인 역할을 수행하고 있다는 점이 이 기사의 중심 내용이다. 해당 내용은 전자공학 전문 매체 EE Times에 게재되었다.",
+    "source": "EE Times",
+    "date": "2026-10-15",
+    "link": "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/",
+    "original_title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
+    "lang": "en"
+  },
+  "https://airqualitynews.com/cars-freight-transport/aircraft-exhaust-emissions-become-more-harmful-over-time/?utm_source=rss&utm_medium=rss&utm_campaign=aircraft-exhaust-emissions-become-more-harmful-over-time": {
+    "title": "항공기 배기 배출물, 시간이 지날수록 더 유해해진다",
+    "summary": "항공기와 선박에서 배출되는 배기가스는 공항과 항구 주변 대기질에 영향을 미칠 수 있다. 새로운 연구에 따르면 두 오염원이 대기 중에서 시간이 지나며 서로 다른 방식으로 거동해 인체 건강에 미치는 영향도 달라질 수 있다. 연구진은 소형 제트 엔진과 선박용 디젤 엔진이 방출하는 입자를 비교 측정했다.",
+    "source": "Air Quality News",
+    "date": "2026-10-15",
+    "link": "https://airqualitynews.com/cars-freight-transport/aircraft-exhaust-emissions-become-more-harmful-over-time/?utm_source=rss&utm_medium=rss&utm_campaign=aircraft-exhaust-emissions-become-more-harmful-over-time",
+    "original_title": "Aircraft exhaust emissions become more harmful over time",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261015000449": {
+    "title": "반도체 설계 배우고 취업문 두드리고…경기도, 8개사와 현장 채용면접",
+    "summary": "경기도가 반도체 설계 교육 이수자 등 취업 준비생을 대상으로 8개 기업이 참여하는 현장 채용면접을 진행했다. 행사는 반도체 설계 인력 양성과 취업 연계 목적으로 열린 것으로 보인다. 다만 기사 본문이 제공되지 않아 참여 기업, 일정, 규모 등 구체적 내용은 확인되지 않는다.",
+    "source": "전자신문 IT",
+    "date": "2026-10-15",
+    "link": "https://www.etnews.com/20261015000449",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261015000409": {
+    "title": "호남 반도체 국가산단 속도…홍지선 장관 “부지 적기 공급”",
+    "summary": "정부가 호남권 반도체 첨단 국가산업단지 조성에 속도를 내고 기업 대규모 투자 일정에 맞춰 부지를 적기에 공급할 계획이다. 홍지선 국토교통부 장관은 15일 전남광주통합특별시 광주군공항을 방문해 호남권 반도체 국가산단 조성사업 추진 상황을 점검했다. 이는 지난 6월 메가프로젝트 국민보고회에서 발표된 800조원 규모 반도체 팹 투자계획을 뒷받침하기 위한 현장 행보다. 정부는 부지 공급과 함께 교통망, 전력·용수 등 기반시설 확충도 병행 추진한다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-15",
+    "link": "https://www.etnews.com/20261015000409",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/": {
+    "title": "사양 너머: PCIe 리타이머 도달 거리를 실제로 결정하는 요인은?",
+    "summary": "이 기사는 PCIe 리타이머의 신호 도달 거리를 실제로 결정하는 요인들을 사양 수치를 넘어서 분석한다. 도달 거리는 실리콘 설계, 컨트롤러 지능, 채널 품질, 전송 매체 등 상호 작용하는 복수의 요인에 의해 결정된다고 설명한다. 해당 글은 Semiconductor Engineering에 게재되었다.",
     "source": "SemiEngineering",
     "date": "2026-10-15",
-    "link": "https://semiengineering.com/characterization-of-hbm-power-consumption-eth-zurich-nyu/",
-    "original_title": "Characterization of HBM Power Consumption (ETH Zurich, NYU)",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/siemens-transforms-computational-lithography-for-next-generation-ai-semiconductors-with-nvidia-culitho/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-transforms-computational-lithography-for-next-generation-ai-semiconductors-with-nvidia-culitho": {
-    "title": "Siemens, NVIDIA, 최대 12배까지 컴퓨팅 리소그래피 가속화",
-    "summary": "Siemens는 오늘 전산 리소그래피 워크플로우를 가속화하기 위해 NVIDIA와의 협력을 통해 상당한 진전을 이루었다고 발표했습니다. Siemens의 NVIDIA Accelerate Computational Lithography Up to 12× 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-15",
-    "link": "https://www.semiconductor-digest.com/siemens-transforms-computational-lithography-for-next-generation-ai-semiconductors-with-nvidia-culitho/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-transforms-computational-lithography-for-next-generation-ai-semiconductors-with-nvidia-culitho",
-    "original_title": "Siemens, NVIDIA Accelerate Computational Lithography Up to 12×",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/globalfoundries-to-operate-two-new-fabs-under-21b-u-s-japan-initiative/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-to-operate-two-new-fabs-under-21b-u-s-japan-initiative": {
-    "title": "GlobalFoundries, 210억 달러 규모의 미국-일본 이니셔티브에 따라 두 개의 새로운 Fab 운영",
-    "summary": "트럼프 대통령과 일본의 합의로 기본 반도체 생산 확대, 미국 일자리 지원, 국내 공급망 강화를 위해 최대 210억 달러의 투자가 가능해졌습니다. GlobalFoundries가 210억 달러 규모의 미국-일본 이니셔티브 하에 2개의 신규 공장을 운영할 것이라는 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-15",
-    "link": "https://www.semiconductor-digest.com/globalfoundries-to-operate-two-new-fabs-under-21b-u-s-japan-initiative/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-to-operate-two-new-fabs-under-21b-u-s-japan-initiative",
-    "original_title": "GlobalFoundries to Operate Two New Fabs Under $21B U.S.–Japan Initiative",
-    "lang": "en"
-  },
-  "https://airqualitynews.com/headlines/leeds-residents-wanted-for-citywide-air-pollution-monitoring-project/?utm_source=rss&utm_medium=rss&utm_campaign=leeds-residents-wanted-for-citywide-air-pollution-monitoring-project": {
-    "title": "도시 전체 대기 오염 모니터링 프로젝트에 리즈 주민들을 원했습니다.",
-    "summary": "리즈대학교 연구원들은 주민, 학교, 지역사회 단체에 도시 전역의 대기 오염을 모니터링하고 이것이 사람들의 건강과 복지에 어떤 영향을 미치는지 조사할 것을 촉구하고 있습니다. SYNERGIA(글로벌 통합 분석을 사용한 환경 및 건강 회복력을 위한 지속 가능한 시스템)라는 프로젝트는 리즈 대학교와 […]",
-    "source": "Air Quality News",
-    "date": "2026-10-14",
-    "link": "https://airqualitynews.com/headlines/leeds-residents-wanted-for-citywide-air-pollution-monitoring-project/?utm_source=rss&utm_medium=rss&utm_campaign=leeds-residents-wanted-for-citywide-air-pollution-monitoring-project",
-    "original_title": "Leeds residents wanted for citywide air pollution monitoring project",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/semiconductor-sustainability-needs-a-whole-fab-view-not-a-point-of-use-fix/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-sustainability-needs-a-whole-fab-view-not-a-point-of-use-fix": {
-    "title": "반도체 지속 가능성에는 사용 시점 수정이 아닌 전체 팹 관점이 필요합니다",
-    "summary": "SEMICON West에서의 프레젠테이션을 앞두고 Edwards의 환경 지속 가능성 관리자인 Chris Jones는 프레이밍이 실제로 팹의 환경 성과를 주도하는 요소의 대부분을 놓치고 있다고 주장합니다. 반도체 지속 가능성에는 사용 시점 수정이 아닌 전체 팹 관점이 필요하다는 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-14",
-    "link": "https://www.semiconductor-digest.com/semiconductor-sustainability-needs-a-whole-fab-view-not-a-point-of-use-fix/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-sustainability-needs-a-whole-fab-view-not-a-point-of-use-fix",
-    "original_title": "Semiconductor Sustainability Needs a Whole-Fab View, Not a Point-of-Use Fix",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates/?utm_source=rss&utm_medium=rss&utm_campaign=global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates": {
-    "title": "증축 가속화로 2029년 전 세계 300mm 팹 장비 지출이 2,270억 달러에 달할 것",
-    "summary": "SEMI가 오늘 최신 300mm 팹 전망에서 보고한 바에 따르면, 전 세계 300mm 프런트엔드 팹 장비 지출은 2026년에 전년 대비 31% 증가한 1,490억 달러에 이를 것으로 예상됩니다. Buildout Accelerates로 인해 2029년에 전 세계 300mm Fab 장비 지출이 2,270억 달러에 달할 것이라는 게시물이 Semiconductor Digest에서 처음으로 등장했습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-14",
-    "link": "https://www.semiconductor-digest.com/global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates/?utm_source=rss&utm_medium=rss&utm_campaign=global-300mm-fab-equipment-spending-to-reach-227-billion-in-2029-as-buildout-accelerates",
-    "original_title": "Global 300mm Fab Equipment Spending to Reach $227 Billion in 2029 as Buildout Accelerates",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/advanced-energy-launches-temperature-measurement-system-for-semiconductor-processing/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-energy-launches-temperature-measurement-system-for-semiconductor-processing": {
-    "title": "Advanced Energy, 반도체 공정용 온도 측정 시스템 출시",
-    "summary": "Advanced Energy Industries Inc.는 오늘 샌프란시스코의 SEMICON West에서 새로운 Centra Smart Hub를 출시했습니다. Advanced Energy, 반도체 공정용 온도 측정 시스템 출시 게시물이 Semiconductor Digest 에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-14",
-    "link": "https://www.semiconductor-digest.com/advanced-energy-launches-temperature-measurement-system-for-semiconductor-processing/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-energy-launches-temperature-measurement-system-for-semiconductor-processing",
-    "original_title": "Advanced Energy Launches Temperature Measurement System for Semiconductor Processing",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/tower-semiconductor-and-semtech-expand-sige-manufacturing-partnership-for-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-and-semtech-expand-sige-manufacturing-partnership-for-ai-data-centers": {
-    "title": "Tower Semiconductor와 Semtech, AI 데이터 센터를 위한 SiGe 제조 파트너십 확대",
-    "summary": "다년간의 계약으로 Tower의 글로벌 팹 네트워크 전반에 걸쳐 전용 용량을 확장하여 차세대 AI 인프라를 위한 광학 및 구리 상호 연결 분야의 기업 성장을 지원합니다. Tower Semiconductor와 Semtech의 AI 데이터 센터를 위한 SiGe 제조 파트너십 확장 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-14",
-    "link": "https://www.semiconductor-digest.com/tower-semiconductor-and-semtech-expand-sige-manufacturing-partnership-for-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-and-semtech-expand-sige-manufacturing-partnership-for-ai-data-centers",
-    "original_title": "Tower Semiconductor and Semtech Expand SiGe Manufacturing Partnership for AI Data Centers",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/nikon-unveils-digital-lithography-system-for-advanced-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-unveils-digital-lithography-system-for-advanced-semiconductor-packaging": {
-    "title": "Nikon, 첨단 반도체 패키징용 디지털 리소그래피 시스템 공개",
-    "summary": "Nikon Corporation은 2027년 4월 반도체 첨단 패키징용 디지털 리소그래피 시스템 DSP-110을 출시할 예정입니다. Nikon이 첨단 반도체 패키징을 위한 디지털 리소그래피 시스템을 공개한다는 글이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-14",
-    "link": "https://www.semiconductor-digest.com/nikon-unveils-digital-lithography-system-for-advanced-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-unveils-digital-lithography-system-for-advanced-semiconductor-packaging",
-    "original_title": "Nikon Unveils Digital Lithography System for Advanced Semiconductor Packaging",
-    "lang": "en"
-  },
-  "https://airqualitynews.com/headlines/robots-to-monitor-air-quality-at-pittsburgh-airport/?utm_source=rss&utm_medium=rss&utm_campaign=robots-to-monitor-air-quality-at-pittsburgh-airport": {
-    "title": "피츠버그 공항의 공기 질을 모니터링하는 로봇",
-    "summary": "4개의 다리를 갖춘 자율 로봇은 피츠버그 국제공항에서 위치별 대기 질 데이터를 수집하여 직원이 잠재적인 환경 문제를 식별하고 변화하는 조건에 대응할 수 있도록 돕습니다. 피츠버그 국제공항(Pittsburgh International Airport)은 인공지능(AI)이 공항 운영을 어떻게 개선할 수 있는지 탐구하는 광범위한 계획의 일환으로 실내 공기질을 모니터링하도록 설계된 4족 로봇을 테스트하고 있습니다. 재판은 […]을 통해 전달되었습니다.",
-    "source": "Air Quality News",
-    "date": "2026-10-13",
-    "link": "https://airqualitynews.com/headlines/robots-to-monitor-air-quality-at-pittsburgh-airport/?utm_source=rss&utm_medium=rss&utm_campaign=robots-to-monitor-air-quality-at-pittsburgh-airport",
-    "original_title": "Robots to monitor air quality at Pittsburgh airport",
-    "lang": "en"
-  },
-  "https://spectrum.ieee.org/semiconductor-research": {
-    "title": "미국 칩 회사들, R&D에 큰 투자",
-    "summary": "10월 12일, 어플라이드 머티어리얼즈(Applied Materials)는 실리콘밸리 중심부인 캘리포니아주 서니베일에 수십억 달러 규모의 연구 시설을 공개했습니다. 회사는 2023년에 EPIC(장비 및 프로세스 혁신 및 상업화) 센터에 40억 달러를 투자할 계획이라고 처음 발표했지만 이제는 더 많은 약 50억 달러를 투자할 것이라고 밝혔습니다. 이러한 증가는 미국 반도체 R&D 부문을 확대하고 더욱 복잡하게 만드는 민간 투자의 폭넓은 성장의 일부입니다. EPIC 발표는 8월 두 반도체 회사의 발표에 이어 이루어졌습니다. 메모리 칩 제조업체인 마이크론은 아이다호주 보이시에 있는 메모리 연구실에 10년에 걸쳐 100억 달러를 투자하겠다고 밝혔고, SK하이닉스는 인디애나주 웨스트 라파예트에 있는 첨단 패키징 시설에 40억 달러를 투자할 것이라고 밝혔습니다. (두 회사 중 어느 회사도 이 자금 중 R&D에 얼마가 들어갈 것인지에 대한 IEEE Spectrum의 질문에 응답하지 않았습니다.) 미국 연방 정부는 칩 G에 의한 미국 반도체 연구에 대한 투자를 장려해 왔습니다.",
-    "source": "IEEE Spectrum · Semiconductors",
-    "date": "2026-10-13",
-    "link": "https://spectrum.ieee.org/semiconductor-research",
-    "original_title": "U.S. Chip Firms Bet Big on R&D",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/applied-materials-unveils-5b-epic-center-in-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-unveils-5b-epic-center-in-silicon-valley": {
-    "title": "어플라이드 머티어리얼즈, 실리콘 밸리에 50억 달러 규모의 EPIC 센터 공개",
-    "summary": "50억 달러의 투자로 세계 최대의 반도체 장비 및 공정 기술 R&D 시설이 탄생했습니다. Applied Materials가 실리콘 밸리에 50억 달러 규모의 EPIC 센터를 공개한다는 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-13",
-    "link": "https://www.semiconductor-digest.com/applied-materials-unveils-5b-epic-center-in-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-unveils-5b-epic-center-in-silicon-valley",
-    "original_title": "Applied Materials Unveils $5B EPIC Center in Silicon Valley",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/white-knight-introduces-compact-inline-heaters-for-semiconductor-processing/?utm_source=rss&utm_medium=rss&utm_campaign=white-knight-introduces-compact-inline-heaters-for-semiconductor-processing": {
-    "title": "White Knight, 반도체 공정용 소형 인라인 히터 출시",
-    "summary": "고순도 유체 취급 장비 공급업체이자 Graco 계열사인 White Knight Fluid Handling은 오늘 ThermaPoint 컴팩트 인라인 히터 출시를 발표했습니다. White Knight가 반도체 가공용 소형 인라인 히터를 소개한 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-13",
-    "link": "https://www.semiconductor-digest.com/white-knight-introduces-compact-inline-heaters-for-semiconductor-processing/?utm_source=rss&utm_medium=rss&utm_campaign=white-knight-introduces-compact-inline-heaters-for-semiconductor-processing",
-    "original_title": "White Knight Introduces Compact Inline Heaters for Semiconductor Processing",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/suss-introduces-greentec-wafer-cleaning-platform-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=suss-introduces-greentec-wafer-cleaning-platform-at-semicon-west": {
-    "title": "SUSS, SEMICON West에서 GreenTec 웨이퍼 세척 플랫폼 소개",
-    "summary": "반도체 산업용 장비 및 프로세스 솔루션 공급업체인 SUSS MicroTec SE는 오늘 새로운 GreenTec Solutions 제품 라인 출시와 첫 번째 시스템인 GT200 출시를 통해 웨이퍼 레벨 세정 시장에 진출한다고 발표했습니다. SUSS가 SEMICON West에서 GreenTec 웨이퍼 세척 플랫폼을 소개한 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-13",
-    "link": "https://www.semiconductor-digest.com/suss-introduces-greentec-wafer-cleaning-platform-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=suss-introduces-greentec-wafer-cleaning-platform-at-semicon-west",
-    "original_title": "SUSS Introduces GreenTec Wafer-Cleaning Platform at SEMICON West",
-    "lang": "en"
-  },
-  "https://airqualitynews.com/news/legislation-news/london-back-in-breach-of-legal-air-pollution-limits/?utm_source=rss&utm_medium=rss&utm_campaign=london-back-in-breach-of-legal-air-pollution-limits": {
-    "title": "법적 대기오염 제한 위반으로 런던 복귀",
-    "summary": "런던은 2025년 연간 대기 질 제한을 충족하지 못한 영국의 3개 지역 중 광역 런던 도심 지역과 함께 불법적인 이산화질소(NO2) 오염 수준으로 돌아갔습니다. 2010년 대기 질 표준 규정에 따라 발표된 2025년 규정 준수 평가에 따르면 연간 평균 NO2 농도가 법적 제한인 [...]를 초과했습니다.",
-    "source": "Air Quality News",
-    "date": "2026-10-12",
-    "link": "https://airqualitynews.com/news/legislation-news/london-back-in-breach-of-legal-air-pollution-limits/?utm_source=rss&utm_medium=rss&utm_campaign=london-back-in-breach-of-legal-air-pollution-limits",
-    "original_title": "London back in breach of legal air pollution limits",
-    "lang": "en"
-  },
-  "https://spectrum.ieee.org/data-center-excess-solar": {
-    "title": "모듈형 데이터 센터 회사, 잉여 태양광 발전 활용",
-    "summary": "데이터 센터 건설에 수십억 달러가 쏟아지면서 많은 프로젝트에서는 시설 건설 이상의 제약에 직면하게 됩니다. 즉, 전력을 공급할 만큼 충분한 전력을 확보해야 한다는 것입니다. 샌프란시스코에 본사를 둔 Rune Energy는 데이터 센터를 건설하고 그리드 전력을 기다리는 대신 그리드가 흡수할 수 없는 과잉 전력이 있는 곳에 데이터 센터를 배치하고 있습니다. RELIC(Renewable Energy Linked Intelligent Compute)이라고 불리는 이 회사의 모듈형 데이터 센터는 태양광 어레이에서 생성된 직류(DC) 전기에 직접 연결됩니다. 각 RELIC 모듈은 약 8피트 길이, 2피트 너비, 5피트 높이의 컨테이너 내에 자체 네트워크 장비, 냉각 시스템, 전력 전자 장치 및 GPU를 갖춘 독립형 생태계입니다. 모듈은 최대 100kW의 전력을 소비할 수 있으며 무게는 약 2000파운드입니다. Rune의 공동 창업자이자 CE인 William Layden은 \"매년 유틸리티 규모의 태양광 발전으로 인해 낭비되는 에너지가 50,000기가와트시인 것으로 추산됩니다.\"라고 말합니다.",
-    "source": "IEEE Spectrum · Energy",
-    "date": "2026-10-10",
-    "link": "https://spectrum.ieee.org/data-center-excess-solar",
-    "original_title": "Modular Data Center Company Harnesses Excess Solar Power",
+    "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+    "original_title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
     "lang": "en"
   }
 }
