@@ -1,0 +1,452 @@
+{
+  "https://www.edn.com/rad-tolerant-gan-converter-powers-space-electronics/": {
+    "title": "방사선 내성 GaN 컨버터, 우주 전자기기에 전력 공급",
+    "summary": "마이크로칩(Microchip)의 POL-05-20S-T GaN 컨버터는 최대 20A의 전류를 공급한다. 이 제품은 우주 환경에서 FPGA, MCU 등 연산 집약적인 디지털 부하에 전력을 공급하도록 설계되었다. 방사선 내성(radiation-tolerant)을 갖춰 우주용 전자기기에 적용된다.",
+    "source": "EDN",
+    "date": "2026-10-22",
+    "link": "https://www.edn.com/rad-tolerant-gan-converter-powers-space-electronics/",
+    "original_title": "Rad-tolerant GaN converter powers space electronics",
+    "lang": "en"
+  },
+  "https://www.edn.com/processor-ip-brings-generative-ai-to-edge-devices/": {
+    "title": "프로세서 IP, 엣지 기기에 생성형 AI 탑재하다",
+    "summary": "BrainChip의 Sequora 프로세서 IP 코어는 배터리로 구동되는 엣지 기기에서 생성형 AI와 대규모 언어 모델(LLM)을 직접 실행할 수 있다. 이를 통해 외부 서버나 클라우드 연결 없이도 엣지 기기 자체에서 AI 추론이 가능하다.",
+    "source": "EDN",
+    "date": "2026-10-22",
+    "link": "https://www.edn.com/processor-ip-brings-generative-ai-to-edge-devices/",
+    "original_title": "Processor IP brings generative AI to edge devices",
+    "lang": "en"
+  },
+  "https://www.edn.com/amd-defines-rack-scale-infrastructure-for-agentic-ai/": {
+    "title": "AMD, 에이전틱 AI를 위한 랙 단위 인프라 정의",
+    "summary": "AMD가 에이전틱 AI 인프라를 위한 랙 단위 참조 설계 '헬리온(Helion)'을 발표했다. 헬리온은 오픈소스 하드웨어와 소프트웨어를 결합한 설계로, AI 데이터센터 구축을 위한 표준화된 청사진을 제공하는 것으로 알려졌다. 해당 소식은 EDN을 통해 보도되었다.",
+    "source": "EDN",
+    "date": "2026-10-22",
+    "link": "https://www.edn.com/amd-defines-rack-scale-infrastructure-for-agentic-ai/",
+    "original_title": "AMD defines rack-scale infrastructure for agentic AI",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/indias-osat-buildout-puts-semiconductor-testing-in-focus/": {
+    "title": "인도 OSAT 확장, 반도체 테스트 산업 주목",
+    "summary": "NI(내셔널 인스트루먼트)는 인도 OSAT 업체 케인즈 세미콘(Kaynes Semicon)이 자사의 반도체 테스트 시스템을 선정했다고 밝혔다. 인도 내 다른 OSAT 업체들도 생산 준비에 나서면서 장비 도입을 검토하고 있다. 이에 따라 인도의 반도체 후공정(패키징·테스트) 역량 확대가 테스트 장비 시장의 주요 관심사로 부상하고 있다.",
+    "source": "EE Times",
+    "date": "2026-10-21",
+    "link": "https://www.eetimes.com/indias-osat-buildout-puts-semiconductor-testing-in-focus/",
+    "original_title": "India’s OSAT Buildout Puts Semiconductor Testing in Focus",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/did-you-miss-a-semicon-west-show-daily-2/?utm_source=rss&utm_medium=rss&utm_campaign=did-you-miss-a-semicon-west-show-daily-2": {
+    "title": "SEMICON West 쇼 데일리를 놓치셨나요?",
+    "summary": "SEMICON West가 샌프란시스코에서 3일간 개최되며 쇼 플로어에서 다양한 소식이 쏟아졌다. Semiconductor Digest는 행사 기간 동안 발표된 뉴스, 인사이트 및 공지사항을 담은 Show Daily 에디션을 제공한다. 행사 내용을 모두 따라가지 못한 경우 Show Daily를 통해 주요 소식을 확인할 수 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-21",
+    "link": "https://www.semiconductor-digest.com/did-you-miss-a-semicon-west-show-daily-2/?utm_source=rss&utm_medium=rss&utm_campaign=did-you-miss-a-semicon-west-show-daily-2",
+    "original_title": "Did You Miss a SEMICON West Show Daily?",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/why-chip-design-ai-benchmarks-must-go-beyond-functional-correctness/": {
+    "title": "칩 설계 AI 벤치마크가 기능적 정확성을 넘어야 하는 이유",
+    "summary": "물리적 AI, 데이터센터, 자동차 시스템, 엣지 기기 등의 확산으로 워크로드·메모리 대역폭·지연·에너지 효율에 최적화된 커스텀 실리콘 수요가 빠르게 증가하고 있다. 이런 설계를 완성하려면 이기종 컴퓨팅 블록과 복잡한 인터커넥트, 다양한 도메인을 조율하면서 점점 까다로워지는 전력·성능·면적(PPA) 목표를 달성해야 한다. 기사는 칩 설계에 적용되는 AI의 벤치마크가 기능적 정확성만을 평가해서는 안 되며, PPA 등 실제 설계 요구사항을 포괄해야 한다고 지적한다.",
+    "source": "EE Times",
+    "date": "2026-10-21",
+    "link": "https://www.eetimes.com/why-chip-design-ai-benchmarks-must-go-beyond-functional-correctness/",
+    "original_title": "Why Chip Design AI Benchmarks Must Go Beyond Functional Correctness",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261021000453": {
+    "title": "삼성전기, 엔비디아 전용 AI 반도체 기판 생산라인 구축…전략적 파트너십 체결",
+    "summary": "삼성전기와 엔비디아가 전략적 파트너십을 체결하고 공동 투자를 통해 AI 반도체 기판 생산 역량을 대폭 확충하기로 했다. 삼성전기는 국내 핵심 생산 거점인 세종과 부산 사업장에 엔비디아 전용 생산 라인을 새롭게 증설한다. 삼성전기는 올해부터 엔비디아에 차세대 AI 반도체 및 초고속 네트워크용 패키지기판을 다년간 장기 공급할 계획이다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-21",
+    "link": "https://www.etnews.com/20261021000453",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261021000449": {
+    "title": "삼성전자, D램·낸드 개발 전담팀 꾸렸다…핵심 인력 보상 강화",
+    "summary": "삼성전자 반도체(DS) 부문이 차세대 메모리반도체 개발을 전담하는 '코어팀'을 반도체연구소 내에 신설하고 운영에 들어갔다. 코어팀은 D램과 낸드플래시 신제품 개발 인력으로 구성되며, 사업부 조직과 협업해 제품 개발의 완성도와 속도를 높이는 데 집중한다. 이와 함께 차세대 기술을 담당하는 핵심 인력에 대한 보상 체제도 강화하는 것으로 알려졌다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-21",
+    "link": "https://www.etnews.com/20261021000449",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261021000240": {
+    "title": "SK하이닉스, 발열 잡는 'iHBM' 공급망 협의 착수…HBM 선두 수성 승부수",
+    "summary": "SK하이닉스가 고대역폭메모리(HBM)의 발열을 줄일 차세대 기술 'iHBM' 적용과 생산 대응을 위해 공급망 협의에 착수했다. 최근 국내외 소재·부품·장비(소부장) 협력사와 접촉해 iHBM 기술 고도화와 생산 준비, 실제 제품 적용 및 양산 계획 등을 논의한 것으로 알려졌다. 이는 치열해진 HBM 시장 경쟁 속에서 AI 메모리 주도권을 지키기 위한 전략으로 풀이된다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-21",
+    "link": "https://www.etnews.com/20261021000240",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/": {
+    "title": "엣지 AI MCU, 멀티모달 컴퓨팅과 계층형 메모리 탑재",
+    "summary": "새로운 MCU가 AI 네이티브 가속 기능과 수백 메가바이트까지 확장 가능한 통합형 고대역폭 DRAM을 결합해 출시되었다. 이 제품은 엣지 AI 애플리케이션을 위한 멀티모달 컴퓨팅을 지원하며, 계층형 메모리 구조를 특징으로 한다. EE Times가 보도한 해당 칩은 온디바이스 AI 처리를 위한 메모리 대역폭 확장성을 강조한다.",
+    "source": "EE Times",
+    "date": "2026-10-21",
+    "link": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/",
+    "original_title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
+    "lang": "en"
+  },
+  "https://semiengineering.com/scaling-data-movement-for-physical-ai/": {
+    "title": "피지컬 AI를 위한 데이터 이동 확장",
+    "summary": "반도체 엔지니어링 전문 매체 Semiconductor Engineering에 게재된 기사로, 피지컬 AI 시대에 데이터 이동(data movement) 아키텍처를 확장하는 방안을 다룬다. 기사는 '하나의 규격이 모두에게 맞지는 않는다(one size does not fit all)'는 관점을 제시하며, 시스템별로 데이터 이동 요구사항이 서로 다름을 강조한다. 피지컬 AI 실현을 위한 반도체 설계 및 데이터 전송 최적화 동향을 파악하는 데 참고할 수 있는 내용이다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-21",
+    "link": "https://semiengineering.com/scaling-data-movement-for-physical-ai/",
+    "original_title": "Scaling Data Movement For Physical AI",
+    "lang": "en"
+  },
+  "https://semiengineering.com/blog-review-oct-21-3/": {
+    "title": "블로그 리뷰: 10월 21일",
+    "summary": "반도체 엔지니어링(Semiconductor Engineering) 매체가 10월 21일자 블로그 리뷰를 통해 최신 반도체 기술 동향을 정리했다. 이번 리뷰에서는 서버에서 랙까지의 시스템 설계, AMBA CXS 프로토콜, 디지털 트윈, 엣지 AI 개발 루프, 위성 전원, 글로벌 인재 확보 난제 등의 주제가 다뤄졌다. 각 주제는 반도체 설계부터 시스템 아키텍처, 인력 문제까지 반도체 산업 전반의 최신 기술 논의를 포괄한다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-21",
+    "link": "https://semiengineering.com/blog-review-oct-21-3/",
+    "original_title": "Blog Review: Oct. 21",
+    "lang": "en"
+  },
+  "https://semiengineering.com/scaling-cpo-testing-beyond-a-single-die/": {
+    "title": "단일 다이를 넘어 CPO 테스트 확장하기",
+    "summary": "CPO(공동 패키징 옵틱스) 기술이 단일 다이를 넘어 대량 생산 단계로 확장되면서 테스트 난제가 부각되고 있다. 주요 과제는 광섬유 정렬(fiber alignment), 커넥터 내구성, 그리고 광학·전기 신호의 동시 테스트이다. 이러한 요소들은 고용량 제조 환경에서 수율과 신뢰성 확보를 위해 반드시 해결해야 할 사항으로 지적된다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-21",
+    "link": "https://semiengineering.com/scaling-cpo-testing-beyond-a-single-die/",
+    "original_title": "Scaling CPO Testing Beyond A Single Die",
+    "lang": "en"
+  },
+  "https://semiengineering.com/accelerating-manufacturing-aware-simulations-for-photonic-integrated-circuits-with-ftco-and-digital-twins/": {
+    "title": "FTCO와 디지털 트윈을 활용한 광집적회로 제조 인지 시뮬레이션 가속화",
+    "summary": "이 글은 FTCO(제조-기술 공동 최적화)와 디지털 트윈을 활용해 광집적회로(PIC)의 제조 공정을 반영한 시뮬레이션을 가속화하는 방안을 소개한다. 제시된 팹 워크플로는 GDS 레이아웃 가져오기, 3D 공정 시뮬레이션, GPU 가속 FDTD, 실험계획법(DOE)을 하나로 연결한다. 여기에 AI 기반 서로게이트 모델링을 결합해 시뮬레이션 속도와 정확도를 개선할 수 있다. 이를 통해 설계 단계에서 제조 변동성을 반영한 광집적회로 최적화가 가능해진다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-21",
+    "link": "https://semiengineering.com/accelerating-manufacturing-aware-simulations-for-photonic-integrated-circuits-with-ftco-and-digital-twins/",
+    "original_title": "Accelerating Manufacturing-Aware Simulations For Photonic Integrated Circuits With FTCO And Digital Twins",
+    "lang": "en"
+  },
+  "https://semiengineering.com/accelerate-yield-ramp-with-closed-loop-yield-learning/": {
+    "title": "폐쇄 루프 수율 학습으로 수율 램프 가속화",
+    "summary": "이 기사는 첨단 노드 디바이스를 대상으로 폐쇄 루프(closed-loop) 수율 학습을 통해 수율 램프(yield ramp) 기간을 단축하는 방안을 소개한다. 핵심은 분석(analytics) 기반 접근법을 통해 업계 선도 기술들을 통합적으로 활용하는 것이다. 폐쇄 루프 방식은 수율 분석 결과를 공정 개선에 다시 반영함으로써 양산 초기 수율 상승 속도를 높이는 것을 지향한다. 해당 콘텐츠는 Semiconductor Engineering에 게재된 글이다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-21",
+    "link": "https://semiengineering.com/accelerate-yield-ramp-with-closed-loop-yield-learning/",
+    "original_title": "Accelerate Yield Ramp with Closed-Loop Yield Learning",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261021000263": {
+    "title": "이규석 현대모비스 사장, “국산 車반도체 2029년 첫 탑재…자생 생태계 키운다”",
+    "summary": "이규석 현대모비스 사장이 국내 완성차와 반도체 업계가 협력 개발 중인 국산 차량용 반도체가 이르면 2029년 양산 차종에 처음 탑재될 것이라고 밝혔다. 그는 제2회 차량용 반도체 포럼 '오토 세미콘 코리아(ASK)'에서 포럼 출범 이후 1년간 발굴한 19건 협업 과제 중 13종의 개발을 확정했으며, 이 가운데 9종은 현대차·기아와 협의해 양산 목표 차종까지 확정했다고 말했다. 차량용 반도체는 칩 개발에 2~3년이 걸리는 만큼 조기 확보가 중요하다는 점이 강조됐다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-21",
+    "link": "https://www.etnews.com/20261021000263",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261021000254": {
+    "title": "현대모비스, 'K-車반도체 원팀' 본격 가동…전주기 협력체계 속도",
+    "summary": "현대모비스가 완성차·부품사, 반도체 기업, 연구기관과 'K-차량용 반도체 원팀'을 구성하고 차량용 반도체 국산화를 위한 전주기 협력체계를 가동한다. 단순 설계 협력을 넘어 소프트웨어(SW), 설계자산(IP), 패키징, 시험평가까지 아우르는 생태계를 조성해 모빌리티 공급망 자립을 실현한다는 구상이다. 현대모비스는 21일 경기 성남시 판교에서 제2회 차량용 반도체 포럼 '오토 세미콘 코리아'를 개최한다.",
+    "source": "전자신문 산업/신사업",
+    "date": "2026-10-21",
+    "link": "https://www.etnews.com/20261021000254",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261021000342": {
+    "title": "교보증권, '드림이 그린레이스' 기부금 1000만원 환경재단 전달",
+    "summary": "교보증권이 임직원 친환경 캠페인 '드림이 그린레이스'를 통해 조성한 기부금 1000만원을 환경재단에 전달했다. 이 캠페인은 임직원이 일상에서 탄소저감 활동을 실천하고 이를 포인트로 적립해 기부하는 프로그램으로, 지난 5월부터 1000만 포인트 적립을 목표로 진행됐다. 임직원들은 대중교통 이용, 다회용 컵 사용, 중고물품 나눔 등 총 3500여건의 활동에 참여했다. 기부금은 이상기후로 개체수가 감소한 꿀벌의 서식환경 개선과 개체수 회복에 쓰일 예정이다.",
+    "source": "전자신문 IT",
+    "date": "2026-10-21",
+    "link": "https://www.etnews.com/20261021000342",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/": {
+    "title": "다음 달: 영국 지속가능성 보고 기준(UK SRS) 준비 방법",
+    "summary": "Simply Sustainable와 공동 주최하는 웨비나가 11월 10일 열려 영국 지속가능성 보고 기준(UK SRS) 준비 방법을 다룬다. 이 웨비나는 기업이 UK SRS에 대비하는 방법과 현재 준비 수준을 파악하는 방법을 설명한다. 또한 파악된 격차를 실질적인 이행 계획으로 전환하는 과정도 소개할 예정이다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-21",
+    "link": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
+    "original_title": "NEXT MONTH: How to prepare for the UK SRS",
+    "lang": "en"
+  },
+  "https://www.edie.net/overshoot-is-not-surrender-un-sets-out-route-back-to-1-5c/": {
+    "title": "'오버슈트는 항복이 아니다': UN, 1.5℃ 회귀 경로 제시",
+    "summary": "UN은 제31차 유엔기후변화협약 당사국총회(COP31)를 앞두고 기후 오버슈트, 즔 온도 상승이 1.5℃를 일시적으로 초과하는 현상을 제한하려면 신속한 온실가스 배출 감축이 필요하다고 경고했다. UN은 이 목표를 달성하기 위해 규모를 확대해야 할 구체적 접근 방식들을 제시했다. UN은 오버슈트가 항복을 의미하는 것은 아니며 1.5℃ 목표로 되돌아갈 경로가 존재한다는 점을 강조했다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-21",
+    "link": "https://www.edie.net/overshoot-is-not-surrender-un-sets-out-route-back-to-1-5c/",
+    "original_title": "‘Overshoot is not surrender’: UN sets out route back to 1.5C",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/socionext-expands-agentic-ai-to-advanced-large-scale-soc-physical-design/?utm_source=rss&utm_medium=rss&utm_campaign=socionext-expands-agentic-ai-to-advanced-large-scale-soc-physical-design": {
+    "title": "소시오넥스트, 에이전틱 AI를 첨단 대규모 SoC 물리 설계로 확장",
+    "summary": "소시오넥스트가 에이전틱 AI(Agentic AI) 기술을 첨단 대규모 SoC 물리 설계 영역으로 확장한다. 이를 위해 소시오넥스트는 케이던스(Cadence)와 협력한다. 해당 소식은 Semiconductor Digest를 통해 보도되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-21",
+    "link": "https://www.semiconductor-digest.com/socionext-expands-agentic-ai-to-advanced-large-scale-soc-physical-design/?utm_source=rss&utm_medium=rss&utm_campaign=socionext-expands-agentic-ai-to-advanced-large-scale-soc-physical-design",
+    "original_title": "Socionext Expands Agentic AI to Advanced, Large-Scale SoC Physical Design",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/axcelis-to-begin-construction-of-new-manufacturing-facility-in-pyeongtaek-korea/?utm_source=rss&utm_medium=rss&utm_campaign=axcelis-to-begin-construction-of-new-manufacturing-facility-in-pyeongtaek-korea": {
+    "title": "액셀리스, 한국 평택에 새 제조 시설 착공",
+    "summary": "반도체용 이온주입 장비 공급업체 액셀리스 테크놀로지스(나스닷: ACLS)가 한국 경기도 평택에 새 이온주입 장비 제조 시설의 공사를 공식 시작한다고 발표했다. 신설 시설은 반도체 산업에 이온주입 솔루션을 공급하기 위한 장비 생산 공장이다. 이를 통해 액셀리스는 한국 내 자체 제조 거점을 확보하게 된다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-21",
+    "link": "https://www.semiconductor-digest.com/axcelis-to-begin-construction-of-new-manufacturing-facility-in-pyeongtaek-korea/?utm_source=rss&utm_medium=rss&utm_campaign=axcelis-to-begin-construction-of-new-manufacturing-facility-in-pyeongtaek-korea",
+    "original_title": "Axcelis to Begin Construction of New Manufacturing Facility in Pyeongtaek, Korea",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/ntt-consortium-developing-mass-production-tech-for-optical-chiplets/?utm_source=rss&utm_medium=rss&utm_campaign=ntt-consortium-developing-mass-production-tech-for-optical-chiplets": {
+    "title": "NTT 컨소시엘럼, 광 칩렛 양산 기술 개발 추진",
+    "summary": "NTT가 참여하는 컨소시엄이 광 칩렛(optical chiplet)의 양산 기술을 공동 개발한다. 참여 기업들은 각자의 역량을 결합해 양산 기술 확립을 목표로 하며, NTT는 자문(어드바이저) 역할을 수행한다. 해당 소식은 Semiconductor Digest를 통해 보도되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-21",
+    "link": "https://www.semiconductor-digest.com/ntt-consortium-developing-mass-production-tech-for-optical-chiplets/?utm_source=rss&utm_medium=rss&utm_campaign=ntt-consortium-developing-mass-production-tech-for-optical-chiplets",
+    "original_title": "NTT Consortium Developing Mass-Production Tech for Optical Chiplets",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/micron-invests-in-new-york-critical-minerals-processing-with-indium-corporation/?utm_source=rss&utm_medium=rss&utm_campaign=micron-invests-in-new-york-critical-minerals-processing-with-indium-corporation": {
+    "title": "마이크론, 인듐코퍼레이션과 뉴욕 핵심 광물 가공 분야에 투자",
+    "summary": "마이크론이 인듐코퍼레이션과 협력해 뉴욕의 핵심 광물 가공 분야에 투자한다. 이번 투자는 마이크론의 최대 30억 달러 규모 미국 공급망 강화 계획의 일환이다. 투자를 통해 미국 내 반도체 생태계가 강화되고 첨단 메모리 제조에 필요한 핵심 소재에 대한 접근성이 확대될 전망이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-21",
+    "link": "https://www.semiconductor-digest.com/micron-invests-in-new-york-critical-minerals-processing-with-indium-corporation/?utm_source=rss&utm_medium=rss&utm_campaign=micron-invests-in-new-york-critical-minerals-processing-with-indium-corporation",
+    "original_title": "Micron Invests in New York Critical Minerals Processing With Indium Corporation",
+    "lang": "en"
+  },
+  "https://spectrum.ieee.org/community-college-semiconductors": {
+    "title": "커뮤니티 칼리지, 신규 인력을 반도체 일자리에 빠르게 투입",
+    "summary": "미국 반도체 산업의 호황 속에 인력 부족이 우려되고 있다. 국립 마이크로일렉트로닉스 교육 네트워크(NNME)는 2030년까지 미국 반도체 제조·설계·소재·패키징 시설 투자로 신규 상시직 18만9,000개가 창출되지만 공급 가능 인력은 약 6만2,000명에 그칠 것으로 추정했다. 미충족 수요의 약 60%는 엔지니어이며, 설비 유지보수·품질관리·시설 관리 기술자 수만 명 규모의 추가 수요도 예상된다. 커뮤니티 칼리지는 전문학사 학위나 고졸 학력에 추가 교육만으로 취업 가능한 인력 양성의 관문 역할을 하고 있다.",
+    "source": "IEEE Spectrum · Semiconductors",
+    "date": "2026-10-20",
+    "link": "https://spectrum.ieee.org/community-college-semiconductors",
+    "original_title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/how-singapore-connects-chip-research-startups-and-manufacturing/": {
+    "title": "싱가포르, 반도체 연구·스타트업·제조를 잇는 방법",
+    "summary": "싱가포르는 SiC 전력소자부터 실리콘 포토닉스까지 딥테크 연구를 시장에 상용화하기 위한 인프라와 산업 파트너십을 구축하고 있다. 이를 통해 반도체 연구개발, 스타트업, 제조업을 유기적으로 연결하는 생태계를 조성하고 있다. 해당 기사는 EE Times에 게재되었다.",
+    "source": "EE Times",
+    "date": "2026-10-20",
+    "link": "https://www.eetimes.com/how-singapore-connects-chip-research-startups-and-manufacturing/",
+    "original_title": "How Singapore Connects Chip Research, Startups, and Manufacturing",
+    "lang": "en"
+  },
+  "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2/": {
+    "title": "반도체 업계 기술 논문 총정리: 10월 20일",
+    "summary": "Semiconductor Engineering이 10월 20일자로 칩 산업 관련 기술 논문을 총정리했다. 다룬 주제는 HBM 전력 소비, GAAFET 누설 전류 경로, 이기종 시스템 설계를 위한 에이전틱 AI, 나노전기기계 게인 셀 eDRAM, AI 가속 3D-IC 열 모델링 등이다. 또한 RTL 검증 및 디버깅을 위한 에이전틱 AI와 자율주행차의 열 기반 사이드채널 공격에 관한 논문도 포함됐다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-20",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2/",
+    "original_title": "Chip Industry Technical Paper Roundup: Oct. 20",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261020000346": {
+    "title": "한국승강기안전공단 - 대한산업보건협회 승강기 종사원 건강증진 위해 “안전한 일터 조성 맞손”",
+    "summary": "한국승강기안전공단(이사장 고성균)은 지난 19일 공단 서울지역본부에서 대한산업보건협회(회장 이승철)와 임직원 및 승강기 종사자의 질병 예방과 건강증진을 위한 업무협약을 체결했다고 20일 밝혔다. 협약은 산업보건 전문기관인 협회의 전문성과 자원을 활용해 공단의 보건관리 역량을 강화하고, 임직원과 승강기 종사자의 건강 유지·증진 및 쾌적한 근무환경 조성을 위한 상호 협력체계를 구축하고자 마련됐다. 주요 협약 내용은 △ 건강검진과 사후관리 △ 맞춤형",
+    "source": "전자신문 산업/신사업",
+    "date": "2026-10-20",
+    "link": "https://www.etnews.com/20261020000346",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261020000230": {
+    "title": "현대차 의왕연구소 화재 1시간 반 만에 완진...인명피해 없어",
+    "summary": "20일 오전 11시 40분께 경기 의왕시 현대차그룹 의왕연구소 연구동에서 화재가 발생했다. 소방당국은 장비 36대와 인력 97명을 투입해 진화 작업을 벌였으며, 화재 발생 약 50분 만에 큰 불길을 잡고 1시간 30여 분 만에 완전히 껐다. 이번 화재로 인명피해는 없었다.",
+    "source": "전자신문 산업/신사업",
+    "date": "2026-10-20",
+    "link": "https://www.etnews.com/20261020000230",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261020000206": {
+    "title": "KGM, 후시파트너스와 'EU 탄소국경조정제도' 대응 업무협약 체결",
+    "summary": "KG모빌리티(KGM)는 EU 탄소국경조정제도(CBAM)에 선제적으로 대응하기 위해 탄소 관리 전문기업 후시파트너스와 업무협약을 체결했다. CBAM은 EU로 수입되는 제품의 생산 과정에서 발생하는 탄소 배출량에 비용을 부과하는 제도로, 올해 1월부터 철강·알루미늄 등 6개 품목에 적용 중이다. 2028년부터는 자동차 부품까지 적용 대상이 확대될 예정이며, 실제 배출량 데이터를 증빙하지 못하면 기본값에 할증이 붙어 추가 비용 부담이 커진다.",
+    "source": "전자신문 산업/신사업",
+    "date": "2026-10-20",
+    "link": "https://www.etnews.com/20261020000206",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.semiconductor-digest.com/hanmi-semiconductor-opens-hanmi-usa/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-opens-hanmi-usa": {
+    "title": "한미반도체, 미국 현지법인 '한미 USA' 설립",
+    "summary": "한미반도체가 미국 반도체 시장 내 입지 확대를 위한 중요한 전략으로 미국 법인 '한미 USA(HANMI USA)'를 개설했다고 발표했다. 이는 한미반도체가 미국 시장 공략을 본격화하는 조치로 해석된다. 기사에는 구체적인 투자 규모나 법인 설립 시점 등 세부 사항은 언급되지 않았다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-20",
+    "link": "https://www.semiconductor-digest.com/hanmi-semiconductor-opens-hanmi-usa/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-opens-hanmi-usa",
+    "original_title": "HANMI Semiconductor Opens HANMI USA",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q2-2026-esd-alliance-reports/?utm_source=rss&utm_medium=rss&utm_campaign=electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q2-2026-esd-alliance-reports": {
+    "title": "ESD 얼라이언스, 전자 시스템 설계 산업 2026년 2분기 매출 57억 달러 기록 발표",
+    "summary": "Electronic System Design (ESD) industry revenue increased 12.2% to $5,710.8 million in the second quarter of 2026 from the $5,089.4 million registered in the second quarter of 2025, the ESD Alliance, a SEMI Technology Coalition, announced today. The post Electronic System Design Industry Posts $5.7 Billion in Revenue in Q2 2026, ESD Alliance Reports appeared first on Semiconductor Digest .",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-20",
+    "link": "https://www.semiconductor-digest.com/electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q2-2026-esd-alliance-reports/?utm_source=rss&utm_medium=rss&utm_campaign=electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q2-2026-esd-alliance-reports",
+    "original_title": "Electronic System Design Industry Posts $5.7 Billion in Revenue in Q2 2026, ESD Alliance Reports",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/": {
+    "title": "영상 인터뷰: 애플라이드 머티리얼즈 CEO에게 듣는 50억 달러 EPIC 투자의 경제적 논리",
+    "summary": "애플라이드 머티리얼즈가 50억 달러 규모의 EPIC 센터를 공개한 데 이어 강력한 재무 전망을 발표했다. 이 기사는 CEO 게리 디커슨과의 영상 인터뷰를 통해 이 대규모 투자 배후의 경제적 논리와 재무 전망의 연관성을 설명한다. 애플라이드 머티리얼즈는 세계 주요 반도체 장비 기업으로, EPIC 센터는 그 전략적 투자 방향을 보여주는 사안이다.",
+    "source": "EE Times",
+    "date": "2026-10-20",
+    "link": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/",
+    "original_title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+    "lang": "en"
+  },
+  "https://www.donga.com/news/Economy/article/all/20261020/134870335/2": {
+    "title": "산재 사망자 59%는 일용직… 안전모 안쓴채 1m 추락해 숨지기도",
+    "summary": "고용노동부가 공개한 재해조사보고서 168건 분석 결과, 산재 사망자의 59%가 일용직 근로자로 나타났다. 2023년 2월 경남 의령군의 한 축사에서는 60대 일용직 근로자가 지붕 채광창 교체 작업 중 안전모와 안전대 등 보호구 없이 5.2m 아래로 추락해 사망했다. 조사 결과 노후 지붕재 철거 구간에 견고한 덮개가 설치되지 않았고 개인 보호구도 지급되지 않은 것으로 확인됐다. 사망 사고는 소규모 사업장에서 고령·일용직 근로자에게 집중되는 경향을 보였다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-20",
+    "link": "https://www.donga.com/news/Economy/article/all/20261020/134870335/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Economy/article/all/20261020/134870340/2": {
+    "title": "건설현장서 숨진 10명 중 8명, 일한 지 6개월도 안된 ‘초보’",
+    "summary": "지난해 산업재해 사망자 2명 가운데 1명은 근속 기간 6개월 미만의 신입 근로자였던 것으로 나타났다. 18일 국회 기후에너지환경노동위원회 소속 김태선 더불어민주당 의원이 한국산업안전보건공단에서 받은 자료에 따르면 지난해 산재 사고 사망자 872명 가운데 근속 기간 6개월 미만 근로자는 503명(57.7%)이었다. 사고 재해자 11만3305명 중 근속 6개월 미만은 5만3323명(47.1%)이었다. 근속 기간 1년 미만으로 범위를 넓히면 지난해 사고 사망자의 65.5%(571명)가 근속 1년 미만이었다. 산재 사망자 3명 가운데 2명이 근속 1년을 채우지 못한 것이다. 근속 1년 미만 산재 사고 사망자는 2023년 552명, 2024년 564명, 지난해 571명 등으로 3년 연속 500명을 넘겼다. 올해는 상반기 기준으로 251명이다. 근속 1년 미만 사고 재해자 역시 2023년 7만1578명, 2024년 7만529명, 작년 6만6008명으로 매년 전체 사고 재해자의 절반 이상을",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-20",
+    "link": "https://www.donga.com/news/Economy/article/all/20261020/134870340/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261020/134869657/2": {
+    "title": "[현장속으로]백마디 설명보다 ‘시뮬레이션 한 번’으로 안전 교육",
+    "summary": "15일 대구 동구 대구시민안전테마파크 소방기록전시관 재난 라이브러리에서 유치원생들이 고층건물 화재를 재현한 축소 모형 시뮬레이션을 체험하며 119 신고 등 화재 대응 요령을 익혔다. 모형 작동 시연에서 아이들은 실제 상황처럼 119에 신고하는 연습을 했고, 인솔 교사는 당황하지 말고 신고하는 것이 중요하다고 강조했다. 전시관에는 2003년 대구 지하철 참사의 순간을 재현한 축소 모형도 전시되어 방문객들에게 재난 경각심을 일깨우고 있다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-20",
+    "link": "https://www.donga.com/news/Society/article/all/20261020/134869657/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://airqualitynews.com/legislation/burnham-urged-to-launch-inquiry-into-air-pollution-inequality/?utm_source=rss&utm_medium=rss&utm_campaign=burnham-urged-to-launch-inquiry-into-air-pollution-inequality": {
+    "title": "버넘, 대기오염 불평등 조사 실시 촉구 받아",
+    "summary": "캠페인 단체 인액트 이퀄리티(Enact Equality)가 저소득층 가구와 소수민족 공동체가 저질 대기환경에 불균형적으로 노출되고 있다며, 대기오염 노출 불평등에 대한 전국적 조사를 총리에게 촉구했다. 10월 19일자 공개 서한에는 의회의원, 의학 전문가, 학자, 활동가, 연예인 등이 서명하여 정부에 이 문제 조사를 요구했다.",
+    "source": "Air Quality News",
+    "date": "2026-10-20",
+    "link": "https://airqualitynews.com/legislation/burnham-urged-to-launch-inquiry-into-air-pollution-inequality/?utm_source=rss&utm_medium=rss&utm_campaign=burnham-urged-to-launch-inquiry-into-air-pollution-inequality",
+    "original_title": "Burnham urged to launch inquiry into air pollution inequality",
+    "lang": "en"
+  },
+  "https://www.edie.net/cop31-action-tracker-pre-cop-outcomes-and-nature-action/": {
+    "title": "COP31 액션 트래커: 정상회의 사전 성과와 자연 보전 행동",
+    "summary": "COP31이 다음 달 튀르키예에서 개최될 예정이다. 환경 전문 매체 edie는 정상회의 개최에 앞서 회원 전용 정기 시리즈를 통해 글로벌 기후 행동 상황을 점검한다. 이 시리즈는 기업, 정부, 주요 기구의 관련 뉴스를 다루며 정상회의 전 기후 행동 진행 상황을 점검하는 내용을 담고 있다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-20",
+    "link": "https://www.edie.net/cop31-action-tracker-pre-cop-outcomes-and-nature-action/",
+    "original_title": "COP31 Action Tracker: Pre-COP outcomes and nature action",
+    "lang": "en"
+  },
+  "https://www.edie.net/one-day-to-go-how-the-uk-cbam-will-affect-sustainability-strategies/": {
+    "title": "오늘 진행: 영국 CBAM이 지속가능성 전략에 미치는 영향",
+    "summary": "에디(edie)가 10월 20일 45분 분량의 마스터클래스를 개최하여 영국 CBAM(탄소국경조정제도)의 의미를 다룬다. 이 세션에서는 영국 CBAM이 기업의 지속가능성 전략에 미치는 영향을 살펴본다. 또한 기업이 해당 제도에 대비할 수 있는 준비 방안도 함께 논의된다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-20",
+    "link": "https://www.edie.net/one-day-to-go-how-the-uk-cbam-will-affect-sustainability-strategies/",
+    "original_title": "TODAY: How the UK CBAM will affect sustainability strategies",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/": {
+    "title": "퀄컴, ARM 상대 주요 소송 청구에서 승소...배상금은 단 2달러",
+    "summary": "퀄컴과 ARM 간 4년간 이어진 IP 분쟁에 대한 배심원 평결이 나왔다. 퀄컴은 핵심 청구에서 승소해 자체 설계한 커스텀 프로세서를 지켜냈다. 다만 배상금은 단 2달러에 그쳤으며, 이번 판결은 ARM에 재정적 부담을 안기는 결과를 낳았다.",
+    "source": "EE Times",
+    "date": "2026-10-20",
+    "link": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
+    "original_title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
+    "lang": "en"
+  },
+  "https://semiengineering.com/agentic-ai-explores-heterogeneous-chip-and-interconnect-architectures-argonne-uiuc/": {
+    "title": "에이전틱 AI가 이기종 칩·인터커넥트 아키텍처 탐구 (아곤 국립연구소·일리노이대)",
+    "summary": "미국 아곤 국립연구소와 일리노이 대학교 어배너-섐페인(UIUC) 연구진이 칩, 스케일업, 스케일아웃 영역 전반의 이기종 시스템 설계를 위한 에이전틱 AI 기술 논문을 발표했다. 논문은 GPU, 데이터플로우 프로세서, RISC-V 가속기 등 컴퓨팅 아키텍처와 HBM, GDDR 등 메모리 기술로 급속히 확장되는 현대 AI/HPC 시스템의 설계 공간을 다룬다. 연구진은 에이전틱 AI를 활용해 복잡해진 이기종 칩 및 인터커넥트 아키텍처 설계를 탐색·자동화하는 접근법을 제시했다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-20",
+    "link": "https://semiengineering.com/agentic-ai-explores-heterogeneous-chip-and-interconnect-architectures-argonne-uiuc/",
+    "original_title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC)",
+    "lang": "en"
+  },
+  "https://www.edie.net/uk-publishes-cbam-default-emissions-values-ahead-of-2027-launch/": {
+    "title": "영국, 2027년 CBAM 시행 앞두고 기본 배출값 발표",
+    "summary": "영국 정부가 탄소국경조정제도(CBAM)의 기본 배출값을 공개했다. 이는 2027년 1월 1일 제도 시행을 앞두고 수입업체가 잠재적 탄소세 납부 의무를 계산할 수 있는 표준 기준을 제공한다. 수입업체들은 해당 값을 활용해 사전에 탄소 비용 부담을 산정하고 대응을 준비할 수 있게 됐다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-20",
+    "link": "https://www.edie.net/uk-publishes-cbam-default-emissions-values-ahead-of-2027-launch/",
+    "original_title": "UK publishes CBAM default emissions values ahead of 2027 launch",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/the-workforce-behind-the-roadmap/?utm_source=rss&utm_medium=rss&utm_campaign=the-workforce-behind-the-roadmap": {
+    "title": "로드맵을 뒷받침하는 인력",
+    "summary": "반도체 업계는 3년째 공급 계획을 실행할 인력이 부족하다는 경고가 주요 콘퍼런스에서 반복되어 왔다. 미국 국립과학재단과 상무부의 지원을 받는 SEMI의 국가 마이크로일렉트로닉스 교육 네트워크(NNME)는 이번 달 첫 산업 자문위원회를 발족해 이러한 경고를 국가 전략으로 전환하고자 한다. 2030년까지 미국 반도체 분야에서 12만7천~15만7천 명의 인력 부족이 예상되고 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-19",
+    "link": "https://www.semiconductor-digest.com/the-workforce-behind-the-roadmap/?utm_source=rss&utm_medium=rss&utm_campaign=the-workforce-behind-the-roadmap",
+    "original_title": "The Workforce Behind the Roadmap",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/roseville-shows-what-it-takes-to-build-semiconductor-capacity-in-northern-california/?utm_source=rss&utm_medium=rss&utm_campaign=roseville-shows-what-it-takes-to-build-semiconductor-capacity-in-northern-california": {
+    "title": "로즈빌이 보여주는 북부 캘리포니아 반도체 생산역량 구축",
+    "summary": "보쉬는 캘리포니아주 로즈빌에 있는 옛 TSI Semiconductors 팹을 인수하며 신규 건설 대신 약 40년의 반도체 제조 경험을 갖춘 기존 시설을 현대화하는 방식을 선택했다. 보쉬는 이 시설을 실리콘 카바이드 생산 라인으로 전환하기 위해 최대 20억 달러를 투자하고 있다. 200mm 웨이퍼 기반 샘플 생산이 이미 시작되었으며, 이곳은 보쉬의 첫 미국 내 반도체 생산 기지가 된다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-19",
+    "link": "https://www.semiconductor-digest.com/roseville-shows-what-it-takes-to-build-semiconductor-capacity-in-northern-california/?utm_source=rss&utm_medium=rss&utm_campaign=roseville-shows-what-it-takes-to-build-semiconductor-capacity-in-northern-california",
+    "original_title": "Roseville Shows What It Takes to Build Semiconductor Capacity in Northern California",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261019000429": {
+    "title": "우리은행, SK하이닉스 협력사에 7500억원 금융지원…반도체 공급망 강화",
+    "summary": "우리은행은 19일 용인 반도체클러스터에서 SK하이닉스, 한국무역보험공사, 주요 시중은행과 반도체 산업 수출공급망 강화를 위한 금융지원 업무협약을 체결했다. SK하이닉스와 4대 시중은행이 총 1000억원을 공동 출연하며, 출연금은 SK하이닉스 200억원, 우리은행 300억원 등이다. 한국무역보험공사는 이를 바탕으로 2조원 규모의 수출신용보증을 제공하며, 우리은행은 SK하이닉스 협력사에 7500억원의 금융지원을 한다.",
+    "source": "전자신문 IT",
+    "date": "2026-10-19",
+    "link": "https://www.etnews.com/20261019000429",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.edie.net/making-heavy-weather-of-economic-growth-why-the-uk-must-get-serious-about-climate-adaptation/": {
+    "title": "기후 변화가 위협하는 경제 성장: 영국이 기후 적응에 진지해져야 하는 이유",
+    "summary": "알더스게이트 그룹 정책 담당자 애덤 영은 기후 변화가 영국 경제에 점증하는 위험을 안기고 있다고 주장한다. 그는 극한 기상에 대응하는 기후 적응이 위험과 함께 경제적 기회도 제공한다고 강조한다. 이에 따라 영국이 기후 적응 정책을 보다 진지하게 추진해야 한다고 촉구한다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-19",
+    "link": "https://www.edie.net/making-heavy-weather-of-economic-growth-why-the-uk-must-get-serious-about-climate-adaptation/",
+    "original_title": "Making heavy weather of economic growth: Why the UK must get serious about climate adaptation",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261019000425": {
+    "title": "TSMC, 대만 타이난에 3나노 공장 추가 건설…2028년 양산",
+    "summary": "대만 TSMC는 AI 반도체 수요 증가에 대응하기 위해 대만 남부 타이난에 3나노미터 공장을 추가로 건설한다. 웨이저자 TSMC 회장은 실적설명회에서 향후 수년간 3나노 공정 수요가 매우 강할 것으로 평가된다며, 고객사 지원 강화를 위해 2028년부터 양산에 돌입할 계획이라고 밝혔다. 이는 세계 최대 반도체 위탁생산 업체인 TSMC의 첨단 공정 생산 역량 확대 움직임이다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-19",
+    "link": "https://www.etnews.com/20261019000425",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261019000417": {
+    "title": "삼성전기, 3605억원 규모 '메모리 반도체용 패키지기판' 장기 공급계약",
+    "summary": "삼성전기가 글로벌 대형기업과 3605억 원 규모의 메모리 반도체용 패키지기판 장기공급계약(LTA)을 체결했다고 밝혔다. 계약 기간은 2027년 1월 1일부터 12월 31일까지 1년간이며, 메모리 반도체에 탑재되는 고성능 패키지기판을 안정적으로 공급한다. 이로써 삼성전기가 올해 5월 이후 체결한 공시 기준 장기공급계약은 총 7건으로 늘었고, 누적 계약 규모는 4조 3000억 원에 달한다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-19",
+    "link": "https://www.etnews.com/20261019000417",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261019000392": {
+    "title": "韓 반도체 저격수 된 머스크…中 메모리 띄우고 삼전닉스 흔드는 속셈?",
+    "summary": "일론 머스크 테슬라 CEO가 메모리 반도체의 연이은 공급난과 가격 급등에 불만을 표출하며 중국의 2028년 메모리 생산 확대 가능성을 언급했다. 앞서 애플도 중국산 메모리 채택 가능성을 열어두면서 삼성전자와 SK하이닉스가 주도하는 메모리 시장에 변화가 예상된다. 업계에서는 머스크의 발언이 가격 협상력을 낮추려는 의도라는 해석이 나온다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-19",
+    "link": "https://www.etnews.com/20261019000392",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.eetimes.com/from-macro-to-micro-and-back/": {
+    "title": "거시에서 미시로, 그리고 다시 거시로",
+    "summary": "This year’s Nobel prizes explained large systems through their smallest parts. What can chip design learn from them, and can AI help us design in the other direction too? The post From Macro to Micro, and Back appeared first on EE Times .",
+    "source": "EE Times",
+    "date": "2026-10-19",
+    "link": "https://www.eetimes.com/from-macro-to-micro-and-back/",
+    "original_title": "From Macro to Micro, and Back",
+    "lang": "en"
+  }
+}
