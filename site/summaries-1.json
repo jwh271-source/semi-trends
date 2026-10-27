@@ -55,7 +55,7 @@
   },
   "https://www.law.go.kr/DRF/lawService.do?OC=sapphire_5&target=law&MST=283441&type=HTML&mobileYn=&efYd=20260219": {
     "title": "[법령] 물환경보전법",
-    "summary": "일부개정 | 공포 2026-02-19 | 시행 2026-02-19 | 소관: 기후에너지환경부",
+    "summary": "일부개정 | 공포 2026-02-19 | 시행 2026-02-19 | 소관: 기후에너지환경부 | 개정 조항: 20260219:제40조 | 개정 이유: [일부개정] ◇ 개정이유 및 주요내용 기후에너지환경부장관은 수질과 수생태계에 영향을 미칠 우려가 있는 새로운 물질을 관찰물질로 지정ㆍ고시하도록 하고, 방사성물질 및 방사성폐기물의 하천ㆍ호소 유입 여부를 매년 조사하여 그 결과를 누적 관리 및 공개하도록 하며, 낚시금지ㆍ제한구역에 대한 변경 및 해제의 근거를 마련하고, 정기적으로 지정 유지 여부를 재검토하도록 하며, 배출허용기준을 초과하여 개선명령을 받고도 이행하지 아니한 경우 등에 대한 조업정지 처분의 상한을 6개월로 설정하려는 것임.",
     "source": "법제처 (공공데이터포털 API)",
     "date": "2026-02-19",
     "link": "https://www.law.go.kr/DRF/lawService.do?OC=sapphire_5&target=law&MST=283441&type=HTML&mobileYn=&efYd=20260219",
@@ -71,238 +71,382 @@
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.etnews.com/20261027000009": {
-    "title": "3분기 GDP 1.0% '깜짝 성장'…정부소비·설비투자가 끌었다",
-    "summary": "올해 3분기 우리 경제가 직전 분기 대비 1.0% 성장했다. 반도체 호황이 이어지는 가운데 정부소비와 설비투자가 성장을 이끌었고, 성장률은 한국은행 전망치를 크게 웃돌았다. 실질 구매력을 보여주는 국내총소득(GDI)은 약 49년 만에 최대 폭으로 늘었다. 반면 민간소비는 오히려 뒷걸음질했다. 한국은행(한은)은 3분기 실질 국내총생산(GDP) 성장률(속보치)이 전 분기 대비 1.0%로 집계됐다고 27일 밝혔다. 이는 한은이 8월 제시한 3분기 전",
-    "source": "전자신문 (전체)",
-    "date": "2026-10-27",
-    "link": "https://www.etnews.com/20261027000009",
+  "https://semiengineering.com/analog-superposition-increases-effective-pcm-storage-density-ibm-research-europe/": {
+    "title": "아날로그 중첩 기술로 상변화 메모리(PCM) 실효 저장 밀도 향상 (IBM 리서치 유럽)",
+    "summary": "IBM 리서치 유럽 연구진이 신경망 벡터 저장을 위한 '중첩 아날로그 메모리' 기술 논문을 발표했다. 이 기술은 아날로그 상변화 메모리(PCM) 아키텍처에 여러 AI 벡터를 중첩 저장해 실효 저장 밀도를 높이며, 정확도는 조정 가능한 트레이드오프가 있다. 프로토타입 PCM 하드웨어 테스트 결과, 전체 정밀도(full-precision) 소프트웨어에 근접한 추론 정확도를 확인했다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-28",
+    "link": "https://semiengineering.com/analog-superposition-increases-effective-pcm-storage-density-ibm-research-europe/",
+    "original_title": "Analog Superposition Increases Effective PCM Storage Density (IBM Research Europe)",
+    "lang": "en"
+  },
+  "https://www.donga.com/news/Society/article/all/20261028/134921185/2": {
+    "title": "내년 4월부터 산재 사망 반복땐 영업익 5% 과징금",
+    "summary": "내년 4월 28일부터 산업안전보건법 개정안이 시행되어, 사업주가 안전·보건조치 의무를 위반해 1년간 노동자 3명 이상이 산업재해로 사망하면 3년 평균 영업이익의 최대 5%에 해당하는 과징금이 부과된다. 영업 적자가 있거나 영업이익 산정이 어려운 경우 과징금은 최대 30억 원 이내로 제한된다. 노동자의 작업중지권도 확대되어, 기존의 '급박한 위험' 발생 시와 달리 위험이 우려되는 경우에도 작업 중지를 요구할 수 있게 된다. 과징금 부과 절차와 시기 등 세부 내용은 시행령으로 정해질 예정이다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-28",
+    "link": "https://www.donga.com/news/Society/article/all/20261028/134921185/2",
     "original_title": "",
     "lang": "ko"
   },
+  "https://www.donga.com/news/Society/article/all/20261028/134921767/1": {
+    "title": "구룡마을 화재, 큰 주불 잡혔다…“잔불 정리 중”",
+    "summary": "27일 서울 강남구 개포동 구룡마을 화재와 관련해 소방당국이 큰불이 잡혔다고 밝혔다. 소방당국은 대응 2단계를 1단계로 하향했고, 현재 잔불을 정리하고 있다. 이날 화재 현장에는 소방과 경찰, 구청 등 940여명과 차량 140여대가 동원됐다. 30대 여성 1명이 다쳐 병원으로 이송됐다.김현석 강남소방서 소방행정과장은 이날 오후 11시15분께 시작한 3차 현장 브리핑에서 “큰불이 잡힌 상황으로 잔불을 정리하고 있다”고 밝혔다. 이어 “거주 주민 전원의 연락처를 확보해 안전하게 대피했는지 확인하는 중”이라며 “상황이 정리되면 화재를 최종 정리하고 완진 처리할 예정”이라고 전했다.부상자는 구룡마을 7지구 주민인 30대 여성 1명으로, 다리에 경미한 부상을 입어 구급대가 병원으로 이송했다. 앞서 소방당국은 “인명피해는 없다”고 밝혔으나 이번 브리핑에서 부상자가 있었다고 확인했다.소방당국은 오후 3시51분께 출동지령을 받아 출동했고, 3시59분 대응 1단계를 발령했다. 이어 4시2",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-28",
+    "link": "https://www.donga.com/news/Society/article/all/20261028/134921767/1",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.edie.net/what-is-holding-back-sustainability-measurement-in-construction/": {
+    "title": "건설업 지속가능성 측정을 가로막는 것은 무엇인가",
+    "summary": "건설업계 전문가들은 탄소 배출 감축, 제품 정보 개선, 폐기물 절감의 필요성에 대한 인식을 점차 공유하고 있다. 그러나 새로운 연구에 따르면 이러한 우선과제들이 업계 전반에서 일상적인 실무로 이어지지 않는 것으로 나타났다. edie는 이번 연구를 토대로 건설 부문이 직면한 현재의 도전 과제를 분석한다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-28",
+    "link": "https://www.edie.net/what-is-holding-back-sustainability-measurement-in-construction/",
+    "original_title": "What is holding back sustainability measurement in construction?",
+    "lang": "en"
+  },
+  "https://www.edie.net/weaker-ev-targets-could-result-in-more-than-half-of-rosebanks-emissions-research-finds/": {
+    "title": "ECIU 경고: 전기차 목표 완화 시 로즈뱅크 유전 배출량의 절반 이상 상당 배출 가능",
+    "summary": "영국 에너지·기후정보부(ECIU)의 새로운 분석에 따르면 영국 전기차(EV) 판매 목표가 축소될 경우 상당한 추가 배출이 발생할 수 있다. 이 추가 배출량은 로즈뱅크 유전의 석유를 연소할 때 예상되는 배출량의 58%에 해당하는 규모다. 이는 전기차 보급 정책 약화가 기후 목표 달성에 미칠 영향이 유전 개발 못지않게 크다는 분석이다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-10-27",
+    "link": "https://www.edie.net/weaker-ev-targets-could-result-in-more-than-half-of-rosebanks-emissions-research-finds/",
+    "original_title": "Weaker EV targets could result in more than half of Rosebank’s emissions, ECIU warns",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/amhs-is-not-just-factory-logistics/?utm_source=rss&utm_medium=rss&utm_campaign=amhs-is-not-just-factory-logistics": {
+    "title": "AMHS는 단순한 공장 물류가 아니다",
+    "summary": "AMHS(자동 물류 반송 시스템)는 일반적으로 팹 내 장비 간 로트(lot)를 최대한 빠르게 이동시키는 물류 계층으로 간주되어 왔다. 소시오넥스트 아메리카의 모 콜베다리 박사는 이러한 관점이 점점 불완전해지고 있다고 주장한다. 그에 따르면 모든 웨이퍼 캐리어는 지속적으로 축적되는 제조 이력을 담고 있는 소재를 보유하고 있기 때문이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-27",
+    "link": "https://www.semiconductor-digest.com/amhs-is-not-just-factory-logistics/?utm_source=rss&utm_medium=rss&utm_campaign=amhs-is-not-just-factory-logistics",
+    "original_title": "AMHS Is Not Just Factory Logistics",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain": {
+    "title": "웨이퍼 팹 장비: 분열하는 공급망 위에 세워진 급성장 시장",
+    "summary": "욜 그룹(Yole Group)의 '웨이퍼 팹 장비 산업 현황 2026' 보고서에 따르면 2025년 웨이퍼 팹 장비 매출은 1,290억 달러에 도달했다. 이 시장은 연평균 성장률(CAGR) 9%로 성장해 2031년까지 약 2,200억 달러에 근접할 것으로 전망된다. 성장의 배경에는 분열 조짐을 보이는 공급망 구조 변화가 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-27",
+    "link": "https://www.semiconductor-digest.com/wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain",
+    "original_title": "Wafer Fab Equipment: A Booming Market Built on a Fragmenting Supply Chain",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem": {
+    "title": "백엔드 장비: 대량 조립에서 전략적 첨단 패키징 생태계로",
+    "summary": "Yole Group의 '2026 백엔드 장비 산업 현황' 보고서에 따르면 백엔드 장비 매출은 2025년 81억 달러에서 2026년 95억 달러, 2027년에는 106억 달러로 성장할 전망이다. 백엔드 장비 산업이 단순 대량 조립 역할을 넘어 첨단 패키징 중심의 전략적 생태계로 변화하고 있음을 보여준다. 첨단 패키징 수요 확대가 매출 성장의 핵심 동력으로 분석된다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-27",
+    "link": "https://www.semiconductor-digest.com/back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem",
+    "original_title": "Back-End Equipment: From Volume Assembly to a Strategic Advanced Packaging Ecosystem",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging": {
+    "title": "웨이퍼에서 패널로: 첨단 패키징 리소그래피의 도전 과제 극복",
+    "summary": "이 기사는 첨단 패키징 분야의 리소그래피 과제를 다룬다. 전공정 리소그래피와 달리 패키징 리소그래피는 약 1µm 수준의 특징 크기를 다루므로, 더 작은 선폭(CD)보다 오버레이 정확도, 스루풋, 열적 안정성이 더 중요하다. 기판이 300mm 웨이퍼에서 최대 600x600mm 패널로 전환됨에 따라 이러한 요구 수준은 더욱 높아지고 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-27",
+    "link": "https://www.semiconductor-digest.com/from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging",
+    "original_title": "From Wafers to Panels: Overcoming Lithography Challenges in Advanced Packaging",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/has-ai-shifted-the-sustainability-balance-from-chip-design-to-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=has-ai-shifted-the-sustainability-balance-from-chip-design-to-manufacturing": {
+    "title": "AI는 지속가능성의 무게중심을 칩 설계에서 제조 단계로 옮겼는가?",
+    "summary": "수십 년간 반도체 지속가능성은 주로 칩 설계 문제로 다루어져 왔으며, 와트당 성능 개선, 전용 가속기, 스마트 전력 관리에 초점이 맞춰져 왔다. 존 블라이러(John Blyler)는 AI 인프라 확장이 신규 팹 건설 붐을 주도하면서 지속가능성 부담이 이제 제조 단계로 이동하고 있다고 주장한다. 이는 AI 발전에 따라 반도체 제조 공정의 에너지 및 환경 부하가 설계 단계보다 커지는 구조적 변화를 시사한다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-27",
+    "link": "https://www.semiconductor-digest.com/has-ai-shifted-the-sustainability-balance-from-chip-design-to-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=has-ai-shifted-the-sustainability-balance-from-chip-design-to-manufacturing",
+    "original_title": "Has AI Shifted the Sustainability Balance from Chip Design to Manufacturing?",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/why-is-ai-finally-sticking-inside-the-fab/?utm_source=rss&utm_medium=rss&utm_campaign=why-is-ai-finally-sticking-inside-the-fab": {
+    "title": "AI가 팹 안에서 드디어 정착하는 이유는?",
+    "summary": "Acumen Research and Consulting의 Mahima Sambre는 반도체 팹(fab)이 단일 팹 전체 AI 플랫폼이라는 구상을 받아들이지 않았다고 분석한다. 대신 팹들은 수율 손실이 가장 큰 비용을 유발하는 지점에 배치되는 좁고 결정론적인 도구에 투자하고 있다. 대표적인 예로 개별 검사 장비의 결함 분류기(defect classifier)나 특정 증착(deposition) 공정 단계의 가상 계측(virtual metrology) 모델 등이 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-27",
+    "link": "https://www.semiconductor-digest.com/why-is-ai-finally-sticking-inside-the-fab/?utm_source=rss&utm_medium=rss&utm_campaign=why-is-ai-finally-sticking-inside-the-fab",
+    "original_title": "Why Is AI Finally Sticking Inside the Fab?",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/the-measurement-gap-why-metrology-and-inspection-is-outgrowing-the-industrys-ability-to-supply-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-measurement-gap-why-metrology-and-inspection-is-outgrowing-the-industrys-ability-to-supply-it": {
+    "title": "측정 격차: 메트롤로지와 검사 시장이 업계 공급 능력을 추월하는 이유",
+    "summary": "2026년 웨이퍼 팹 장비 지출은 약 1,620억 달러로 전년 대비 약 25% 증가할 전망이며, 이 중 메트롤로지(계측)와 검사가 약 14%를 차지한다. Yole Group은 해당 시그먼트의 2031년 전망치를 247억 달러에서 314억 달러로 상향 조정했다. 이번 상향은 주로 메모리 부문 주도였으며, 메모리 수요는 다시 AI가 견인하고 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-27",
+    "link": "https://www.semiconductor-digest.com/the-measurement-gap-why-metrology-and-inspection-is-outgrowing-the-industrys-ability-to-supply-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-measurement-gap-why-metrology-and-inspection-is-outgrowing-the-industrys-ability-to-supply-it",
+    "original_title": "The Measurement Gap: Why Metrology and Inspection Is Outgrowing the Industry’s Ability to Supply It",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/why-sic-and-gan-need-their-own-qualification-standards/?utm_source=rss&utm_medium=rss&utm_campaign=why-sic-and-gan-need-their-own-qualification-standards": {
+    "title": "SiC와 GaN에 자체 품질 인증 표준이 필요한 이유",
+    "summary": "실리콘 카바이드(SiC)와 갈륨 나이트라이드(GaN) 전력 소자는 전기차 인버터, 차량 탑재 충전기, 태양광 인버터, 데이터센터 전원장치에 빠르게 도입되고 있다. Infinita Lab의 Pradyumna Gupta 박사는 이들 소자를 검증하는 데 사용되는 품질 인증 표준인 JEDEC JESD47, AEC-Q101, JESD22 스트레스 테스트가 모두 실리콘의 고장 모드를 기준으로 설계되었다고 지적한다. 따라서 SiC·GaN 고유의 고장 메커니즘을 반영한 별도의 인증 표준이 필요하다고 주장한다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-27",
+    "link": "https://www.semiconductor-digest.com/why-sic-and-gan-need-their-own-qualification-standards/?utm_source=rss&utm_medium=rss&utm_campaign=why-sic-and-gan-need-their-own-qualification-standards",
+    "original_title": "Why SiC and GaN Need Their Own Qualification Standards",
+    "lang": "en"
+  },
+  "https://www.donga.com/news/Society/article/all/20261027/134921422/1": {
+    "title": "구룡마을 화재, 소방 대응 1단계로 하향",
+    "summary": "서울 강남구 개포동 구룡마을에서 발생한 대형 화재의 불길이 더 이상 확산되지 않자 소방 당국은 27일 오후 10시 5분 소방 대응 단계를 2단계에서 1단계로 하향했다. 화재는 이날 오후 3시 51분 구룡마을 2지구 가건물 주거지에서 발생했으며, 건조한 날씨 속 센 바람과 비닐·골판지 등 가연성 소재 탓에 3지구와 7지구 인근까지 빠르게 번졌다. 진화 작업에는 소방 헬기 6대와 장비 140대, 인력 900여 명이 투입됐다. 초기 소화용수 부족과 강풍으로 진화에 어려움을 겪었으나 산불 전이를 차단하고 주거 밀집 구역 방어선 구축에 성공했다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-27",
+    "link": "https://www.donga.com/news/Society/article/all/20261027/134921422/1",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.semiconductor-digest.com/how-to-tackle-hidden-production-risks-in-semiconductor-operations/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-tackle-hidden-production-risks-in-semiconductor-operations": {
+    "title": "반도체 운영에서 숨겨진 생산 리스크 대처법",
+    "summary": "반도체 팹은 장비와 공정 레시피에 철저한 엔지니어링 규율을 적용하지만, 웨이퍼 로트 포장, 레티클 운반, 예방정비, 부품 세척 등 수동 작업은 상대적으로 체계적인 관리를 받지 못한다. 그럼에도 고가의 자재가 하루 수백 번 사람 손을 거치며 리스크에 노출된다. 켈리(Kelly)의 크레이그 월터스는 이를 팹 현장에서 '눈앞에 숨어 있는 리스크'라고 표현했다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-27",
+    "link": "https://www.semiconductor-digest.com/how-to-tackle-hidden-production-risks-in-semiconductor-operations/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-tackle-hidden-production-risks-in-semiconductor-operations",
+    "original_title": "How to Tackle Hidden Production Risks in Semiconductor Operations",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261027000429": {
+    "title": "'몸값 2700조' 앤트로픽 “삼전닉스가 반도체 안주면 AI 멈춘다”",
+    "summary": "기업가치 최대 2700조원을 목표로 미국 증시 상장을 추진하는 인공지능(AI) 기업 앤트로픽이 삼성전자와 SK하이닉스 등 메모리 반도체 제조사의 공급 결정에 따라 사업이 타격을 받을 수 있다고 경고했다. AI 시장이 급성장하고 있지만 핵심 반도체 공급이 수요를 따라가지 못하면 사업 확장에 제동이 걸릴 수 있다는 것이다. 27일 앤트로픽이 미국 증권거래위원회(SEC)에 제출한 기업공개(IPO) 증권신고서에 따르면 회사는 AI용 메모리와 가속기 공",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-27",
+    "link": "https://www.etnews.com/20261027000429",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261027000417": {
+    "title": "고리 3·4호기 수명연장…AI시대 '2.05GW 무탄소 전력' 돌아온다",
+    "summary": "고리 원자력발전소 3·4호기가 계속운전(수명연장) 허가를 받으면서 총 2.05GW 규모의 무탄소 발전설비가 내년 상반기부터 순차적으로 전력망에 복귀한다. 원자력안전위원회는 27일 회의를 열어 계속운전을 위한 운영변경허가를 의결했다. 반도체와 AI 데이터센터 등 첨단산업의 전력수요가 급증하는 가운데, 2035 국가온실가스감축목표(NDC) 달성을 위한 안정적 무탄소 전력 확보에 힘이 실리게 됐다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-27",
+    "link": "https://www.etnews.com/20261027000417",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://semiengineering.com/the-imec-report-scaling-optical-interconnects-for-the-ai-era/": {
+    "title": "imec 보고서: AI 시대를 위한 광 인터커넥트 확장",
+    "summary": "imec는 AI 시대에 전례 없는 대역폭 수요가 발생함에 따라 광 인터커넥트 로드맵의 근본적인 재검토가 필요하다고 보고했다. 핵심 과제는 광학 기술을 실리콘과 더 가깝게 통합하는 것으로 제시되었다. 이 보고서는 Semiconductor Engineering을 통해 공개되었으며, 반도체 분야의 광 인터커넥트 기술 확장 방안을 다룬다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-27",
+    "link": "https://semiengineering.com/the-imec-report-scaling-optical-interconnects-for-the-ai-era/",
+    "original_title": "The imec Report: Scaling Optical Interconnects For The AI Era",
+    "lang": "en"
+  },
+  "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-27/": {
+    "title": "칩 산업 기술 논문 종합: 10월 27일",
+    "summary": "세미컨덕터 엔지니어링(Semiconductor Engineering)이 10월 27일자 칩 산업 기술 논문 종합을 발표했다. 이번 회차는 3D DRAM-on-GPU 열 설계, 다층 CFET의 자기 발열 및 기생 성분 분석, 200G/λ급 실리콘 포토닉스 등을 다룬다. 또한 건식 증착 EUV 및 전자빔 레지스트, 3nm 공정용 신경망 기반 SPICE 모델링, 보안을 고려한 3D CiM 매핑, high-NA EUV 마스크용 Pt-W 흡수체 연구도 포함된다. 주요 토픽은 차세대 메모리·패키징 구조의 열·전기적 이슈와 차세대 노드용 리소그래피·설계 기술이다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-27",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-27/",
+    "original_title": "Chip Industry Technical Paper Roundup: Oct. 27",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261027000352": {
+    "title": "韓 반도체 신화 출발점 4메가 D램 설계도면 복원",
+    "summary": "행정안전부 국가기록원이 우리나라 최초의 4메가(M) D램 설계도면 15건 67매를 8개월간의 정밀 복원 과정을 거쳐 소장처인 한국전자통신연구원(ETRI)에 전달한다고 밝혔다. 이 설계도면은 독자 기술로 완성한 메모리 칩의 전체 모습과 개발 성과, 기술 수준을 보여주는 국내 유일의 원본 기록물이다. 전달 시기는 제19회 반도체의 날(10월 29일)을 맞춘 것으로, 1981년 정부의 반도체공업 육성 이래 한국 반도체 신화의 출발점을 기념하는 의미를 지닌다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-27",
+    "link": "https://www.etnews.com/20261027000352",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261027000237": {
+    "title": "상생협력재단, 5개 지방정부와 'KB금융 에너지 절감 시설 지원사업' 협약",
+    "summary": "대중소기업농어업협력재단은 제주특별자치도와 서울 관악구, 대구 북구, 울산 울주군, 전남광주통합특별시 동구 등 5개 지방정부와 '2026년 KB금융 에너지 절감 시설 지원사업' 추진을 위한 업무협약을 체결했다. 이 사업은 지역 영세 소상공인의 에너지 비용 부담을 덜고 친환경 고효율 설비 전환을 지원하는 것이 목적이다. 재원은 KB금융그룹이 중소벤처기업부, 상생협력재단과 조성한 상생협력기금 100억 원 가운데 녹색전환(GX) 관련 자금으로 마련된다.",
+    "source": "전자신문 IT",
+    "date": "2026-10-27",
+    "link": "https://www.etnews.com/20261027000237",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.eetimes.com/using-a-single-image-to-optimize-urban-solar-panel-orientation/": {
+    "title": "단일 이미지를 활용한 도시 태양광 패널 설치 방향 최적화",
+    "summary": "이 기사는 도시 환경에 설치된 태양광 패널에서 최대 전력을 생산하려면 주변 환경에 대한 깊은 이해가 필요하다고 강조한다. 이에 따라 단 하나의 이미지만으로 도시 지역 태양광 패널의 설치 방향을 최적화하는 기법을 소개한다. 해당 콘텐츠는 EE Times에 게재된 기사이다.",
+    "source": "EE Times",
+    "date": "2026-10-27",
+    "link": "https://www.eetimes.com/using-a-single-image-to-optimize-urban-solar-panel-orientation/",
+    "original_title": "Using a Single Image to Optimize Urban Solar-Panel Orientation",
+    "lang": "en"
+  },
   "https://www.donga.com/news/Society/article/all/20261027/134912702/2": {
     "title": "“가뭄 버틸 지하수 확보”… ‘땅속 댐’ 전국에 23개 짓는다",
-    "summary": "《기후변화로 극한가뭄과 폭우가 잦아지면서 댐과 하천에만 의존하는 방식으로는 물을 안정적으로 공급하기 어렵게 됐다. ‘물 먹는 하마’로 불리는 인공지능(AI) 데이터센터와 반도체의 급성장으로 산업용수 사용도 빠르게 늘고 있다. 댐과 하천을 대신할 대체 수자원으로 땅속 지하수를 저장해 쓰는 지하수저류댐이 주목받고 있다. 바닷물에서 염분을 걸러 민물로 만드는 해수 담수화, 한 번 사용한 하수를 다시 처리해 쓰는 하수처리수 재이용도 효율적인 미래 수자원 확보 방안으로 꼽힌다.》21일 경기 양평군 양동면 삼산리에 위치한 지하수저류댐의 주변 땅은 며칠간 비가 내리지 않아 쩍쩍 갈라져 있었다. 하지만 지하 약 6m 깊이의 집수정에는 지하수가 절반 이상 차 있었다. 저류댐 시설 대부분이 지하에 파묻혀 있지만 지하수가 모이는 집수정은 직접 내려가 확인이 가능하다. 집수정 한편에는 이렇게 모인 지하수를 양동면 일대에 공급하는 관로와 펌프가 설치돼 있었다. 이 관로를 통해 주민 2600여 명에게 하루",
+    "summary": "기후변화로 극한 가뭄과 폭우가 잦아지고 AI 데이터센터와 반도체 산업 성장으로 산업용수 수요가 급증하면서 지하수를 저장해 활용하는 지하수저류댐이 대체 수자원으로 주목받고 있다. 전국에 23개의 지하수저류댐을 추가로 짓는 계획이다. 경기 양평 양동면 삼산리의 지하수저류댐은 지하 약 6m 집수정에 모은 지하수를 관로와 펌프로 주민 2600여 명에게 매일 공급한다. 해수 담수화와 하수처리수 재이용도 효율적인 미래 수자원 확보 방안으로 꼽힌다.",
     "source": "동아일보 (사회/사고)",
     "date": "2026-10-27",
     "link": "https://www.donga.com/news/Society/article/all/20261027/134912702/2",
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.donga.com/news/Politics/article/all/20261027/134913548/2": {
-    "title": "北, 안보리에 “지뢰 폭발 韓자작극” 맞서한",
-    "summary": "정부가 유엔 안전보장이사회(안보리)에 서부전선 비무장지대(DMZ) 북한 지뢰 폭발사건 규탄 서한을 발송한 지 사흘 만에 북한이 “(지뢰 사건은) 한국의 자작극”이라며 안보리에 서한을 보냈다. 북한은 유엔총회에서도 한국의 대북 억제태세에 “자체 핵무기를 개발하겠다는 거냐, 미국의 핵무기로 공격하겠다는 거냐”며 궤변을 이어갔다. 서부전선 해안가 최전방 지역에서는 북한이 주요 포병 전력인 122mm 자주포를 전진 배치한 모습도 포착됐다. 26일 조선중앙통신은 주유엔 상임대표가 25일 안보리 의장에게 이 같은 내용의 서한을 보냈다고 보도했다. 북한은 서한에서 지난달 지뢰 폭발사건을 가리켜 “한국이 조작했다”며 “남부국경 요새화를 ‘군사적 침범’으로 매도하고 지연, 저지시키기 위한 음흉한 방해책동이며 조선반도 정세 악화의 책임에서 벗어나기 위한 자작극에 불과하다”고 주장했다. 북한군의 군사분계선(MDL) 침범 도발에 대한 우리 군의 경고 사격에 대해선 “극히 무모한 도발 행위를 서슴지 않",
+  "https://www.donga.com/news/Politics/article/all/20261027/134913313/2": {
+    "title": "반도체 주52시간제 예외… 시행령 땜질한다는 정부",
+    "summary": "정부 여당이 전남광주 반도체 클러스터 등 메가프로젝트를 지원하는 초광역특구법에 주 52시간 예외 조항을 넣는 대신 근로기준법 시행령 개정 작업에 돌입했다. 재계는 노동 특례 규정 없이는 지방 투자에 대한 유인이 없을 것이라며 입법 필요성을 호소해 왔지만, 노동계는 노동 규제 예외 자체를 반대하고 있다. 정부와 청와대는 특정 지역에만 예외를 적용하는 문제가 있어 기존 법률 내에서 시행령을 활용하는 방안을 검토 중이라고 밝혔다. 더불어민주당은 초광역특구법 논의를 여야가 참여하는 국회 특별위원회로 옮겨 재논의하기로 했다.",
     "source": "동아일보 (사회/사고)",
     "date": "2026-10-27",
-    "link": "https://www.donga.com/news/Politics/article/all/20261027/134913548/2",
+    "link": "https://www.donga.com/news/Politics/article/all/20261027/134913313/2",
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/": {
-    "title": "현재: AI가 기후 솔루션에 대한 투자를 가속화하는 방법",
-    "summary": "10월 27일에 열리는 웨비나에 참여하여 인공 지능(AI), 시장 정보 및 인간의 전문 지식이 어떻게 기업이 신뢰할 수 있는 기후 투자 기회를 식별하고 지속 가능성 야망을 실행하는 데 필요한 재정적 지원을 확보하는 데 도움이 될 수 있는지 살펴봅니다.",
-    "source": "edie (환경 비즈니스)",
+  "https://www.etnews.com/20261026000162": {
+    "title": "[기후테크, 산업을 바꾸다⑧]리필리, 쌀·세제 종이팩 개발…제조 현장 공급 확대",
+    "summary": "포장 솔루션 기업 리필리(대표 김재원)는 플라스틱 용기를 종이팩으로 대체하는 사업을 진행하며, 우유·주스 외에 쌀과 세제 등으로 종이팩 적용 범위를 확대하고 있다. 내용물 특성에 맞춰 종이팩 소재와 접합 구조를 설계하고, 제조사 공장에 생산설비를 설치해 전용 소재를 공급하는 사업도 추진 중이다. 김재원 대표는 소비자가 포장 방식을 선택하기 어려운 시장 구조에 주목해 사업을 시작했다.",
+    "source": "전자신문 IT",
     "date": "2026-10-27",
-    "link": "https://www.edie.net/two-weeks-to-go-how-ai-can-accelerate-investment-in-climate-solutions/",
-    "original_title": "TODAY: How AI can accelerate investment in climate solutions",
+    "link": "https://www.etnews.com/20261026000162",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.semiconductor-digest.com/silicon-carbide-and-gallium-nitride-play-growing-role-in-electronics-design-manufacturing-and-supply-chain-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-carbide-and-gallium-nitride-play-growing-role-in-electronics-design-manufacturing-and-supply-chain-strategy": {
+    "title": "탄화규소(SiC)와 질화갈륨(GaN), 전자제품 설계·제조·공급망 전략에서 역할 확대",
+    "summary": "Global Electronics Association과 Accuris는 전자산업을 형성하는 기술 트렌드를 조사하는 시리즈 연구의 첫 보고서를 발표했다. 이번 연구는 탄화규소(SiC)와 질화갈륨(GaN)이 전자제품 설계, 제조, 공급망 전략에서 차지하는 비중이 점차 커지고 있음을 다룬다. 해당 내용은 반도체 전문 매체 Semiconductor Digest를 통해 공개되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-27",
+    "link": "https://www.semiconductor-digest.com/silicon-carbide-and-gallium-nitride-play-growing-role-in-electronics-design-manufacturing-and-supply-chain-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-carbide-and-gallium-nitride-play-growing-role-in-electronics-design-manufacturing-and-supply-chain-strategy",
+    "original_title": "Silicon Carbide and Gallium Nitride Play Growing Role in Electronics Design, Manufacturing and Supply-Chain Strategy",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/cadence-unveils-domain-specialized-maestro-ai-models-for-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-unveils-domain-specialized-maestro-ai-models-for-chip-design": {
+    "title": "캔던스, 칩 설계용 도메인 특화 '마에스트로 AI 모델' 공개",
+    "summary": "캔던스(Cadence)가 반도체 및 시스템 설계 워크플로 전반에 걸쳐 '캔던스 AI 슈퍼 에이전트'를 구동하는 마에스트로 AI 모델 포트폴리오(Maestro AI Model Portfolio)를 공개했다. 이 AI 모델은 칩 설계 분야에 특화된 도메인 전용 모델로서, 설계 과정의 자동화와 효율화를 지원하는 것이 목적이다. 이번 발표는 EDA(전자 설계 자동화) 분야에서 AI 적용을 확대하려는 캔던스의 움직임을 보여준다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-27",
+    "link": "https://www.semiconductor-digest.com/cadence-unveils-domain-specialized-maestro-ai-models-for-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-unveils-domain-specialized-maestro-ai-models-for-chip-design",
+    "original_title": "Cadence Unveils Domain-Specialized Maestro AI Models for Chip Design",
     "lang": "en"
   },
   "https://www.semiconductor-digest.com/from-fluid-handling-to-dose-control-how-valve-technology-evolved-from-process-component-to-dose-control-enabler/?utm_source=rss&utm_medium=rss&utm_campaign=from-fluid-handling-to-dose-control-how-valve-technology-evolved-from-process-component-to-dose-control-enabler": {
-    "title": "유체 취급에서 투여량 제어까지: 밸브 기술이 공정 구성 요소에서 투여량 제어 활성화 장치로 진화한 방법",
-    "summary": "장치 아키텍처가 축소되고 3D로 이동함에 따라 원자층 프로세스의 프로세스 창이 밸브 성능이 시스템 수준의 문제가 되는 지점까지 좁아졌습니다. Swagelok의 Jeff DeWitt는 당시 업계에서 가장 시급한 공정 과제를 해결하기 위해 순도, 성능, 정밀도라는 세 가지 시대를 거쳐 반도체 유체 시스템이 어떻게 발전했는지 추적합니다. 유체 취급에서 투여량 제어까지: 밸브 기술이 프로세스 구성 요소에서 투여량 제어 활성화 장치로 진화한 방법은 Semiconductor Digest에서 처음으로 게재되었습니다.",
+    "title": "유체 핸들링에서 도즈 제어까지: 밸브 기술은 어떻게 공정 부품에서 도즈 제어 핵심 요소로 진화했는가",
+    "summary": "반도체 소자 구조가 미세화되고 3D로 전환되면서 원자층 공정의 공정 윈도우가 극도로 좁아져, 밸브 성능이 시스템 수준의 핵심 과제로 부상했다. Swagelok의 Jeff DeWitt은 반도체 유체 시스템의 발전 과정을 순도, 성능, 정밀도의 세 시대로 구분해 설명한다. 각 시대는 당시 산업이 직면한 가장 시급한 공정 과제에 의해 주도되었으며, 밸브는 단순 공정 구성 부품에서 도즈 제어를 가능하게 하는 핵심 기술로 진화해왔다.",
     "source": "Semiconductor Digest",
     "date": "2026-10-26",
     "link": "https://www.semiconductor-digest.com/from-fluid-handling-to-dose-control-how-valve-technology-evolved-from-process-component-to-dose-control-enabler/?utm_source=rss&utm_medium=rss&utm_campaign=from-fluid-handling-to-dose-control-how-valve-technology-evolved-from-process-component-to-dose-control-enabler",
     "original_title": "From Fluid Handling to Dose Control: How Valve Technology Evolved from Process Component to Dose-Control Enabler",
     "lang": "en"
   },
+  "https://www.semiconductor-digest.com/the-high-tech-workforce-has-changed-and-employers-need-to-change-with-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-high-tech-workforce-has-changed-and-employers-need-to-change-with-it": {
+    "title": "하이테크 인력 시장이 변했다, 고용주도 변해야 한다",
+    "summary": "첨단 제조업 전문 인력소개 회사 VELO의 창립자이자 CEO 타마라 엘레스타드는 쇼 데일리 인터뷰에서 최근 2년간 인력 수요가 크게 증가했다고 밝혔다. 툴 설치 등 전문 기술을 보유한 구직자는 하루에도 여러 건의 채용 제안 전화를 받고 있다. 이에 따라 고용주들도 변화된 하이테크 인력 시장에 맞춰 채용 방식을 조정할 필요가 있다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-26",
+    "link": "https://www.semiconductor-digest.com/the-high-tech-workforce-has-changed-and-employers-need-to-change-with-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-high-tech-workforce-has-changed-and-employers-need-to-change-with-it",
+    "original_title": "The High-Tech Workforce Has Changed, and Employers Need to Change With It",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/taking-a-holistic-approach-to-co-packaged-optics-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=taking-a-holistic-approach-to-co-packaged-optics-manufacturing": {
+    "title": "Co-Packaged Optics(CPO) 제조에 대한 전체론적 접근",
+    "summary": "AI 시스템이 개별 프로세서에서 대규모 가속기 클러스터로 확장되면서 시스템 간 데이터 이동이 시스템 수준의 과제로 부상했다. Co-packaged optics(CPO)는 광자 소자를 프로세서나 스위치 실리콘과 동일한 패키지에 통합해 이 문제를 해결하는 반도체 패키징 기술이다. Semiconductor Digest는 CPO 제조에 대한 전체론적 접근법을 다루는 기사를 게재했다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-26",
+    "link": "https://www.semiconductor-digest.com/taking-a-holistic-approach-to-co-packaged-optics-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=taking-a-holistic-approach-to-co-packaged-optics-manufacturing",
+    "original_title": "Taking a Holistic Approach to Co-Packaged Optics Manufacturing",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/machine-learning-could-make-gas-purity-data-do-more-than-pass-or-fail/?utm_source=rss&utm_medium=rss&utm_campaign=machine-learning-could-make-gas-purity-data-do-more-than-pass-or-fail": {
+    "title": "머신러닝, 가스 순도 데이터를 단순 합격·불합격 판정 이상으로 활용할 수 있게 하다",
+    "summary": "초고순도 가스가 공급업체에서 팹으로 인도되는 지점에서 공정 분석기의 주 역할은 가스가 규격을 충족하는지 확인하는 것이다. AMETEK Process Instruments의 가스 분석 응용 과학자 제프 우언셸(Jeff Wuenschell)은 이 데이터 스트림이 '의도적으로, 그리고 이상적으로는 지루한' 상태라고 설명했다. 기사는 머신러닝 적용을 통해 가스 순도 데이터가 단순한 합격·불합격 판정을 넘어 더 큰 가치를 발휘할 수 있음을 시사한다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-26",
+    "link": "https://www.semiconductor-digest.com/machine-learning-could-make-gas-purity-data-do-more-than-pass-or-fail/?utm_source=rss&utm_medium=rss&utm_campaign=machine-learning-could-make-gas-purity-data-do-more-than-pass-or-fail",
+    "original_title": "Machine Learning Could Make Gas Purity Data Do More Than Pass or Fail",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/chemical-resistant-coatings-a-critical-defense-for-semiconductor-fabs/?utm_source=rss&utm_medium=rss&utm_campaign=chemical-resistant-coatings-a-critical-defense-for-semiconductor-fabs": {
+    "title": "내화학성 코팅: 반도체 팹을 위한 핵심 방어선",
+    "summary": "Semiconductor facilities routinely handle aggressive acids, solvents and cleaning agents, and corrosion is a persistent threat to equipment, structural steel, concrete, walls and floors. Left unchecked, it can damage assets, generate contaminants and cause costly downtime. The post Chemical-Resistant Coatings: A Critical Defense for Semiconductor Fabs appeared first on Semiconductor Digest .",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-26",
+    "link": "https://www.semiconductor-digest.com/chemical-resistant-coatings-a-critical-defense-for-semiconductor-fabs/?utm_source=rss&utm_medium=rss&utm_campaign=chemical-resistant-coatings-a-critical-defense-for-semiconductor-fabs",
+    "original_title": "Chemical-Resistant Coatings: A Critical Defense for Semiconductor Fabs",
+    "lang": "en"
+  },
   "https://www.semiconductor-digest.com/spotfire-puts-ai-inside-the-analysis-for-yield-engineers/?utm_source=rss&utm_medium=rss&utm_campaign=spotfire-puts-ai-inside-the-analysis-for-yield-engineers": {
-    "title": "Spotfire는 수율 엔지니어를 위한 분석에 AI를 도입했습니다.",
-    "summary": "AI 붐은 Spotfire 비즈니스의 양면에서 나타납니다. AI 데이터 센터 뒤의 칩을 만드는 회사는 Spotfire 고객이며, 팹을 완벽하게 운영하므로 데이터를 바탕으로 더 빠른 결정이 필요합니다. Spotfire가 수율 엔지니어를 위한 분석에 AI를 투입한다는 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
+    "title": "스팟파이어, 수율 엔지니어를 위한 데이터 분석에 AI 내장",
+    "summary": "The AI boom shows up on both sides of Spotfire’s business. The companies making the chips behind AI data centers are Spotfire customers, and as they run their fabs flat out, they need faster decisions from their data. The post Spotfire Puts AI Inside the Analysis for Yield Engineers appeared first on Semiconductor Digest .",
     "source": "Semiconductor Digest",
     "date": "2026-10-26",
     "link": "https://www.semiconductor-digest.com/spotfire-puts-ai-inside-the-analysis-for-yield-engineers/?utm_source=rss&utm_medium=rss&utm_campaign=spotfire-puts-ai-inside-the-analysis-for-yield-engineers",
     "original_title": "Spotfire Puts AI Inside the Analysis for Yield Engineers",
     "lang": "en"
   },
+  "https://www.semiconductor-digest.com/semi-builds-a-global-home-for-advanced-packaging-2/?utm_source=rss&utm_medium=rss&utm_campaign=semi-builds-a-global-home-for-advanced-packaging-2": {
+    "title": "SEMI, 어드밴스드 패키징의 글로벌 거점 구축",
+    "summary": "어드밴스드 패키징이 SEMICON West에서 그 어느 때보다 큰 비중을 차지하게 되었다. 산업 단체 SEMI는 어드밴스드 패키징 및 이기종 통합(APHI) 기술 연합을 통해 이 분야를 위한 글로벌 거점을 구축하고 있다. 이를 통해 관련 기술 개발과 업계 협력이 더욱 체계적으로 지원될 전망이다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-26",
+    "link": "https://www.semiconductor-digest.com/semi-builds-a-global-home-for-advanced-packaging-2/?utm_source=rss&utm_medium=rss&utm_campaign=semi-builds-a-global-home-for-advanced-packaging-2",
+    "original_title": "SEMI Builds a Global Home for Advanced Packaging",
+    "lang": "en"
+  },
   "https://www.semiconductor-digest.com/semiconductor-sustainability-needs-a-whole-fab-view-not-a-point-of-use-fix-2/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-sustainability-needs-a-whole-fab-view-not-a-point-of-use-fix-2": {
-    "title": "반도체 지속 가능성에는 사용 시점 수정이 아닌 전체 팹 관점이 필요합니다",
-    "summary": "반도체 지속 가능성에 대한 논의는 지구 온난화 가능성이 높은 불소화 가스가 공정 도구에서 배출되면서 시작되고 중단되는 경향이 있습니다. Edwards의 환경 지속 가능성 관리자인 Chris Jones는 프레이밍이 팹의 환경 성과를 주도하는 요소의 대부분을 놓치고 있다고 주장합니다. 반도체 지속 가능성에는 사용 시점 수정이 아닌 전체 팹 관점이 필요하다는 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
+    "title": "반도체 지속가능성, 사용 지점 해결이 아닌 팹 전체 관점이 필요하다",
+    "summary": "반도체 지속가능성 논의는 공정 장비에서 배출되는 고지구온난화지수(GWP) 불화 가스에만 집중되는 경향이 있다. 에드워즈(Edwards)의 환경 지속가능성 관리자 크리스 존스(Chris Jones)는 이러한 관점이 팹의 환경 성능을 결정하는 대부분의 요인을 놓치고 있다고 지적했다. 그는 개별 사용 지점(point-of-use) 단위의 대책이 아니라 팹 전체를 아우르는 접근이 필요하다고 주장한다.",
     "source": "Semiconductor Digest",
     "date": "2026-10-26",
     "link": "https://www.semiconductor-digest.com/semiconductor-sustainability-needs-a-whole-fab-view-not-a-point-of-use-fix-2/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-sustainability-needs-a-whole-fab-view-not-a-point-of-use-fix-2",
     "original_title": "Semiconductor Sustainability Needs a Whole-Fab View, Not a Point-of-Use Fix",
     "lang": "en"
   },
+  "https://www.semiconductor-digest.com/edwards-genesee-facility-enters-production-bringing-dry-pump-manufacturing-to-the-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=edwards-genesee-facility-enters-production-bringing-dry-pump-manufacturing-to-the-u-s": {
+    "title": "에드워즈 제네시 공장 가동 개시, 드라이 펌프 제조 미국 본토에 안착",
+    "summary": "에드워즈 배큐(Edwards Vacuum)가 미국 뉴욕주 제네시 카운티에 건설한 25만 평방피트(약 2만3,225㎡) 규모의 신규 시설(내부 명칭 PC Genesee)이 저용량 생산을 시작했다. 이 공장은 반도체 제조에 필수적인 드라이 진공 펌프를 미국 내에서 생산하는 거점 역할을 한다. 이로써 에드워즈는 그동안 드라이 펌프의 글로벌 공급을 한국에 전적으로 의존해왔던 체계에서 벗어나 미국 기반 생산 능력을 확보하게 되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-26",
+    "link": "https://www.semiconductor-digest.com/edwards-genesee-facility-enters-production-bringing-dry-pump-manufacturing-to-the-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=edwards-genesee-facility-enters-production-bringing-dry-pump-manufacturing-to-the-u-s",
+    "original_title": "Edwards’ Genesee Facility Enters Production, Bringing Dry Pump Manufacturing to the U.S.",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/": {
+    "title": "AI 패키징의 과제: 패널이 주목받는 5가지 이유",
+    "summary": "AI 발전에 따라 칩 패키지가 기존 웨이퍼의 한계를 넘어서면서, 패널 레벨 처리(Panel-Level Processing)가 첨단 패키징 확장의 핵심 경로로 부상하고 있다. 이 기사는 AI 패키징에서 패널 기반 공정이 주목받는 5가지 이유를 제시한다. 웨이퍼 대비 면적 효율이 큰 패널은 대형 AI 칩의 생산성 향상에 기여할 것으로 보인다. 해당 글은 EE Times에 게재되었다.",
+    "source": "EE Times",
+    "date": "2026-10-26",
+    "link": "https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/",
+    "original_title": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/more-pumping-speed-same-footprint-edwards-previews-its-next-gen-turbopumps/?utm_source=rss&utm_medium=rss&utm_campaign=more-pumping-speed-same-footprint-edwards-previews-its-next-gen-turbopumps": {
+    "title": "더 높은 펌핑 속도, 동일한 설치 면적: 에드워즈, 차세대 터보펌프 예고",
+    "summary": "에드워즈 밸리뷰(Edwards Vacuum)가 펌프 설치 면적을 늘리지 않고 펌핑 속도를 크게 높인 차세대 터보분자 펌프를 예고했다. 소자 구조가 입체화되면서 공정 챔버 내 에치 부산물 제거에 필요한 펌핑 속도 요구가 높아지고 있다. 회사 챔버 솔루션 사업개발 책임자인 돈 스티븐슨은 터보펌프 속도를 초당 5,000리터 이상으로 끌어올렸으며, 다음 목표는 초당 7,000리터라고 밝혔다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-10-26",
+    "link": "https://www.semiconductor-digest.com/more-pumping-speed-same-footprint-edwards-previews-its-next-gen-turbopumps/?utm_source=rss&utm_medium=rss&utm_campaign=more-pumping-speed-same-footprint-edwards-previews-its-next-gen-turbopumps",
+    "original_title": "More Pumping Speed, Same Footprint: Edwards Previews Its Next-Gen Turbopumps",
+    "lang": "en"
+  },
   "https://www.semiconductor-digest.com/optical-stability-is-becoming-a-process-control-issue/?utm_source=rss&utm_medium=rss&utm_campaign=optical-stability-is-becoming-a-process-control-issue": {
-    "title": "광학적 안정성이 공정 제어 문제로 대두되고 있습니다",
-    "summary": "SEMI는 300mm 팹 장비 지출이 2026년에 18% 증가하여 1,330억 달러에 달할 것으로 예상하고 있으며, 더 진보된 도구가 생산에 들어가고 있으며 이들의 광학 장치는 초기 반사율 목표를 달성하는 것 이상의 역할을 해야 합니다. OPTOMAN의 Sabina Kuprėnaitė 박사는 레이저 펄스에서 살아남는 것과 수십억 펄스에 걸쳐 광학적으로 안정적인 상태를 유지하는 것은 서로 다른 자격 문제라고 주장합니다. 광학 안정성이 공정 제어 문제가 되고 있다는 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
+    "title": "광학 안정성이 공정 제어 문제로 떠오르고 있다",
+    "summary": "SEMI는 2026년 300mm 팹 장비 지출이 18% 증가한 1,330억 달러에 이를 것으로 전망했다. 첨단 장비의 생산 투입이 늘어나면서 광학 부품은 초기 반사율 목표만 충족하는 수준을 넘어서야 한다. OPTOMAN의 사비나 쿠프레나이테 박사는 단일 레이저 펄스를 견디는 것과 수십억 펄스 동안 광학적으로 안정을 유지하는 것은 서로 다른 인증(Qualification) 문제라고 주장했다.",
     "source": "Semiconductor Digest",
     "date": "2026-10-26",
     "link": "https://www.semiconductor-digest.com/optical-stability-is-becoming-a-process-control-issue/?utm_source=rss&utm_medium=rss&utm_campaign=optical-stability-is-becoming-a-process-control-issue",
     "original_title": "Optical Stability Is Becoming a Process-Control Issue",
     "lang": "en"
   },
-  "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/": {
-    "title": "edie 27의 무료 VIP 패스를 받으세요: 지속 가능성 스냅샷 설문조사에 참여하세요",
-    "summary": "지속 가능성 전문가는 간단한 설문 조사를 완료하여 4월에 edie의 디지털 멤버십 혜택에 대한 6개월 액세스 권한과 edie 27 VIP 패스를 얻을 수 있는 기회를 갖게 됩니다.",
+  "https://www.edie.net/uk-cbam-understanding-the-risks-managing-carbon-data-and-preparing-for-compliance/": {
+    "title": "영국 CBAM: 리스크 이해, 탄소 데이터 관리 및 규제 준비 방안",
+    "summary": "영국의 탄소국경조정제도(CBAM)가 2027년 1월부터 시행될 예정이다. 탄소집약적 소재를 수입하는 기업들은 새로운 재무적·규제적 부담과 공급망 의무를 부과받게 된다. 이에 따라 edie는 Weightmans와 공동으로 온라인 웨비나를 개최하여 법제도의 적용 범위, 배출량 보고의 어려움, 기업이 준비해야 할 사항을 점검했다.",
     "source": "edie (환경 비즈니스)",
     "date": "2026-10-26",
-    "link": "https://www.edie.net/win-a-free-vip-pass-to-edie-27-take-our-sustainability-snapshot-survey/",
-    "original_title": "Win a free VIP pass to edie 27: Take our sustainability snapshot survey",
+    "link": "https://www.edie.net/uk-cbam-understanding-the-risks-managing-carbon-data-and-preparing-for-compliance/",
+    "original_title": "UK CBAM: Understanding the risks, managing carbon data and preparing for compliance",
     "lang": "en"
   },
   "https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/": {
-    "title": "수직 DRAM 적층으로 HBM-on-GPU(imec)를 넘어 열 설계 공간 확장",
-    "summary": "imec 연구원들은 \"HBM-on-GPU를 넘어서: 3D 체적 DRAM-on-GPU 통합을 위한 열 설계 한계\"를 출판했습니다. 요약: 연구원들은 기존 2.5D HBM 및 직접 적층된 HBM-on-GPU에 대한 대안으로 GPU 위에서 DRAM 다이를 수직으로 회전시키고 그 사이에 냉각 구멍을 배치하는 3D 메모리 아키텍처를 평가했습니다. 패키지 수준 열 시뮬레이션을 통해 스택 높이, 메모리 용량 및 구성을 조사했습니다... » 더 읽기 수직 DRAM 스택이 HBM-on-GPU(imec)를 넘어 열 설계 공간을 확장한다는 포스트가 Semiconductor Engineering에서 처음으로 등장했습니다.",
+    "title": "수직 DRAM 적층, HBM-on-GPU를 넘어 열 설계 공간 확장 (imec)",
+    "summary": "imec 연구진은 GPU 위에 DRAM 다이를 수직으로 세워 적층하고 다이 사이에 냉각 공동(cavity)을 배치하는 3D 볼륨 메모리 아키텍처를 논문으로 발표했다. 이 기술은 기존 2.5D HBM 및 GPU에 직접 적층하는 HBM-on-GPU 방식의 대안으로 제시되었다. 연구진은 패키지 수준 열 시뮬레이션을 통해 적층 높이, 메모리 용량 및 구성이 열 성능에 미치는 영향을 분석했다.",
     "source": "SemiEngineering",
     "date": "2026-10-26",
     "link": "https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/",
     "original_title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
     "lang": "en"
   },
-  "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/": {
-    "title": "다음 달: 영국 SRS 준비 방법",
-    "summary": "11월 10일 Simply Sustainable과 협력하여 주최하는 이 웹 세미나에서는 기업이 영국 SRS(영국 지속 가능성 보고 표준)를 준비하고 현재 준비 수준을 이해하며 격차를 실제 구현 계획으로 전환할 수 있는 방법을 살펴봅니다.",
-    "source": "edie (환경 비즈니스)",
-    "date": "2026-10-26",
-    "link": "https://www.edie.net/free-webinar-how-to-prepare-for-the-uk-srs/",
-    "original_title": "NEXT MONTH: How to prepare for the UK SRS",
-    "lang": "en"
-  },
-  "https://www.etnews.com/20261026000372": {
-    "title": "김천시, 미래차 드론 시험 기반으로 기업 투자와 기술협력 모색",
-    "summary": "김천시가 미래자동차와 드론 관련 시험·검사 기반을 국내외 기업과 투자기관에 소개하고, 지역기업의 성장과 신규 투자 기회를 모색한다. 산업입지와 교통망에 연구·시험 기능을 연결해 기업이 생산과 기술개발을 함께 검토할 수 있는 투자 여건을 소개한다. 김천시는 오는 10월 29일부터 30일까지 서울과 경북 김천·구미에서 열리는 '2026 경상북도 제3회 미래전략 산업혁신 투자포럼'에 참여한다. 29일 롯데호텔 서울에서 투자환경을 설명하고 지역기업 I",
-    "source": "전자신문 산업/신사업",
-    "date": "2026-10-26",
-    "link": "https://www.etnews.com/20261026000372",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20261026000340": {
-    "title": "iM금융그룹, '2026 K-ESG 경영대상' 종합 대상…경영 내재화 성과 입증",
-    "summary": "iM금융그룹이 '2026 K-ESG 경영대상'에서 환경·사회·지배구조(ESG) 종합 대상을 수상하며 관련 선도기업 입지를 굳혔다. 26일 서울 더그랜드롯데에서 열린 시상식에서 iM금융그룹은 금융 본업을 포함해 경영 전반에 내재화한 실적을 높게 평가받아 2024년에 이어 두 번째로 대상을 받았다. iM금융그룹은 이사회 산하 ESG위원회부터 경영진 협의회, 실무자 협의회로 이어지는 관리체계를 운영 중이다. 경영진 평가에 관련 지표를 반영해 보상과",
-    "source": "전자신문 IT",
-    "date": "2026-10-26",
-    "link": "https://www.etnews.com/20261026000340",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20261026000330": {
-    "title": "수은, 무탄소 발전 기업 '아모지'에 2000만달러 직접투자…미래성장동력 키운다",
-    "summary": "한국수출입은행이 무탄소 발전기술 기업 아모지(Amogy)에 2000만달러를 투자하고, 미래 청정에너지 산업 육성을 본격화한다. 수은은 아모지가 진행하는 2억달러 규모 후기 단계 투자(시리즈C) 유치에 대표 투자자로 참여한다. 지난 6월 수은법 개정 이후 인공지능(AI) 반도체 기업 퓨리오사에이아이에 200억원을 지원한 데 이은 두 번째 벤처기업 직접투자다. 수은은 이번 투자로 지원 대상을 정부가 미래 주력산업으로 지정한 '7대 시드(SEED)'",
-    "source": "전자신문 IT",
-    "date": "2026-10-26",
-    "link": "https://www.etnews.com/20261026000330",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20261026000314": {
-    "title": "[기획] AI 시대, ESG는 선언을 넘어 실천으로…저탄소·AI안전관리 인증이 만드는 변화",
-    "summary": "인공지능(AI)이 산업과 공공서비스 전반으로 확산하면서 ESG 경영에도 새로운 과제가 제기되고 있다. AI는 에너지 효율을 높이고 위험 상황을 조기에 발견하는 수단이 될 수 있지만, 기술 도입만으로 탄소 감축이나 안전 확보가 자동으로 실현되는 것은 아니다. 실제 현장에서 무엇이 개선됐고, 그 성과가 지속되고 있는지를 확인하는 체계가 중요해지고 있다. 이러한 흐름 속에서 ESG를 선언이나 계획이 아닌 구체적인 실천과 성과로 연결하려는 움직임이 주",
-    "source": "전자신문 IT",
-    "date": "2026-10-26",
-    "link": "https://www.etnews.com/20261026000314",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20261023000335": {
-    "title": "백현이앤에스, '태양광설비 화재 사전감지 열분포센서' 및 '모듈출력차단장치' 국내 공식 KC인증 획득 완료",
-    "summary": "최근 잇따른 태양광 발전 설비 화재로 안전 규제와 사전 예방 기술의 중요성이 커지고 있는 가운데, 신재생에너지 및 태양광 안전 솔루션 전문기업 백현이앤에스(대표 강영규)가 자사 화재 예방 시스템의 핵심 구성 요소인 '열분포센서'와 '모듈출력차단장치(이하 RSD)'에 대해 국내 공식 KC인증을 최종 획득했다고 밝혔다. 백현이앤에스가 자체 개발한 RSD는 앞서 국가공인시험기관(KCL)에서 미국 전기규정(NEC 690.12) 기준을 준용해 진행한 성",
-    "source": "전자신문 IT",
-    "date": "2026-10-26",
-    "link": "https://www.etnews.com/20261023000335",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.edie.net/egypts-largest-solar-pv-project-and-triodos-banks-renewed-b-corp-certification-the-sustainability-success-stories-of-the-week/": {
-    "title": "이집트 최대 태양광 PV 프로젝트 및 Triodos Bank의 B Corp 인증 갱신: 이번 주의 지속 가능성 성공 사례",
-    "summary": "Mission Possible 캠페인의 일환으로 edie는 이번 주 최고의 지속 가능한 비즈니스 성공 사례 5개를 회원 전용으로 매주 모아서 제공합니다. 이번 주 버전에서는 이집트 최대 규모의 태양광 PV 프로젝트 등을 소개합니다.",
-    "source": "edie (환경 비즈니스)",
-    "date": "2026-10-26",
-    "link": "https://www.edie.net/egypts-largest-solar-pv-project-and-triodos-banks-renewed-b-corp-certification-the-sustainability-success-stories-of-the-week/",
-    "original_title": "Egypt’s largest solar PV project and Triodos Bank’s renewed B Corp certification: The sustainability success stories of the week",
-    "lang": "en"
-  },
-  "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al/": {
-    "title": "Pt-W 합금은 더 얇은 High-NA EUV 마스크 흡수체의 가능성을 보여줍니다(중국과학원 외)",
-    "summary": "중국과학원, 길림대학교, 광학시스템 첨단제조 국가핵심연구소, 중국과학원대학교 연구원들은 \"저 n EUV 마스크 흡수재로서 대체 Pt-W 합금 평가: 필름 특성 및 이미징 성능\"이라는 제목의 기술 논문을 발표했습니다. \"이 연구에서 우리는 대체 Pt-W 합금을 다음과 같이 조사합니다... » 더 읽기 Pt-W 합금은 더 얇은 High-NA EUV 마스크 흡수 장치에 대한 가능성을 보여줍니다(중국 과학원 외)가 Semiconductor Engineering에 처음으로 게재되었습니다.",
+  "https://semiengineering.com/large-format-masks-move-from-aspiration-to-industry-roadmap/": {
+    "title": "대형 포토마스크, 염원에서 업계 로드맵으로",
+    "summary": "대형 포토마스크(Large-Format Mask)가 단순한 기술 염원을 넘어 반도체 업계 로드맵에 본격적으로 포함되고 있다. 전문가 패널은 대형 포토마스크가 생산성 향상 측면에서 설득력 있는 사례가 된다고 평가했다. 다만 실현을 위해서는 포토마스크 생태계 전 구성 요소가 동시에 준비를 마쳐야 한다고 강조했다.",
     "source": "SemiEngineering",
     "date": "2026-10-26",
-    "link": "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al/",
-    "original_title": "Pt-W Alloy Shows Potential For Thinner High-NA EUV Mask Absorbers (Chinese Academy of Sciences et al.)",
-    "lang": "en"
-  },
-  "https://semiengineering.com/dry-deposited-resist-shows-different-tone-behavior-under-euv-and-e-beam-exposure-ku-leuven-kunsan-vub-imec/": {
-    "title": "건식 증착된 레지스트는 EUV 및 전자빔 노출 하에서 다양한 톤 동작을 나타냅니다(KU Leuven, Kunsan, VUB, Imec)",
-    "summary": "KU Leuven, 군산대학교, Vrije Universiteit Brussel, imec 등의 연구원. \"전자빔 및 극자외선 리소그래피를 위한 건식 증착 할로겐화 비정질 제올라이트 이미다졸레이트 프레임워크 저항의 조사 소스 의존 톤 변환\"을 출판했습니다. 요약 발췌: \"건식 증착된 금속-유기 레지스트는 차세대 반도체 제조의 고급 패터닝 프로세스를 위한 핵심 요소입니다. 여기서 우리는 할로겐화 비정질 제올라이트 이미다졸레이트 프레임워크를 보고합니다... » 더 읽기 The post Dry-Deposited Resist Shows Different Tone Behavior Under EUV And E-Beam Exposure(KU Leuven, Kunsan, VUB, Imec)가 Semiconductor Engineering에서 처음으로 등장했습니다.",
-    "source": "SemiEngineering",
-    "date": "2026-10-26",
-    "link": "https://semiengineering.com/dry-deposited-resist-shows-different-tone-behavior-under-euv-and-e-beam-exposure-ku-leuven-kunsan-vub-imec/",
-    "original_title": "Dry-Deposited Resist Shows Different Tone Behavior Under EUV And E-Beam Exposure (KU Leuven, Kunsan, VUB, Imec)",
-    "lang": "en"
-  },
-  "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/": {
-    "title": "보안 인식 레이어 매핑으로 3D 컴퓨팅 인 메모리의 결함 취약성을 줄입니다(ASU, 메릴랜드 U.)",
-    "summary": "애리조나 주립대학교와 메릴랜드 대학교의 연구원들은 \"SEAL: 이기종 3-D CiM 가속기를 위한 다중 테넌트 보안 인식 레이어 매핑\"을 발표했습니다. 개요: \"이기종 3D 메모리 내 컴퓨팅 아키텍처는 스택 계층 전체에 걸쳐 서로 다른 메모리 기술을 결합하여 심층 신경망 추론을 가속화할 수 있지만 다중 테넌트 배포는 공유 전력 공급 네트워크를 통해 보안 위험을 초래합니다. 연구원들은 보안 인식 기능인 SEAL을 개발했습니다.... » 자세히 보기 The post Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory(ASU, U. of Maryland)가 Semiconductor Engineering에서 처음 등장했습니다. .",
-    "source": "SemiEngineering",
-    "date": "2026-10-26",
-    "link": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/",
-    "original_title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/nvidia-pushes-toward-the-ai-defined-fab/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-pushes-toward-the-ai-defined-fab": {
-    "title": "NVIDIA는 \"AI 정의 팹\"을 향해 나아가고 있습니다.",
-    "summary": "칩 제조업체, 장비 공급업체 및 EDA 회사는 NVIDIA의 CUDA-X 라이브러리 및 AI 도구를 채택하여 AI 정의 팹을 구축하고 공장 전반에 걸쳐 가속화된 시뮬레이션, AI 물리학, AI 에이전트 및 디지털 트윈을 연결하고 있습니다. NVIDIA가 \"AI 정의 Fab\"을 향해 추진하는 게시물은 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-23",
-    "link": "https://www.semiconductor-digest.com/nvidia-pushes-toward-the-ai-defined-fab/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-pushes-toward-the-ai-defined-fab",
-    "original_title": "NVIDIA Pushes Toward the “AI-Defined Fab”",
-    "lang": "en"
-  },
-  "https://www.eetimes.com/from-cloud-ai-to-edge-ai-how-biwin-enables-the-next-generation-of-storage-and-memory-solutions/": {
-    "title": "클라우드 AI에서 엣지 AI까지: BIWIN이 차세대 스토리지 및 메모리 솔루션을 구현하는 방법",
-    "summary": "BIWIN의 SSD, 내장형 스토리지 및 메모리 포트폴리오가 클라우드 데이터 센터에서 엣지 웨어러블에 이르기까지 더 빠르고 효율적인 AI를 지원하는 방법을 알아보세요. 클라우드 AI에서 엣지 AI까지: BIWIN이 차세대 스토리지 및 메모리 솔루션을 구현하는 방법이라는 게시물이 EE Times에 처음 게재되었습니다.",
-    "source": "EE Times",
-    "date": "2026-10-23",
-    "link": "https://www.eetimes.com/from-cloud-ai-to-edge-ai-how-biwin-enables-the-next-generation-of-storage-and-memory-solutions/",
-    "original_title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
-    "lang": "en"
-  },
-  "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/": {
-    "title": "Goodram이 유럽에서 DRAM 및 SSD 신뢰성을 검증하는 방법",
-    "summary": "안정적인 산업용 및 임베디드 시스템을 위한 번인부터 플랫폼 검증까지 DRAM 및 SSD 테스트에 대한 Goodram의 유럽 접근 방식을 살펴보세요. Goodram이 유럽에서 DRAM 및 SSD 신뢰성을 검증하는 방법이라는 게시물이 EE Times에 처음 게재되었습니다.",
-    "source": "EE Times",
-    "date": "2026-10-22",
-    "link": "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/",
-    "original_title": "How Goodram Validates DRAM and SSD Reliability in Europe",
-    "lang": "en"
-  },
-  "https://airqualitynews.com/health/air-pollution-linked-to-higher-blood-sugar-levels-in-people-without-diabetes/?utm_source=rss&utm_medium=rss&utm_campaign=air-pollution-linked-to-higher-blood-sugar-levels-in-people-without-diabetes": {
-    "title": "당뇨병이 없는 사람들의 혈당 수치 상승과 관련된 대기 오염",
-    "summary": "환경 변화가 건강에 잠재적인 영향을 미칠 수 있음을 강조하는 유럽의 한 연구에 따르면, 대기 오염과 기온 변동은 당뇨병이 없는 사람의 혈당 수치 상승과 관련이 있는 것으로 나타났습니다. Environment International에 발표된 이 연구는 GCAT|Genomes for Life 연구 참가자 5,464명을 포함하여 9개 유럽 연구 그룹의 21,259명의 데이터를 조사했습니다.",
-    "source": "Air Quality News",
-    "date": "2026-10-22",
-    "link": "https://airqualitynews.com/health/air-pollution-linked-to-higher-blood-sugar-levels-in-people-without-diabetes/?utm_source=rss&utm_medium=rss&utm_campaign=air-pollution-linked-to-higher-blood-sugar-levels-in-people-without-diabetes",
-    "original_title": "Air pollution linked to higher blood sugar levels in people without diabetes",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/semi-forecasts-11-8-growth-in-silicon-wafer-shipments-in-2026-with-record-highs-expected-through-2029/?utm_source=rss&utm_medium=rss&utm_campaign=semi-forecasts-11-8-growth-in-silicon-wafer-shipments-in-2026-with-record-highs-expected-through-2029": {
-    "title": "SEMI, 2026년 실리콘 웨이퍼 출하량 11.8% 증가 예상, 2029년까지 사상 최고 기록 예상",
-    "summary": "글로벌 실리콘 웨이퍼 출하량은 2026년에 11.8% 증가한 144억 2천만 평방인치(MSI)에 달할 것으로 예상된다고 SEMI가 오늘 발표한 연간 실리콘 출하량 예측에서 보고되었습니다. SEMI는 2026년 실리콘 웨이퍼 출하량이 11.8% 증가할 것으로 예측하고 2029년까지 사상 최고치를 기록할 것으로 예상된다는 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-22",
-    "link": "https://www.semiconductor-digest.com/semi-forecasts-11-8-growth-in-silicon-wafer-shipments-in-2026-with-record-highs-expected-through-2029/?utm_source=rss&utm_medium=rss&utm_campaign=semi-forecasts-11-8-growth-in-silicon-wafer-shipments-in-2026-with-record-highs-expected-through-2029",
-    "original_title": "SEMI Forecasts 11.8% Growth in Silicon Wafer Shipments in 2026, With Record Highs Expected through 2029",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/micron-invests-in-new-york-critical-minerals-processing-with-indium-corporation/?utm_source=rss&utm_medium=rss&utm_campaign=micron-invests-in-new-york-critical-minerals-processing-with-indium-corporation": {
-    "title": "Micron, Indium Corporation과 함께 뉴욕의 중요 광물 가공에 투자",
-    "summary": "Micron의 최대 30억 달러에 달하는 미국 공급망 계획에 따른 최근 투자는 국내 반도체 생태계를 강화하고 첨단 메모리 제조를 위한 핵심 소재에 대한 접근성을 확대합니다. Micron이 Indium Corporation과 함께 뉴욕의 중요 광물 가공에 투자한 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-10-21",
-    "link": "https://www.semiconductor-digest.com/micron-invests-in-new-york-critical-minerals-processing-with-indium-corporation/?utm_source=rss&utm_medium=rss&utm_campaign=micron-invests-in-new-york-critical-minerals-processing-with-indium-corporation",
-    "original_title": "Micron Invests in New York Critical Minerals Processing With Indium Corporation",
+    "link": "https://semiengineering.com/large-format-masks-move-from-aspiration-to-industry-roadmap/",
+    "original_title": "Large-Format Masks Move From Aspiration To Industry Roadmap",
     "lang": "en"
   }
 }
