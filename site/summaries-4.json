@@ -1,0 +1,83 @@
+{
+  "https://semiengineering.com/dry-deposited-resist-shows-different-tone-behavior-under-euv-and-e-beam-exposure-ku-leuven-kunsan-vub-imec/": {
+    "title": "건식 증착 레지스트, EUV와 전자빔 노출에서 상이한 톤 거동 보여",
+    "summary": "KU 뢰번, 군산대학교, 브뤼셀 자유대학교(VUB), imec 등 연구진이 할로겐화 비정질 제올라이트 이미다졸레이트 프레임워크(ZIF) 레지스트의 노출원 의존적 톤 전환 연구 결과를 발표했다. 연구진은 EUV와 전자빔 리소그래피 노출 시 건식 증착 레지스트가 서로 다른 톤(tone) 거동을 보인다고 보고했다. 건식 증착 금속-유기 레지스트는 차세대 반도체 제조의 첨단 패터닝 공정을 가능케 하는 핵심 소재로 주목받고 있다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-26",
+    "link": "https://semiengineering.com/dry-deposited-resist-shows-different-tone-behavior-under-euv-and-e-beam-exposure-ku-leuven-kunsan-vub-imec/",
+    "original_title": "Dry-Deposited Resist Shows Different Tone Behavior Under EUV And E-Beam Exposure (KU Leuven, Kunsan, VUB, Imec)",
+    "lang": "en"
+  },
+  "https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/": {
+    "title": "실리콘 광변조기, 간소화된 DSP로 200Gb/s PAM4 달성 (사이언스도쿄, 요코하마국립대, AIST, PETRA)",
+    "summary": "Researchers from Institute of Science Tokyo, Yokohama National University, AIST, and Photonics Electronics Technology Research Association (PETRA) published a technical paper titled “Reduced-DSP 200G/λ Low-Voltage Slow-Light Silicon Modulator Enabled by Built-In EO Equalizer.” Abstract Excerpt: “Multi-Tb/s optical interconnects for artificial intelligence data centers necessitate high-speed, energy-efficient, and compact transceivers. However, conventional silicon Mach-Zehnder modulators are... &#187; read more The post Silicon Photonic Modulator Reaches 200 Gb/s PAM4 With Reduced DSP (Science Tokyo, Yokohama, AIST, PETRA) appeared first on Semiconductor Engineering .",
+    "source": "SemiEngineering",
+    "date": "2026-10-26",
+    "link": "https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/",
+    "original_title": "Silicon Photonic Modulator Reaches 200 Gb/s PAM4 With Reduced DSP (Science Tokyo, Yokohama, AIST, PETRA)",
+    "lang": "en"
+  },
+  "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/": {
+    "title": "보안 인식 레이어 매핑 기술, 3D 컴퓨트-인-메모리 결함 취약성 저감 (ASU·메릴랜드 대학)",
+    "summary": "애리조나 주립대학교(ASU)와 메릴랜드 대학교 연구진은 이기종 3D 컴퓨트-인-메모리(CiM) 가속기의 멀티테넌트 보안 위험을 완화하는 'SEAL' 기술을 발표했다. 이기종 3D CiM 아키텍처는 서로 다른 메모리 기술을 스택 티어에 결합해 딥러닝 신경망 추론을 가속할 수 있지만, 멀티테넌트 배포 환경에서 공유 전원 공급망을 통해 보안 위험이 발생한다. 연구진이 개발한 SEAL은 보안을 고려한 레이어 매핑을 통해 3D CiM 가속기의 결함 취약성을 줄이는 것으로 알려졌다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-26",
+    "link": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/",
+    "original_title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
+    "lang": "en"
+  },
+  "https://semiengineering.com/neural-networks-speed-3nm-nanosheet-spice-simulation-tu-munich/": {
+    "title": "신경망 기반 트랜지스터 모델링, 3나노 나노시트 SPICE 시뮬레이션 속도 향상 (TU 뮌헨)",
+    "summary": "독일 뮌헨공과대학교(TU Munich) 연구진이 신경망(NN) 기반 트랜지스터 모델을 활용한 초고속 SPICE 시뮬레이션 및 표준 셀 라이브러리 특성화에 관한 논문을 발표했다. 신경망 기반 트랜지스터 모델은 소자 모델링 가속화에 유망한 해법으로, 회로 시뮬레이션에서 뛰어난 속도 향상을 입증했다. 다만 연구진은 이러한 모델이 복잡한 작업 환경에서 엄격한 검증이 이루어지지 않았다는 한계를 지적했다. 해당 연구는 3나노급 나노시트 트랜지스터의 시뮬레이션 효율 개선에 초점을 맞추고 있다.",
+    "source": "SemiEngineering",
+    "date": "2026-10-26",
+    "link": "https://semiengineering.com/neural-networks-speed-3nm-nanosheet-spice-simulation-tu-munich/",
+    "original_title": "Neural Networks Speed 3nm Nanosheet SPICE Simulation (TU Munich)",
+    "lang": "en"
+  },
+  "https://www.donga.com/news/Society/article/all/20261025/134905654/2": {
+    "title": "‘안산 1호 투자유치기업’으로 반도체 기업 지정",
+    "summary": "경기 안산시가 반도체 소재 기업 인테그리스코리아를 제1호 투자유치기업으로 지정하고 보조금 5억 원을 지급했다. 이는 2008년 투자유치 촉진 조례 제정 후 18년 만의 첫 지원 사례로, 안산시는 지난해 7월 조례를 개정해 보조금 한도를 2억 원에서 5억 원으로 상향했다. 인테그리스는 미국 나스닥 상장사로 연간 매출 약 40억 달러(약 5조3000억 원) 규모의 반도체 핵심 소재 기업이며, 인테그리스코리아는 한양대 에리카 캠퍼스혁신파크에 약 500억 원을 투자해 종합연구소를 건립해 운영 중이다. 연구 인력 약 50명이 반도체 연마액과 증착용 전구체 등 핵심 소재를 연구하고 있다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-26",
+    "link": "https://www.donga.com/news/Society/article/all/20261025/134905654/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Economy/article/all/20261024/134898867/2": {
+    "title": "일회용 줄이고 나눔 늘리고… 4년 연속 대상",
+    "summary": "유한대학교는 지속가능한 대학 경영과 사회적 가치 실현 노력을 인정받아 '2026 K-ESG 경영대상' 종합 ESG 대상에 4년 연속 선정됐다. 환경 분야에서는 교내 일회용품 사용을 줄이는 '캠퍼스 컵' 사업 등 자원 절약과 친환경 캠퍼스 문화 조성을 추진하고 있다. 사회 분야에서는 학생 전공 재능기부, 환경 정화, 헌혈 프로그램과 지역기관·기업과의 산학협력 네트워크를 통해 지역 상생을 실천했다. 유한대는 앞으로도 환경보호, 지역사회 봉사, 학생 참여, 산학협력 등 ESG 실천 영역을 지속적으로 확대할 계획이다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-10-26",
+    "link": "https://www.donga.com/news/Economy/article/all/20261024/134898867/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261023000327": {
+    "title": "반도체 키우고 곳간 채우고…추미애 경기지사, 산업 육성·세입 확충 구상",
+    "summary": "추미애 경기지사가 반도체 산업 육성과 세입 확충을 위한 구상을 밝혔다. 취임 후 1호 결재로 반도체 초격차 혁신 대책을 마련했으며, 삼성전자 평택캠퍼스 생산시설의 용적률 상향을 지시했다. 용인 첨단시스템반도체 국가산업단지, 용인 반도체클러스터, 평택캠퍼스를 연계해 생산부터 설계, 소부장, 시험평가, 후공정까지 연결되는 완결형 생태계 구축을 추진한다. 기업 투자 일정에 맞춰 전력·용수 등 경기도가 지원 가능한 사항을 신속하게 처리하겠다고 강조했다.",
+    "source": "전자신문 IT",
+    "date": "2026-10-26",
+    "link": "https://www.etnews.com/20261023000327",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261023000074": {
+    "title": "KERI, SiC 전력반도체 '불량 판별' 글로벌 기준 15년만에 바로잡았다",
+    "summary": "한국전기연구원(KERI) 차세대반도체연구센터 나문경 박사팀은 충남대학교, 호리바에스텍코리아, SK실트론과의 산학연 공동연구를 통해 SiC 반도체 내부 결함의 특성 발광 파장을 약 15년간 잘못 알려진 것을 새롭게 규명했다. 이 성과로 전기차와 신재생에너지 설비 등 고성능 장비에 필수적인 탄화규소(SiC) 전력반도체의 불량 판별 글로벌 기준이 15년 만에 국내 연구진에 의해 바로잡아졌다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-25",
+    "link": "https://www.etnews.com/20261023000074",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261023000181": {
+    "title": "인텔 팹에 들어간 '에이전틱 AI'…이상 감지 30% 단축·750만 달러 절감",
+    "summary": "인텔이 반도체 공장(팹) 핵심 설비 관리에 에이전틱 AI를 적용해 이상 징후 감지 속도를 이전보다 30% 단축하고, 단일 사례에서만 연간 약 750만 달러(약 100억 원)의 비용 절감 효과를 거둔 것으로 나타났다. 인텔은 최근 8개월 동안 시크(Seeq) 플랫폼을 오케스트레이터로 활용해 여러 AI 에이전트를 팹에 배치했다. 시크 플랫폼은 여러 AI가 역할을 나눠 협업하는 방식으로 작동한다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-25",
+    "link": "https://www.etnews.com/20261023000181",
+    "original_title": "",
+    "lang": "ko"
+  }
+}
