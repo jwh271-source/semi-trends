@@ -1,0 +1,236 @@
+{
+  "https://semiengineering.com/co-optimizing-access-points-improves-analog-placement-ut-austin/": {
+    "title": "액세스 포인트 공동 최적화를 통한 아날로그 배치 개선 (텍사스대 오스틴)",
+    "summary": "텍사스대 오스틴(UT Austin) 연구진이 'APPlace: 라우팅 인지형 아날로그 배치를 위한 디바이스 위치 및 액세스 포인트 공동 최적화' 논문을 발표했다. 논문은 아날로그/믹스드 시그널 회로 설계에서 레이아웃 단계에서 유입되는 기생 성분과 불일치가 회로 성능에 큰 영향을 미쳐 아날로그 레이아웃 자동화가 여전히 어렵다고 지적한다. 특히 배치 단계는 라우팅 해를 제약하는 만큼 레이아웃 단계 중 가장 중요하며, APPlace는 디바이스 위치와 액세스 포인트를 공동으로 최적화해 배치 품질을 개선하는 기법이다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-03",
+    "link": "https://semiengineering.com/co-optimizing-access-points-improves-analog-placement-ut-austin/",
+    "original_title": "Co-Optimizing Access Points Improves Analog Placement (UT Austin)",
+    "lang": "en"
+  },
+  "https://www.edie.net/nao-government-bodies-still-learning-how-to-report-climate-related-risks-and-adaptation/": {
+    "title": "NAO: 정부 기관, 기후 관련 리스크 및 적응 보고는 여전히 '학습 단계'",
+    "summary": "영국 국가감사원(NAO)은 정부 기관들의 홍수·가뭄 등 기후 관련 리스크 보고가 고르지 않은 '혼재된 수준'이라고 평가했다. 다만 보고 관행은 해마다 개선되고 있는 것으로 나타났다. NAO는 정부 기관들이 기후 리스크 및 적응 관련 보고 방식을 여전히 학습 중이라고 지적했다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-02",
+    "link": "https://www.edie.net/nao-government-bodies-still-learning-how-to-report-climate-related-risks-and-adaptation/",
+    "original_title": "NAO: Government bodies ‘still learning’ how to report climate-related risks and adaptation",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/biwin-to-show-storage-solutions-for-ai-and-the-edge-at-electronica-2026/": {
+    "title": "BIWIN, electronica 2026에서 AI 및 엣지용 스토리지 솔루션 선보여",
+    "summary": "메모리 및 스토리지 솔루션 제공업체 BIWIN이 2026년 11월 10일부터 13일까지 독일 뮌헨 메세(Messe München)에서 개최되는 electronica 2026에 참가한다. 이번 전시에서 BIWIN은 122.88TB 엔터프라이즈 SSD를 비롯해 통합 임베디드 메모리, 미니 SSD 등을 선보인다. 전시 제품들은 AI 시대의 차세대 전자 시스템에 특화되어 설계된 스토리지 솔루션이다.",
+    "source": "EE Times",
+    "date": "2026-11-02",
+    "link": "https://www.eetimes.com/biwin-to-show-storage-solutions-for-ai-and-the-edge-at-electronica-2026/",
+    "original_title": "BIWIN to Show Storage Solutions for AI and the Edge at electronica 2026",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/the-power-of-dual-phase-drmos-technology-in-ai-systems/": {
+    "title": "AI 시스템에서 듀얼 페이즈 DrMOS 기술의 힘",
+    "summary": "MPS(모놀리식 파워 시스템)의 듀얼 페이즈 DrMOS 솔루션이 콤팩트한 AI 전원 시스템이 직면한 전력 밀도, 효율성, 열 관리 과제를 해결하는 방법을 다룬 기술 기사다. AI 시스템의 고밀도 전원 설계에서 전력 손실과 발열을 줄이는 것이 핵심 과제로 언급된다. 해당 기사는 EE Times를 통해 공개되었다.",
+    "source": "EE Times",
+    "date": "2026-11-02",
+    "link": "https://www.eetimes.com/the-power-of-dual-phase-drmos-technology-in-ai-systems/",
+    "original_title": "The Power of Dual-Phase DrMOS Technology in AI Systems",
+    "lang": "en"
+  },
+  "https://www.edie.net/amazon-opens-its-first-uk-net-zero-delivery-unit/": {
+    "title": "아마존, 영국 내 첫 넷제로 배송 기지 개소",
+    "summary": "아마존이 영국 스톡턴온티스에 첫 넷제로(탄소중립) 배송 기지를 열었다. 새 시설에는 4,000만 파운드가 투자됐으며, 기존 설계 기준보다 배출량을 20% 낮춰 건설되었다. 이는 아마존의 영국 내 배송 인프라에서 탄소 배출 저감을 목표로 한 조치이다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-02",
+    "link": "https://www.edie.net/amazon-opens-its-first-uk-net-zero-delivery-unit/",
+    "original_title": "Amazon opens its first UK net-zero delivery unit",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/andes-waits-for-market-momentum-for-cuzco-cpu/": {
+    "title": "안데스테크놀로지, 쿠즈코 CPU 출시에 필요한 시장 성장세 대기",
+    "summary": "안데스테크놀로지의 찰리 수 CTO는 고성능 RISC-V CPU '쿠즈코(Cuzco)'를 상업적 이유로 당분간 후순위로 미루었다고 밝혔다. 회사는 쿠즈코 출시에 필요한 시장 모멘텀이 형성되기를 기다리고 있다. 이는 고성능 RISC-V CPU 시장 수요가 아직 충분히 성숙하지 않았다는 회사의 판단에 따른 것이다.",
+    "source": "EE Times",
+    "date": "2026-11-02",
+    "link": "https://www.eetimes.com/andes-waits-for-market-momentum-for-cuzco-cpu/",
+    "original_title": "Andes Waits For Market Momentum For Cuzco CPU",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/jevon-paradox-and-the-silicon-roadmap/": {
+    "title": "제번스의 역설과 실리콘 로드맵",
+    "summary": "이 기사는 제번스의 역설, 즉 효율성 향상이 오히려 전체 수요를 증가시키는 현상이 AI 수요를 촉진할 수 있다고 분석한다. 그러나 AI 수요 증가에도 불구하고 실리콘 기술 로드맵이 어떤 칩이 가치를 유지하고 어떤 칩이 좌초 자산(stranded asset)이 될지를 결정하는 핵심 요소라고 지적한다. 결국 시장 성장 자체만으로 모든 반도체의 가치가 보장되지는 않는다는 관점을 제시한다.",
+    "source": "EE Times",
+    "date": "2026-11-02",
+    "link": "https://www.eetimes.com/jevon-paradox-and-the-silicon-roadmap/",
+    "original_title": "Jevons’ Paradox and the Silicon Roadmap",
+    "lang": "en"
+  },
+  "https://semiengineering.com/shift-left-is-becoming-a-system-level-problem/": {
+    "title": "쉬프트 레프트, 시스템 수준의 문제로 확대되다",
+    "summary": "반도체 설계 복잡성이 높아지면서 엔지니어들은 하드웨어, 소프트웨어, 물리적 제약을 설계 흐름의 초기 단계에서 검증해야 하는 상황에 직면하고 있다. 그러나 워크플로가 단편화되어 있어 조기 검증 작업이 쉽지 않은 것으로 지적된다. '쉬프트 레프트' 전략이 단순한 설계 단계 이동을 넘어 시스템 전체 수준의 과제로 확대되고 있음을 보여준다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-02",
+    "link": "https://semiengineering.com/shift-left-is-becoming-a-system-level-problem/",
+    "original_title": "Shift Left Is Becoming A System-Level Problem",
+    "lang": "en"
+  },
+  "https://semiengineering.com/putting-ai-to-the-test/": {
+    "title": "AI를 시험대에 올리다",
+    "summary": "반도체 시스템 검증 분야에서 '검증자를 누가 검증하는가'는 오래된 난제로 꼽혀 왔다. AI 시대가 도래하면서 'AI를 누가 검증하는가'라는 새로운 질문이 대두되고 있다. 이 기사는 Semiconductor Engineering에 게재된 것으로, 반도체 검증에서 AI의 신뢰성 확보 문제를 다룬다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-02",
+    "link": "https://semiengineering.com/putting-ai-to-the-test/",
+    "original_title": "Putting AI To The Test",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261102000327": {
+    "title": "TSMC, 美텍사스 투자…삼성 안방서 격돌",
+    "summary": "세계 최대 파운드리 기업 대만 TSMC가 미국 내 두 번째 대형 생산 거점으로 텍사스주 북부 셔먼을 낙점하고 막바지 부지 협상에 돌입했다. 셔먼 시는 TSMC와 수백억 달러 규모 반도체 제조 시설 유치를 위한 부지 협상을 진행 중인 것으로 알려졌다. 오스틴과 테일러를 거점으로 30년간 텍사스주를 미국 내 안방으로 삼아온 삼성전자와 정면충돌이 불가피해졌다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000327",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261102000387": {
+    "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”",
+    "summary": "김정관 산업통상자원부 장관이 2일 서울 페럼타워에서 열린 국민경제자문회의 공개포럼에서 3대 메가프로젝트를 통해 저성장의 고리를 끊고 대한민국을 AI 강국으로 도약시키겠다고 밝혔다. 김 장관은 기조발표에서 1600조원에 달하는 프로젝트 규모를 언급했다. 전문가들은 팹·데이터센터 구축에 집중된 계획을 시스템반도체, 제조 데이터, AI 활용 등 산업 생태계 전반으로 확대할 것을 제언했다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000387",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261102000220": {
+    "title": "전기차 전환 약속만 해도 2000포인트…실제 구매 땐 2만포인트",
+    "summary": "정부가 전기차 전환을 약속(서명)한 국민에게 탄소중립포인트 2000포인트를 지급하고, 실제 전기차를 구매하면 2만포인트를 추가로 제공해 전기차 전환을 유도한다. 기후에너지환경부는 2일 한강홍수통제소에서 김성환 장관을 시작으로 전 직원이 참여하는 '전기차 전환 서명 캠페인'을 시작한다고 밝혔다. 캠페인 참여자는 평소 이동 시 대중교통 이용을 우선 고려하고, 차량을 빌리거나 구매할 때 전기차 등 무공해차를 선택하겠다고 서명하게 된다.",
+    "source": "전자신문 산업/신사업",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000220",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261102000324": {
+    "title": "[단독]임문영 의원, AMD 수석부사장 만난다…광주 AI 연구센터 유치 주목",
+    "summary": "AMD 글로벌 AI 시장 담당 키스 스트리어 수석부사장이 3일 국회 임문영 더불어민주당 의원실을 방문해 반도체·AI 분야 협력 방안을 논의한다. 회담에서는 반도체, 피지컬 AI, AI 데이터센터 등 3대 메가프로젝트와 연계한 AMD의 투자·협력 방안이 다뤄질 예정이다. 전남광주통합특별시 AI 연구센터 설립을 위한 협력이 구체화될지 관심이 집중되고 있다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000324",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261102000303": {
+    "title": "한국디자인진흥원, 성남시 공공기관 협의체와 ESG 환경 실천",
+    "summary": "한국디자인진흥원은 지난달 30일 한국잡월드가 주관한 ESG 환경 행사 '줍GO! 걷GO! 지키GO!'에 참여해 플로깅을 진행했다. 성남시 소재 8개 공공기관 협의체 임직원 약 50명은 이날 오후 2시부터 탄천변 백현교~서현교 구간 약 3km를 걸으며 쓰레기를 수거했다. 이번 행사는 공공기관 협의체가 환경보호와 사회적 책임을 함께 실천하기 위해 협업 체계를 구축하며 마련되었다. 환경교육과 쓰레기 줍기 활동을 통해 지역사회 환경보호 실천을 확산하는 데 초점을 맞췄다.",
+    "source": "전자신문 IT",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000303",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261102000281": {
+    "title": "쑥쑥 느는 AI데이터센터… “국산 NPU·냉각장비에 초기시장 열어야”",
+    "summary": "한국경제인협회는 2일 대통령 직속 국가인공지능전략위원회와 공동으로 'AI 데이터센터 산업 생태계 활성화를 위한 기업 간담회'를 개최했다. 산업계는 AI 데이터센터 투자가 대규모 시설 건립에 그치지 않고 국내 기업 성장과 수출로 이어지려면 전력 공급과 인허가 불확실성을 줄여야 한다고 지적했다. 아울러 국산 AI 반도체(NPU)와 전력·냉각 장비의 시장 진입 기회를 넓혀 초기 시장을 열어야 한다는 요구가 제기됐다.",
+    "source": "전자신문 IT",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000281",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.eetimes.com/ai-reshapes-memory-architecture-as-macronix-expands-flash-portfolio/": {
+    "title": "AI가 메모리 아키텍처를 재편, 매크로닉스 플래시 포트폴리오 확장",
+    "summary": "AI 기반 고대역폭 메모리 수요가 메모리 시장 구조를 재편하고 있다. 이러한 흐름 속에서 성숙기 플래시 제품의 수요가 함께 상승하고 있다. 대만 메모리업체 매크로닉스는 AI 워크로드에 대응하기 위해 플래시 제품 포트폴리오를 확장하고 있다.",
+    "source": "EE Times",
+    "date": "2026-11-02",
+    "link": "https://www.eetimes.com/ai-reshapes-memory-architecture-as-macronix-expands-flash-portfolio/",
+    "original_title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio",
+    "lang": "en"
+  },
+  "https://www.edie.net/green-jobs-and-apprenticeships-considered-ai-proof-compared-to-wider-workforce/": {
+    "title": "그린 일자리·도제 과정, 전체 노동시장 대비 'AI 대체 위험 낮아'",
+    "summary": "연구에 따르면 녹색 일자리와 도제(견습) 과정은 다른 직종에 비해 AI로 대체되기 어려운 것으로 나타났다. 녹색 도제 과정 중 AI 대체 가능 직종과 연관된 것은 4.5%에 불과했다. 반면 잉글랜드 전체 도제 과정에서는 27%가 AI 대체에 개방된 직종과 연관된 것으로 조사됐다. 이는 녹색 경제 부문의 일자리가 AI 기술 변화에 상대적으로 강건하다는 점을 보여준다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-02",
+    "link": "https://www.edie.net/green-jobs-and-apprenticeships-considered-ai-proof-compared-to-wider-workforce/",
+    "original_title": "Green jobs and apprenticeships considered ‘AI proof’ compared to wider workforce",
+    "lang": "en"
+  },
+  "https://www.edie.net/businesses-still-treating-modern-slavery-as-a-reporting-compliance-exercise-research-finds/": {
+    "title": "Research finds that companies still treat modern slavery as a mere reporting compliance task",
+    "summary": "According to research from Hult International Business School, 90% of companies believe that modern slavery exists within their supply chains. However, the research points out that companies are still approaching modern slavery as a mere reporting compliance task. This indicates a gap between recognition and substantive action, with practical efforts to address risks of modern slavery within supply chains judged to be insufficient.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-02",
+    "link": "https://www.edie.net/businesses-still-treating-modern-slavery-as-a-reporting-compliance-exercise-research-finds/",
+    "original_title": "Businesses still treating modern slavery as a reporting compliance exercise, research finds",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/designing-for-the-long-haul-building-obsolescence-resilient-product-lifecycles/": {
+    "title": "장기 대응 설계: 단종에 강한 제품 수명주기 구축하기",
+    "summary": "이 기사는 반도체 부품 단종이 설계 단계에서 해결해야 할 문제임을 강조한다. 엔지니어들은 핵심 부품 계획, 공식 인증 경로를 통한 부품 조달, 그리고 공급사와의 조기 소통을 통해 수명이 긴 시스템을 단종 리스크로부터 보호할 수 있다. 이러한 접근은 장기 운용 제품의 부품 공급 안정성과 유지보수성을 높이는 데 기여한다.",
+    "source": "EE Times",
+    "date": "2026-11-01",
+    "link": "https://www.eetimes.com/designing-for-the-long-haul-building-obsolescence-resilient-product-lifecycles/",
+    "original_title": "Designing for the Long Haul: Building Obsolescence-Resilient Product Lifecycles",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261101000090": {
+    "title": "日 APL 찾은 이재용, AI승부처 '첨단 패키징' 챙겼다…소부장 협력 논의",
+    "summary": "이재용 삼성전자 회장이 1일 일본 요코하마의 첨단 반도체 패키징 연구거점인 '어드밴스트 패키지 랩(APL)'을 방문해 차세대 패키징 요소기술 연구 현황을 점검했다. 이는 9월 8일 APL 공식 개소 이후 약 두 달 만에 이뤄진 첫 현장 경영이다. 이 회장은 AI 반도체 경쟁의 승부처로 떠오른 첨단 패키징 기술 확보 상황을 점검하고 일본 소재·부품·장비(소부장) 생태계와의 협력 확대를 모색했다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-01",
+    "link": "https://www.etnews.com/20261101000090",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261030000202": {
+    "title": "신용보증기금, 탄소 감축효과 '금융'으로 평가한다",
+    "summary": "신용보증기금이 기업의 온실가스 감축 효과를 금전적 가치로 환산하는 '기후금융 평가모형' 개발에 착수했다. 신보는 탄소 감축량뿐 아니라 감축에 따른 경제적 가치와 사업 실현 가능성까지 종합 평가해 기후금융 지원의 객관적 기준을 마련한다는 구상이다. 이를 위해 '신보형 기후금융 평가모형 개발' 연구용역에 착수했으며, 기업의 탄소 감축 가치 산정과 저탄소 전환전략의 실행 가능성을 평가하는 체계를 구축할 계획이다.",
+    "source": "전자신문 IT",
+    "date": "2026-11-01",
+    "link": "https://www.etnews.com/20261030000202",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261101000066": {
+    "title": "오픈 AI 올트먼, 삼성·SK 연쇄 회동…'스타게이트 동맹' 더 깊어진다",
+    "summary": "샘 올트먼 오픈AI 최고경영자(CEO)가 방한 기간 삼성과 SK 최고 경영진을 잇달아 만났다. 두 그룹은 오픈AI의 초대형 AI 인프라 사업 '스타게이트'에 메모리 반도체를 공급하는 핵심 파트너다. 글로벌 AI 인프라 투자 경쟁 속에서 국내 메모리 양강과 오픈AI의 협력이 한층 밀착하는 모양새다. 삼성은 지난달 31일 경기 용인 삼성인력개발원에서 올트먼 CEO 초청 사장단 간담회를 열었다. 전자·금융·바이오 등 관계사 사장단 50여명이 참석했다",
+    "source": "전자신문 IT",
+    "date": "2026-11-01",
+    "link": "https://www.etnews.com/20261101000066",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://spectrum.ieee.org/early-electric-vehicles": {
+    "title": "전기자동차가 여성의 전유물이었을 때",
+    "summary": "지난 세기의 전환기에도 자동차 산업은 여전히 ​​새롭고 빠르게 발전하고 있었습니다. 1898년 미국에는 약 50개의 자동차 제조사가 있었습니다. 10년 후에 그 숫자는 5배로 늘어났습니다. 1901년에 두 회사는 7,000대의 차량을 생산했습니다. 1910년까지 생산량은 181,000대에 이르렀습니다. 수십 년 동안 전기 자동차는 증기 및 내연 기관으로 구동되는 자동차와 경쟁했으며 어떤 기술이 우위를 점할지는 아무도 확신하지 못했습니다. 증기는 기관차 기술의 유산을 갖고 있었지만 화재 위험이 있었습니다. 보일러와 증기 배관의 위치에 따라 증기 구동 차량도 매우 뜨거워질 수 있습니다. 휘발유 자동차와 전기 자동차 모두 물류 문제에 직면했습니다. 주유나 충전 없이 얼마나 멀리 이동할 수 있습니까? 언제든지 차 뒤쪽에 여분의 휘발유 캔을 넣을 수 있지만 배터리를 충전하려면 더 많은 계획이 필요했습니다. 아직 장거리 여행을 위한 인프라가 갖춰져 있지 않았습니다. 전기 스타트가 발명되기 전",
+    "source": "IEEE Spectrum · Energy",
+    "date": "2026-10-31",
+    "link": "https://spectrum.ieee.org/early-electric-vehicles",
+    "original_title": "When Electric Cars Were for Women",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261031000033": {
+    "title": "CBD COP17 폐막…'2030 생물다양성 목표' 이행 속도낸다",
+    "summary": "전 세계 196개국이 참여한 제17차 생물다양성협약 당사국총회(CBD COP17)가 2030년까지 생물다양성 보전 목표 달성을 위한 이행 가속 방안에 합의하고 막을 내렸다. 각국의 생물다양성 목표 가운데 이행이 순조로운 목표가 절반에도 미치지 못한 것으로 나타나면서 국제사회는 공공·민간 재원 동원과 개도국 지원을 확대하기로 했다. 기후에너지환경부는 지난 19일부터 아르메니아 예레반에서 열린 COP17이 당초 예정된 폐막일인 30일을 하루 넘겨",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-31",
+    "link": "https://www.etnews.com/20261031000033",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261031000026": {
+    "title": "삼성 사장단, 올트먼에 'AI 다음 10년' 물었다…OpenAI 동맹 밀착 행보",
+    "summary": "삼성은 31일 경기 용인 삼성인력개발원에서 샘 올트먼 OpenAI CEO를 초청해 관계사 사장단 간담회를 열고 AI 시대 경영 전략을 논의했다. 전자·금융·바이오 등 관계사 사장단 50여명이 참석했다. 삼성과 OpenAI는 메모리 반도체 공급과 데이터센터 협력으로 협력 관계를 맺고 있으며, 이번 간담회를 통해 양사 접점이 한층 넓어졌다.",
+    "source": "전자신문 IT",
+    "date": "2026-10-31",
+    "link": "https://www.etnews.com/20261031000026",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261030000209": {
+    "title": "[반도체 라이징 스타]&lt;8&gt;코스모크, 차세대 메모리·센서 비파괴 분석…“제조라인 장비 개발 속도”",
+    "summary": "코스모크는 메모리·센서 제조 공정에 필요한 자성 박막 특성을 비파괴 분석하는 딥테크 스타트업으로, 한양대 ERICA 로봇공학과 장범진 조교수가 2023년 창업했다. 자기광학 MOKE(Magneto-Optical Kerr Effect) 기술을 기반으로 M램, MR 센서, 스픈트로닉스 반도체 등 차세대 메모리·센서 분석 수요를 공략하고 있다. 기존 반도체 계측이 박막 두께나 표면 등 물성 측정에 그치는 것과 달리, 자성 특성까지 분석해 제조라인 장비 개발 속도를 높인다는 전략이다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-10-31",
+    "link": "https://www.etnews.com/20261030000209",
+    "original_title": "",
+    "lang": "ko"
+  }
+}
