@@ -1,7 +1,7 @@
 {
   "https://www.law.go.kr/DRF/lawService.do?OC=sapphire_5&target=law&MST=291447&type=HTML&mobileYn=&efYd=20261027": {
     "title": "[법령] 산업안전보건법",
-    "summary": "일부개정 | 공포 2026-10-27 | 시행 2026-10-27 | 소관: 고용노동부 | 개정 이유: [일부개정] ◇ 개정이유 및 주요내용 사업주 또는 도급인의 작업중지 의무 사유에 산업재해가 발생할 급박한 위험이 있어 근로자 등이 작업중지를 요구하는 경우 등을 추가하고, 근로자의 작업중지권 행사 요건을 완화하며, 고용노동부장관의 시정조치 명령을 받은 사업주는 시정조치를 완료할 때까지 작업을 할 수 없도록 하고, 건설공사 기간의 연장 사유에 폭염ㆍ한파를 추가하는 한편, 최근 3년간 산업재해 발생으로 영업정지 처분을 2회 이상 받은 사업주가 다시 영업정지 요청 대상이 된 경우에는 고용노동부장관이 관계 행정기관의 장에게 해당 사업의 등…",
+    "summary": "일부개정 | 공포 2026-10-27 | 시행 2026-10-27 | 소관: 고용노동부",
     "source": "법제처 (공공데이터포털 API)",
     "date": "2026-10-27",
     "link": "https://www.law.go.kr/DRF/lawService.do?OC=sapphire_5&target=law&MST=291447&type=HTML&mobileYn=&efYd=20261027",
@@ -10,7 +10,7 @@
   },
   "https://www.law.go.kr/DRF/lawService.do?OC=sapphire_5&target=law&MST=228817&type=HTML&mobileYn=&efYd=20220127": {
     "title": "[법령] 중대재해 처벌 등에 관한 법률",
-    "summary": "제정 | 공포 2021-01-26 | 시행 2022-01-27 | 소관: 고용노동부,공정거래위원회,국토교통부,기후에너지환경부,법무부,산업통상부,중소벤처기업부 | 개정 이유: [제정] ◇ 제정이유 현대중공업 아르곤 가스 질식 사망사고, 태안화력발전소 압사사고, 물류창고 건설현장 화재사고와 같은 산업재해로 인한 사망사고와 함께 가습기 살균제 사건 및 4ㆍ16 세월호 사건과 같은 시민재해로 인한 사망사고 발생 등이 사회적 문제로 지적되어 왔음. 이에 사업주, 법인 또는 기관 등이 운영하는 사업장 등에서 발생한 중대산업재해와 공중이용시설 또는 공중교통수단을 운영하거나 위험한 원료 및 제조물을 취급하면서 안전ㆍ보건 조치의무를 위반하여 인명사고가 발생한 중대시민재해의 경우, 사업주와 경영책임자 및 법인 등을 처벌…",
+    "summary": "제정 | 공포 2021-01-26 | 시행 2022-01-27 | 소관: 고용노동부,공정거래위원회,국토교통부,기후에너지환경부,법무부,산업통상부,중소벤처기업부",
     "source": "법제처 (공공데이터포털 API)",
     "date": "2021-01-26",
     "link": "https://www.law.go.kr/DRF/lawService.do?OC=sapphire_5&target=law&MST=228817&type=HTML&mobileYn=&efYd=20220127",
@@ -98,24 +98,6 @@
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.etnews.com/20261106000364": {
-    "title": "네오와인, '불량 TSV 폐기'로 HBM 수율 개선…특허 등록",
-    "summary": "보안반도체 팹리스 네오와인(대표 이효승)이 '불량통로'를 폐기하는 방식으로 고대역폭 메모리(HBM) 고질적 난제인 수율문제를 개선할 원천 기술을 개발했다. 7일 업계에 따르면 네오와인은 최근 '고대역폭메모리 장치'(특허 제10-3036335호)의 국내 특허 등록을 마치고 미국 출원도 완료했다. HBM은 D램 다이를 12~16단 이상 수직으로 쌓아 수천 개의 실리콘관통전극(TSV)으로 연결하는 구조다. 공정 특성상 단 하나의 TSV에서 미세한 결",
-    "source": "전자신문 (전체)",
-    "date": "2026-11-07",
-    "link": "https://www.etnews.com/20261106000364",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.donga.com/news/Politics/article/all/20261106/134982611/2": {
-    "title": "韓-동티모르 정상 “지식재산-기후변화 등 협력”",
-    "summary": "이재명 대통령은 6일 조제 하무스오르타 동티모르 대통령과 정상회담을 갖고 “동티모르가 새로운 도약을 이뤄가는 여정에서도 대한민국은 언제나 좋은 친구이자 든든한 동반자가 될 것”이라고 했다. 이 대통령은 이날 오전 청와대에서 정상회담을 마친 뒤 공동 언론발표에서 “양국은 어두운 역사를 극복하고 독립을 이뤄냈고, 어려움 속에서도 민주주의를 지켜왔다는 점에서 서로 많이 닮아 있다”며 이같이 말했다. 동티모르 정상이 양자 회담을 위해 공식 방한한 건 2002년 양국이 수교한 후 처음이다. 두 정상은 지식재산·기후변화 협력과 함께 동티모르 경제·사회 발전을 지원하기 위한 개발 협력을 강화하기로 했다. 인도네시아가 동티모르를 식민 지배하던 시절 독립운동을 했던 하무스오르타 대통령은 1996년 비폭력 저항운동에 앞장선 공로로 노벨 평화상을 받았다. 김대중 전 대통령이 2000년 노벨 평화상을 수상할 때 후보자로 추천한 이력도 있다. 하무스오르타 대통령은 “‘빛의 혁명’은 매우 유의미하고,",
-    "source": "동아일보 (사회/사고)",
-    "date": "2026-11-07",
-    "link": "https://www.donga.com/news/Politics/article/all/20261106/134982611/2",
-    "original_title": "",
-    "lang": "ko"
-  },
   "https://www.semiconductor-digest.com/micron-announces-board-of-directors-retirement/?utm_source=rss&utm_medium=rss&utm_campaign=micron-announces-board-of-directors-retirement": {
     "title": "마이크론, 이사회 은퇴 발표",
     "summary": "Micron Technology, Inc.는 오늘 Linnie M. Haynesworth가 2027년 1월 14일에 열릴 것으로 예상되는 연례 주주 총회에서 그녀가 이사회에서 물러날 것이라고 회사에 통보했다고 발표했습니다. Micron이 이사회 은퇴를 발표한 게시물은 Semiconductor Digest에서 처음으로 게재되었습니다.",
@@ -136,7 +118,7 @@
   },
   "https://www.semiconductor-digest.com/diamond-foundry-announces-first-ever-d200mm-single-crystal-diamond/?utm_source=rss&utm_medium=rss&utm_campaign=diamond-foundry-announces-first-ever-d200mm-single-crystal-diamond": {
     "title": "Diamond Foundry, 최초의 D200mm 단결정 다이아몬드 발표",
-    "summary": "획기적인 발전은 25년간의 과학적 추구를 마무리하고 단결정 다이아몬드의 새로운 규모를 확립했습니다. Diamond Foundry가 최초의 D200mm 단결정 다이아몬드를 발표한 포스트가 Semiconductor Digest에 처음으로 게재되었습니다.",
+    "summary": "획기적인 발전은 25년간의 과학적 추구를 마무리하고 단결정 다이아몬드의 새로운 규모를 확립했습니다. The post Diamond Foundry, 최초의 D200mm 단결정 다이아몬드 발표 Semiconductor Digest 에 처음 게재되었습니다.",
     "source": "Semiconductor Digest",
     "date": "2026-11-07",
     "link": "https://www.semiconductor-digest.com/diamond-foundry-announces-first-ever-d200mm-single-crystal-diamond/?utm_source=rss&utm_medium=rss&utm_campaign=diamond-foundry-announces-first-ever-d200mm-single-crystal-diamond",
@@ -163,39 +145,30 @@
   },
   "https://www.edie.net/why-treating-nature-loss-and-climate-change-as-separate-issues-makes-no-sense/": {
     "title": "자연 손실과 기후 변화를 별도의 문제로 취급하는 것이 말이 되지 않는 이유",
-    "summary": "대표자들이 터키에서 열린 COP31에 모였을 때 Fauna & Flora의 Annamaria Lehoczky는 자연 기반 솔루션이 기후 행동의 중심이 되어야 하며, 투자를 활성화하고 회복력을 구축하는 데 필요한 지구 기후와 생물 다양성 약속 간의 더 큰 조정이 필요하다고 주장합니다.",
+    "summary": "대표자들이 투르키예에서 열린 COP31에 모였을 때 Fauna & Flora의 Annamaria Lehoczky는 자연 기반 솔루션이 기후 행동의 중심이 되어야 하며, 투자를 활성화하고 회복력을 구축하는 데 필요한 지구 기후와 생물 다양성 약속 간의 더 큰 조정이 필요하다고 주장합니다.",
     "source": "edie (환경 비즈니스)",
     "date": "2026-11-06",
     "link": "https://www.edie.net/why-treating-nature-loss-and-climate-change-as-separate-issues-makes-no-sense/",
     "original_title": "Why treating nature loss and climate change as separate issues makes no sense",
     "lang": "en"
   },
-  "https://www.etnews.com/20261106000363": {
-    "title": "삼성전자 주가가 미국발 악재로 급락한 가운데 노태문 삼성전자 대표이사 겸 디바이스경험(DX)부문장 사장이 6억3000만원 규모의 자사주를 추가 ",
-    "summary": "삼성전자 주가가 미국발 악재로 급락한 가운데 노태문 삼성전자 대표이사 겸 디바이스경험(DX)부문장 사장이 6억3000만원 규모의 자사주를 추가 매입했다. 경영진이 직접 주식을 사들이면서 주주 신뢰 회복과 책임경영 의지를 강조하려는 행보로 풀이된다. 6일 금융감독원 전자공시시스템에 따르면 노 사장은 이날 삼성전자 보통주 3000주를 장내 매수했다. 취득 단가는 주당 21만원으로, 총 매입 금액은 6억3000만원이다. 이번 거래로 노 사장의 삼성전",
-    "source": "전자신문 (전체)",
+  "https://www.edie.net/how-ai-can-accelerate-climate-investment/": {
+    "title": "AI가 기후 투자를 가속화하는 방법",
+    "summary": "지속 가능성 팀이 증가하는 재정적 압박과 점점 더 복잡해지는 환경 시장에 직면함에 따라 AI는 새로운 투자 기회를 식별하고 의사 결정을 개선하며 내부 동의를 확보하기 위한 도구로 부상했습니다. 이러한 기회를 탐색하기 위해 Edie는 Patch와 협력하여 기업이 AI 및 시장 인텔리전스를 사용하여 기후 투자를 지원하는 동시에 기술 자체의 위험과 환경 영향을 관리할 수 있는 방법을 검토하는 온라인 웹 세미나를 진행했습니다.",
+    "source": "edie (환경 비즈니스)",
     "date": "2026-11-06",
-    "link": "https://www.etnews.com/20261106000363",
-    "original_title": "",
-    "lang": "ko"
+    "link": "https://www.edie.net/how-ai-can-accelerate-climate-investment/",
+    "original_title": "How AI can accelerate climate investment",
+    "lang": "en"
   },
   "https://www.edie.net/sustainability-uncovered-episode-51-the-ripple-effect-of-low-carbon-logistics/": {
     "title": "Sustainability Uncovered 51화: 저탄소 물류의 파급효과",
-    "summary": "edie가 오랫동안 진행해 온 Sustainability Uncovered 팟캐스트의 최신 에피소드가 현재 방송 중입니다. Prologis, Planet Mark, Benniman 및 Kinaxia Logistics와의 독점 인터뷰를 시청하세요. 개발자, 계약자 및 운영자가 내재 탄소 감소부터 에너지 효율성 향상, 보다 지속 가능한 공급망 구축에 이르기까지 물류 인프라의 환경 영향을 줄이기 위해 어떻게 협력할 수 있는지 알아보기 위해 DIRFT로 향합니다.",
+    "summary": "edie가 오랫동안 진행해 온 Sustainability Uncovered 팟캐스트의 최신 에피소드가 현재 방송 중입니다. Prologis, Planet Mark, Benniman 및 Kinaxia Logistics와의 독점 인터뷰를 시청하세요. 개발자, 계약자 및 운영자가 내재 탄소 감소부터 에너지 효율성 개선, 더욱 지속 가능한 공급망 구축에 이르기까지 물류 인프라의 환경 영향을 줄이기 위해 어떻게 협력할 수 있는지 알아보기 위해 DIRFT로 향합니다.",
     "source": "edie (환경 비즈니스)",
     "date": "2026-11-06",
     "link": "https://www.edie.net/sustainability-uncovered-episode-51-the-ripple-effect-of-low-carbon-logistics/",
     "original_title": "Sustainability Uncovered episode 51: The ripple effect of low-carbon logistics",
     "lang": "en"
-  },
-  "https://www.etnews.com/20261106000316": {
-    "title": "미국 실리콘밸리에서 154억원 상당의 엔비디아 인공지능(AI) 반도체와 관련 장비가 운송 도중 사라져 경찰이 두 달째 수사를 벌이고 있다",
-    "summary": "미국 실리콘밸리에서 154억원 상당의 엔비디아 인공지능(AI) 반도체와 관련 장비가 운송 도중 사라져 경찰이 두 달째 수사를 벌이고 있다. 고가의 AI 반도체를 노린 전문 절도단의 소행일 가능성이 제기되는 가운데 아직 화물의 행방은 확인되지 않고 있다. 5일(현지시간) 미국 실리콘밸리 지역매체 머큐리뉴스에 따르면 캘리포니아주 오클랜드 경찰은 지난 8월 29일 오클랜드에서 텍사스주 포트워스로 운송되던 엔비디아 화물 도난 사건을 수사하고 있다. 도",
-    "source": "전자신문 (전체)",
-    "date": "2026-11-06",
-    "link": "https://www.etnews.com/20261106000316",
-    "original_title": "",
-    "lang": "ko"
   },
   "https://www.etnews.com/20261106000310": {
     "title": "현대차 정몽구 재단, 말레이서 '한-동남아 전략정책 포럼'",
@@ -206,30 +179,12 @@
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.donga.com/news/Society/article/all/20261106/134979270/1": {
-    "title": "국민건강보험공단, ‘리부트건강보험’ 선포… 4대 경영방침 발표",
-    "summary": "국민건강보험공단이 건강보험의 미래 운영 방향을 재설계하는 ‘리부트건강보험’을 공식화했다.건보공단은 6일 강원 원주시 본부에서 ‘제11대 이사장 경영방침 선포식’을 열고 ‘모두의 건강복지플랫폼으로, 리부트건강보험’을 슬로건으로 한 4대 경영방침을 발표했다. 행사에는 국민·전문가 대표와 전국 지사장 등 임직원 450여 명이 참석했다.이번 선포식은 2027년 의료보험 도입 50주년을 앞두고 열렸다. 우리나라 의료보험은 1977년 500인 이상 사업장 근로자를 대상으로 처음 시행됐다. 이후 적용 대상을 단계적으로 확대해 1989년 전 국민 의료보험을 실현했다. 2000년에는 국민건강보험법 시행과 함께 국민건강보험공단이 출범했다.건보공단은 초고령사회 진입과 인공지능(AI) 전환, 건강보험 재정의 지속가능성 등을 주요 경영 환경 변화로 제시했다. 이에 대응해 기존 건강보험의 역할과 운영 방식을 재설계하겠다는 것이 ‘리부트건강보험’의 취지다.건보공단이 발표한 4대 경영방침은 국민중심·혁신경영·융",
-    "source": "동아일보 (사회/사고)",
-    "date": "2026-11-06",
-    "link": "https://www.donga.com/news/Society/article/all/20261106/134979270/1",
-    "original_title": "",
-    "lang": "ko"
-  },
   "https://www.etnews.com/20261106000299": {
     "title": "강원혁신센터, 투자연계 행사 4회 개최…지역기업 30개사 참여",
     "summary": "강원창조경제혁신센터(대표 이해정)가 강원창업주간을 맞아 투자연계 행사 4회를 잇달아 개최하고 지역 유망기업의 투자유치와 사업 확대를 지원했다. 강원혁신센터는 지난 10월 29일부터 11월 5일까지 춘천과 원주에서 창업-BuS 데모데이, 립스(LIPS) 커넥트데이, 온보딩플라이트 데모데이, 연합 인베스터 데이(INVESTOR DAY)를 개최했다고 밝혔다. 이번 행사에는 바이오·헬스케어, 푸드테크, 기후테크, 혁신 소상공인 등 다양한 분야의 지역기",
     "source": "전자신문 IT",
     "date": "2026-11-06",
     "link": "https://www.etnews.com/20261106000299",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20261106000278": {
-    "title": "엔비디아, 'RTX 스파크' 기술 소개…차세대 'AI PC' 경험 제시",
-    "summary": "엔비디아가 그래픽처리장치(GPU)와 중앙처리장치(CPU)를 단일 칩으로 결합한 'RTX 스파크(RTX Spark)'를 앞세워 클라우드 연결 없이 개인용 PC에서 인공지능(AI) 비서를 직접 구동하는 '로컬 AI' 시장 공략에 본격적으로 나섰다. 하드웨어 슈퍼칩과 함께 메모리 사용량을 대폭 줄인 경량 모델, 로컬·클라우드 하이브리드 기술을 동시에 선보이며 온디바이스 AI 생태계를 완성한다는 전략이다. 엔비디아는 6일 서울 종로구 JW 메리어트 동",
-    "source": "전자신문 (전체)",
-    "date": "2026-11-06",
-    "link": "https://www.etnews.com/20261106000278",
     "original_title": "",
     "lang": "ko"
   },
@@ -251,15 +206,6 @@
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.etnews.com/20261106000034": {
-    "title": "신한금융, 제주서 '자연자본' 공시 사례 발표",
-    "summary": "신한금융은 지난 5일부터 사흘간 제주 돌문화공원에서 열린 '2026 제주국제생태포럼'에 후원사로 참여해 자연 관련 재무정보 공개 협의체(TNFD) 공시 성과를 발표했다. '자연의 서사와 사회의 재구성'을 주제로 열린 이번 포럼에는 국내외 학자와 기업인, 정책 관계자 등 150여명이 참석해 기업의 자연자본 공시와 지구법 등을 논의하고 있다. 신한금융은 기후위기와 생물다양성 소실에 대응하는 국제 생태 플랫폼을 구축하고자 기후에너지환경부, 포스코홀딩",
-    "source": "전자신문 IT",
-    "date": "2026-11-06",
-    "link": "https://www.etnews.com/20261106000034",
-    "original_title": "",
-    "lang": "ko"
-  },
   "https://www.semiconductor-digest.com/entegris-expands-partnership-with-kioxia/?utm_source=rss&utm_medium=rss&utm_campaign=entegris-expands-partnership-with-kioxia": {
     "title": "인테그리스, 키옥시아와 파트너십 확대",
     "summary": "Entegris, Inc.는 오늘 차세대 BiCS FLASH 3D 플래시 메모리 및 차세대 컴퓨팅을 위한 소재 혁신을 가속화하기 위해 Kioxia Corporation과의 전략적 파트너십 확장을 발표했습니다. Entegris가 Kioxia와 파트너십을 확장한다는 게시물이 Semiconductor Digest에 처음 게재되었습니다.",
@@ -269,184 +215,22 @@
     "original_title": "Entegris Expands Partnership with Kioxia",
     "lang": "en"
   },
-  "https://www.eetimes.com/infineon-leaders-andreas-urschitz-and-maher-matta-on-a-decade-of-oktobertech/": {
-    "title": "옥토버테크 10년의 여정을 회고하는 인피니언 리더 안드레아스 우어시츠와 마허 마타",
-    "summary": "인피니언의 안드레아스 우어시츠와 마허 마타가 옥토버테크 실리콘밸리 2026 행사에서 EE Times와 인터뷰를 진행했다. 두 리더는 옥토버테크가 10년간 이어온 혁신과 성장을 돌아보았다. 해당 기사는 EE Times가 게시한 스폰서드(광고성) 콘텐츠로, 별도의 구체적 실적 수치나 사업 계획은 포함되어 있지 않다.",
-    "source": "EE Times",
-    "date": "2026-11-06",
-    "link": "https://www.eetimes.com/infineon-leaders-andreas-urschitz-and-maher-matta-on-a-decade-of-oktobertech/",
-    "original_title": "Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech",
+  "https://www.semiconductor-digest.com/worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports": {
+    "title": "SEMI 보고서, 2026년 3분기 전세계 실리콘 웨이퍼 출하량이 전년 동기 대비 13.4% 증가",
+    "summary": "출하량은 2026년 2분기에 기록된 3,573 MSI보다 분기 대비 5.1% 증가했습니다. 2026년 3분기 전세계 실리콘 웨이퍼 출하량은 전년 동기 대비 13.4% 증가했으며, SEMI 보고서는 Semiconductor Digest에 처음으로 게재되었습니다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-11-05",
+    "link": "https://www.semiconductor-digest.com/worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports",
+    "original_title": "Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026, SEMI Reports",
     "lang": "en"
   },
-  "https://www.donga.com/news/Society/article/all/20261105/134975433/2": {
-    "title": "20~49인 사업장에도 안전관리자… 경사노위, 李정부 첫 노사정 합의",
-    "summary": "이재명 정부 출범 이후 첫 노사정 합의로 경제사회노동위원회(경사노위)가 산업재해 사각지대인 20인 이상~50인 미만 사업장에 전문성을 갖춘 안전관리자 또는 보건관리자 1명 선임을 의무화하는 합의문을 채택했다. 대상 업종은 제조업, 임업, 하수처리업, 폐기물 수집·운반·처리업, 환경 정화·복원업 등 5개 위험 업종이다. 경사노위는 약 3만 개 소규모 사업장이 대상이 될 것으로 보고 있다. 기존에는 해당 사업장 일반 직원도 16시간 교육만 이수하면 안전보건 업무를 맡을 수 있어 형식적이라는 지적이 많았다.",
-    "source": "동아일보 (사회/사고)",
-    "date": "2026-11-06",
-    "link": "https://www.donga.com/news/Society/article/all/20261105/134975433/2",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.donga.com/news/Society/article/all/20261105/134975164/2": {
-    "title": "거리서 걷어낸 현수막… 서초, 낙엽포대 재활용",
-    "summary": "서울 서초구는 폐현수막을 재활용해 가을철 낙엽 수거용 포대 1080개를 제작해 17개 동주민센터와 환경공무관 등에 배부했다. 포대 제작에는 푸른서초환경실천단과 자원봉사자 등 주민 94명이 참여했으며, 실천단원 40명은 이물질 제거와 선별·재단을, 나머지 54명은 재봉 작업을 수행했다. 구는 올해 상반기에도 폐현수막으로 모래주머니 8000개를 만들어 침수 취약지역에 지원하는 등 계절별 활용법을 넓히고 있다. 서초구는 앞으로 일상에서 체감할 수 있는 자원순환 사업을 확대할 계획이다.",
-    "source": "동아일보 (사회/사고)",
-    "date": "2026-11-06",
-    "link": "https://www.donga.com/news/Society/article/all/20261105/134975164/2",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.donga.com/news/Society/article/all/20261105/134974391/2": {
-    "title": "광양 이차전지 단지 기반시설 구축 속도",
-    "summary": "전남광주통합특별시 광양시는 4일 이차전지 기업 및 유관 기관 관계자들과 간담회를 열고 이차전지 특화단지 육성을 위한 핵심 기반시설 구축과 국비 확보 방안을 논의했다고 5일 밝혔다. 간담회에서 이차전지 기업의 안정적인 생산활동을 지원하기 위한 고염폐수 처리시설과 원료·소재 공급망 지원센터 구축이 핵심 과제로 제시됐다. 또 특화단지 지정에 따른 기반시설 지원 특례와 연계해 신속한 사업 추진 필요성이 강조됐다. 광양만권은 리튬·니켈 등 이차전지 핵심 기초원료의 정·제련부터 양극재·음극재 등 소재 생산과 사용 후 배터리 재활용에 이르기까지 이차전지 산업 전반의 기반을 갖추고 있다. 포스코그룹 계열사를 중심으로 원료·소재 생산 시설이 집적돼 있어 국내 이차전지 공급망의 핵심 거점으로 평가받고 있다. 이런 산업적 기반을 바탕으로 9월 광양만권 6개 산업단지 2132만m²가 국가첨단전략산업 이차전지 특화단지로 지정됐다. 광양시는 특화단지 지정을 계기로 이차전지 기초원료 분야의 공급망을 안정화하",
-    "source": "동아일보 (사회/사고)",
-    "date": "2026-11-06",
-    "link": "https://www.donga.com/news/Society/article/all/20261105/134974391/2",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.eetimes.com/infineons-johannes-schoiswohl-on-the-gan-market-at-oktobertech/": {
-    "title": "옥토버테크에서 인피니언 요하네스 쇠스볼이 논하는 GaN 시장",
-    "summary": "EE타임스의 후원 콘텐츠로, PEN의 알리야 샤우캣이 인피니언의 요하네스 쇠스볼을 인터뷰해 GaN(질화갈륨) 시장에 대해 논의한다. 인터뷰는 인피니언이 주최하는 기술 컨퍼런스 '옥토버테크 실리콘밸리 2026' 현장에서 진행되었으며, 올해 행사는 10주년을 맞는다. GaN은 전력반도체 분야의 핵심 소재 기술로, 인피니언은 해당 시장의 주요 사업자 중 하나다.",
-    "source": "EE Times",
-    "date": "2026-11-06",
-    "link": "https://www.eetimes.com/infineons-johannes-schoiswohl-on-the-gan-market-at-oktobertech/",
-    "original_title": "Infineon’s Johannes Schoiswohl on the GaN Market at OktoberTech",
-    "lang": "en"
-  },
-  "https://www.eetimes.com/accelerate-analog-design-with-flexible-ai-native-workflows/": {
-    "title": "유연한 AI 네이티브 워크플로우로 아날로그 설계 가속화",
-    "summary": "EE Times는 ChipAgents의 'IC-star' 칩 뉴럴 엔진을 활용한 아날로그 설계 자동화 웨비나를 소개했다. IC-star는 아날로그 설계, 시뮬레이션, 검증 작업을 하나의 통합된 유연한 에이전틱(agentic) 루프에서 자동화하는 것으로 알려졌다. 해당 웨비나는 AI 기반 워크플로우를 통해 반도체 아날로그 설계 과정을 가속화하는 방법을 다룬다.",
-    "source": "EE Times",
-    "date": "2026-11-06",
-    "link": "https://www.eetimes.com/accelerate-analog-design-with-flexible-ai-native-workflows/",
-    "original_title": "Accelerate Analog Design with Flexible, AI-Native Workflows",
-    "lang": "en"
-  },
-  "https://www.edie.net/how-ai-can-accelerate-climate-investment/": {
-    "title": "AI가 기후 투자를 가속화하는 방법",
-    "summary": "지속가능성 팀들이 커지는 재정 압박과 점차 복잡해지는 환경 시장에 직면하면서, AI가 새로운 투자 기회 발굴, 의사결정 개선, 사내 지지 확보를 위한 도구로 부상하고 있다. 이러한 기회를 탐구하기 위해 에디(edie)는 패치(Patch)와 제휴하여 온라인 웨비나를 개최했다. 해당 웨비나에서는 기업이 AI와 시장 인텔리전스를 활용해 기후 투자를 지원하는 방법과 함께, 기술 자체의 리스크 및 환경 영향을 관리하는 방안을 다룬다.",
-    "source": "edie (환경 비즈니스)",
-    "date": "2026-11-05",
-    "link": "https://www.edie.net/how-ai-can-accelerate-climate-investment/",
-    "original_title": "How AI can accelerate climate investment",
-    "lang": "en"
-  },
-  "https://www.eetimes.com/why-magnetic-sensor-selection-has-become-a-system-architecture-decision/": {
-    "title": "자기 센서 선택이 시스템 아키텍처 결정 사항이 된 이유",
-    "summary": "킬로암페어급 버스바, 2000V 태양광 플랫폼, 로봇의 중공축 관절, 나노암페어 대기 전력 예산 등 다양한 애플리케이션의 요구가 자기 센싱 기술을 단일 센싱 원리만으로는 충족할 수 없는 방향으로 이끌고 있다. 트랙션 인버터 설계자, 로봇 엔지니어, 배터리 구동 수도계 개발자는 자기 센서에 대해 저마다 매우 다른 요구사항을 제시한다. 그 결과 자기 센서 선택은 단순한 부품 선정을 넘어 시스템 아키텍처 수준의 결정 사항으로 자리 잡게 되었다.",
-    "source": "EE Times",
-    "date": "2026-11-05",
-    "link": "https://www.eetimes.com/why-magnetic-sensor-selection-has-become-a-system-architecture-decision/",
-    "original_title": "Why Magnetic Sensor Selection Has Become a System Architecture Decision",
-    "lang": "en"
-  },
-  "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/": {
-    "title": "AI·HPC·데이터센터를 위한 네트워크 보안 추가",
-    "summary": "이 기사는 AI, HPC, 데이터센터 환경에 네트워크 보안을 추가하는 방안을 다룬다. MACsec이나 IPsec 같은 보안 기능을 어디에 배치할지가 핵심적인 아키텍처 설계 결정 사항으로 부상하고 있다. 보안 기능의 위치 선정은 전체 시스템 설계와 직결되는 문제로 다뤄지고 있다. 해당 글은 반도체 전문 매체인 Semiconductor Engineering을 통해 공개되었다.",
-    "source": "SemiEngineering",
-    "date": "2026-11-05",
-    "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
-    "original_title": "Adding Network Security To AI, HPC, And Data Centers",
-    "lang": "en"
-  },
-  "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/": {
-    "title": "Conv2D를 실용적인 GPU 컴퓨트 패턴으로 전환하기",
-    "summary": "이 글은 GPU 컴퓨트 커널을 개발하는 엔지니어를 위한 재사용 가능한 최적화 마인드셋을 소개한다. 2D 합성곱(Conv2D) 연산을 실용적인 GPU 컴퓨팅 패턴으로 변환하는 접근법을 중심으로 다룬다. 해당 콘텐츠는 반도체 엔지니어링(Semiconductor Engineering) 매체를 통해 게재되었다.",
-    "source": "SemiEngineering",
-    "date": "2026-11-05",
-    "link": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/",
-    "original_title": "Turning Conv2D Into A Practical GPU Compute Pattern",
-    "lang": "en"
-  },
-  "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/": {
-    "title": "3D-IC 신호 무결성 보호를 위한 시스템 수준 접근법",
-    "summary": "이 기사는 3D-IC 설계에서 신호 무결성(SI)을 보호하기 위해 시스템 수준의 접근이 필요함을 설명한다. 정확한 SI 분석을 위해서는 수직 인터커넥트, 인터포저, 실리콘 브리지, 패키지 전이부, 인접 고속 채널 간의 상호작용을 모두 고려해야 한다. 이는 기존 개별 요소 중심 분석으로는 3D-IC의 복잡한 신호 간섭을 포착하기 어렵기 때문이다. 해당 글은 Semiconductor Engineering에 게재된 기술 기사다.",
-    "source": "SemiEngineering",
-    "date": "2026-11-05",
-    "link": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/",
-    "original_title": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
-    "lang": "en"
-  },
-  "https://semiengineering.com/why-integrated-gate-drive-regulation-matters-for-high-reliability-space-gan-designs/": {
-    "title": "고신뢰성 우주용 GaN 설계에서 통합 게이트 드라이브 레귤레이션이 중요한 이유",
-    "summary": "이 기사는 우주용 고신뢰성 GaN(질화갈륨) 설계에서 통합 게이트 드라이브 레귤레이션의 중요성을 다룬다. 게이트 드라이버에 전용으로 배치되던 별도의 바이어스 레귤레이터가 필요 없어지며, 이를 통해 전력 아키텍처를 더욱 간소화할 수 있다. Semiconductor Engineering에 게시된 반도체 전력 설계 관련 기술 콘텐츠다.",
-    "source": "SemiEngineering",
-    "date": "2026-11-05",
-    "link": "https://semiengineering.com/why-integrated-gate-drive-regulation-matters-for-high-reliability-space-gan-designs/",
-    "original_title": "Why Integrated Gate Drive Regulation Matters For High Reliability Space GaN Designs",
-    "lang": "en"
-  },
-  "https://semiengineering.com/physical-ai-pushes-the-limits-of-hardware/": {
-    "title": "피지컬 AI, 하드웨어의 한계에 도전하다",
-    "summary": "자율주행 기계, 즉 피지컬 AI가 산업 전반을 변화시킬 것으로 기대되고 있다. 그러나 메모리 병목, 전력 제약, 특화 아키텍처, 안전 요구사항 등의 과제로 인해 칩 설계자들은 시스템 전체를 재검토해야 하는 상황에 직면했다. 반도체 엔지니어링(Seiconductor Engineering)의 이 기사는 피지컬 AI 구현을 위해 하드웨어 설계의 근본적인 재구성이 필요함을 다루고 있다.",
-    "source": "SemiEngineering",
-    "date": "2026-11-05",
-    "link": "https://semiengineering.com/physical-ai-pushes-the-limits-of-hardware/",
-    "original_title": "Physical AI Pushes The Limits Of Hardware",
-    "lang": "en"
-  },
-  "https://www.etnews.com/20261105000460": {
-    "title": "삼성전자 D램 시장 점유율 '38%'…1위 수성",
-    "summary": "삼성전자가 3분기 D램 시장에서 38%의 점유율로 1위를 지켰다. 시장조사업체 카운터포인트리서치 조사에 따르면 SK하이닉스 29%, 마이크론 21%, CXMT 9% 순으로 뒤를 이었다. 삼성전자는 고대역폭메모리(HBM) 판매 확대에 힘입어 실적 성장이 지속되고 있다. 삼성전자는 지난해 1분기 HBM 공급 난항으로 SK하이닉스에 D램 점유율 1위를 내준 바 있다.",
-    "source": "전자신문 (전체)",
-    "date": "2026-11-05",
-    "link": "https://www.etnews.com/20261105000460",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20261105000382": {
-    "title": "솔루엠, 글로벌 전력반도체 선도기업 인피니언과 'AI 데이터센터 전력' 협력 강화",
-    "summary": "솔루엠은 5일 경기도 용인 솔스퀘어에서 글로벌 전력반도체 선도기업인 독일 인피니언 테크놀로지스와 AI 데이터센터용 고전압 직류(HVDC) 전력 솔루션 협력 강화를 위한 양해각서를 체결했다. 양사는 기존 기술 협력을 바탕으로 AI 데이터센터의 IBC(중간 버스 컨버터), BBU(배터리 백업 유닛), PSU(서버용 전원공급장치) 등 전력 솔루션 분야에서 협력을 진행한다. 솔루엠은 이번 협력을 통해 AI 데이터센터 전력 솔루션 경쟁력을 강화할 계획이다.",
-    "source": "전자신문 IT",
-    "date": "2026-11-05",
-    "link": "https://www.etnews.com/20261105000382",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.etnews.com/20261105000103": {
-    "title": "현대차·기아, 차량용 반도체 개발 프로세스 국제표준 인증 획득",
-    "summary": "현대자동차·기아가 자체 구축한 차량용 반도체 개발 프로세스에 대해 국제표준 인증을 획득했다. 두 회사는 글로벌 인증기관 티유브이 라인란드(TUV Rheinland)로부터 ISO 기반 기능안전 프로세스 국제표준 인증을 받았으며, 이는 자체 정립한 반도체 개발 체계와 기능안전 관리 프로세스가 국제 기준을 충족했음을 공인받은 결과다. 현대차·기아는 2025년부터 이 인증된 프로세스를 활용해 차량용 시스템온칩(SoC) 개발을 본격화할 계획이다.",
-    "source": "전자신문 산업/신사업",
-    "date": "2026-11-05",
-    "link": "https://www.etnews.com/20261105000103",
-    "original_title": "",
-    "lang": "ko"
-  },
-  "https://www.edn.com/wi-fi-socs-pair-low-power-with-edge-ai/": {
-    "title": "Wi-Fi SoC, 저전력과 엣지 AI를 결합하다",
-    "summary": "노딕 세미컨덕터(Nordic Semiconductor)는 nRF71 시리즈 Wi-Fi SoC가 nRF70 시리즈 대비 대기 전력 소비를 최대 20배 낮춘다고 발표했다. 이 제품은 저전력 특성과 엣지 AI 기능을 함께 갖춘 것이 특징이다. 해당 소식은 EDN을 통해 보도되었다.",
-    "source": "EDN",
-    "date": "2026-11-05",
-    "link": "https://www.edn.com/wi-fi-socs-pair-low-power-with-edge-ai/",
-    "original_title": "Wi-Fi SoCs pair low power with edge AI",
-    "lang": "en"
-  },
-  "https://www.edn.com/sic-mosfets-cut-switching-losses-and-resistance/": {
-    "title": "SiC MOSFET, 스위칭 손실 및 저항 감소",
-    "summary": "SemiQ가 750V 및 1200V 정격의 4세대(Gen4) QSiC MOSFET을 출시했다. 회사 발표에 따르면 신제품은 온저항을 21%, 스위칭 에너지를 11% 각각 감소시켰다. 이를 통해 전력반도체 응용 분야에서 전력 손실 저감 성능이 개선되었다.",
-    "source": "EDN",
-    "date": "2026-11-05",
-    "link": "https://www.edn.com/sic-mosfets-cut-switching-losses-and-resistance/",
-    "original_title": "SiC MOSFETs cut switching losses and resistance",
-    "lang": "en"
-  },
-  "https://www.edn.com/mcus-drive-smart-appliance-control/": {
-    "title": "MCU가 스마트 가전 제어를 주도하다",
-    "summary": "르네사스가 RL78 MCU 제품군에 초저전력 16비트 마이크로컨트롤러 'RL78/G21'을 추가했다. 이 제품은 스마트 가전 시스템 제어에 최적화되어 있다. 초저전력 특성을 갖추어 저전력 가전기기 제어용 MCU 라인업을 확장한 것이 핵심 내용이다.",
-    "source": "EDN",
-    "date": "2026-11-05",
-    "link": "https://www.edn.com/mcus-drive-smart-appliance-control/",
-    "original_title": "MCUs drive smart appliance control",
-    "lang": "en"
-  },
-  "https://www.eetimes.com/chiplets-meta-scale-chiplet-velocity-accelerating-ai-soc-development-to-match-the-rapid-evolution-of-ai-model/": {
-    "title": "칩렛: 메타 규모의 칩렛 개발 속도로 AI 모델의 빠른 진화에 발맞춘 AI SoC 개발 가속",
-    "summary": "AI 모델 아키텍처는 전통적인 칩 개발 주기보다 빠르게 진화하고 있어, 수십억 명의 사용자에게 랭킹·추천 및 생성형 AI 워크로드 서비스를 제공하는 메타의 규모에서는 이러한 불일치를 그대로 둘 수 없다. 이에 메타 인프라 실리콘 팀은 6개월 주기의 SoC 테이프아웃 케이던스로 대응하며 칩렛 기반 개발 속도를 높였다. 해당 세션은 메타의 저명 엔지니어(Distinguished Engineer) 올리비아 우가 발표하며, 칩렛 전략을 통해 AI SoC 개발을 가속화하는 내용을 다룬다.",
-    "source": "EE Times",
-    "date": "2026-11-05",
-    "link": "https://www.eetimes.com/chiplets-meta-scale-chiplet-velocity-accelerating-ai-soc-development-to-match-the-rapid-evolution-of-ai-model/",
-    "original_title": "Chiplets: Meta-Scale Chiplet Velocity Accelerating AI SoC Development to Match the Rapid Evolution of AI Model",
+  "https://www.semiconductor-digest.com/techinsights-identifies-five-trends-reshaping-the-semiconductor-market/?utm_source=rss&utm_medium=rss&utm_campaign=techinsights-identifies-five-trends-reshaping-the-semiconductor-market": {
+    "title": "TechInsights는 반도체 시장을 재편하는 5가지 추세를 식별합니다.",
+    "summary": "전망에서는 AI 기반 수요가 공급, 기술 투자, 지속 가능성 및 소비자에게 도달하는 제품을 어떻게 재편하고 있는지 조사합니다. TechInsights가 반도체 시장을 재편하는 5가지 추세를 식별한 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-11-03",
+    "link": "https://www.semiconductor-digest.com/techinsights-identifies-five-trends-reshaping-the-semiconductor-market/?utm_source=rss&utm_medium=rss&utm_campaign=techinsights-identifies-five-trends-reshaping-the-semiconductor-market",
+    "original_title": "TechInsights Identifies Five Trends Reshaping the Semiconductor Market",
     "lang": "en"
   }
 }
