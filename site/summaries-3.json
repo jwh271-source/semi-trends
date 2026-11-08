@@ -1,0 +1,281 @@
+{
+  "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/": {
+    "title": "칩 산업 기술 논문 종합: 11월 3일",
+    "summary": "Semiconductor Engineering이 11월 3일자로 칩 산업의 최신 기술 논문을 종합 소개했다. 이번 정리에는 미터급 양자 인터커넥트, 2.5D/3D GPU 통합과 내장 탄소 배출(embodied emissions), 보안 메모리 종속 프리페칭 기술이 포함되었다. 또한 라우팅을 고려한 아날로그 배치, AI 기반 플립칩 결함 검출, 신경망 벡터 저장을 위한 중첩 PCM 기술도 함께 다뤄졌다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-03",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/",
+    "original_title": "Chip Industry Technical Paper Roundup: Nov. 3",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261103000231": {
+    "title": "삼성전자, '핵심 제조 기지' 베트남 부품사 생산성 54% 개선…공급망 경쟁력 강화",
+    "summary": "삼성전자 베트남법인이 박닌성 산업무역국과 협력해 5개월 이상 스마트 공장·금형 컨설팅 사업을 진행, 현지 제조사 16곳의 생산성을 최대 54% 개선했다. 대상 기업은 스마트 공장 구축 10곳과 스마트 금형 컨설팅 6곳이다. 이를 통해 삼성전자는 핵심 해외 생산 거점인 베트남의 현지 부품 제조 기반을 강화하고 공급망 경쟁력을 높였다.",
+    "source": "전자신문 IT",
+    "date": "2026-11-03",
+    "link": "https://www.etnews.com/20261103000231",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.eetimes.com/macronix-builds-hardware-security-into-nor-flash-ahead-of-eu-cyber-resilience-act/": {
+    "title": "맥로닉스, EU 사이버 복원력법 시행 앞두고 NOR 플래시에 하드웨어 보안 탑재",
+    "summary": "EU의 사이버 복원력법(CRA)이 2027년 12월부터 의무 적용되면서 연결 기기의 사이버 보안 기준이 높아지고 있다. 제조업체들은 취약점이 발견된 후 소프트웨어 패치에 의존하는 방식 대신 제품 설계 단계부터 보안을 내장해야 하는 압박을 받고 있다. 이러한 변화로 플래시 메모리는 코드·데이터 저장 외에도 기기 정체성 보호, 데이터 무결성, 소프트웨어 업데이트 보호의 역할까지 맡게 되었다. 맥로닉스는 NOR 플래시에 하드웨어 보안 기능을 구현해 이 요구에 대응하고 있다.",
+    "source": "EE Times",
+    "date": "2026-11-03",
+    "link": "https://www.eetimes.com/macronix-builds-hardware-security-into-nor-flash-ahead-of-eu-cyber-resilience-act/",
+    "original_title": "Macronix Builds Hardware Security into NOR Flash Ahead of EU Cyber Resilience Act",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261103000233": {
+    "title": "비아코어-성균관대, 유리기판 고분자층 한 겹에 최대 59%↓, 저항은 그대로",
+    "summary": "성균관대 기계공학부 이은호 교수 연구팀은 다이치코리아-비아코어 컨소시엄과 함께 반도체 유리기판의 유리관통비아(TGV) 주변 열응력을 줄이는 설계 방안을 제시했다. 구리 배선과 유리 사이에 유연한 고분자층을 삽입하고 그 두께만큼 비아 구멍을 키우는 방식으로, 전기저항을 높이지 않으면서 열응력을 최대 59% 낮출 수 있다. TGV는 유리기판 위아래 회로를 전기적으로 연결하는 통로다.",
+    "source": "전자신문 IT",
+    "date": "2026-11-03",
+    "link": "https://www.etnews.com/20261103000233",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.semiconductor-digest.com/semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development": {
+    "title": "SEMI 재단, 반도체 인력 양성에 기여한 FM Industries 공로 인정",
+    "summary": "SEMI 재단이 반도체 인력 개발을 이끌어온 FM Industries를 '2026 우수 성과상(Excellence in Achievement Award)' 수상자로 선정했다. 이 상은 FM Industries가 견습 프로그램 확대, 직원 성장 지원 투자, 반도체 인력 강화 분야에서 보여준 리더십을 인정해 수여되었다. 해당 소식은 Semiconductor Digest를 통해 처음 보도되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-11-03",
+    "link": "https://www.semiconductor-digest.com/semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development",
+    "original_title": "SEMI Foundation Recognizes FM Industries for Advancing Semiconductor Workforce Development",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/laser-slicing-of-large-area-diamond-substrates/?utm_source=rss&utm_medium=rss&utm_campaign=laser-slicing-of-large-area-diamond-substrates": {
+    "title": "대면적 다이아몬드 기판의 레이저 슬라이싱 기술",
+    "summary": "연구진이 초단(초고속) 레이저 펄스를 활용해 다이아몬드를 절단하는 기술을 연구하고 있다. 이 방식은 대면적 다이아몬드 기판의 슬라이싱에 적용될 수 있는 것으로 알려졌다. 해당 기술은 광학, 반도체, 전력전자 분야에서 응용 가능성이 제시되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-11-03",
+    "link": "https://www.semiconductor-digest.com/laser-slicing-of-large-area-diamond-substrates/?utm_source=rss&utm_medium=rss&utm_campaign=laser-slicing-of-large-area-diamond-substrates",
+    "original_title": "Laser Slicing of Large-Area Diamond Substrates",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/techinsights-identifies-five-trends-reshaping-the-semiconductor-market/?utm_source=rss&utm_medium=rss&utm_campaign=techinsights-identifies-five-trends-reshaping-the-semiconductor-market": {
+    "title": "테크인사이츠, 반도체 시장을 재편하는 5대 트렌드 발표",
+    "summary": "테크인사이츠가 반도체 시장을 재편하는 5대 트렌드를 제시했다. 이 전망 보고서는 AI 주도 수요가 공급, 기술 투자, 지속가능성, 그리고 소비자에게 도달하는 제품을 어떻게 변화시키고 있는지 분석한다. 해당 내용은 반도체 다이제스트(Semiconductor Digest)를 통해 공개되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-11-03",
+    "link": "https://www.semiconductor-digest.com/techinsights-identifies-five-trends-reshaping-the-semiconductor-market/?utm_source=rss&utm_medium=rss&utm_campaign=techinsights-identifies-five-trends-reshaping-the-semiconductor-market",
+    "original_title": "TechInsights Identifies Five Trends Reshaping the Semiconductor Market",
+    "lang": "en"
+  },
+  "https://semiengineering.com/ai-image-enhancement-improves-detection-of-flip-chip-interconnect-defects-mcl-pva-tepla-ase/": {
+    "title": "AI 이미지 향상 기술, 플립칩 인터커넥트 결함 검출 정확도 개선 (MCL, PVA TePla, ASE)",
+    "summary": "Materials Center Leoben(MCL), PVA TePla, ASE(Advanced Semiconductor Engineering) 연구진이 'AI 기반 이미지 향상 기술이 마이크로일렉트로닉 패키징의 인터커넥트 결함 검출을 개선한다'는 논문을 발표했다. 기존 불량 분석(FA) 방법은 반도체 소자의 미세화·복잡화가 심화되면서 점점 더 어려움에 직면하고 있다. 특히 극저유전율(extreme low-K) 재료에서 발생하는 크랙 검출이 주요 난제로 지목됐다. 연구진은 AI 이미지 향상 기술을 적용해 플립칩 인터커넥트의 결함 검출 성능을 향상시켰다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-03",
+    "link": "https://semiengineering.com/ai-image-enhancement-improves-detection-of-flip-chip-interconnect-defects-mcl-pva-tepla-ase/",
+    "original_title": "AI Image Enhancement Improves Detection Of Flip-Chip Interconnect Defects (MCL, PVA TePla, ASE)",
+    "lang": "en"
+  },
+  "https://semiengineering.com/3d-integration-reduces-embodied-emissions-impact-of-gpu-scaling-imec-vub/": {
+    "title": "3D 통합, GPU 확장에 따른 내재 탄소배출량 영향 감소 (imec, VUB)",
+    "summary": "imec과 브뤼셀 자유대학교(VUB) 연구진이 저탄소 AI를 위한 칩렛 기반 GPU의 2.5D 및 3D 확장에 따른 내재 탄소배출량(embodied emissions)을 분석한 논문을 발표했다. AI 워크로드 증가로 고성능 GPU에 의존하는 하이퍼스케일 데이터센터의 기후변화 영향이 커지는 가운데, 연구진은 패키징 설계 결정이 배출량에 미치는 영향을 모델링했다. 연구 결과, 3D 통합(적층) 기술이 GPU 확장 과정에서 발생하는 내재 배출량 영향을 줄이는 것으로 나타났다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-03",
+    "link": "https://semiengineering.com/3d-integration-reduces-embodied-emissions-impact-of-gpu-scaling-imec-vub/",
+    "original_title": "3D Integration Reduces Embodied-Emissions Impact Of GPU Scaling (imec, VUB)",
+    "lang": "en"
+  },
+  "https://semiengineering.com/quantum-interconnects-link-two-120-qubit-processors-ibm-research/": {
+    "title": "퀀텀 인터커넥트로 120큐비트 프로세서 2개 연결 성공 (IBM 리서치)",
+    "summary": "IBM 리서치는 '대형 양자 프로세서 간 미터 규모 양자 인터커넥트' 논문을 발표하고, 120큐비트 양자 프로세서 두 개를 미터 거리에서 연결하는 실험 결과를 공개했다. 모듈형 양자 아키텍처는 개별 프로세서 모듈을 연결하는 장거리 결합자(L-coupler)를 필요로 하며, 이는 미터 규모 거리에서 결맞은(coherent) 양자 동작을 지원해야 한다. 연구진은 임의의 두 모듈 사이 다중 연결로 확장 가능한 4개의 L-커플러를 시연했다. 이 성과는 모듈 방식으로 대형 양자 컴퓨터를 구성하는 데 핵심 기반 기술이 된다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-03",
+    "link": "https://semiengineering.com/quantum-interconnects-link-two-120-qubit-processors-ibm-research/",
+    "original_title": "Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)",
+    "lang": "en"
+  },
+  "https://www.donga.com/news/Politics/article/all/20261103/134953923/2": {
+    "title": "사람 못들어가는 ESS엔 CCTV 의무 없앤다",
+    "summary": "정부가 사람이 들어갈 수 없는 컨테이너형 에너지저장장치(ESS)에 대한 CCTV 설치 의무를 폐지하는 방안을 추진한다. 규제합리화위원회와 민관합동 규제합리화추진단은 ESS 설치·재활용 분야 개선 과제 12개를 확정했으며, 통로가 없는 컨테이너형 ESS 확산과 배터리 관리 시스템(BMS) 개발에 따른 것이다. 정부는 연말까지 위원회 심의를 거쳐 내년 '한국전기설비규정' 개정을 추진할 계획이다. 컨테이너 내 전기설비와 이차전지 동시 설치 금지 규정도 개선해 추가 공간 필요에 따른 부담을 줄일 방침이다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-03",
+    "link": "https://www.donga.com/news/Politics/article/all/20261103/134953923/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261102/134952940/2": {
+    "title": "“반도체 클러스터 생기면 일자리-교통은?”",
+    "summary": "전남광주통합특별시 광산구는 호남 반도체 클러스터 조성을 앞두고 주민들과 생활 현장 사회적대화를 진행한다고 2일 밝혔다. 광산구는 3일 송정1동을 시작으로 12월 15일까지 21개 동을 대상으로 사회적대화를 18회 추진한다. 사회적대화는 주민의 제안을 함께 논의하고 정책에 반영하는 상향식 소통 방식이다. 대화는 ‘반도체 클러스터 조성에 대비해 우리는 무엇을 준비해야 하는가’를 주제로 이뤄진다. 대화에서 △일자리와 지역경제 △교통과 이동 환경 △주거 및 정주 환경 △교육과 미래인재 △환경과 주민건강 등 5개 분야를 중심으로 변화와 우려, 준비 과제를 논의한다. 광산구는 참여 주민들에게 평택 등 반도체공장이 들어선 지역의 사례와 토론 방법을 담은 사전학습 자료를 제공해 전문지식이 없어도 의견을 자유롭게 나눌 수 있도록 돕는다. 주민들이 참여하는 공론장을 열어 논의 결과와 향후 정책 추진 방향을 공유할 계획이다. 현장 참여가 어려운 시민을 위한 온라인 의견수렴도 진행한다. 박병규 광주",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-03",
+    "link": "https://www.donga.com/news/Society/article/all/20261102/134952940/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://semiengineering.com/hardware-defense-blocks-memory-dependent-prefetcher-leakage-ku-leuven/": {
+    "title": "하드웨어 방어 기술, 메모리 의존형 프리페처 데이터 유출 차단 (KU 뢰번)",
+    "summary": "KU 뢰번과 EURECOM 연구진이 'SecDMP: 검증 가능하게 안전한 데이터 메모리 의존형 프리페칭' 논문을 발표했다. 이 연구는 DMP(데이터 메모리 의존형 프리페처)에서 발생하는 정보 유출 문제에 대해 보안성과 효율성을 모두 갖춘 하드웨어 방어 설계를 제시한다. 연구진은 DMP 유출을 분류하고, 기존 및 신규 공격을 범주화하며, 기존 방어 기법이 어떤 유출 클래스를 완화하는지 분석했다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-03",
+    "link": "https://semiengineering.com/hardware-defense-blocks-memory-dependent-prefetcher-leakage-ku-leuven/",
+    "original_title": "Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)",
+    "lang": "en"
+  },
+  "https://semiengineering.com/co-optimizing-access-points-improves-analog-placement-ut-austin/": {
+    "title": "액세스 포인트 공동 최적화를 통한 아날로그 배치 개선 (텍사스대 오스틴)",
+    "summary": "텍사스대 오스틴(UT Austin) 연구진이 'APPlace: 라우팅 인지형 아날로그 배치를 위한 디바이스 위치 및 액세스 포인트 공동 최적화' 논문을 발표했다. 논문은 아날로그/믹스드 시그널 회로 설계에서 레이아웃 단계에서 유입되는 기생 성분과 불일치가 회로 성능에 큰 영향을 미쳐 아날로그 레이아웃 자동화가 여전히 어렵다고 지적한다. 특히 배치 단계는 라우팅 해를 제약하는 만큼 레이아웃 단계 중 가장 중요하며, APPlace는 디바이스 위치와 액세스 포인트를 공동으로 최적화해 배치 품질을 개선하는 기법이다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-03",
+    "link": "https://semiengineering.com/co-optimizing-access-points-improves-analog-placement-ut-austin/",
+    "original_title": "Co-Optimizing Access Points Improves Analog Placement (UT Austin)",
+    "lang": "en"
+  },
+  "https://www.edie.net/nao-government-bodies-still-learning-how-to-report-climate-related-risks-and-adaptation/": {
+    "title": "NAO: 정부 기관, 기후 관련 리스크 및 적응 보고는 여전히 '학습 단계'",
+    "summary": "영국 국가감사원(NAO)은 정부 기관들의 홍수·가뭄 등 기후 관련 리스크 보고가 고르지 않은 '혼재된 수준'이라고 평가했다. 다만 보고 관행은 해마다 개선되고 있는 것으로 나타났다. NAO는 정부 기관들이 기후 리스크 및 적응 관련 보고 방식을 여전히 학습 중이라고 지적했다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-02",
+    "link": "https://www.edie.net/nao-government-bodies-still-learning-how-to-report-climate-related-risks-and-adaptation/",
+    "original_title": "NAO: Government bodies ‘still learning’ how to report climate-related risks and adaptation",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/biwin-to-show-storage-solutions-for-ai-and-the-edge-at-electronica-2026/": {
+    "title": "BIWIN, electronica 2026에서 AI 및 엣지용 스토리지 솔루션 선보여",
+    "summary": "메모리 및 스토리지 솔루션 제공업체 BIWIN이 2026년 11월 10일부터 13일까지 독일 뮌헨 메세(Messe München)에서 개최되는 electronica 2026에 참가한다. 이번 전시에서 BIWIN은 122.88TB 엔터프라이즈 SSD를 비롯해 통합 임베디드 메모리, 미니 SSD 등을 선보인다. 전시 제품들은 AI 시대의 차세대 전자 시스템에 특화되어 설계된 스토리지 솔루션이다.",
+    "source": "EE Times",
+    "date": "2026-11-02",
+    "link": "https://www.eetimes.com/biwin-to-show-storage-solutions-for-ai-and-the-edge-at-electronica-2026/",
+    "original_title": "BIWIN to Show Storage Solutions for AI and the Edge at electronica 2026",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/the-power-of-dual-phase-drmos-technology-in-ai-systems/": {
+    "title": "AI 시스템에서 듀얼 페이즈 DrMOS 기술의 힘",
+    "summary": "MPS(모놀리식 파워 시스템)의 듀얼 페이즈 DrMOS 솔루션이 콤팩트한 AI 전원 시스템이 직면한 전력 밀도, 효율성, 열 관리 과제를 해결하는 방법을 다룬 기술 기사다. AI 시스템의 고밀도 전원 설계에서 전력 손실과 발열을 줄이는 것이 핵심 과제로 언급된다. 해당 기사는 EE Times를 통해 공개되었다.",
+    "source": "EE Times",
+    "date": "2026-11-02",
+    "link": "https://www.eetimes.com/the-power-of-dual-phase-drmos-technology-in-ai-systems/",
+    "original_title": "The Power of Dual-Phase DrMOS Technology in AI Systems",
+    "lang": "en"
+  },
+  "https://www.edie.net/amazon-opens-its-first-uk-net-zero-delivery-unit/": {
+    "title": "아마존, 영국 내 첫 넷제로 배송 기지 개소",
+    "summary": "아마존이 영국 스톡턴온티스에 첫 넷제로(탄소중립) 배송 기지를 열었다. 새 시설에는 4,000만 파운드가 투자됐으며, 기존 설계 기준보다 배출량을 20% 낮춰 건설되었다. 이는 아마존의 영국 내 배송 인프라에서 탄소 배출 저감을 목표로 한 조치이다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-02",
+    "link": "https://www.edie.net/amazon-opens-its-first-uk-net-zero-delivery-unit/",
+    "original_title": "Amazon opens its first UK net-zero delivery unit",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/andes-waits-for-market-momentum-for-cuzco-cpu/": {
+    "title": "안데스테크놀로지, 쿠즈코 CPU 출시에 필요한 시장 성장세 대기",
+    "summary": "안데스테크놀로지의 찰리 수 CTO는 고성능 RISC-V CPU '쿠즈코(Cuzco)'를 상업적 이유로 당분간 후순위로 미루었다고 밝혔다. 회사는 쿠즈코 출시에 필요한 시장 모멘텀이 형성되기를 기다리고 있다. 이는 고성능 RISC-V CPU 시장 수요가 아직 충분히 성숙하지 않았다는 회사의 판단에 따른 것이다.",
+    "source": "EE Times",
+    "date": "2026-11-02",
+    "link": "https://www.eetimes.com/andes-waits-for-market-momentum-for-cuzco-cpu/",
+    "original_title": "Andes Waits For Market Momentum For Cuzco CPU",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/jevon-paradox-and-the-silicon-roadmap/": {
+    "title": "제번스의 역설과 실리콘 로드맵",
+    "summary": "이 기사는 제번스의 역설, 즉 효율성 향상이 오히려 전체 수요를 증가시키는 현상이 AI 수요를 촉진할 수 있다고 분석한다. 그러나 AI 수요 증가에도 불구하고 실리콘 기술 로드맵이 어떤 칩이 가치를 유지하고 어떤 칩이 좌초 자산(stranded asset)이 될지를 결정하는 핵심 요소라고 지적한다. 결국 시장 성장 자체만으로 모든 반도체의 가치가 보장되지는 않는다는 관점을 제시한다.",
+    "source": "EE Times",
+    "date": "2026-11-02",
+    "link": "https://www.eetimes.com/jevon-paradox-and-the-silicon-roadmap/",
+    "original_title": "Jevons’ Paradox and the Silicon Roadmap",
+    "lang": "en"
+  },
+  "https://semiengineering.com/shift-left-is-becoming-a-system-level-problem/": {
+    "title": "쉬프트 레프트, 시스템 수준의 문제로 확대되다",
+    "summary": "반도체 설계 복잡성이 높아지면서 엔지니어들은 하드웨어, 소프트웨어, 물리적 제약을 설계 흐름의 초기 단계에서 검증해야 하는 상황에 직면하고 있다. 그러나 워크플로가 단편화되어 있어 조기 검증 작업이 쉽지 않은 것으로 지적된다. '쉬프트 레프트' 전략이 단순한 설계 단계 이동을 넘어 시스템 전체 수준의 과제로 확대되고 있음을 보여준다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-02",
+    "link": "https://semiengineering.com/shift-left-is-becoming-a-system-level-problem/",
+    "original_title": "Shift Left Is Becoming A System-Level Problem",
+    "lang": "en"
+  },
+  "https://semiengineering.com/putting-ai-to-the-test/": {
+    "title": "AI를 시험대에 올리다",
+    "summary": "반도체 시스템 검증 분야에서 '검증자를 누가 검증하는가'는 오래된 난제로 꼽혀 왔다. AI 시대가 도래하면서 'AI를 누가 검증하는가'라는 새로운 질문이 대두되고 있다. 이 기사는 Semiconductor Engineering에 게재된 것으로, 반도체 검증에서 AI의 신뢰성 확보 문제를 다룬다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-02",
+    "link": "https://semiengineering.com/putting-ai-to-the-test/",
+    "original_title": "Putting AI To The Test",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261102000327": {
+    "title": "TSMC, 美텍사스 투자…삼성 안방서 격돌",
+    "summary": "세계 최대 파운드리 기업 대만 TSMC가 미국 내 두 번째 대형 생산 거점으로 텍사스주 북부 셔먼을 낙점하고 막바지 부지 협상에 돌입했다. 셔먼 시는 TSMC와 수백억 달러 규모 반도체 제조 시설 유치를 위한 부지 협상을 진행 중인 것으로 알려졌다. 오스틴과 테일러를 거점으로 30년간 텍사스주를 미국 내 안방으로 삼아온 삼성전자와 정면충돌이 불가피해졌다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000327",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261102000387": {
+    "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”",
+    "summary": "김정관 산업통상자원부 장관이 2일 서울 페럼타워에서 열린 국민경제자문회의 공개포럼에서 3대 메가프로젝트를 통해 저성장의 고리를 끊고 대한민국을 AI 강국으로 도약시키겠다고 밝혔다. 김 장관은 기조발표에서 1600조원에 달하는 프로젝트 규모를 언급했다. 전문가들은 팹·데이터센터 구축에 집중된 계획을 시스템반도체, 제조 데이터, AI 활용 등 산업 생태계 전반으로 확대할 것을 제언했다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000387",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261102000220": {
+    "title": "전기차 전환 약속만 해도 2000포인트…실제 구매 땐 2만포인트",
+    "summary": "정부가 전기차 전환을 약속(서명)한 국민에게 탄소중립포인트 2000포인트를 지급하고, 실제 전기차를 구매하면 2만포인트를 추가로 제공해 전기차 전환을 유도한다. 기후에너지환경부는 2일 한강홍수통제소에서 김성환 장관을 시작으로 전 직원이 참여하는 '전기차 전환 서명 캠페인'을 시작한다고 밝혔다. 캠페인 참여자는 평소 이동 시 대중교통 이용을 우선 고려하고, 차량을 빌리거나 구매할 때 전기차 등 무공해차를 선택하겠다고 서명하게 된다.",
+    "source": "전자신문 산업/신사업",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000220",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261102000324": {
+    "title": "[단독]임문영 의원, AMD 수석부사장 만난다…광주 AI 연구센터 유치 주목",
+    "summary": "AMD 글로벌 AI 시장 담당 키스 스트리어 수석부사장이 3일 국회 임문영 더불어민주당 의원실을 방문해 반도체·AI 분야 협력 방안을 논의한다. 회담에서는 반도체, 피지컬 AI, AI 데이터센터 등 3대 메가프로젝트와 연계한 AMD의 투자·협력 방안이 다뤄질 예정이다. 전남광주통합특별시 AI 연구센터 설립을 위한 협력이 구체화될지 관심이 집중되고 있다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000324",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261102000303": {
+    "title": "한국디자인진흥원, 성남시 공공기관 협의체와 ESG 환경 실천",
+    "summary": "한국디자인진흥원은 지난달 30일 한국잡월드가 주관한 ESG 환경 행사 '줍GO! 걷GO! 지키GO!'에 참여해 플로깅을 진행했다. 성남시 소재 8개 공공기관 협의체 임직원 약 50명은 이날 오후 2시부터 탄천변 백현교~서현교 구간 약 3km를 걸으며 쓰레기를 수거했다. 이번 행사는 공공기관 협의체가 환경보호와 사회적 책임을 함께 실천하기 위해 협업 체계를 구축하며 마련되었다. 환경교육과 쓰레기 줍기 활동을 통해 지역사회 환경보호 실천을 확산하는 데 초점을 맞췄다.",
+    "source": "전자신문 IT",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000303",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261102000281": {
+    "title": "쑥쑥 느는 AI데이터센터… “국산 NPU·냉각장비에 초기시장 열어야”",
+    "summary": "한국경제인협회는 2일 대통령 직속 국가인공지능전략위원회와 공동으로 'AI 데이터센터 산업 생태계 활성화를 위한 기업 간담회'를 개최했다. 산업계는 AI 데이터센터 투자가 대규모 시설 건립에 그치지 않고 국내 기업 성장과 수출로 이어지려면 전력 공급과 인허가 불확실성을 줄여야 한다고 지적했다. 아울러 국산 AI 반도체(NPU)와 전력·냉각 장비의 시장 진입 기회를 넓혀 초기 시장을 열어야 한다는 요구가 제기됐다.",
+    "source": "전자신문 IT",
+    "date": "2026-11-02",
+    "link": "https://www.etnews.com/20261102000281",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.eetimes.com/ai-reshapes-memory-architecture-as-macronix-expands-flash-portfolio/": {
+    "title": "AI가 메모리 아키텍처를 재편, 매크로닉스 플래시 포트폴리오 확장",
+    "summary": "AI 기반 고대역폭 메모리 수요가 메모리 시장 구조를 재편하고 있다. 이러한 흐름 속에서 성숙기 플래시 제품의 수요가 함께 상승하고 있다. 대만 메모리업체 매크로닉스는 AI 워크로드에 대응하기 위해 플래시 제품 포트폴리오를 확장하고 있다.",
+    "source": "EE Times",
+    "date": "2026-11-02",
+    "link": "https://www.eetimes.com/ai-reshapes-memory-architecture-as-macronix-expands-flash-portfolio/",
+    "original_title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio",
+    "lang": "en"
+  },
+  "https://www.edie.net/green-jobs-and-apprenticeships-considered-ai-proof-compared-to-wider-workforce/": {
+    "title": "그린 일자리·도제 과정, 전체 노동시장 대비 'AI 대체 위험 낮아'",
+    "summary": "연구에 따르면 녹색 일자리와 도제(견습) 과정은 다른 직종에 비해 AI로 대체되기 어려운 것으로 나타났다. 녹색 도제 과정 중 AI 대체 가능 직종과 연관된 것은 4.5%에 불과했다. 반면 잉글랜드 전체 도제 과정에서는 27%가 AI 대체에 개방된 직종과 연관된 것으로 조사됐다. 이는 녹색 경제 부문의 일자리가 AI 기술 변화에 상대적으로 강건하다는 점을 보여준다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-02",
+    "link": "https://www.edie.net/green-jobs-and-apprenticeships-considered-ai-proof-compared-to-wider-workforce/",
+    "original_title": "Green jobs and apprenticeships considered ‘AI proof’ compared to wider workforce",
+    "lang": "en"
+  },
+  "https://www.edie.net/businesses-still-treating-modern-slavery-as-a-reporting-compliance-exercise-research-finds/": {
+    "title": "Research finds that companies still treat modern slavery as a mere reporting compliance task",
+    "summary": "According to research from Hult International Business School, 90% of companies believe that modern slavery exists within their supply chains. However, the research points out that companies are still approaching modern slavery as a mere reporting compliance task. This indicates a gap between recognition and substantive action, with practical efforts to address risks of modern slavery within supply chains judged to be insufficient.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-02",
+    "link": "https://www.edie.net/businesses-still-treating-modern-slavery-as-a-reporting-compliance-exercise-research-finds/",
+    "original_title": "Businesses still treating modern slavery as a reporting compliance exercise, research finds",
+    "lang": "en"
+  }
+}
