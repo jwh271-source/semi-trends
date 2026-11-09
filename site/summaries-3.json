@@ -1,0 +1,146 @@
+{
+  "https://www.eetimes.com/bringing-design-data-management-into-the-developer-workflow/": {
+    "title": "개발자 워크플로에 설계 데이터 관리 도입",
+    "summary": "디지털 설계 워크플로가 텍스트 기반 개발 환경 중심으로 전환됨에 따라, 엔지니어들은 설계 데이터 관리에서도 코딩 도구와 동일한 효율성을 기대하고 있다. VS Code는 RTL, HDL, 스크립트, 검증 자산 개발을 위한 선호 플랫폼으로 자리 잡았다. VS Code는 유연하고 확장 가능한 작업 공간을 제공해 일상적인 엔지니어링 작업을 간소화한다.",
+    "source": "EE Times",
+    "date": "2026-11-04",
+    "link": "https://www.eetimes.com/bringing-design-data-management-into-the-developer-workflow/",
+    "original_title": "Bringing Design Data Management into the Developer Workflow",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/ai-hardwares-hidden-cost-between-orders-and-output/": {
+    "title": "AI 하드웨어의 숨겨진 비용: 주문과 산출 사이",
+    "summary": "AI 하드웨어 구축 과정에서 발생하는 숨겨진 자본 비용을 분석한 기사다. 알파벳의 TPU 재고, 인텔의 제조 트레이드오프, 장비 공급업체의 재무제표를 통해 주문 단계부터 실제 가용 AI 컴퓨팅 용량 확보까지 자본이 축적되는 경로를 보여준다. 이는 하드웨어 수주와 실제 산출 사이의 간극에서 비용이 쌓여가는 구조를 드러낸다.",
+    "source": "EE Times",
+    "date": "2026-11-03",
+    "link": "https://www.eetimes.com/ai-hardwares-hidden-cost-between-orders-and-output/",
+    "original_title": "AI Hardware’s Hidden Cost: Between Orders and Output",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/five-things-you-didnt-know-about-co-packaged-optics/": {
+    "title": "코패키지드 옵틱스(CPO)에 대해 몰랐던 다섯 가지 사실",
+    "summary": "코패키지드 옵틱스(CPO)는 포토닉스 분야의 획기적인 기술로 평가받지만, 상업적 성공 여부는 이를 뒷받침하는 첨단 패키징 기술에 달려 있다. CPO의 실용화를 위해서는 구성 요소들을 대규모로 통합하고 연결하며 보호할 수 있는 패키징 역량이 필수적이다. 이 글은 EE Times가 게재한 기사로, CPO 관련 잘 알려지지 않은 다섯 가지 사실을 다룬다.",
+    "source": "EE Times",
+    "date": "2026-11-03",
+    "link": "https://www.eetimes.com/five-things-you-didnt-know-about-co-packaged-optics/",
+    "original_title": "Five Things You Didn’t Know About Co-Packaged Optics",
+    "lang": "en"
+  },
+  "https://www.edie.net/more-money-wrong-direction-the-world-banks-climate-finance-dilemma/": {
+    "title": "더 많은 자금, 잘못된 방향? 세계은행의 기후금융 딜레마",
+    "summary": "세계은행과 IMF 연차총회가 끝난 가운데, 환경조사기구(EIA)의 기후 캠페이너 이네스 우르만은 민간 기후자금 동원 확대만으로는 충분하지 않다고 주장했다. 그는 화석연료 이탈을 위한 명확한 국가별 전환 계획이 없다면, 증가하는 투자가 오히려 각국이 벗어나야 할 화석연료 의존을 강화할 위험이 있다고 지적했다. 이는 기후금융의 규모 확대보다 투자의 방향 설정이 중요하다는 내용이다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-03",
+    "link": "https://www.edie.net/more-money-wrong-direction-the-world-banks-climate-finance-dilemma/",
+    "original_title": "More money, wrong direction? The World Bank’s climate finance dilemma",
+    "lang": "en"
+  },
+  "https://www.edie.net/report-smes-face-1trn-green-finance-gap/": {
+    "title": "보고서: 중소기업, 1조 달러 규모의 녹색금융 공백 직면",
+    "summary": "전 세계 중소기업(SME)의 탈탄소화 및 지속가능성 전환에는 1조 1,000억 달러 이상의 자금이 필요한 것으로 나타났다. 그러나 보조금과 투자 옵션을 검토한 기업의 80%는 실제로 신청하지 않는 것으로 조사됐다. 이는 중소기업의 녹색 전환을 위한 자금 조달에 상당한 공백이 존재함을 보여준다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-03",
+    "link": "https://www.edie.net/report-smes-face-1trn-green-finance-gap/",
+    "original_title": "Report: SMEs face $1trn green finance gap",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261103000452": {
+    "title": "반도체 장비, 3년뒤 계약까지 줄섰다",
+    "summary": "주요 글로벌 반도체 장비사가 3년 뒤에나 공급될 장비의 계약을 서둘러 추진하고 있다. 반도체 제조사들이 AI 인프라 수요에 대응해 경쟁적으로 설비 투자에 나서면서 평시 대비 1~2년 빠른 행보로 풀이된다. 구매 급증과 한정된 생산 능력으로 장비 공급 리드타임이 급격히 늘어나면서, 장비를 미리 확보하지 않으면 AI 반도체 패권 경쟁에서 뒤처질 수 있다는 제조사들의 위기감이 반영된 것이다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-03",
+    "link": "https://www.etnews.com/20261103000452",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.edn.com/why-reliability-metrics-must-dictate-advanced-node-physical-implementation-flow/": {
+    "title": "첨단 노드 물리 구현 플로우는 신뢰성 지표가 주도해야 하는 이유",
+    "summary": "이 글은 첨단 노드 반도체 설계의 물리 구현 플로우에서 신뢰성 지표가 우선적으로 고려되어야 한다고 주장한다. 다이내믹 전압 강하(DV), 일렉트로마이그레이션(EM), 타이밍은 순차적으로 최적화하는 세 개의 별도 축이 아니라 하나의 통합된 물리적 시스템으로 다뤄야 한다고 설명한다. 세 요소를 개별적으로 관리할 경우 첨단 공정 기반 칩의 신뢰성과 성능 확보에 한계가 있을 수 있다는 관점을 제시한다.",
+    "source": "EDN",
+    "date": "2026-11-03",
+    "link": "https://www.edn.com/why-reliability-metrics-must-dictate-advanced-node-physical-implementation-flow/",
+    "original_title": "Why reliability metrics must dictate advanced-node physical implementation flow",
+    "lang": "en"
+  },
+  "https://www.eetimes.com/marvell-snaps-photonics-chipmaker-lumentum-to-bolster-ai-connectivity/": {
+    "title": "마블, AI 커넥티비티 강화 위해 포토닉스 칩업체 루멘텀 인수",
+    "summary": "마블(Marvell)이 포토닉스 칩 제조업체 루멘텀(Lumentum)을 인수한다. 거래 규모는 1,150억 달러이며, 양사는 네트워크 프로세서와 광 트랜시버용 레이저를 공동 설계할 계획이다. 이번 인수는 AI 커넥티비티 분야에서 카테고리 리더 지위를 구축하는 것을 목표로 한다.",
+    "source": "EE Times",
+    "date": "2026-11-03",
+    "link": "https://www.eetimes.com/marvell-snaps-photonics-chipmaker-lumentum-to-bolster-ai-connectivity/",
+    "original_title": "Marvell Snaps Photonics Chipmaker Lumentum to Bolster AI Connectivity",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261103000413": {
+    "title": "삼성전자가 폴더블 스마트폰의 판매 증가로 디스플레이 핵심 반도체 확보에 나섰지만, 대만 파운드리 업체로부터 추가 생산 요청을 받아들이기 어렵다는",
+    "summary": "삼성전자가 폴더블 스마트폰 판매 호조로 OLED 디스플레이 구동칩(DDI) 공급을 늘리기 위해 대만 파운드리 UMC에 웨이퍼 1만 장 이상의 추가 생산을 요청했다. 그러나 UMC는 생산 여력 부족을 이유로 추가 요청 수용이 어렵다고 답한 것으로 전해졌다. 예상보다 판매량이 많아 부품 수요가 늘었지만 파운드리 측 공급 부족으로 DDI 확보에 차질이 빚어지는 상황이다.",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-03",
+    "link": "https://www.etnews.com/20261103000413",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/": {
+    "title": "칩 산업 기술 논문 종합: 11월 3일",
+    "summary": "Semiconductor Engineering이 11월 3일자로 칩 산업의 최신 기술 논문을 종합 소개했다. 이번 정리에는 미터급 양자 인터커넥트, 2.5D/3D GPU 통합과 내장 탄소 배출(embodied emissions), 보안 메모리 종속 프리페칭 기술이 포함되었다. 또한 라우팅을 고려한 아날로그 배치, AI 기반 플립칩 결함 검출, 신경망 벡터 저장을 위한 중첩 PCM 기술도 함께 다뤄졌다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-03",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/",
+    "original_title": "Chip Industry Technical Paper Roundup: Nov. 3",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261103000231": {
+    "title": "삼성전자, '핵심 제조 기지' 베트남 부품사 생산성 54% 개선…공급망 경쟁력 강화",
+    "summary": "삼성전자 베트남법인이 박닌성 산업무역국과 협력해 5개월 이상 스마트 공장·금형 컨설팅 사업을 진행, 현지 제조사 16곳의 생산성을 최대 54% 개선했다. 대상 기업은 스마트 공장 구축 10곳과 스마트 금형 컨설팅 6곳이다. 이를 통해 삼성전자는 핵심 해외 생산 거점인 베트남의 현지 부품 제조 기반을 강화하고 공급망 경쟁력을 높였다.",
+    "source": "전자신문 IT",
+    "date": "2026-11-03",
+    "link": "https://www.etnews.com/20261103000231",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.eetimes.com/macronix-builds-hardware-security-into-nor-flash-ahead-of-eu-cyber-resilience-act/": {
+    "title": "맥로닉스, EU 사이버 복원력법 시행 앞두고 NOR 플래시에 하드웨어 보안 탑재",
+    "summary": "EU의 사이버 복원력법(CRA)이 2027년 12월부터 의무 적용되면서 연결 기기의 사이버 보안 기준이 높아지고 있다. 제조업체들은 취약점이 발견된 후 소프트웨어 패치에 의존하는 방식 대신 제품 설계 단계부터 보안을 내장해야 하는 압박을 받고 있다. 이러한 변화로 플래시 메모리는 코드·데이터 저장 외에도 기기 정체성 보호, 데이터 무결성, 소프트웨어 업데이트 보호의 역할까지 맡게 되었다. 맥로닉스는 NOR 플래시에 하드웨어 보안 기능을 구현해 이 요구에 대응하고 있다.",
+    "source": "EE Times",
+    "date": "2026-11-03",
+    "link": "https://www.eetimes.com/macronix-builds-hardware-security-into-nor-flash-ahead-of-eu-cyber-resilience-act/",
+    "original_title": "Macronix Builds Hardware Security into NOR Flash Ahead of EU Cyber Resilience Act",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261103000233": {
+    "title": "비아코어-성균관대, 유리기판 고분자층 한 겹에 최대 59%↓, 저항은 그대로",
+    "summary": "성균관대 기계공학부 이은호 교수 연구팀은 다이치코리아-비아코어 컨소시엄과 함께 반도체 유리기판의 유리관통비아(TGV) 주변 열응력을 줄이는 설계 방안을 제시했다. 구리 배선과 유리 사이에 유연한 고분자층을 삽입하고 그 두께만큼 비아 구멍을 키우는 방식으로, 전기저항을 높이지 않으면서 열응력을 최대 59% 낮출 수 있다. TGV는 유리기판 위아래 회로를 전기적으로 연결하는 통로다.",
+    "source": "전자신문 IT",
+    "date": "2026-11-03",
+    "link": "https://www.etnews.com/20261103000233",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.semiconductor-digest.com/semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development": {
+    "title": "SEMI 재단, 반도체 인력 양성에 기여한 FM Industries 공로 인정",
+    "summary": "SEMI 재단이 반도체 인력 개발을 이끌어온 FM Industries를 '2026 우수 성과상(Excellence in Achievement Award)' 수상자로 선정했다. 이 상은 FM Industries가 견습 프로그램 확대, 직원 성장 지원 투자, 반도체 인력 강화 분야에서 보여준 리더십을 인정해 수여되었다. 해당 소식은 Semiconductor Digest를 통해 처음 보도되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-11-03",
+    "link": "https://www.semiconductor-digest.com/semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development",
+    "original_title": "SEMI Foundation Recognizes FM Industries for Advancing Semiconductor Workforce Development",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/laser-slicing-of-large-area-diamond-substrates/?utm_source=rss&utm_medium=rss&utm_campaign=laser-slicing-of-large-area-diamond-substrates": {
+    "title": "대면적 다이아몬드 기판의 레이저 슬라이싱 기술",
+    "summary": "연구진이 초단(초고속) 레이저 펄스를 활용해 다이아몬드를 절단하는 기술을 연구하고 있다. 이 방식은 대면적 다이아몬드 기판의 슬라이싱에 적용될 수 있는 것으로 알려졌다. 해당 기술은 광학, 반도체, 전력전자 분야에서 응용 가능성이 제시되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-11-03",
+    "link": "https://www.semiconductor-digest.com/laser-slicing-of-large-area-diamond-substrates/?utm_source=rss&utm_medium=rss&utm_campaign=laser-slicing-of-large-area-diamond-substrates",
+    "original_title": "Laser Slicing of Large-Area Diamond Substrates",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/techinsights-identifies-five-trends-reshaping-the-semiconductor-market/?utm_source=rss&utm_medium=rss&utm_campaign=techinsights-identifies-five-trends-reshaping-the-semiconductor-market": {
+    "title": "테크인사이츠, 반도체 시장을 재편하는 5대 트렌드 발표",
+    "summary": "테크인사이츠가 반도체 시장을 재편하는 5대 트렌드를 제시했다. 이 전망 보고서는 AI 주도 수요가 공급, 기술 투자, 지속가능성, 그리고 소비자에게 도달하는 제품을 어떻게 변화시키고 있는지 분석한다. 해당 내용은 반도체 다이제스트(Semiconductor Digest)를 통해 공개되었다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-11-03",
+    "link": "https://www.semiconductor-digest.com/techinsights-identifies-five-trends-reshaping-the-semiconductor-market/?utm_source=rss&utm_medium=rss&utm_campaign=techinsights-identifies-five-trends-reshaping-the-semiconductor-market",
+    "original_title": "TechInsights Identifies Five Trends Reshaping the Semiconductor Market",
+    "lang": "en"
+  }
+}
