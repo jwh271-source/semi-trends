@@ -71,12 +71,102 @@
     "original_title": "",
     "lang": "ko"
   },
-  "https://www.etnews.com/20261117000059": {
-    "title": "저탄소 3년·AI 안전 1년…도시재생안전협회, 공공부문 전환의 기반 다졌다",
-    "summary": "공공기관의 환경·안전 관리체계가 탄소저감 중심에서 인공지능(AI) 기반 예방형 안전관리로 진화하고 있다. 도시재생안전협회가 추진해온 저탄소 인증이 시행 3년, AI 안전인증이 시행 1년을 맞으면서 공공부문의 ESG 경영을 현장에 정착시키기 위한 인증제도 역할과 발전 방향에 관심이 쏠리고 있다. 도시재생안전협회는 2023년 11월 저탄소 인증을 도입한 데 이어 2025년 11월 AI 안전인증을 시행하며 사업 영역을 확대했다. 에너지 절약과 자원순",
+  "https://semiengineering.com/defect-aware-chiplet-matching-for-heterogeneous-integration-yield-asu-ampere/": {
+    "title": "이종 통합 수율(ASU, 암페어)을 위한 결함 인식 칩렛 매칭",
+    "summary": "애리조나 주립대학교와 Ampere Computing의 연구원들은 \"DT-MATCH: 이종 통합의 수율 최적화를 위한 결함 및 토폴로지 인식 칩렛 매칭\"을 발표했습니다. Abstract \"이기종 통합(HI) 및 고급 패키징을 통해 칩렛 기반 SoC(시스템 온 칩) 설계가 가능하지만 제조 결함 및 복잡한 D2D(다이-다이) 상호 연결 제약으로 인해 발생하는 새로운 수율 문제도 발생합니다. 특히 레인 수준 결함, 제한적... » 자세히 읽기 이종 집적 수율(ASU, 암페어)을 위한 결함 인식 칩렛 매칭 포스트가 Semiconductor Engineering에서 처음으로 등장했습니다.",
+    "source": "SemiEngineering",
+    "date": "2026-11-18",
+    "link": "https://semiengineering.com/defect-aware-chiplet-matching-for-heterogeneous-integration-yield-asu-ampere/",
+    "original_title": "Defect-Aware Chiplet Matching For Heterogeneous Integration Yield (ASU, Ampere)",
+    "lang": "en"
+  },
+  "https://www.donga.com/news/People/article/all/20261117/135041660/1": {
+    "title": "변상일, 22연승 신진서를 꺾다…삼성화재배 첫 결승 진출",
+    "summary": "최근 22연승 행진을 벌이던 무적의 신진서 9단을 가로막은 것은 중국이나 일본 기사가 아니었다. 한국의 변상일 9단이었다. 17일 경기 고양시 삼성화재 글로벌캠퍼스에서 열린 삼성화재배 월드바둑마스터스 4강전. 신 9단과 변 9단은 한달 전 란커배 결승전에 이어 다시 마주 앉았다. 당시엔 신 9단이 변 9단에게 2-0으로 승리를 거두며 10번째 메이저 세계기전의 우승컵을 품에 안았다. 당시 1국은 신 9단에게도 녹록치 않았다. 종반 무렵까지 팽팽한 형세가 줄곧 이어졌다. 변 9단에게도 승리의 기회가 엿보이던 순간이 있었다. 하지만 단 한 수를 삐끗하면서 승부가 신 9단에게 기울었다. 이 대국을 중계하던 해설자들이 “변 9단이 잘 못 둔 게 아니다. 신 9단을 상대로는 완벽한 바둑을 두지 못하면 이길 수 없다”고 탄식할 정도였다. 과연 변 9단이 이번에는 완벽한 바둑을 둘 수 있을까. 바둑계에선 변 9단이 최대한 버티겠지만 지금 신 9단의 기세를 누르기는 힘들 것이라는 전망",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-17",
+    "link": "https://www.donga.com/news/People/article/all/20261117/135041660/1",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.edie.net/uk-srs-readiness-assessment-how-to-identify-reporting-gaps-before-requirements-tighten/": {
+    "title": "영국 SRS 준비 상태 평가: 요구 사항이 강화되기 전에 보고 격차를 식별하는 방법",
+    "summary": "영국 지속 가능성 보고 표준은 조직이 지속 가능성 정보를 재무 계획 및 비즈니스 결정과 연결하는 방법을 변경하도록 설정되었습니다. 많은 기업의 경우 이 과제는 처음부터 시작되지 않습니다. 기존 정보, 프로세스 및 책임이 신뢰할 수 있는 공개를 뒷받침할 만큼 강력한지 이해해야 합니다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-17",
+    "link": "https://www.edie.net/uk-srs-readiness-assessment-how-to-identify-reporting-gaps-before-requirements-tighten/",
+    "original_title": "UK SRS readiness assessment: How to identify reporting gaps before requirements tighten",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261117000389": {
+    "title": "영풍, 3분기 668억 '영업손실'…일각선 '제련소 화재·정화비용 부담 등' 제기",
+    "summary": "영풍이 3분기 다시 대규모 영업적자를 기록하면서 1분기 흑자 전환으로 시작된 회복세가 부진한 실적을 나타냈다. 석포제련소 생산량 감소와 고정비 부담 증가, 원달러 환율 하락에 따른 귀금속 가격변동이 작용한 것으로 분석된다. 17일 금융감독원 전자공시시스템에 따르면 영풍은 3분기 연결 기준 매출 7945억원, 영업손실 668억원을 기록했다. 매출은 전년 대비 약 6% 증가했으나 영업손실은 약 7.6배 확대됐다. 3개 분기 누적 영업이익도 220억",
     "source": "전자신문 IT",
     "date": "2026-11-17",
-    "link": "https://www.etnews.com/20261117000059",
+    "link": "https://www.etnews.com/20261117000389",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261117000325": {
+    "title": "美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려",
+    "summary": "'젠슨 황 사태' 여파가 삼성전자 파운드리와 국내 후공정(OSAT) 기업에도 미치고 있다. 반도체 기업이 제3국 팹리스 물량을 신속히 처리할 때 쓰던 '승인 OSAT 패스트트랙'을 미국 정부가 대폭 축소했다. 중국 기업이 제3국 페이퍼컴퍼니를 통해 첨단 반도체를 우회 확보하는 것을 봉쇄하는 게 목적이다. 17일 미 상무부 산업안보국(BIS)이 발표한 '첨단 반도체 원격 접근 통제 등에 관한 잠정최종규칙(IFR)'에 따르면, 미 정부는 수출관리규",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-17",
+    "link": "https://www.etnews.com/20261117000325",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261117000324": {
+    "title": "곡물은 있는데 닿지 않는다…데이터로 아프리카의 식량 길을 잇다",
+    "summary": "◇ 극심한 가뭄에 시달린 말라위에 인접국 옥수수 공급…2030년 연 3만t 이상 거래 목표 기후변화로 가뭄과 홍수가 빈번해지면서 동·남부 아프리카의 식량 수급 불균형도 심화하고 있다. 같은 시기에도 한 지역에서는 가뭄으로 옥수수가 부족한 반면, 다른 지역에서는 판로를 찾지 못한 곡물이 남아도는 상황이 발생한다. 문제는 곡물이 어디에 얼마나 있고, 어느 지역에서 이를 필요로 하는지 파악할 수 있는 정보가 충분하지 않다는 점이다. 농민들 역시 제한",
+    "source": "전자신문 IT",
+    "date": "2026-11-17",
+    "link": "https://www.etnews.com/20261117000324",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261117000315": {
+    "title": "3분기 벤처투자 '역대 최대' 12.6조…AI 겨냥한 반도체·로봇에 뭉칫돈",
+    "summary": "인공지능(AI) 관련 반도체, 로봇 등 제조 분야 대형투자가 벤처투자 시장을 끌어올리며 상반기에 이어 3분기 누적에서도 역대 최대 실적을 냈다. 투자금이 AI 관련 분야로 쏠리는 사이 게임 업종은 유일하게 감소했다. 중소벤처기업부에 따르면 올해 3분기까지 신규 벤처투자는 12조6248억원으로 전년 동기보다 28.4% 증가해 역대 1~3분기 기준 최대를 기록했다. 종전 최고인 2021년 10조8679억원을 넘어섰다. 연간 기준 역대 최대는 202",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-17",
+    "link": "https://www.etnews.com/20261117000315",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261117000278": {
+    "title": "테슬라, 4.4조 투입 獨공장 증설…“사이버캡 100만대 생산”",
+    "summary": "테슬라가 16일(현지시간) 독일 브란덴부르크주 그륀하이데 공장에 30억유로(약 4조4000억원)를 추가 투자, 로보택시 '사이버캡' 생산능력을 연간 최대 100만대로 확대한다고 발표했다. 내년 상반기 착공해 2029년부터 본격적으로 차량을 생산한다는 계획이다. 테슬라의 세부 계획은 베를린 동쪽 그륀하이데 기존 공장 북측 부지에 33억 달러를 투입해 바닥 면적 약 50만㎡ 규모의 신규 생산동과 부속 건물, 제2 폐수처리시설을 건설하는 것이다. 테",
+    "source": "전자신문 산업/신사업",
+    "date": "2026-11-17",
+    "link": "https://www.etnews.com/20261117000278",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261117000267": {
+    "title": "중진공, '2026 대한민국 ESG 경영 혁신대상' 투자부문 최우수상 수상",
+    "summary": "중소벤처기업진흥공단(이사장 박재호)은 17일 서울 웨스틴조선호텔에서 열린 '2026 대한민국 ESG 경영 혁신대상'에서 ESG 투자부문 최우수상을 수상했다고 밝혔다. 이번 수상은 중진공이 ESG 경영전략을 기반으로 책임 있는 재원 조달을 확대하고, 중소벤처기업의 탄소감축과 공급망 대응을 체계적으로 지원해 온 성과를 인정받은 결과다. 한국경제신문이 주최하고 기후에너지환경부가 후원하는 대한민국 ESG 경영 혁신대상은 ESG 경영에서 우수한 성과를",
+    "source": "전자신문 IT",
+    "date": "2026-11-17",
+    "link": "https://www.etnews.com/20261117000267",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/It/article/all/20261117/135035362/2": {
+    "title": "한 쪽은 물난리, 한 쪽은 물 부족… 물관리도 통합이 해법[기고/김좌관]",
+    "summary": "올여름 경남 거제시에서는 시간당 최대 124.5mm라는 200년에 한 번 발생할 만한 기록적인 폭우로 큰 수해가 발생했다. 반면 같은 경남 지역의 밀양댐은 예년의 절반 수준 강우로 저수율이 33% 수준까지 떨어져 가뭄 ‘경계’ 단계가 발령됐다. 5700여 농가, 2100ha의 농경지가 가뭄 피해를 입었고, 일부 마을은 제한 급수까지 이어졌다. 인접한 지역에서 한쪽은 물이 넘치고, 다른 한쪽은 물이 부족한 현상은 이제 낯설지 않다. 기후변화로 인해 극심한 가뭄과 극한 호우가 급격하게 교차하는 현상은 해외에서도 빈번하게 발생하고 있다. 최근 미국 텍사스주에서는 장기간의 가뭄 이후 기습적인 폭우가 발생해 일부 지역은 가뭄과 홍수로 동시에 긴급재난 구역으로 선포됐다. 이처럼 예측하기 어려운 극단적인 기상 현상이 빈번해지면서 안정적인 이수와 치수가 갈수록 어려워지고 있다. 여기에 첨단산업의 성장으로 새로운 물 수요도 빠르게 늘고 있다. 댐이나 저수지를 개별적으로 확충하고 수원별, 용도별로",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-17",
+    "link": "https://www.donga.com/news/It/article/all/20261117/135035362/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261117/135035537/2": {
+    "title": "韓, EU-中 주도 ‘국제 탄소시장연합’ 가입",
+    "summary": "한국이 튀르키예에서 열리는 제31차 유엔기후변화협약 당사국총회(COP31)에서 배출권 거래제 등 온실가스 규제를 의무적으로 도입한 국가들의 국제 협력체에 가입했다. 탄소 배출 비용을 산정하는 국제 논의에 본격적으로 참여해 탄소 규제에 적극 대응하려는 취지다. 기후에너지환경부는 16일(현지 시간) COP31 ‘의무탄소시장 개방연합’(탄소시장연합) 고위급 회의에서 한국이 신규 회원국으로 가입했다고 밝혔다. 탄소시장연합은 가입국의 온실가스 규제 현황을 공유하고, 배출량 산정 및 검증에서 회원국 간의 신뢰할 만한 기준을 마련하는 협의체다. 현재까지 한국을 비롯해 유럽연합(EU), 중국, 브라질 등 14개국이 가입했다. EU로 수출되는 제품에 생산 과정의 탄소 비용을 부과하는 ‘탄소국경제도(CBAM)’가 올 1월부터 시행되면서 국내에서 이미 낸 탄소 비용을 해외에서 인정받으려면 배출량 산정 방식이 국제적 신뢰를 얻어야 한다. 권영민 기후솔루션 연구원은 “한국은 탄소배출권 가격이 낮고 배출",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-17",
+    "link": "https://www.donga.com/news/Society/article/all/20261117/135035537/2",
     "original_title": "",
     "lang": "ko"
   },
@@ -100,20 +190,11 @@
   },
   "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1": {
     "title": "결함 감지, 도구 상태 및 반도체 수율 향상을 위한 고급 계측학",
-    "summary": "첨단 반도체 제조에서는 작은 결함도 수율에 큰 영향을 미칠 수 있습니다. 박막 증착 도구는 안정적이고 자격을 갖춘 상태로 유지되어야 합니다. 프로세스 드리프트를 조기에 포착해야 합니다. 결함이 나타나면 엔지니어는 결함이 어디서 왔으며 장치 성능에 어떤 영향을 미치는지 알아야 합니다. 이 웨비나는 도구 모니터링부터 근본 원인 분석까지 인라인 검사와 오프라인 특성화가 하나의 워크플로우로 결합되는 방법을 보여줍니다. 전반부에서는 Intel의 Bitan Chakraborty 박사가 표면 스캔 계측이 어떻게 박막 도구용 스테이션 모니터에 적용되는지 설명합니다. 이 세션에서는 기본 시그니처와 실시간 모니터링을 통해 하드웨어 마모, 입자 생성 및 프로세스 드리프트가 생산 웨이퍼에 도달하기 전에 어떻게 나타나는지 보여줍니다. 그런 다음 패턴 웨이퍼에 대한 인라인 스캔으로 이동합니다. 이러한 스캔은 레이어 수준 결함을 노출하고 이러한 결함이 다층 장치 스택을 통해 어떻게 형성되고 확산되는지 보여줍니다. 이 결함 데이터를 전기 테스트 결과에 연결하면 팀이 근본 원인을 찾아 수율에 집중하는 데 도움이 됩니다.",
+    "summary": "첨단 반도체 제조에서는 작은 결함도 수율에 큰 영향을 미칠 수 있습니다. 박막 증착 도구는 안정적이고 자격을 갖춘 상태로 유지되어야 합니다. 프로세스 드리프트를 조기에 포착해야 합니다. 결함이 나타나면 엔지니어는 결함이 어디서 발생했는지, 장치 성능에 어떤 영향을 미치는지 알아야 합니다. 이 웨비나는 도구 모니터링부터 근본 원인 분석까지 인라인 검사와 오프라인 특성화가 하나의 워크플로로 결합되는 방법을 보여줍니다. 전반부에서는 Intel의 Bitan Chakraborty 박사가 표면 스캔 계측이 어떻게 박막 도구용 스테이션 모니터에 적용되는지 설명합니다. 이 세션에서는 기본 시그니처와 실시간 모니터링을 통해 하드웨어 마모, 입자 생성 및 프로세스 드리프트가 생산 웨이퍼에 도달하기 전에 어떻게 나타나는지 보여줍니다. 그런 다음 패턴 웨이퍼에 대한 인라인 스캔으로 이동합니다. 이러한 스캔은 레이어 수준 결함을 노출하고 이러한 결함이 다층 장치 스택을 통해 어떻게 형성되고 확산되는지 보여줍니다. 이 결함 데이터를 전기 테스트 결과에 연결하면 팀이 근본 원인을 찾아 수율에 집중하는 데 도움이 됩니다.",
     "source": "IEEE Spectrum · Semiconductors",
     "date": "2026-11-16",
     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
     "original_title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
-    "lang": "en"
-  },
-  "https://www.edie.net/apply-now-entries-open-for-the-edie-awards-2027/": {
-    "title": "지금 신청하세요: Edie Awards 2027 참가 신청이 시작되었습니다.",
-    "summary": "영국 최대의 기업 지속 가능성 시상식 제도는 AI, 물, 적응을 포함한 새로운 카테고리와 세 가지 핵심을 중심으로 구축된 재구성된 프로그램으로 20주년을 기념하고 있습니다. 1월 13일에 참가가 마감됩니다.",
-    "source": "edie (환경 비즈니스)",
-    "date": "2026-11-16",
-    "link": "https://www.edie.net/apply-now-entries-open-for-the-edie-awards-2027/",
-    "original_title": "Apply now: Entries open for the edie Awards 2027",
     "lang": "en"
   },
   "https://www.etnews.com/20261116000525": {
@@ -126,13 +207,76 @@
     "lang": "ko"
   },
   "https://www.power-technology.com/news/uk-canada-norway-10bn-partnership/": {
-    "title": "영국, 캐나다, 노르웨이가 100억 달러 규모의 기후 금융 파트너십에 합의",
+    "title": "영국, 캐나다, 노르웨이는 100억 달러 규모의 기후 금융 파트너십에 합의했습니다.",
     "summary": "영국, 노르웨이, 캐나다는 신흥 시장 프로젝트를 위해 2030년까지 100억 달러를 목표로 하는 기후 금융 이니셔티브를 시작합니다.",
     "source": "Water Technology",
     "date": "2026-11-16",
     "link": "https://www.power-technology.com/news/uk-canada-norway-10bn-partnership/",
     "original_title": "UK, Canada and Norway agree $10bn climate finance partnership",
     "lang": "en"
+  },
+  "https://www.etnews.com/20261116000319": {
+    "title": "마이크 켜진 줄 모르고…“XX 때문?” 호주 총리 '성적 농담' 방송 노출",
+    "summary": "앤서니 앨버니지 호주 총리가 국제회의 현장에서 마이크가 켜진 줄 모르고 자국 장관과 수위 높은 성적 농담을 주고받아 구설에 올랐다. 15일(현지시간) 호주 ABC방송에 따르면 앨버니지 총리는 지난 13일 튀르키예 안탈리아에서 개최된 유엔기후변화협약 당사국총회(COP31) 행사 도중 크리스 보언 기후변화·에너지부 장관과 비공식적인 대화를 나눴다. 대화는 휴대전화를 어디에 보관하는 것이 좋은지를 주제로 시작됐다. 앨버니지 총리가 “휴대전화를 가슴",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-16",
+    "link": "https://www.etnews.com/20261116000319",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261116000191": {
+    "title": "엠씨넥스, KCGS ESG 평가서 통합 'A등급' 획득",
+    "summary": "엠씨넥스는 한국ESG기준원(KCGS)이 발표한 2026년 ESG (환경·사회·지배구조) 평가에서 전년 대비 한단계 상승한 통합 'A등급'을 획득했다고 16일 밝혔다. KCGS는 매년 국내 상장기업의 지속가능경영 수준을 평가해 공표하는 국내 대표 ESG 평가기관이다. 엠씨넥스는 ESG 등급 평가에서 환경 'A등급', 사회 'A등급', 지배구조 'B+등급'을 획득했다. 특히 환경 부문은 전년 B등급에서 2단계 상승하며 환경경영체계 고도화 노력을 인",
+    "source": "전자신문 IT",
+    "date": "2026-11-16",
+    "link": "https://www.etnews.com/20261116000191",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261116/135029027/2": {
+    "title": "26일간 하루 쉬고 매일 12시간씩 조리… 식당 일하다 숨진 70대女 ‘산재’ 인정",
+    "summary": "26일 동안 하루만 쉬고 식당 주방에서 일하다 심정지로 숨진 70대 여성의 사망은 업무상 재해에 해당한다는 법원 판결이 나왔다. 장시간 서서 일하는 조리 업무를 충분히 쉬지 못한 채 이어가면서 심혈관계에 상당한 부담이 쌓였다고 본 것이다. 서울행정법원 행정7부(재판장 강우찬)는 최근 이 여성의 유족이 “유족급여와 장의비 지급을 거부한 처분을 취소해 달라”며 근로복지공단을 상대로 낸 소송에서 원고 승소 판결했다. 이 여성은 경기 여주시의 한 식당에서 약 18년간 재료 손질과 음식 조리를 맡았다. 오전 9시부터 오후 9시까지 하루 약 12시간을 식당에서 일했다. 숨지기 전에는 13일 연속 근무한 뒤 하루만 쉬고 다시 12일 연속으로 일한 것으로 조사됐다. 사망 당일 오전 7시 50분경 출근을 앞두고 자택 화장실에서 의식을 잃은 채 발견됐고, 이후 병원으로 옮겨졌으나 같은 날 오전 8시 35분 숨졌다. 병원에서 파악한 사인은 원인을 알 수 없는 심정지였다. 이에 유족은 “평소 일하",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-16",
+    "link": "https://www.donga.com/news/Society/article/all/20261116/135029027/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261115000185": {
+    "title": "투자 상담은 현장으로…이천시, 반도체 기업에 산업단지·교육시설 안내",
+    "summary": "경기 이천시는 최근 지역 밖 첨단·반도체 기업 13곳을 초청해 투자설명회를 열고 산업 현장을 안내했다고 15일 밝혔다. 행사에는 참가 기업 관계자를 비롯해 경기도와 경기도경제과학진흥원 관계자 등 21명이 참석했다. 이천시는 세미콘 코리아와 미국 세미콘 웨스트, 대만 세미콘 타이완 등 국내외 반도체 박람회에서 만난 기업에 이천의 투자 여건을 보여주기 위해 행사를 마련했다. 설명회에서는 공장 입지 여건과 투자 혜택, 기업 지원제도를 소개하고 기업별",
+    "source": "전자신문 IT",
+    "date": "2026-11-15",
+    "link": "https://www.etnews.com/20261115000185",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261113000212": {
+    "title": "“AI 불확실 우려에도 수요 견고”…SK하이닉스, HBM4 생산능력 더 키운다",
+    "summary": "SK하이닉스가 고대역폭메모리(HBM4) 생산 능력을 추가 확대한다. 엔비디아 최고경영자(CEO) 교체 등 인공지능(AI) 산업 불확실성이 커졌지만 핵심 인프라인 HBM 수요는 견고하다고 판단한 것으로 풀이된다. 회사는 HBM 패키징·테스트 중심으로 설비 투자를 단행, 내년 상반기 본격 가동할 계획이다. 15일 복수의 반도체 장비 업체 관계자에 따르면 SK하이닉스는 협력사와 HBM4 제조용 장비 구매 발주를 논의하고 있다. HBM 접합·절단·검사",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-15",
+    "link": "https://www.etnews.com/20261113000212",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261113000051": {
+    "title": "中 TCL, 중저가 넘어 고효율 TV '진격'…에너지 1등급 비율 삼성전자 추월",
+    "summary": "중국 TCL이 국내 시장에 에너지소비효율 1등급 TV를 대거 늘렸다. 중저가·가격 대비 성능(가성비) 중심에서 대형·고효율 TV로 외연을 확장, 삼성전자와 LG전자가 주도하는 국내 TV 시장 공략을 강화하기 위한 행보로 풀이된다. 한국에너지공단에 따르면 올해 10월까지 TCL코리아가 등록한 TV 54종 중 41종이 에너지소비효율 1등급을 획득했다. 1등급 TV는 전력 소비를 줄여 전기요금 부담을 낮출 수 있다는 장점이 있다. TCL코리아 1등급",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-15",
+    "link": "https://www.etnews.com/20261113000051",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.etnews.com/20261115000019": {
+    "title": "대한상의, COP31에 대표단 파견…탄소중립 혁신 성과 발표",
+    "summary": "대한상공회의소(대한상의)가 제31차 유엔기후변화협약 당사국총회(COP31)에 산업계 대표단을 파견, 한국 기업의 탄소중립 실천 성과를 국제 사회에 알린다. 대한상의는 튀르키예 안탈리아에서 열리는 COP31에서 성공적인 탄소중립 전환을 위한 현실적인 제도 개선을 건의할 예정이라고 15일 밝혔다. 탄소감축 우수 모델을 전파하고, 간담회를 통해 산업계 현안·정책 과제를 전달하는 등 적극적인 행보를 펼칠 방침이다. 파리협정 발효 10주년을 맞아 선진국",
+    "source": "전자신문 IT",
+    "date": "2026-11-15",
+    "link": "https://www.etnews.com/20261115000019",
+    "original_title": "",
+    "lang": "ko"
   },
   "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/": {
     "title": "HBM4 컨트롤러 기능을 메모리에 더 가깝게 이동(UC Riverside)",
@@ -141,6 +285,15 @@
     "date": "2026-11-14",
     "link": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/",
     "original_title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
+    "lang": "en"
+  },
+  "https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships": {
+    "title": "Applies Materials, VeritySEM 20 출시 EPIC 센터 파트너십에 인텔 추가",
+    "summary": "Applied Materials, Inc.(NASDAQ: AMAT)는 오늘 2026년 10월 25일에 종료된 회계연도 및 4분기 결과를 보고했습니다. 이 게시물은 Applies Materials에서 VeritySEM 20을 소개합니다. EPIC 센터 파트너십에 인텔을 추가합니다. Semiconductor Digest에 처음 등장했습니다.",
+    "source": "Semiconductor Digest",
+    "date": "2026-11-14",
+    "link": "https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships",
+    "original_title": "Applies Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships",
     "lang": "en"
   },
   "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/": {
@@ -152,13 +305,22 @@
     "original_title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
     "lang": "en"
   },
-  "https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships": {
-    "title": "어플라이드 머티어리얼즈, VeritySEM 20 출시 EPIC 센터 파트너십에 인텔 추가",
-    "summary": "Applied Materials, Inc.(NASDAQ: AMAT)는 오늘 2026년 10월 25일에 종료된 회계연도 및 4분기 결과를 보고했습니다. EPIC 센터 파트너십에 인텔을 추가합니다. Semiconductor Digest에 처음 등장했습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-11-14",
-    "link": "https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships",
-    "original_title": "Applied Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships",
+  "https://www.edie.net/the-climate-transition-isnt-stalling-but-cop31-must-focus-on-implementation-as-much-as-ambition/": {
+    "title": "기후 변화는 멈추지 않지만 COP31은 야망만큼 실행에 집중해야 합니다",
+    "summary": "지정학적 긴장과 경제적 압박이 글로벌 넷제로 전환을 시험함에 따라 넷제로 정책 태스크포스의 공동 의장인 헬레나 비네스 피에스타스(Helena Viñes Fiestas)는 COP31이 약속을 행동으로 옮기는 데 초점을 맞춰야 한다고 주장합니다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-13",
+    "link": "https://www.edie.net/the-climate-transition-isnt-stalling-but-cop31-must-focus-on-implementation-as-much-as-ambition/",
+    "original_title": "The climate transition isn’t stalling, but COP31 must focus on implementation as much as ambition",
+    "lang": "en"
+  },
+  "https://www.edie.net/uk-government-outlines-steps-for-businesses-to-participate-in-voluntary-carbon-markets/": {
+    "title": "영국 정부는 기업이 자발적 탄소 시장에 참여할 수 있는 단계를 개략적으로 설명합니다.",
+    "summary": "정부는 자발적 탄소 및 자연 시장 크레딧의 무결성을 높이는 것에 대한 협의에 대해 오랫동안 기다려온 답변을 발표했으며, 가치 사슬 탈탄소화를 돕기 위해 탄소 시장에 투자하려는 기업을 지원할 계획을 간략하게 설명했습니다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-13",
+    "link": "https://www.edie.net/uk-government-outlines-steps-for-businesses-to-participate-in-voluntary-carbon-markets/",
+    "original_title": "UK Government outlines steps for businesses to participate in voluntary carbon markets",
     "lang": "en"
   },
   "https://www.semiconductor-digest.com/teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection/?utm_source=rss&utm_medium=rss&utm_campaign=teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection": {
@@ -170,6 +332,78 @@
     "original_title": "Teledyne Vision Solutions Demonstrates Single-Pass 300mm Wafer Inspection",
     "lang": "en"
   },
+  "https://www.donga.com/news/Politics/article/all/20261113/135017908/2": {
+    "title": "충청서 ‘메가프로젝트’ 첫삽… 李 “호남-영남 투자도 차질없게”",
+    "summary": "이재명 대통령은 12일 충남 아산 삼성전자 온양캠퍼스를 찾아 “대한민국 산업 지도를 새롭게 바꿀 3개의 첨단 투자 사업이 힘차게 첫 삽을 뜨게 됐다”고 밝혔다. 이 대통령은 ‘3대 메가프로젝트’ 발표 넉 달여 만에 갖게 된 1호 착공식에서 호남 반도체클러스터 등 첨단산업 투자 전격전을 강조했다. 이 대통령은 이날 충청권 메가프로젝트 착공식 축사에서 “충청권뿐 아니라 호남권과 영남권의 모든 투자 계획들도 차질 없이 추진될 수 있도록 각종 인허가와 전력·용수 등 핵심 인프라 구축을 중앙정부와 지방정부가 원팀이 돼 끝까지 확실하게 책임지겠다”며 이같이 밝혔다. 삼성전자는 이날 총 46조 원을 투입하는 고대역폭메모리(HBM) 첨단 후공정(패키징) 공장인 ‘온양 5라인’ 건설에 착수하며 메가프로젝트 투자를 본격화했다. 당초 계획보다 1년 앞당긴 2028년 6월에 가동하겠다는 목표를 세웠다. 이 대통령은 “과감한 투자를 결정하고 신속한 집행력을 보여준 이재용 삼성전자 회장을 비롯한 삼",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-13",
+    "link": "https://www.donga.com/news/Politics/article/all/20261113/135017908/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Politics/article/all/20261113/135017520/2": {
+    "title": "李대통령 “신속한 투자 실행 감사” 이재용 “대한민국 도약 전기”",
+    "summary": "“과감한 투자와 신속한 실행력을 보여주신 회장님께 감사드립니다.”(이재명 대통령) “대통령님 리더십하에 국가 대도약 전기를 마련할 수 있을 것입니다.”(이재용 삼성전자 회장) 이 대통령과 이 회장은 12일 충남 아산시 삼성전자 온양캠퍼스 건설 현장에서 열린 ‘충청권 메가 프로젝트 착공식’에 참석해 이 같은 말을 주고받았다. 이 대통령과 이 회장이 만난 건 8월 비공개 만찬 회동 이후 약 3개월 만이다. 평소와 달리 안경을 쓰지 않은 이 회장은 이 대통령 왼편에서 첫 삽을 뜨는 세리머니도 함께했다. 이 회장은 환영사에서 “메가 프로젝트는 단순한 산업 전략이 아닌 대한민국 미래를 새로 그리는 역사적 도전이라고 생각한다”고 했다. 이 대통령은 이 회장 발언에 웃으며 박수를 쳤고 이어진 축사에서 이 회장에게 공개적으로 감사를 표했다. 행사에 참석한 충남대 소주원 학생이 “다음 주 삼성전자 면접 기회를 얻게 됐다”고 말하자 이 대통령과 이 회장이 나란히 앉아 환하게 웃는 장면이 포착",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-13",
+    "link": "https://www.donga.com/news/Politics/article/all/20261113/135017520/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261112/135008998/2": {
+    "title": "햇빛-바람으로 공장 돌린다… 빛그린산단, RE100 산단 추진",
+    "summary": "전남광주통합특별시 함평군이 빛그린국가산업단지를 재생에너지 자립도시 제1호로 지정받는 방안을 추진한다. 산업용지를 추가로 확보해 호남권 반도체 클러스터와 연계한 소재·부품·장비(소부장) 기업도 유치할 계획이다. 함평군은 빛그린산단의 재생에너지 자립도시 지정 및 산단 추가 확장 건의를 하고 있다고 11일 밝혔다. 군은 기업이 사용하는 전력을 100% 재생에너지로 충당하는 RE100 시범산단을 조성하고 이를 바탕으로 미래 차와 인공지능(AI), 반도체 관련 기업을 유치한다는 구상이다. 빛그린국가산단은 함평군 월야면과 광주특별시 광산구에 걸쳐 조성된 국가산업단지다. 전체 면적은 약 400만 m²로 이 가운데 함평 지역은 전체 면적의 54.7%인 약 220만 m²를 차지하고 있다. 금호타이어 등이 입주를 추진하고 있으며 함평군은 산업용지를 추가로 확보해 함평 쪽 산단을 330만 m² 규모로 확대할 방침이다. 빛그린국가산단 함평권역은 반도체산업의 핵심 입지 조건인 전력, 용수, 교통, 인",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-13",
+    "link": "https://www.donga.com/news/Society/article/all/20261112/135008998/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261112/135009008/2": {
+    "title": "반도체에 물 대는 화순 “반도체 소부장 기업도 유치해야”",
+    "summary": "전남광주통합특별시 화순군이 호남권 반도체 클러스터 조성에 발맞춰 반도체 소부장 기업 유치를 위한 기반 마련에 속도를 내고 있다. 반도체 제조공정에는 불순물을 제거한 초순수가 필수적으로 사용되며 이를 안정적으로 생산·공급하기 위해서는 좋은 물 확보가 중요하다. 호남권 반도체 클러스터의 산업용수 공급 계획이 동복댐 증축을 중심으로 추진되면서 화순은 수자원 공급원으로 주목받고 있다. 동복댐은 1971년부터 1985년까지 세 차례 증축했다. 현재 동복댐 높이는 44.7m, 길이는 188m로 유효 저수량은 9200만 t이다. 광주의 주요 식수원인 동복댐은 세 차례 증축으로 15개 마을, 796세대 주민 6000명이 이주하는 등 오랫동안 고통을 겪었다. 이런 상황에서 동복댐을 증축해 서남권 반도체 클러스터 용수로 하루 30만 t 공급하는 방안이 추진되고 있다. 동복댐 밑에 추가로 댐 1개를 신설할 경우 8개 마을 266가구가 추가 이주를 할 상황에 놓인다. 댐 상류는 상수원 규제로 개발",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-13",
+    "link": "https://www.donga.com/news/Society/article/all/20261112/135009008/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261112/135009014/2": {
+    "title": "원전-태양광-풍력 갖춘 영광, 반도체 소부장 거점 노린다",
+    "summary": "호남권 반도체 클러스터가 들어설 광주 군공항 부지 인근에는 전남광주통합특별시 광산구 송정동 영광통 사거리가 있다. ‘영광으로 가는 길목’이라는 뜻이다. 이곳에서 왕복 4차로인 국도 22호선을 따라 30km가량을 가면 영광군 묘량농공단지가 나온다. 묘량농공단지(약 4만 평)는 이미 조성을 마쳤다. 분양가는 평당 54만 원대다. 별도로 부지를 조성하는 기간을 줄일 수 있어 반도체 소재·부품·장비(소부장) 기업의 입지 후보로 꼽힌다. 영광군 관계자는 “영광은 호남권 반도체 클러스터와 접근성은 물론 에너지 도시라는 장점이 있다”고 말했다.햇빛·바람 에너지 기본소득 추진 영광군은 탄소중립 전환과 첨단산업의 성장으로 깨끗한 에너지의 중요성이 커지는 가운데 에너지 자원을 주민 소득과 산업 경쟁력, 일자리 창출로 연결해 미래 성장 동력으로 활용하는 전략을 추진하고 있다고 11일 밝혔다. 영광은 풍부한 원자력과 태양광·해상풍력 등 풍부한 에너지 자원을 활용해 지역경제 활성화에 나서고 있다.",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-13",
+    "link": "https://www.donga.com/news/Society/article/all/20261112/135009014/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.donga.com/news/Society/article/all/20261112/135009169/2": {
+    "title": "반도체 공정-장비 관리할 ‘실무 인재’ 키운다",
+    "summary": "동신대학교가 호남권 반도체 클러스터 조성에 발맞춰 반도체 팹 공정에서 핵심 역할을 수행할 실무형 전문 엔지니어 양성에 본격적으로 나선다. 동신대는 반도체 팹(Fab·제조공장)에서 요구되는 공정·장비·품질관리 분야 전문인력 양성에 역량을 집중하고 있다고 11일 밝혔다. 전남대와 광주과학기술원이 반도체 설계와 원천기술 연구인력 양성에 중점을 두고 있다면 동신대는 실무형 인재를 양성하는 데 주력하는 모양새다. 동신대는 2028학년도 반도체 관련 학과 신설을 추진한다. 학과 신설에 앞서 기존 학과의 전문성을 반도체 산업과 연계하는 특화·융합교육과정도 대폭 강화하고 있다. 전기공학과는 반도체 공정 교육과정을 개설해 전·후공정에 대한 전문성을 높인다. AI보안학과는 반도체 스마트팩토리 및 제조 공정의 산업 데이터 보안, AI 기반 불량 검출·이상 탐지 기술을 다루는 특화 과정을 운영한다. 미래에너지기술학부는 ‘AI에너지테크’ 융합전공과 ‘반도체그린인프라매니저’ 교육과정을 운영해 반도체 공",
+    "source": "동아일보 (사회/사고)",
+    "date": "2026-11-13",
+    "link": "https://www.donga.com/news/Society/article/all/20261112/135009169/2",
+    "original_title": "",
+    "lang": "ko"
+  },
+  "https://www.edie.net/can-cop31-fix-a-fragmented-and-disorderly-net-zero-transition/": {
+    "title": "COP31이 '분열되고 무질서한' 넷제로 전환을 고칠 수 있을까요?",
+    "summary": "COP31에서 Net Zero 정책 태스크포스는 G20 전체의 기후 정책이 정체된 것이 아니라 더욱 성숙하고 복잡해지고 경제적으로 추진되어 무질서하게 느껴진다는 새로운 주요 보고서를 발표했습니다. 여기에서 Edie는 정책이 순 제로 전환을 어떻게 촉진할 수 있는지에 대한 주요 권장 사항을 살펴봅니다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-12",
+    "link": "https://www.edie.net/can-cop31-fix-a-fragmented-and-disorderly-net-zero-transition/",
+    "original_title": "Can COP31 fix a ‘fragmented and disorderly’ net-zero transition?",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261112000473": {
+    "title": "[인사] 기후에너지환경부",
+    "summary": "◆기후에너지환경부 ◇과장급 전보 및 신규 보임 △수자원정책관 물관리총괄과장 김병훈 △ 전력산업정책관실 전력시장과장 홍수경 △ 재생에너지정책관실 태양광산업과장 이주형 △ 전력시장 제도기획단 부단장 김양지 △ 태양광 보급추진단 부단장 김태훈 △ 국립야생동물질병관리원 질병감시팀장 황의정 △ 금강유역환경청 환경관리국장 변상윤 △ 금강유역환경청 유역관리국장 김태연",
+    "source": "전자신문 IT",
+    "date": "2026-11-12",
+    "link": "https://www.etnews.com/20261112000473",
+    "original_title": "",
+    "lang": "ko"
+  },
   "https://airqualitynews.com/health/air-pollution-linked-to-higher-rates-of-eczema-in-children/?utm_source=rss&utm_medium=rss&utm_campaign=air-pollution-linked-to-higher-rates-of-eczema-in-children": {
     "title": "대기 오염은 어린이의 습진 발생률 증가와 관련이 있습니다.",
     "summary": "국제 연구에 대한 주요 검토에 따르면 높은 수준의 대기 오염에 노출된 어린이는 습진에 걸릴 가능성이 더 높으며 해당 상태에 대한 치료가 필요할 수 있다고 합니다. 이 연구는 17개국의 18세 미만 어린이를 대상으로 한 52개의 관찰 연구를 조사했습니다. 연구자들은 다양한 대기 오염 물질에 대한 노출이 아토피 […]",
@@ -178,6 +412,24 @@
     "link": "https://airqualitynews.com/health/air-pollution-linked-to-higher-rates-of-eczema-in-children/?utm_source=rss&utm_medium=rss&utm_campaign=air-pollution-linked-to-higher-rates-of-eczema-in-children",
     "original_title": "Air pollution linked to higher rates of eczema in children",
     "lang": "en"
+  },
+  "https://www.edie.net/from-costly-to-accessible-how-the-barriers-to-commercial-solar-are-coming-down/": {
+    "title": "비용이 많이 드는 것에서 접근 가능한 것으로: 상업용 태양광에 대한 장벽이 어떻게 무너지는가",
+    "summary": "British Gas Business의 제안 개발자인 Olivia Hollis는 상업용 태양광 채택이 영국 기업에 필수적인 에너지 안보와 탈탄소화를 제공할 준비가 되어 있다고 설명합니다. 전통적인 재정 및 운영 장벽이 빠르게 무너져 더 광범위한 조직이 그 혜택을 누릴 수 있게 되기 때문입니다.",
+    "source": "edie (환경 비즈니스)",
+    "date": "2026-11-12",
+    "link": "https://www.edie.net/from-costly-to-accessible-how-the-barriers-to-commercial-solar-are-coming-down/",
+    "original_title": "From costly to accessible: How the barriers to commercial solar are coming down",
+    "lang": "en"
+  },
+  "https://www.etnews.com/20261112000280": {
+    "title": "[22회 스마트금융컨퍼런스]정현경 뮤직카우 의장 “K팝 팬덤, 음악증권 투자 길 연다”",
+    "summary": "정현경 뮤직카우 의장이 K팝 팬덤을 한국 자본시장으로 끌어들일 투자상품으로 음악증권을 제시했다. 해외 팬이 좋아하는 곡의 저작권 수익에 투자하고, 이를 계기로 국내 금융 플랫폼에서 다른 투자상품까지 접하도록 하자는 구상이다. 정 의장은 12일 서울 여의도 FKI타워에서 열린 '제22회 스마트금융 컨퍼런스'에서 '대체자산을 넘어 대세자산으로'를 주제로 이 같은 전략을 소개했다. 방탄소년단(BTS)과 블랙핑크 등으로 대표되는 K팝의 글로벌 팬덤을",
+    "source": "전자신문 (전체)",
+    "date": "2026-11-12",
+    "link": "https://www.etnews.com/20261112000280",
+    "original_title": "",
+    "lang": "ko"
   },
   "https://semiengineering.com/rethinking-memory-for-ai-inference/": {
     "title": "AI 추론을 위한 메모리 재고",
@@ -195,33 +447,6 @@
     "date": "2026-11-12",
     "link": "https://semiengineering.com/beyond-bandwidth-ai-inference-is-reshaping-the-memory-wall/",
     "original_title": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/acm-research-enhances-single-wafer-hot-spm-system-with-sulfuric-acid-recycle-capability/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-enhances-single-wafer-hot-spm-system-with-sulfuric-acid-recycle-capability": {
-    "title": "ACM 연구, 황산 재활용 기능으로 단일 웨이퍼 핫 SPM 시스템 강화",
-    "summary": "새로운 기능은 엄격한 입자 제어를 유지하면서 70%의 황산 재활용률을 제공합니다. 한 파운드리 고객의 50개 이상의 프로세스 계층에서 시스템이 검증되었습니다. ACM 연구에서 황산 재활용 기능으로 단일 웨이퍼 핫 SPM 시스템을 강화한 포스트가 Semiconductor Digest에 처음 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-11-11",
-    "link": "https://www.semiconductor-digest.com/acm-research-enhances-single-wafer-hot-spm-system-with-sulfuric-acid-recycle-capability/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-enhances-single-wafer-hot-spm-system-with-sulfuric-acid-recycle-capability",
-    "original_title": "ACM Research Enhances Single-Wafer Hot SPM System with Sulfuric Acid Recycle Capability",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/the-next-level-of-efficiency-in-chip-manufacturing-is-taking-shape-below-the-cleanroom/?utm_source=rss&utm_medium=rss&utm_campaign=the-next-level-of-efficiency-in-chip-manufacturing-is-taking-shape-below-the-cleanroom": {
-    "title": "칩 제조의 다음 단계 효율성은 클린룸 아래에서 구체화됩니다.",
-    "summary": "Subfab NetZero를 통해 DAS Environmental Experts는 배출 및 운영 비용을 줄이기 위한 전체적인 접근 방식을 도입합니다. NOx 처리를 위한 새로운 ALCEA 폐가스 저감 시스템은 회사의 포트폴리오를 확장합니다. 대만의 반도체 제조업체에서는 이미 첫 번째 설치가 이루어졌습니다. 칩 제조의 차세대 효율성이 클린룸 아래에서 구체화되고 있다는 게시물이 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-11-11",
-    "link": "https://www.semiconductor-digest.com/the-next-level-of-efficiency-in-chip-manufacturing-is-taking-shape-below-the-cleanroom/?utm_source=rss&utm_medium=rss&utm_campaign=the-next-level-of-efficiency-in-chip-manufacturing-is-taking-shape-below-the-cleanroom",
-    "original_title": "The Next Level of Efficiency in Chip Manufacturing Is Taking Shape Below the Cleanroom",
-    "lang": "en"
-  },
-  "https://www.semiconductor-digest.com/cea-leti-launches-subfab-labs-with-isrl-to-speed-adoption-of-lower-impact-chip-manufacturing-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-launches-subfab-labs-with-isrl-to-speed-adoption-of-lower-impact-chip-manufacturing-technologies": {
-    "title": "CEA-Leti, 저영향 칩 제조 기술 채택 속도를 높이기 위해 ISRL을 갖춘 SubFAB 연구소 설립",
-    "summary": "CEA-Leti는 오늘 ISRL(International SubFAB Research Labs)과의 공동 프로그램인 SubFAB Labs를 출시했습니다. 이 프로그램은 반도체 산업에 칩 제조가 환경에 미치는 영향을 줄이는 기술을 테스트, 검증 및 검증할 수 있는 산업화 이전 환경을 제공합니다. CEA-Leti가 저영향 칩 제조 기술 채택을 가속화하기 위해 ISRL을 갖춘 SubFAB 연구소를 설립한 포스트가 Semiconductor Digest에 처음으로 게재되었습니다.",
-    "source": "Semiconductor Digest",
-    "date": "2026-11-11",
-    "link": "https://www.semiconductor-digest.com/cea-leti-launches-subfab-labs-with-isrl-to-speed-adoption-of-lower-impact-chip-manufacturing-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-launches-subfab-labs-with-isrl-to-speed-adoption-of-lower-impact-chip-manufacturing-technologies",
-    "original_title": "CEA-Leti Launches SubFAB Labs with ISRL to Speed Adoption of Lower-Impact Chip Manufacturing Technologies",
     "lang": "en"
   }
 }
